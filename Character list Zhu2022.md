@@ -6,11 +6,11 @@ _Skeletal tissues_
 
 Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis et al. (2012), Character 1; Giles et al. (2015), Character 1; Choo et al. (2017), Character 1; King et al. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. et al. (2022), Character 1.
 
-1. Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
+2. Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 Maisey (2001), Character 17; Pradel et al. (2011), Character 0; Giles et al. (2015), Character 2; Choo et al. (2017), Character 253; King et al. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. et al. (2022), Character 2.
 
-1. Extensive calcified cartilage: (0) absent; (1) present.
+3. Extensive calcified cartilage: (0) absent; (1) present.
 
 Coates et al. (2018), Character 4; Zhu Y. et al. (2022), Character 3.
 
@@ -90,7 +90,7 @@ Zhu et al. (2009, Character 148), and references therein; Zhu et al. (2013), Cha
 
 Zhu Y. et al. (2021), Character 17; Zhu Y. et al. (2022), Character 21.
 
-Score changed from 1 to – for Galeaspida, from 2 to – for _Eusthenopteron_.
+Score changed from 1 to â€“ for Galeaspida, from 2 to â€“ for _Eusthenopteron_.
 
 1. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal.
 
@@ -660,7 +660,7 @@ Zhu et al. (2013), Character 162; Choo et al. (2017), Character 171; King et al.
 
 Zhu Y. et al. (2022), Character 155.
 
-We exclude the median paranuchal plate from the parachal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., _Romundina_, _Arabosteus_ (Olive et al., 2011) and _Sudaspis_ (Vaškaninová and Ahlberg, 2017). (Zhu Y. et al., 2022)
+We exclude the median paranuchal plate from the parachal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., _Romundina_, _Arabosteus_ (Olive et al., 2011) and _Sudaspis_ (VaÅ¡kaninovÃ¡ and Ahlberg, 2017). (Zhu Y. et al., 2022)
 
 1. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
@@ -2312,7 +2312,7 @@ Brazeau (2009); Davis et al. (2012), Character 101; Choo et al. (2017), Characte
 
 Giles et al. (2015), Character 176; Choo et al. (2017), Character 304; King et al. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. et al. (2022), Character 554.
 
-In petalichthyids such as _Macropetalichthys_, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of _Lunaspis_ is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate. (Giles et al., 2015)
+In petalichthyids such as _Macropetalichthys_, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (StensiÃ¶, 1969; Young, 1978). Although the endocranium of _Lunaspis_ is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. StÃ¼rmer (SMF WS 10825) of an isolated skull from the HunsrÃ¼ck Slate. (Giles et al., 2015)
 
 1. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
