@@ -89,7 +89,6 @@
 21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
 
     Zhu Y. et al. (2021), Character 17; Zhu Y. et al. (2022), Character 21.
-
     Score changed from 1 to – for Galeaspida, from 2 to – for *Eusthenopteron*.
 
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal.
