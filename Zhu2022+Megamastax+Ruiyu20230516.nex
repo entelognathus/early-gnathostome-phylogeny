@@ -1,5 +1,5 @@
 #NEXUS
-[written Tue May 16 13:42:25 CST 2023 by Mesquite  version 3.61 (build 927) at user-PC/192.168.199.184]
+[written Fri May 19 13:54:03 CST 2023 by Mesquite  version 3.61 (build 927) at user-PC/192.168.199.184]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -354,7 +354,7 @@ BEGIN CHARACTERS;
 		336 _Autopalatine_and_quadrate /  comineralized separate_mineralizations,
 		337 Palatoquadrate_fused_with_neurocranium /  absent present,
 		338 Contact_between_palatoquadrate_and_dermal_cheek_bones_ /  continuous_contact_of_metapterygoid_and_autopalatine metapterygoid_and_autopalatine_contacts_separated_by_gap_between_commissural_lamina_of_palatoquadrate_and_cheek_bones,
-		339 ' Position of upper mandibular arch cartilage (and associated cheek plate where present)' /  entirely_suborbital with_a_postorbital_extension,
+		339 'Position of upper mandibular arch cartilage (and associated cheek plate where present)' /  entirely_suborbital with_a_postorbital_extension,
 		340 Scalloped_oral_margin_on_Meckel?s_cartilage_and_palatoquadrate /  absent present,
 		341 Mandibular_symphysis_fused /  absent present,
 		342 Pronounced_dorsal_process_on_Meckelian_bone_or_cartilage /  absent present,
@@ -549,7 +549,7 @@ BEGIN CHARACTERS;
 		531 Bulbous_otic_and_auxiliary_condyles_for_palatoquadrate_articulation /  absent present,
 		532 Basal_fenestra_opening_into_floor_of_orbit /  absent present,
 		533 Nasal_sacs /  unpaired paired,
-		534 4_carotid_foramina_in_parashpenoid /  absent present,
+		534 4_Carotid_foramina_in_parashpenoid /  absent present,
 		535 Parotic_dental_plates /  absent present,
 		536 Branchial_ridges /  present reduced_to_vagal_process 'absent (articulation made with bare cranial wall)',
 		537 Periotic_process /  absent present,
@@ -20111,7 +20111,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1684215745775;
+		timeSaved 1684475643961;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 8464539481286941188;
@@ -20141,7 +20141,7 @@ Begin MESQUITE;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
 			setSize 1920 961;
-			setLocation -3848 -603;
+			setLocation 0 0;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -20165,7 +20165,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 1920 889;
-					setLocation -3848 -603;
+					setLocation 0 0;
 					setFont SanSerif;
 					setFontSize 18;
 					getToolPalette;
@@ -20200,14 +20200,13 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 1920 889;
-					setLocation -3848 -603;
+					setLocation 0 0;
 					setFont Arial;
 					setFontSize 18;
 					getToolPalette;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
 					endTell;
-					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
 					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
 				tell It;
@@ -20274,13 +20273,14 @@ Begin MESQUITE;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
 						setSize 1920 889;
-						setLocation -3848 -603;
+						setLocation 0 0;
 						setFont SanSerif;
 						setFontSize 18;
 						getToolPalette;
 						tell It;
 							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
 						endTell;
+						setActive;
 						rowsAreCharacters on;
 						toggleConstrainChar on;
 						toggleConstrainCharNum 3;
@@ -20337,7 +20337,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 1920 889;
-					setLocation -3848 -603;
+					setLocation 0 0;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
