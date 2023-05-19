@@ -25,7 +25,6 @@
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
     King et al. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. et al. (2022), Character 6.
-
     Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating et al., 2015).
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
