@@ -168,7 +168,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Jagorina pandora*, upper Frasnian (Stensiö, 1969; Young, 1986)
 
-*Janusiscus schultzei*, middle Lockhovian (Giles et al., 2015c)
+*Janusiscus schultzei*, middle Lockhovian (Schultze, 1992; Giles et al., 2015c)
 
 *Kansasiella eatoni*, upper Pennsylvanian (Poplin, 1975)
 
@@ -778,6 +778,8 @@ Sallan, L. C. and Coates, M. I., 2010. End-Devonian extinction and a bottleneck 
 Schaeffer, B., 1981. The xenacanth shark neurocranium, with comments on elasmobranch monophyly. *Bull. Am. Mus. Nat.* **169**: 1–66.
 
 Schultze, H.-P., 1968. Palaeoniscoidea-schuppen aus dem Unterdevon Australiens und Kansas und aus dem Mitteldevon Spitzbergens. *Bull. Br. Mus. Nat. Hist. Geol.* **16**: 343–368.
+
+Schultze, H.-P. 1992 Early Devonian actinoptergians (Osteichthyes, Pisces) from Siberia. In *Fossil Fishes as Living Animals* (ed. E. Mark-Kurik), pp. 233-242. Tallinn, Academy of Sciences of Estonia.
 
 Schultze, H.-P. and Cumbaa, S. L., 2001. *Dialipina* and the characters of basal actinopterygians. In: P. E. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor & Francis, London, pp. 315–332.
 
