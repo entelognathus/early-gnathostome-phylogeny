@@ -1,5 +1,7 @@
 **List of taxa, geological time, and references in Zhu et al. (2022)**
 
+New taxa and references added along with the research.
+
 *Acanthodes bronni*, Sakmarian to Asselian (BrazeauM and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
 *Aceraspis robustus*, upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
@@ -298,7 +300,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Shearsbyaspis oepiki*, Emsian (Castiello, 2018; Young, 1985)
 
-**Shenacanthus vermiformis**, Telychian, this paper
+*Shenacanthus vermiformis*, Telychian (Zhu Y. et al., 2022)
 
 *Shuyu zhejiangensis*, middle to upper Telychian (Gai et al., 2011)
 
@@ -344,7 +346,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Wuttagoonaspis fletcheri*, Emsian to Eifelian (Ritchie, 1973)
 
-**Xiushanosteus mirabilis***,* Telychian, this paper
+*Xiushanosteus mirabilis*, Telychian (Zhu Y. et al., 2022)
 
 *Youngolepis praecursor*, upper Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
 
@@ -352,7 +354,8 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Zenaspis salweyi*, Lochkovian (Stensiö, 1932)
 
-**Supplementary References**
+
+**References**
 
 Ahlberg, P. E., 1989. Paired fin skeletons and relationships of the fossil group Porolepiformes (Osteichthyes: Sarcopterygii). *Zool. J. Linn. Soc.* **96**: 119–166.
 
@@ -901,6 +904,8 @@ Zhu, M., Yu, X.-B., Choo, B., Wang, J.-Q. and Jia, L.-T., 2012. An antiarch plac
 Zhu, M., Zhao, W.-J., Jia, L.-T., Lu, J., Qiao, T. and Qu, Q.-M., 2009. The oldest articulated osteichthyan reveals mosaic gnathostome characters. *Nature* **458**: 469–474.
 
 Zhu, Y.-A., Giles, S., Young, G. C., Hu, Y.-Z., Bazzi, M., Ahlberg, P. E., Zhu, M. and Lu, J., 2021. Endocast and bony labyrinth of a Devonian "placoderm" challenges stem gnathostome phylogeny. *Curr. Biol.* **31**: 1112–1118.e4
+
+Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, Y., Ahlberg, P.E., et al. 2022 The oldest complete jawed vertebrates from the early Silurian of China. *Nature* **609**, 954-958. (doi:10.1038/s41586-022-05136-8).
 
 Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
 
