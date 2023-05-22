@@ -3015,12 +3015,11 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 > Character 71; King et al. (2017), Character 35; Castiello (2018),
 > Character 35; Zhu Y. et al. (2022), Character 447.
 
-448. Position of hyomandibula articulation on neurocranium: (0)
-     absent; (1) present.
+448. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 
-> Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010);
-> Davis et al. (2012), Character 95; Choo et al. (2017), Character 76;
-> Zhu Y. et al. (2022), Character 448.
+> Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
+
+> Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process."
 
 449. Articulation facet with hyomandibular: (0) single-headed; (1)
      double-headed.
