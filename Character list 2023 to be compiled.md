@@ -329,10 +329,9 @@ Character 37.
 
 50. Anterodorsal process on scale: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 140), and references therein; Zhu et al.
-> (2013), Character 144; Giles et al. (2015), Character 20; Choo et al.
-> (2017), Character 139; King et al. (2017), Character 493; Castiello
-> (2018), Character 482; Zhu Y. et al. (2022), Character 50.
+> Zhu *et al.* (2009, Character 140), and references therein; Zhu et al. (2013), Character 144; Giles et al. (2015), Character 20; Choo et al. (2017), Character 139; King et al. (2017), Character 493; Castiello (2018), Character 482; Zhu Y. et al. (2022), Character 50.
+
+> Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
 
 51. Anterodorsal process and peg: (0) separated; (1) confluent.
 
@@ -2457,8 +2456,8 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 
 > Coates et al. (2018), Character 76; Zhu Y. et al. (2022), Character
 > 370.
-> 
-> *Neurocranium*
+
+ *Neurocranium*
 
 371. Endoskeletal intracranial joint: (0) absent; (1) present.
 
@@ -2477,16 +2476,11 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 
 373. Ventral cranial fissure: (0) absent; (1) present.
 
-> Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002);
-> Brazeau (2009), Character 92; Davis et al. (2012), Character 96; Giles
-> et al. (2015), Character 168; Choo et al. (2017), Character 92. King
-> et al. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. et
-> al. (2022), Character 373.
->
-> Davis et al. (2012): Coding for *Homalacanthus* adopted from Brazeau
-> (2009); see also Gagnier (1996). Unexpectedly, in the context of a
-> holocephalan chondrocranium, there is evidence of a ventral fissure in
-> *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1.
+> Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis et al. (2012), Character 96; Giles et al. (2015), Character 168; Choo et al. (2017), Character 92. King et al. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. et al. (2022), Character 373.
+
+> Davis et al. (2012): Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1.
+
+> Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
 
 374. Metotic (otic-occipital) fissure: (0) absent; (1) present.
 
