@@ -572,8 +572,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Giles et al. (2015), Character 42; Choo et al. (2017), Character 270; King et al. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. et al. (2021), Character 41; Zhu Y. et al. (2022), Character 134.
 
-> Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute
- to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character. (Giles et al., 2015)
+> Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character. (Giles et al., 2015)
 
 135. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
@@ -667,19 +666,13 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Zhu et al. (2013), Character 165; Choo et al. (2017), Character 174; Zhu Y. et al. (2022), Character 156.
 
-157. Medial processes of paranuchal wrapping posterolateral corners of
-     nuchal plate: (0) absent; (1) present; (2) paranuchals precluded
-     from nuchal by central or median paranuchal.
+157. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: (0) absent; (1) present; (2) paranuchals precluded from nuchal by central or median paranuchal.
 
-> Giles et al. (2015), Character 50; Choo et al. (2017), Character 275;
-> King et al. (2017), Character 211; Castiello (2018), Character 210;
-> Zhu Y. et al. (2022), Character 157.
+> Giles et al. (2015), Character 50; Choo et al. (2017), Character 275; King et al. (2017), Character 211; Castiello (2018), Character 210; Zhu Y. et al. (2022), Character 157.
 
-158. Posterior projection on posterior paranuchal plate: (0) absent; (1)
-     present.
+158. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 
-> Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu
-> Y. et al. (2022), Character 158.
+> Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. et al. (2022), Character 158.
 
 159. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
@@ -693,114 +686,71 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 161. Westoll-lines: (0) absent; (1) present.
 
-> Zhu Y. et al. (2021), Character 237; King et al. (2017), Character
-> 268; Castiello 2018 Character 262; Zhu Y. et al. (2022), Character
-> 161.
+> Zhu Y. et al. (2021), Character 237; King et al. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. et al. (2022), Character 161.
 
-162. Anteriorly directed adductor fossae between neurocranium and skull
-     roof: (0) absent; (1) present.
+162. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
-> Zhu Y. et al. (2021), Character 250; Zhu Y. et al. (2022), Character
-> 162.
+> Zhu Y. et al. (2021), Character 250; Zhu Y. et al. (2022), Character 162.
 
 163. Anterior pit line of dermal skull roof: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 34; Choo et al. (2017), Character 267;
-> King et al. (2017), Character 302; Castiello (2018), Character 293;
-> Zhu Y. et al. (2022), Character 163.
+> Giles et al. (2015), Character 34; Choo et al. (2017), Character 267; King et al. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. et al. (2022), Character 163.
 
-164. Position of anterior pit-line: (0) on paired median skull roofing
-     bones over the otico-occipital division of braincase; (1) on paired
-     median skull roofing bones over the sphenoid division of braincase.
+164. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
-> Zhu *et al.* (2009, Character 106), and references therein; Zhu et al.
-> (2013), Character 184; Choo et al. (2017), Character 189; King et al.
-> (2017), Character 287; Castiello (2018), Character 279; Zhu Y. et al.
-> (2022), Character 164.
+> Zhu *et al.* (2009, Character 106), and references therein; Zhu et al. (2013), Character 184; Choo et al. (2017), Character 189; King et al. (2017), Character 287; Castiello (2018), Character 279; Zhu Y. et al. (2022), Character 164.
 
-165. Middle and posterior pit-lines on postparietal: (0) posteriorly
-     situated; (1) mesially situated.
+165. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
-> Zhu *et al.* (2009, Character 107), and references therein; Zhu et al.
-> (2013), Character 185; Choo et al. (2017), Character 190; King et al.
-> (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al.
-> (2022), Character 165.
+> Zhu *et al.* (2009, Character 107), and references therein; Zhu et al. (2013), Character 185; Choo et al. (2017), Character 190; King et al. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. et al. (2022), Character 165.
 
-166. Position of middle and posterior pit lines: (0) close to
-     midline; (1) near the central portion of each postparietal.
+166. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
-> Zhu *et al.* (2009, Character 108), and references therein; Zhu et al.
-> (2013), Character 186; Choo et al. (2017), Character 191; King et al.
-> (2017), Character 289; Castiello (2018), Character 281; Zhu Y. et al.
-> (2022), Character 166.
+> Zhu *et al.* (2009, Character 108), and references therein; Zhu et al. (2013), Character 186; Choo et al. (2017), Character 191; King et al. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. et al. (2022), Character 166.
 
-167. Junction of posterior pitline and main lateral line: (0) far in
-     front of posterior margin of skull roof; (1) close to posterior
-     margin of skull roof.
+167. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
-> Zhu et al. (2013), Character 166; Choo et al. (2017), Character 175;
-> Zhu Y. et al. (2022), Character 167.
+> Zhu et al. (2013), Character 166; Choo et al. (2017), Character 175; Zhu Y. et al. (2022), Character 167.
 
 168. Ethmoid commissure: (0) absent; (1) present.
 
 > Castiello (2018), Character 311; Zhu Y. et al. (2022), Character 168.
 
-169. Ethmoid commissure fused into midline canal: (0) absent; (1)
-     present.
+169. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
-> King et al. (2017), Character 320; Castiello (2018), Character 312;
-> Zhu Y. et al. (2022), Character 169.
+> King et al. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. et al. (2022), Character 169.
 
-170. Course of ethmoid commissure: (0) middle portion through median
-     rostral; (1) sutural course; (2) through bone center of
-     premaxillary.
+170. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
-> Zhu *et al.* (2009, Character 105), and references therein; Zhu et al.
-> (2013), Character 183; Choo et al. (2017), Character 188; King et al.
-> (2017), Character 286; Castiello (2018), Character 278; Zhu Y. et al.
-> (2022), Character 170.
+> Zhu *et al.* (2009, Character 105), and references therein; Zhu et al. (2013), Character 183; Choo et al. (2017), Character 188; King et al. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. et al. (2022), Character 170.
 
 171. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
-> Choo et al. (2017), Character 198; King et al. (2017), Character 296;
-> Castiello (2018), Character 287; Zhu Y. et al. (2022), Character 171.
+> Choo et al. (2017), Character 198; King et al. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. et al. (2022), Character 171.
 
 172. Postmarginal canal: (0) absent; (1) present.
 
-> King et al. (2017), Character 315; Castiello (2018), Character 306;
-> Zhu Y. et al. (2022), Character 172.
+> King et al. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. et al. (2022), Character 172.
 
-173. Postmarginal line issued from main lateral line: (0) on marginal or
-     supratemporal; (1) on anterior paranuchal or tabular.
+173. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
-> Zhu et al. (2016), Character 349; Zhu Y. et al. (2021), Character 315;
-> Zhu Y. et al. (2022), Character 173.
+> Zhu et al. (2016), Character 349; Zhu Y. et al. (2021), Character 315; Zhu Y. et al. (2022), Character 173.
 
 174. Central sensory line: (0) absent; (1) present.
 
-> Zhu et al. (2016), Character 350; Zhu Y. et al. (2021), Character 316;
-> King et al. (2017), Character 312; Castiello (2018), Character 303;
-> Zhu Y. et al. (2022), Character 174.
+> Zhu et al. (2016), Character 350; Zhu Y. et al. (2021), Character 316; King et al. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. et al. (2022), Character 174.
 
 175. Supraorbital sensory canals: (0) absent; (1) present.
 
-> King et al. (2017), Character 307; Castiello (2018), Character 299;
-> Zhu Y. et al. (2022), Character 175.
+> King et al. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. et al. (2022), Character 175.
 
-176. Course of supraorbital canal: (0) between anterior and posterior
-     nostrils; (1) anterior to both nostrils.
+176. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
-> Zhu *et al.* (2009, Character 109), and references therein; Zhu et al.
-> (2013), Character 187; Choo et al. (2017), Character 192; King et al.
-> (2017), Character 290; Castiello (2018), Character 282; Zhu Y. et al.
-> (2022), Character 176.
+> Zhu *et al.* (2009, Character 109), and references therein; Zhu et al. (2013), Character 187; Choo et al. (2017), Character 192; King et al. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. et al. (2022), Character 176.
 
 177. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
-> Zhu *et al.* (2009, Character 110), and references therein; Zhu et al.
-> (2013), Character 188; Choo et al. (2017), Character 193; King et al.
-> (2017), Character 291; Castiello (2018), Character 283; Zhu Y. et al.
-> (2022), Character 177.
+> Zhu *et al.* (2009, Character 110), and references therein; Zhu et al. (2013), Character 188; Choo et al. (2017), Character 193; King et al. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. et al. (2022), Character 177.
 
 178. Posterior end of supraorbital canal: (0) in postparietal
      (central); (1) in parietal (preorbital); (2) in intertemporal; (3)
