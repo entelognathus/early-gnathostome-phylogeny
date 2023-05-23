@@ -1019,11 +1019,11 @@ Zhu Y. et al. (2022), Character 150.
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu
 > Y. et al. (2022), Character 158.
 
-159. Canal-bearing bone of skull roof extends far past posterior margin
-     of parietals: (0) no; (1) yes.
+159. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
-> Choo et al. (2017), Character 325; Lu et al. (2017), Character 238;
-> Castiello (2018), Character 185; Zhu Y. et al. (2022), Character 159.
+> Lu et al. (2017), Character 238; Choo et al. (2017), Character 325; Castiello (2018), Character 185; Zhu Y. et al. (2022), Character 159.
+
+> Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu et al. (2016) to be one of the key character uniting actinopterygians."
 
 160. Extratemporal: absent (0), present (1).
 
