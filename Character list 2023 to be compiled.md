@@ -3008,53 +3008,35 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 448. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 
-> Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
+> Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 95; Choo et al. (2017), Character 76; Zhu Y. et al. (2021), Character 157; Zhu Y. et al. (2022), Character 448.
 
-> Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process."
+> Davis et al. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo et al. (2017), Character 76; Zhu Y. et al. (2022), Character 448.
 
-449. Articulation facet with hyomandibular: (0) single-headed; (1)
-     double-headed.
+449. Articulation facet with hyomandibular: (0) single-headed; (1) double-headed.
 
-> Zhu *et al.* (2009, Character 44) and references therein; Zhu et al.
-> (2013), Character 227; Giles et al. (2015), Character 155; Choo et al.
-> (2017), Character 150; King et al. (2017), Character 63; Castiello
-> (2018), Character 65; Zhu Y. et al. (2022), Character 449.
+> Zhu *et al.* (2009, Character 44) and references therein; Zhu et al. (2013), Character 227; Giles et al. (2015), Character 155; Choo et al. (2017), Character 150; King et al. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. et al. (2022), Character 449.
 
-450. Position of hyomandibula articulation on neurocranium: (0) below or
-     anterior to orbit, on ventrolateral angle of braincase; (1) on otic
-     capsule, posterior to orbit.
+450. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) on otic capsule, posterior to orbit.
 
-> Zhu Y. et al. (2021), Character 157; Zhu Y. et al. (2022), Character
-> 450.
+> Zhu Y. et al. (2022), Character 450.
 
-451. Position of hyomandibula articulation relative to structure of
-     skeletal labyrinth: (0) anterior or lateral to skeletal
-     labyrinth; (1) at level of posterior semicircular canal.
+> This character replicates Character 448 of Zhu Y. et al. (2022), and should be deleted in later analysis. 
 
-> Zhu Y. et al. (2021), Character 158; Zhu Y. et al. (2022), Character
-> 451.
+451. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
+     
+> Zhu Y. et al. (2021), Character 158; Zhu Y. et al. (2022), Character 451.
 
-452. Hyomandibula articulates with neurocranium beneath otic shelf: (0)
-     absent; (1) present.
+452. Hyomandibula articulates with neurocranium beneath otic shelf: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 162; Zhu Y. et al. (2022), Character
-> 452.
+> Coates et al. (2018), Character 162; Zhu Y. et al. (2022), Character 452.
 
-453. Hyoid arch articulation: (0) on lateral commissure; (1) on otic
-     capsule wall.
+453. Hyoid arch articulation: (0) on lateral commissure; (1) on otic capsule wall.
 
-> Brazeau (2009, Character 90), Zhu et al. (2009, Character 45), and
-> references therein, Friedman & Brazeau (2010, Character 8); Zhu et al.
-> (2013), Character 228; Choo et al. (2017), Character 223; Zhu Y. et
-> al. (2022), Character 453.
+> Brazeau (2009, Character 90), Zhu et al. (2009, Character 45), and references therein, Friedman & Brazeau (2010, Character 8); Zhu et al. (2013), Character 228; Choo et al. (2017), Character 223; Zhu Y. et al. (2022), Character 453.
 
-454. Relative position of jugular groove and hyomandibular
-     articulation: (0) hyomandibula dorsal or same level (i.e. on
-     bridge); (1) jugular vein passing dorsal or lateral to
-     hyomandibula.
+454. Relative position of jugular groove and hyomandibular articulation: (0) hyomandibula dorsal or same level (i.e. on bridge); (1) jugular vein passing dorsal or lateral to hyomandibula.
 
-> Choo et al. (2017), Character 324; Zhu Y. et al. (2022), Character
-> 454.
+> Choo et al. (2017), Character 324; Zhu Y. et al. (2022), Character 454.
 
 455. Hyomandibular facets where they straddle the jugular vein: (0)
      narrowly separated; (1) widely separated.
