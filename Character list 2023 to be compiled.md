@@ -4,18 +4,11 @@
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
 
-> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis et al.
-> (2012), Character 1; Giles et al. (2015), Character 1; Choo et al.
-> (2017), Character 1; King et al. (2017), Character 1; Castiello (2018),
-> Character 1; Zhu Y. et al. (2022), Character 1.
+> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis et al. (2012), Character 1; Giles et al. (2015), Character 1; Choo et al. (2017), Character 1; King et al. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. et al. (2022), Character 1.
 
-2.  Prismatic calcified cartilage: (0) single layered; (1)
-    multi-layered.
+2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
-> Maisey (2001), Character 17; Pradel et al. (2011), Character 0; Giles
-> et al. (2015), Character 2; Choo et al. (2017), Character 253; King et
-> al. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. et al.
-> (2022), Character 2.
+> Maisey (2001), Character 17; Pradel et al. (2011), Character 0; Giles et al. (2015), Character 2; Choo et al. (2017), Character 253; King et al. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. et al. (2022), Character 2.
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -175,11 +168,10 @@
 > Giles et al. (2015), Character 12; Choo et al. (2017), Character 260;
 > King et al. (2017), Character 13; Castiello (2018), Character 13; Zhu
 > Y. et al. (2022), Character 26.
-> 
-> *Squamation & related structures*
 
-27. Lepidotrichia or lepidotrichia-like scale alignment: (0)
-    present; (1) absent.
+ *Squamation & related structures*
+
+27. Lepidotrichia or lepidotrichia-like scale alignment: (0) present; (1) absent.
 
 > Davis et al. (2012), Character 7; Choo et al. (2017), Character 6; Zhu
 > Y. et al. (2022), Character 27.
@@ -2791,18 +2783,15 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 > neurocranium (e.g., Helodus) are coded as uncertain for this
 > character. (Giles et al., 2015)
 
-418. Elongated distance between postorbital process and the articulation
-     for hyomandibular: (0) absent; (1) present.
+418. Elongated distance between postorbital process and the articulation for hyomandibular: (0) absent; (1) present.
 
 > Zhu Y. et al. (2022), Character 418.
 
-419. Postorbital process articulates with palatoquadrate: (0)
-     absent; (1) present.
+> State 1 is shared by total-group chondrichthyans, *Megamastax*, and *Janusiscus*. State 0 might be a synapormorphy of osteichthyans crownward of *Megamastax*.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis et
-> al. (2012), Character 81; Choo et al. (2017), Character 80; King et
-> al. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. et
-> al. (2022), Character 419.
+419. Postorbital process articulates with palatoquadrate: (0) absent; (1) present.
+
+> Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis et al. (2012), Character 81; Choo et al. (2017), Character 80; King et al. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. et al. (2022), Character 419.
 
 420. Postorbital process and arcade: (0) short and deep - width not more
      than maximum braincase width (excluding arcade); (1) process and
@@ -3010,10 +2999,12 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 
 447. Short otico-occipital region of braincase: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001);
-> Brazeau (2009); Davis et al. (2012), Character 72; Choo et al. (2017),
-> Character 71; King et al. (2017), Character 35; Castiello (2018),
-> Character 35; Zhu Y. et al. (2022), Character 447.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis et al. (2012), Character 72; Choo et al. (2017), Character 71; King et al. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. et al. (2022), Character 447.
+
+> Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital 
+process in relation to the overall length of the braincase is used to demarcate these proportions."
+
+> Long otico-occipital region of braincase is shared by placoderms, some chondrichchthyans (including 'acanthodians') and *Megamastax*.
 
 448. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 
@@ -3697,26 +3688,16 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
 > King et al. (2017), Character 57; Castiello (2018), Character 58; Zhu
 > Y. et al. (2022), Character 550.
 
-551. Craniospinal process (\"supravagal process\" in Stensio): (0)
+551. Craniospinal process (\"supravagal process\" in Stensiö): (0)
      absent; (1) present.
 
-> Giles et al. (2015), Character 167; Choo et al. (2017), Character 303;
-> King et al. (2017), Character 85; Castiello (2018), Character 87; Zhu
-> Y. et al. (2022), Character 551.
->
-> The craniospinal process forms the posterolateral corner of the
-> braincase and is often involved with or supports the cranio-thoracic
-> joint. A complete account of the craniospinal process is provided
-> above in section 3 (\'Lateral Processes of Early Gnathostome
-> Neurocrania\'). (Giles et al., 2015)
+> Giles et al. (2015), Character 167; Choo et al. (2017), Character 303;  King et al. (2017), Character 85; Castiello (2018), Character 87; Zhu Y. et al. (2022), Character 551.
 
-552. Parachordal shape: (0) forming a broad, flat surface as wide as the
-     otic capsules; (1) mediolaterally constricted relative to the otic
-     capsules.
+> Giles et al. (2015): "The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-thoracic joint. A complete account of the craniospinal process is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
-> Brazeau (2009); Davis et al. (2012), Character 102; Choo et al.
-> (2017), Character 98; King et al. (2017), Character 60; Castiello
-> (2018), Character 61; Zhu Y. et al. (2022), Character 552.
+552. Parachordal shape: (0) forming a broad, flat surface as wide as the otic capsules; (1) mediolaterally constricted relative to the otic capsules.
+
+> Brazeau (2009), Character 98; Davis et al. (2012), Character 102; Choo et al. (2017), Character 98; King et al. (2017), Character 60; Castiello (2018), Character 61; Zhu Y. et al. (2022), Character 552.
 
 553. Ventral notch between parachordals: (0) absent; (1) present or
      entirely unfused.
@@ -4640,14 +4621,10 @@ Character 634.
 > King et al. (2017), Character 475; Castiello (2018), Character 464;
 > Zhu Y. et al. (2022), Character 689.
 
-690. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat
-     sided, with rectangular profile; (2) subcircular.
+690. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
 
-> Coates et al. (2018), Character 250; Zhu Y. et al. (2022), Character
-> 690.
+> Coates et al. (2018), Character 250; Zhu Y. et al. (2022), Character 690.
 
-691. Anterior dorsal fin spine leading edge concave in lateral view: (0)
-     absent; (1) present.
+691. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 251; Zhu Y. et al. (2022), Character
-> 691.
+> Coates et al. (2018), Character 251; Zhu Y. et al. (2022), Character 691.
