@@ -3610,24 +3610,19 @@ process in relation to the overall length of the braincase is used to demarcate 
 > Coates et al. (2018), Character 167; Zhu Y. et al. (2022), Character
 > 541.
 
-542. Otic capsules project anteriorly between postorbital processes: (0)
-     absent; (1) present.
+542. Otic capsules project anteriorly between postorbital processes: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 168; Zhu Y. et al. (2022), Character
-> 542.
+> Coates et al. (2018), Character 168; Zhu Y. et al. (2022), Character 542.
 
-543. Endocranial roof anterior to otic capsules domelike, smoothly
-     convex dorsally and anteriorly: (0) absent; (1) present.
+> Coates et al. (2018): "Long recognized as a characteristic feature of neoselachian crania (Maisey 1983), this condition is also present in *Acronemus* (Maisey 2011), but not *Tristychius* (Coates & Tietjen in press)." In the attached nexus file of Coates et al. (2018), Character 168 is described as "labyrinths separated or meet dorsallly". The codings for *Acronemus* and *Tristychius* follow the comments of Coates et al. (2018).
 
-> Coates et al. (2018), Character 169; Zhu Y. et al. (2022), Character
-> 543.
+543. Endocranial roof anterior to otic capsules domelike, smoothly convex dorsally and anteriorly: (0) absent; (1) present.
 
-544. Roof of skeletal cavity for cerebellum and mesencephalon
-     significantly higher than dorsal-most level of semicircular
-     canals: (0) absent; (1) present.
+> Coates et al. (2018), Character 169; Zhu Y. et al. (2022), Character 543.
 
-> Coates et al. (2018), Character 170; Zhu Y. et al. (2022), Character
-> 544.
+544. Roof of skeletal cavity for cerebellum and mesencephalon significantly higher than dorsal-most level of semicircular canals: (0) absent; (1) present.
+
+> Coates et al. (2018), Character 170; Zhu Y. et al. (2022), Character 544.
 
 545. Roof of the endocranial space for telencephalon and olfactory
      tracts offset ventrally relative to level of mesencephalon: (0)
