@@ -30,11 +30,9 @@
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
-> King et al. (2017), Character 6; Castiello (2018), Character 6; Zhu Y.
-> et al. (2022), Character 6.
+> King et al. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. et al. (2022), Character 6.
 >
-> Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating et
-> al., 2015).
+> Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating et al., 2015).
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
@@ -61,10 +59,7 @@
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine.
 
-> Donoghue & Aldridge (2001); Brazeau 2009; Davis et al. (2012),
-> Character 5; Choo et al. (2017), Character 5; King et al. (2017),
-> Character 12; Castiello (2018), Character 12; Zhu Y. et al. (2022),
-> Character 11.
+> Donoghue & Aldridge (2001); Brazeau 2009; Davis et al. (2012), Character 5; Choo et al. (2017), Character 5; King et al. (2017), Character 12; Castiello (2018), Character 12; Zhu Y. et al. (2022), Character 11.
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
@@ -2567,58 +2562,37 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
      tracts narrow and elongate, extending between orbits: (0)
      absent; (1) present.
 
-> Coates et al. (2018), Character 118. Zhu Y. et al. (2021), Character
-> 347; Zhu Y. et al. (2022), Character 395.
+> Coates et al. (2018), Character 118. Zhu Y. et al. (2021), Character 347; Zhu Y. et al. (2022), Character 395.
 
 396. Rostral bar: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 120; Zhu Y. et al. (2022), Character 396.
 
-397. Anteriormost articulation for the mandibular arch: (0) located
-     anterior to the nasal capsules, terminal; (1) immediately below or
-     posterior to nasal capsules, subterminal.
+397. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
 
-> Zhu et al. (2016), Character 326; Coates et al. (2018), Character 123;
-> Zhu Y. et al. (2021), Character 307; Zhu Y. et al. (2022), Character
-> 397.
+> Zhu et al. (2016), Character 326; Coates et al. (2018), Character 123; Zhu Y. et al. (2021), Character 307; Zhu Y. et al. (2022), Character 397.
 
-398. Palatobasal (or orbital) articulation: (0) posterior to the optic
-     foramen; (1) anterior to the optic foramen, grooved, and overlapped
-     by process or flange of palatoquadrate; (2) anterior to optic
-     foramen, smooth, and overlaps or flanks articular surface on
-     palatoquadrate.
+398. Palatobasal (or orbital) articulation: (0) posterior to the optic foramen; (1) anterior to the optic foramen, grooved, and overlapped by process or flange of palatoquadrate; (2) anterior to optic foramen, smooth, and overlaps or flanks articular surface on palatoquadrate.
 
-> Coates et al. (2018), Character 124; Zhu Y. et al. (2022), Character
-> 398.
+> Coates et al. (2018), Character 124; Zhu Y. et al. (2022), Character 398.
 
-399. Close association of pineal organ and nasal cavities: (0)
-     absent; (1) present.
+399. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 
-> Zhu et al. (2016), Character 328; Zhu Y. et al. (2021), Character 309;
-> Zhu Y. et al. (2022), Character 399.
+> Zhu et al. (2016), Character 328; Zhu Y. et al. (2021), Character 309; Zhu Y. et al. (2022), Character 399.
 
-400. Trochlear nerve foramen anterior to optic nerve foramen: (0)
-     absent; (1) present.
+400. Trochlear nerve foramen anterior to optic nerve foramen: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 126; Zhu Y. et al. (2021), Character 349; Zhu Y. et al. (2022), Character 400.
 
 401. Pronounced sub-ethmoidal keel: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis et
-> al. (2012), Character 59; Choo et al. (2017), Character 58; King et
-> al. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. et
-> al. (2022), Character 401.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis et al. (2012), Character 59; Choo et al. (2017), Character 58; King et al. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. et al. (2022), Character 401.
 
-402. Eyestalk or unfinished area on neurocranial wall for eyestalk: (0)
-     absent; (1) present.
+402. Eyestalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 36), and references therein; Zhu et al.
-> (2013), Character 222; Giles et al. (2015), Character 131; Choo et al.
-> (2017), Character 149; King et al. (2017), Character 62; Castiello
-> (2018), Character 63; Zhu Y. et al. (2022), Character 402.
+> Zhu *et al.* (2009, Character 36), and references therein; Zhu et al. (2013), Character 222; Giles et al. (2015), Character 131; Choo et al. (2017), Character 149; King et al. (2017), Character 62; Castiello (2018), Character 63; Zhu Y. et al. (2022), Character 402.
 
-403. Eye stalk position: (0) positioned laterally on the orbital
-     wall; (1) positioned ventrally on the subocular shelf wall.
+403. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 
 > Castiello (2018), Character 64; Zhu Y. et al. (2022), Character 403.
 
@@ -2626,58 +2600,39 @@ references therein; Zhu et al. (2013), Character 240; Giles et al.
      and dorsal to foramen for nerve II; (1) anterior and dorsal to
      foramen.
 
-> Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis et al.
-> (2012), Character 60; Choo et al. (2017), Character 59; King et al.
-> (2017), Character 24; Castiello (2018), Character 24; Zhu Y. et al.
-> (2022), Character 404.
+> Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis et al. (2012), Character 60; Choo et al. (2017), Character 59; King et al. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. et al. (2022), Character 404.
 
-405. Orbit directed mostly laterally and free of flanking endocranial
-     cartilage or bone: (0) absent; (1) present.
+405. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character
-> 405.
+> Coates et al. (2018), Character 128; Zhu Y. et al. (2022), Character 405.
 
-406. Orbit dorsal or facing dorsolaterally, surrounded laterally by
-     endocranium: (0) present; (1) absent.
+406. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.
 
-> Brazeau (2009); Davis et al. (2012), Character 66; Choo et al. (2017),
-> Character 65; Zhu Y. et al. (2022), Character 406.
+> Brazeau (2009); Davis et al. (2012), Character 66; Choo et al. (2017), Character 65; Zhu Y. et al. (2022), Character 406.
 
 407. Orbit larger than otic capsule: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 142; Zhu Y. et al. (2022), Character
-> 407.
+> Coates et al. (2018), Character 142; Zhu Y. et al. (2022), Character 407.
 
 408. Paired pineal and parapineal tracts: (0) absent; (1) present.
 
-> Choo et al. (2017), Character 334; Lu et al. (2017), Character 266;
-> Zhu Y. et al. (2022), Character 408.
+> Choo et al. (2017), Character 334; Lu et al. (2017), Character 266; Zhu Y. et al. (2022), Character 408.
 
-409. Endoskeletal spiracular canal: (0) open; (1) partial enclosure or
-     spiracular bar; (2) complete enclosure in canal.
+409. Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal.
 
-> Choo et al. (2017), Character 335; Lu et al. (2017), Character 268;
-> Zhu Y. et al. (2022), Character 409.
+> Choo et al. (2017), Character 335; Lu et al. (2017), Character 268; Zhu Y. et al. (2022), Character 409.
 
 410. Developed postorbital cavity: (0) absent; (1) present.
 
-> Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220;
-> Zhu Y. et al. (2022), Character 410.
+> Zhu et al. (2013), Character 223; Choo et al. (2017), Character 220; Zhu Y. et al. (2022), Character 410.
 
 411. Unconstricted cranial notochord: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 40), and references therein; Zhu et al.
-> (2013), Character 225; Choo et al. (2017), Character 221; King et al.
-> (2017), Character 68; Castiello (2018), Character 70; Zhu Y. et al.
-> (2022), Character 411.
+> Zhu *et al.* (2009, Character 40), and references therein; Zhu et al. (2013), Character 225; Choo et al. (2017), Character 221; King et al. (2017), Character 68; Castiello (2018), Character 70; Zhu Y. et al. (2022), Character 411.
 
-412. Descending process of sphenoid (with its posterior extremity
-     lacking periostegeal lining): (0) absent; (1) present.
+412. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 41), and references therein; Zhu et al.
-> (2013), Character 226; Choo et al. (2017), Character 222; King et al.
-> (2017), Character 69; Castiello (2018), Character 71; Zhu Y. et al.
-> (2022), Character 412.
+> Zhu *et al.* (2009, Character 41), and references therein; Zhu et al. (2013), Character 226; Choo et al. (2017), Character 222; King et al. (2017), Character 69; Castiello (2018), Character 71; Zhu Y. et al. (2022), Character 412.
 
 413. Opercular suspension on braincase: (0) absent; (1) present.
 
@@ -2954,11 +2909,11 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Zhu *et al.* (2009, Character 44) and references therein; Zhu et al. (2013), Character 227; Giles et al. (2015), Character 155; Choo et al. (2017), Character 150; King et al. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. et al. (2022), Character 449.
 
-450. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) on otic capsule, posterior to orbit.
+450. *Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) on otic capsule, posterior to orbit.*
 
 > Zhu Y. et al. (2022), Character 450.
 
-> **This character replicates Character 448 of Zhu Y. et al. (2022), and should be deleted in later analyses.** 
+> **This character replicates Character 448 of Zhu Y. et al. (2022), and is excluded from new analyses.** 
 
 451. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
      
