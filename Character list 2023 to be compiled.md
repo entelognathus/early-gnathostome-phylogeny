@@ -788,8 +788,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 186. Infra-orbital sensory line: (0) crosses lateral field; (1) does not cross lateral field.
 
-> Castiello (2018), Character 295; King et al. (2017), Character 304;
-> Zhu Y. et al. (2022), Character 186.
+> Castiello (2018), Character 295; King et al. (2017), Character 304; Zhu Y. et al. (2022), Character 186.
 
 187. Festooned pattern of sensory canals: (0) absent; (1) present.
 
@@ -831,8 +830,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 194. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
-> King et al. (2017), Character 314; Castiello (2018), Character 305;
-> Zhu Y. et al. (2022), Character 194.
+> King et al. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. et al. (2022), Character 194.
 
 195. Preopercular canal: (0) absent; (1) present.
 
@@ -860,11 +858,9 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > King et al. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. et al. (2022), Character 200.
 
-201. Sensory line commissure across extrascapular bones (nuchal and
-     paranuchal): (0) absent; (1) present.
+201. Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
-> King et al. (2017), Character 323; Castiello (2018), Character 315;
-> Zhu Y. et al. (2022), Character 201.
+> King et al. (2017), Character 323; Castiello (2018), Character 315; Zhu Y. et al. (2022), Character 201.
 
 202. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
@@ -1098,8 +1094,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > King et al. (2017), Character 389; Castiello (2018), Character 377; Zhu Y. et al. (2022), Character 257.
 
-258. Grooved, curved upper toothplates attached to median labial
-     element: (0) absent; (1) present.
+258. Grooved, curved upper toothplates attached to median labial element: (0) absent; (1) present.
 
 > King et al. (2017), Character 390; Castiello (2018), Character 378; Zhu Y. et al. (2022), Character 258.
 
@@ -1292,9 +1287,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Zhu Y. et al. (2021), Character 253; Zhu Y. et al. (2022), Character 305.
 
-306. Proportions of entopterygoid: (0) anterior end level with processus
-     ascendens; (1) anterior end considerably anterior to processus
-     ascendens.
+306. Proportions of entopterygoid: (0) anterior end level with processus ascendens; (1) anterior end considerably anterior to processus ascendens.
 
 > Castiello (2018), Character 366; Zhu Y. et al. (2022), Character 306.
 
@@ -1520,8 +1513,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > This character formulation (Dearsen et al., 2019) is modified from Coates et al. (2018): Basihyal absent/present.
 
-360. Multiple unpaired branchial mineralisations: (0) absent; (1)
-     present.
+360. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 
 > Dearden et al. (2019), Character 74; Zhu Y. et al. (2022), Character 360.
 
@@ -2241,8 +2233,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > King et al. (2017), Character 126; Castiello (2018), Character 126; Zhu Y. et al. (2022), Character 530.
 
-531. Bulbous otic and auxiliary condyles for palatoquadrate
-     articulation: (0) absent; (1) present.
+531. Bulbous otic and auxiliary condyles for palatoquadrate articulation: (0) absent; (1) present.
 
 > King et al. (2017), Character 128; Castiello (2018), Character 127; Zhu Y. et al. (2022), Character 531.
 
@@ -2346,8 +2337,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate. (Giles et al., 2015)
 
-555. Size of aperture to notochordal canal: (0) much smaller than
-     foramen magnum; (1) as large, or larger, than foramen magnum.
+555. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
 > Giles et al. (2015), Character 178; Choo et al. (2017), Character 306; King et al. (2017), Character 88; Castiello (2018), Character 90; Zhu Y. et al. (2022), Character 555.
 
@@ -2473,8 +2463,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu et al. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu et al. (2006), Character 96; Friedman (2007), Character 107; Zhu et al. (2009), Character 124; Giles et al. (2015), Character 183; Choo et al. (2017), Character 307; King et al. (2017), Character 435; Castiello (2018), Character 424; Zhu Y. et al. (2022), Character 585.
 
-586. Posterior dorsolateral plate or equivalent: (0) absent; (1)
-     present.
+586. Posterior dorsolateral plate or equivalent: (0) absent; (1) present.
 
 > Giles et al. (2015), Character 187; Choo et al. (2017), Character 308; King et al. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. et al. (2022), Character 586.
 
@@ -2526,8 +2515,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 598. Chang's apparatus: (0) absent; (1) present.
 
-> King et al. (2017), Character 444; Castiello (2018), Character 433;
-> Zhu Y. et al. (2022), Character 598.
+> King et al. (2017), Character 444; Castiello (2018), Character 433; Zhu Y. et al. (2022), Character 598.
 
 599. Number of median dorsal plates: (0) one; (1) two; (2) three.
 
