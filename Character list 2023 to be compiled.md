@@ -1761,26 +1761,9 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 417. Postorbital process: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 132; Choo et al. (2017), Character 295;
-> Coates et al. (2018), Character 165; King et al. (2017), Character 77;
-> Castiello (2018), Character 79; Zhu Y. et al. (2021), Character 129;
-> Zhu Y. et al. (2022), Character 417.
->
-> Here we define the postorbital process as a dorsally positioned
-> process at the rear margin of the orbit. The postorbital process is
-> known by a variety of names in different groups: suprapterygoid
-> process (sarcopterygians: Jarvik 1980); supraorbital process
-> (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part;
-> identified in some early sarcopterygians and Entelegnathus, where a
-> bridge encloses the jugular vein: Yu 1998; Zhu et al. 2013); lateral
-> commissure (in part; identified in early actinopterygians and
-> *Ligulalepis*; Zhu et al. 2013). Rudimentary postorbital processes are
-> present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the
-> porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21).
-> Taxa in which the orbit is completely enclosed by the neurocranium
-> (e.g., Macropetalichthys) or where the palatoquadrate is fused to the
-> neurocranium (e.g., Helodus) are coded as uncertain for this
-> character. (Giles et al., 2015)
+> Giles et al. (2015), Character 132; Choo et al. (2017), Character 295; Coates et al. (2018), Character 165; King et al. (2017), Character 77; Castiello (2018), Character 79; Zhu Y. et al. (2021), Character 129; Zhu Y. et al. (2022), Character 417.
+
+> Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and Entelegnathus, where a bridge encloses the jugular vein: Yu 1998; Zhu et al. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu et al. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., Macropetalichthys) or where the palatoquadrate is fused to the neurocranium (e.g., Helodus) are coded as uncertain for this character. (Giles et al., 2015)
 
 418. Elongated distance between postorbital process and the articulation for hyomandibular: (0) absent; (1) present.
 
@@ -1792,196 +1775,115 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis et al. (2012), Character 81; Choo et al. (2017), Character 80; King et al. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. et al. (2022), Character 419.
 
-420. Postorbital process and arcade: (0) short and deep - width not more
-     than maximum braincase width (excluding arcade); (1) process and
-     arcade wide - width exceeds maximum width of braincase, and
-     anteroposteriorly narrow; (2) process and arcade massive; (3)
-     arcade forms postorbital pillar.
+420. Postorbital process and arcade: (0) short and deep - width not more than maximum braincase width (excluding arcade); (1) process and arcade wide - width exceeds maximum width of braincase, and anteroposteriorly narrow; (2) process and arcade massive; (3) arcade forms postorbital pillar.
 
 > Coates et al. (2018), Character 144; Zhu Y. et al. (2021), Character 345; Zhu Y. et al. (2022), Character 420.
 
-421. Postorbital process downturned, with anhedral angle relative to
-     basicranium: (0) absent; (1) present.
+421. Postorbital process downturned, with anhedral angle relative to basicranium: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 145; Zhu Y. et al. (2022), Character 421.
 
 422. Canal for jugular in postorbital process: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 133; Choo et al. (2017), Character 296;
-> King et al. (2017), Character 78; Castiello (2018), Character 80; Zhu
-> Y. et al. (2022), Character 422.
+> Giles et al. (2015), Character 133; Choo et al. (2017), Character 296; King et al. (2017), Character 78; Castiello (2018), Character 80; Zhu Y. et al. (2022), Character 422.
 
 423. Jugular canal diameter: (0) small; (1) large; (2) canal absent.
 
 > Coates et al. (2018), Character 146; Zhu Y. et al. (2022), Character 423.
 
-424. Jugular canal: (0) long (invested in otic region along length of
-     skeletal labyrinth); (1) short (restricted to region anterior of
-     skeletal labyrinth); (2) absent (jugular vein uninvested in otic
-     region).
+424. Jugular canal: (0) long (invested in otic region along length of skeletal labyrinth); (1) short (restricted to region anterior of skeletal labyrinth); (2) absent (jugular vein uninvested in otic region).
 
-> Giles et al. (2015), Character 126; Choo et al. (2017), Character 294;
-> King et al. (2017), Character 76; Castiello (2018), Character 78; Zhu
-> Y. et al. (2022), Character 424.
->
-> This character is modified from DFC characters 76 and 93. In part,
-> this character describes patterns of variation among transverse otic
-> processes that bear the hyomandibular facet (see characters 125 and
-> 164). Transverse otic processes that lack a canal for the jugular are
-> characteristic of many chondrichthyans (e.g. *Tamiobatis*,
-> *Xenacanthus*). In cases where taxa lack a jugular canal and have a
-> posteriorly positioned transverse otic process, this structure is
-> typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6,
-> 21; Coates & Sequeira 1998: fig. 6). This character is composed as a
-> compound because there are no further dependent characters.
-> Mathematically, this should be equivalent to atomizing and using
-> inapplicability. (Giles et al., 2015)
+> Giles et al. (2015), Character 126; Choo et al. (2017), Character 294; King et al. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. et al. (2022), Character 424.
 
-425. Canal, likely for trigeminal nerve (V) mandibular ramus, passes
-     through the postorbital process from proximal dorsal entry to
-     distal and ventral exit: (0) absent; (1) present.
+> This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability. (Giles et al., 2015)
+
+425. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 147; Zhu Y. et al. (2022), Character 425.
 
-426. Postorbital process expanded anteroposteriorly: (0) absent; (1)
-     present.
+426. Postorbital process expanded anteroposteriorly: (0) absent; (1) present.
 
-> Coates et al. (2018), Character 148; Zhu Y. et al. (2022), Character
-> 426.
+> Coates et al. (2018), Character 148; Zhu Y. et al. (2022), Character 426.
 
-427. C-bout notch separates postorbital process from supraotic
-     shelf: (0) absent; (1) present.
+427. C-bout notch separates postorbital process from supraotic shelf: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 152; Zhu Y. et al. (2022), Character 427.
 
-428. Series of perforations for innervation of supraorbital sensory
-     canal in supraorbital shelf: (0) absent; (1) present.
+428. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 134; Choo et al. (2017), Character 297;
-> King et al. (2017), Character 79; Castiello (2018), Character 81; Zhu
-> Y. et al. (2022), Character 428.
->
+> Giles et al. (2015), Character 134; Choo et al. (2017), Character 297; King et al. (2017), Character 79; Castiello (2018), Character 81; Zhu Y. et al. (2022), Character 428.
+
 > This character is coded as inapplicable in taxa lacking well-developed supraorbital shelves. (Giles et al., 2015)
 
 429. Spiracular groove on basicranial surface: (0) absent; (1) present.
 
-> Davis et al. (2012), Character 62; Choo et al. (2017), Character 61;
-> King et al. (2017), Character 26; Castiello (2018), Character 26; Zhu
-> Y. et al. (2022), Character 429.
+> Davis et al. (2012), Character 62; Choo et al. (2017), Character 61; King et al. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. et al. (2022), Character 429.
 
 430. Spiracular groove on lateral commissure: (0) absent; (1) present.
 
-> Davis et al. (2012), Character 63; Choo et al. (2017), Character 62;
-> King et al. (2017), Character 27; Castiello (2018), Character 27; Zhu
-> Y. et al. (2022), Character 430.
+> Davis et al. (2012), Character 63; Choo et al. (2017), Character 62; King et al. (2017), Character 27; Castiello (2018), Character 27; Zhu Y. et al. (2022), Character 430.
 
 431. Subpituitary fenestra: (0) absent; (1) present.
 
-> Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character
-> 64; Choo et al. (2017), Character 63; King et al. (2017), Character
-> 28; Castiello (2018), Character 94; Zhu Y. et al. (2022), Character 431.
+> Goujet & Young (1995); Brazeau (2009); Davis et al. (2012), Character 64; Choo et al. (2017), Character 63; King et al. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. et al. (2022), Character 431.
 
-432. Supraorbital shelf broad with convex lateral margin: (0)
-     absent; (1) present.
+432. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present.
 
-> Coates & Sequeira (1998); Brazeau (2009); Davis et al. (2012),
-> Character 65; Choo et al. (2017), Character 64; King et al. (2017),
-> Character 29; Castiello (2018), Character 28; Zhu Y. et al. (2022),
-> Character 432.
+> Coates & Sequeira (1998); Brazeau (2009); Davis et al. (2012), Character 65; Choo et al. (2017), Character 64; King et al. (2017), Character 29; Castiello (2018), Character 28; Zhu Y. et al. (2022), Character 432.
 
-433. Nerve VIII bifurcates before entering the labyrinth cavity: (0)
-     bifurcates; (1) does not bifurcate.
+433. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
 
 > Zhu Y. et al. (2021), Character 341; Zhu Y. et al. (2022), Character 433.
 
-434. Prehypophysial diencephalon: (0) the prehypophysial ventral "step"
-     is absent or insignificantly captured by endocast, the ventral
-     aspect of telencephalon is continuous with the anterior boundary of
-     the hypophysial recess; (1) significant prehypophysial
-     diencephalon, indicated by a "step" between the optic nerve canal
-     marking the start of the diencephalon, and the anterior boundary of
-     the hypophysial recess.
+434. Prehypophysial diencephalon: (0) the prehypophysial ventral "step" is absent or insignificantly captured by endocast, the ventral aspect of telencephalon is continuous with the anterior boundary of the hypophysial recess; (1) significant prehypophysial diencephalon, indicated by a "step" between the optic nerve canal marking the start of the diencephalon, and the anterior boundary of the hypophysial recess.
 
 > Zhu Y. et al. (2021), Character 343; Zhu Y. et al. (2022), Character 434.
 
-435. Otic or pre-vagus section of myelencephalon: (0) long, longer than
-     metencephalon; (1) short, shorter than metencephalon.
+435. Otic or pre-vagus section of myelencephalon: (0) long, longer than metencephalon; (1) short, shorter than metencephalon.
 
 > Zhu Y. et al. (2021), Character 344; Zhu Y. et al. (2022), Character 435.
 
-436. Extended prehypophysial portion of sphenoid: (0) absent; (1)
-     present.
+436. Extended prehypophysial portion of sphenoid: (0) absent; (1) present.
 
-> Davis et al. (2012), Character 67; Choo et al. (2017), Character 66.
-> King et al. (2017), Character 31; Castiello (2018), Character 31; Zhu
-> Y. et al. (2022), Character 436.
+> Davis et al. (2012), Character 67; Choo et al. (2017), Character 66. King et al. (2017), Character 31; Castiello (2018), Character 31; Zhu Y. et al. (2022), Character 436.
 
-437. Main trunk of facial nerve: (0) elongate and passes anterolaterally
-     through orbital floor; (1) stout and divides within otic capsule at
-     the level of the postorbital process.
+437. Main trunk of facial nerve: (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 
-> Brazeau (2009); Davis et al. (2012), Character 69; Choo et al. (2017),
-> Character 68; Zhu Y. et al. (2022), Character 437.
+> Brazeau (2009); Davis et al. (2012), Character 69; Choo et al. (2017), Character 68; Zhu Y. et al. (2022), Character 437.
 
-438. Hyoid ramus of facial nerve exits through posterior jugular
-     opening: (0) absent; (1) present.
+438. Hyoid ramus of facial nerve exits through posterior jugular opening: (0) absent; (1) present.
 
-> Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis et
-> al. (2012), Character 70; Choo et al. (2017), Character 69; King et
-> al. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. et
-> al. (2022), Character 438.
+> Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 70; Choo et al. (2017), Character 69; King et al. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. et al. (2022), Character 438.
 
-439. Ascending basisphenoid pillar pierced by common internal
-     carotid: (0) absent; (1) present.
+439. Ascending basisphenoid pillar pierced by common internal carotid: (0) absent; (1) present.
 
-> Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis et al.
-> (2012), Character 75; Choo et al. (2017), Character 74; King et al.
-> (2017), Character 38; Castiello (2018), Character 38; Zhu Y. et al.
-> (2022), Character 439.
+> Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis et al. (2012), Character 75; Choo et al. (2017), Character 74; King et al. (2017), Character 38; Castiello (2018), Character 38; Zhu Y. et al. (2022), Character 439.
 
-440. Canal for efferent pseudobranchial artery within basicranial
-     cartilage: (0) absent; (1) present.
+440. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 79; Choo et al. (2017),
-> Character 75; King et al. (2017), Character 39; Castiello (2018),
-> Character 39; Zhu Y. et al. (2022), Character 440.
+> Brazeau (2009); Davis et al. (2012), Character 79; Choo et al. (2017), Character 75; King et al. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. et al. (2022), Character 440.
 
-441. Position of basal/basipterygoid articulation: (0) same
-     anteroposterior level as hypophysial opening; (1) anterior to
-     hypophysial opening.
+441. Position of basal/basipterygoid articulation: (0) same anteroposterior level as hypophysial opening; (1) anterior to hypophysial opening.
 
-> Brazeau (2009); Davis et al. (2012), Character 80; Choo et al. (2017),
-> Character 79; King et al. (2017), Character 42; Castiello (2018),
-> Character 42; Zhu Y. et al. (2022), Character 441.
+> Brazeau (2009); Davis et al. (2012), Character 80; Choo et al. (2017), Character 79; King et al. (2017), Character 42; Castiello (2018), Character 42; Zhu Y. et al. (2022), Character 441.
 
-442. Basipterygoid process (basal articulation) with vertically oriented
-     component: (0) absent; (1) present.
+442. Basipterygoid process (basal articulation) with vertically oriented component: (0) absent; (1) present.
 
-> Davis et al. (2012), Character 83; Choo et al. (2017), Character 82;
-> King et al. (2017), Character 45; Castiello (2018), Character 45; Zhu
-> Y. et al. (2022), Character 442.
+> Davis et al. (2012), Character 83; Choo et al. (2017), Character 82; King et al. (2017), Character 45; Castiello (2018), Character 45; Zhu Y. et al. (2022), Character 442.
 
-443. Expanded articular area anterior to basipterygoid process: (0)
-     absent; (1) present.
+443. Expanded articular area anterior to basipterygoid process: (0) absent; (1) present.
 
-> King et al. (2017), Character 103; Castiello (2018), Character 104;
-> Zhu Y. et al. (2022), Character 443.
+> King et al. (2017), Character 103; Castiello (2018), Character 104; Zhu Y. et al. (2022), Character 443.
 
-444. Pituitary vein canal: (0) dorsal to level of basipterygoid
-     process; (1) flanked posteriorly by basipterygoid process.
+444. Pituitary vein canal: (0) dorsal to level of basipterygoid  process; (1) flanked posteriorly by basipterygoid process.
 
-> Davis et al. (2012), Character 84; Choo et al. (2017), Character 83;
-> King et al. (2017), Character 46; Castiello (2018), Character 46; Zhu
-> Y. et al. (2022), Character 444.
+> Davis et al. (2012), Character 84; Choo et al. (2017), Character 83; King et al. (2017), Character 46; Castiello (2018), Character 46; Zhu Y. et al. (2022), Character 444.
 
-445. Pituitary vein canal: (0) discontinuous, enters the cranial
-     cavity; (1) discontinuous, enters hypophysial recess; (2)
-     continuous transverse vein.
+445. Pituitary vein canal: (0) discontinuous, enters the cranial cavity; (1) discontinuous, enters hypophysial recess; (2) continuous transverse vein.
 
 > Clement et al. (2018), Character 282; Zhu Y. et al. (2022), Character 445.
 
-446. Pituitary vein in a transverse canal connecting the orbit: (0)
-     absent; (1) present.
+446. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
 
 > Castiello (2018), Character 93; Zhu Y. et al. (2022), Character 446.
 
@@ -2305,8 +2207,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 522. Bar across spiracular groove: (0) absent; (1) present.
 
-> King et al. (2017), Character 113; Castiello (2018), Character 113;
-> Zhu Y. et al. (2022), Character 522.
+> King et al. (2017), Character 113; Castiello (2018), Character 113; Zhu Y. et al. (2022), Character 522.
 
 523. Hypophysial opening in braincase: (0) absent; (1) present.
 
@@ -2466,111 +2367,73 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 559. Macromeric dermal shoulder girdle: (0) present; (1) absent.
 
-> Brazeau (2009); Davis et al. (2012), Character 104; Choo et al.
-> (2017), Character 100; King et al. (2017), Character 421; Castiello
-> (2018), Character 410; Zhu Y. et al. (2022), Character 559.
+> Brazeau (2009); Davis et al. (2012), Character 104; Choo et al. (2017), Character 100; King et al. (2017), Character 421; Castiello (2018), Character 410; Zhu Y. et al. (2022), Character 559.
 
-560. Dermal neck-joint between paired main-lateral-line-bearing bones of
-     skull and shoulder girdle: (0) absent; (1) present.
+560. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
-> Young (2010, Character 15); Zhu et al. (2013), Character 168; Choo et
-> al. (2017), Character 177; King et al. (2017), Character 192;
-> Castiello (2018), Character 191; Zhu Y. et al. (2022), Character 560.
+> Young (2010, Character 15); Zhu et al. (2013), Character 168; Choo et al. (2017), Character 177; King et al. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. et al. (2022), Character 560.
 
 561. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
-> Zhu et al. (2019), Character 3; Zhu Y. et al. (2021), Character 356;
-> Zhu Y. et al. (2022), Character 561.
+> Zhu et al. (2019), Character 3; Zhu Y. et al. (2021), Character 356; Zhu Y. et al. (2022), Character 561.
 
-562. Cranial fossa receiving the ventral articular lamina of the
-     trunk: (0) absent; (1) present.
+562. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 
-> Zhu et al. (2019), Character 4; Zhu Y. et al. (2021), Character 357;
-> Zhu Y. et al. (2022), Character 562.
+> Zhu et al. (2019), Character 4; Zhu Y. et al. (2021), Character 357; Zhu Y. et al. (2022), Character 562.
 
-563. Trunk ventral articular lamina develops into flange or condyle: (0)
-     absent, continuous along the articular lamina of the anterior
-     dorsolateral plate; (1) present, the articular lamina develops into
-     distinctive flange or condyle.
+563. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 
-> Zhu et al. (2019), Character 5; Zhu Y. et al. (2021), Character 358;
-> Zhu Y. et al. (2022), Character 563.
+> Zhu et al. (2019), Character 5; Zhu Y. et al. (2021), Character 358; Zhu Y. et al. (2022), Character 563.
 
 564. Rotatory contact of the articulation: (0) absent; (1) present.
 
-> Zhu et al. (2019), Character 8; Zhu Y. et al. (2021), Character 359;
-> Zhu Y. et al. (2022), Character 564.
+> Zhu et al. (2019), Character 8; Zhu Y. et al. (2021), Character 359; Zhu Y. et al. (2022), Character 564.
 
-565. Lateral ridges on skull roof laterally defines the
-     articulation: (0) absent; (1) present.
+565. Lateral ridges on skull roof laterally defines the articulation: (0) absent; (1) present.
 
-> Zhu et al. (2019), Character 8; Zhu Y. et al. (2021), Character 360;
-> Zhu Y. et al. (2022), Character 565.
+> Zhu et al. (2019), Character 8; Zhu Y. et al. (2021), Character 360; Zhu Y. et al. (2022), Character 565.
 
-566. Dermal shoulder girdle composition: (0) ventral and dorsal
-     (scapular) components; (1) ventral components only.
+566. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
-> Brazeau (2009); Davis et al. (2012), Character 105; Choo et al.
-> (2017), Character 101; King et al. (2017), Character 422; Castiello
-> (2018), Character 411; Zhu Y. et al. (2022), Character 566.
+> Brazeau (2009); Davis et al. (2012), Character 105; Choo et al. (2017), Character 101; King et al. (2017), Character 422; Castiello (2018), Character 411; Zhu Y. et al. (2022), Character 566.
 
-567. Dermal shoulder girdle forming a complete ring around the
-     trunk: (0) present; (1) absent.
+567. Dermal shoulder girdle forming a complete ring around the trunk: (0) present; (1) absent.
 
-> Brazeau (2009); Davis et al. (2012), Character 106; Choo et al.
-> (2017), Character 102; King et al. (2017), Character 423; Castiello
-> (2018), Character 412; Zhu Y. et al. (2022), Character 567.
+> Brazeau (2009); Davis et al. (2012), Character 106; Choo et al. (2017), Character 102; King et al. (2017), Character 423; Castiello (2018), Character 412; Zhu Y. et al. (2022), Character 567.
 
-568. Pectoral fenestra completely encircled by dermal shoulder
-     armour: (0) present; (1) absent.
+568. Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
 
-> Brazeau (2009); Davis et al. (2012), Character 107; Choo et al.
-> (2017), Character 103; King et al. (2017), Character 424; Castiello
-> (2018), Character 413; Zhu Y. et al. (2022), Character 568.
+> Brazeau (2009); Davis et al. (2012), Character 107; Choo et al. (2017), Character 103; King et al. (2017), Character 424; Castiello (2018), Character 413; Zhu Y. et al. (2022), Character 568.
 
 569. Median dorsal plate: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 108; Choo et al.
-> (2017), Character 104; King et al. (2017), Character 425; Castiello
-> (2018), Character 414; Zhu Y. et al. (2022), Character 569.
+> Brazeau (2009); Davis et al. (2012), Character 108; Choo et al. (2017), Character 104; King et al. (2017), Character 425; Castiello (2018), Character 414; Zhu Y. et al. (2022), Character 569.
 
-570. Pronounced internal crista (keel) on median dorsal surface of
-     shoulder girdle: (0) absent; (1) present.
+570. Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 109; Choo et al.
-> (2017), Character 105; King et al. (2017), Character 426; Castiello
-> (2018), Character 415; Zhu Y. et al. (2022), Character 570.
+> Brazeau (2009); Davis et al. (2012), Character 109; Choo et al. (2017), Character 105; King et al. (2017), Character 426; Castiello (2018), Character 415; Zhu Y. et al. (2022), Character 570.
 
 571. Anterior median dorsal plate: (0) absent; (1) present.
 
-> Zhu et al. (2016), Character 358; Zhu Y. et al. (2021), Character 320;
-> Zhu Y. et al. (2022), Character 571.
+> Zhu et al. (2016), Character 358; Zhu Y. et al. (2021), Character 320; Zhu Y. et al. (2022), Character 571.
 
-572. Anterior margin of unpaired anterior median dorsal plate: (0)
-     broad; (1) pointed.
+572. Anterior margin of unpaired anterior median dorsal plate: (0) broad; (1) pointed.
 
-> Zhu et al. (2016), Character 362; Zhu Y. et al. (2021), Character 322;
-> Zhu Y. et al. (2022), Character 572.
+> Zhu et al. (2016), Character 362; Zhu Y. et al. (2021), Character 322; Zhu Y. et al. (2022), Character 572.
 
-573. Anterior median dorsal plate (MD1) relative to posterior median
-     dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1
-     longer than MD2.
+573. Anterior median dorsal plate (MD1) relative to posterior median dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1 longer than MD2.
 
-> Zhu et al. (2016), Character 36; Zhu Y. et al. (2021), Character 321;
-> Zhu Y. et al. (2022), Character 573.
+> Zhu et al. (2016), Character 36; Zhu Y. et al. (2021), Character 321; Zhu Y. et al. (2022), Character 573.
 
 574. Anterior lateral plate: (0) absent; (1) present.
 
-> Zhu et al. (2016), Character 363; Zhu Y. et al. (2021), Character 323;
-> Zhu Y. et al. (2022), Character 574.
+> Zhu et al. (2016), Character 363; Zhu Y. et al. (2021), Character 323; Zhu Y. et al. (2022), Character 574.
 
 575. Postbranchial lamina of trunk armour: (0) lateral; (1) internal.
 
-> Zhu et al. (2016), Character 364; Zhu Y. et al. (2021), Character 324;
-> Zhu Y. et al. (2022), Character 575.
+> Zhu et al. (2016), Character 364; Zhu Y. et al. (2021), Character 324; Zhu Y. et al. (2022), Character 575.
 
-576. Crista internalis of dermal shoulder girdle: (0) absent; (1)
-     present.
+576. Crista internalis of dermal shoulder girdle: (0) absent; (1) present.
 
 > Zhu Y. et al. (2021), Character 183; Zhu Y. et al. (2022), Character 576.
 
@@ -2582,85 +2445,50 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Zhu et al. (2016), Character 366; Zhu Y. et al. (2021), Character 326; Zhu Y. et al. (2022), Character 578.
 
-579. Interolateral plate: (0) paired; (1) fused (unpaired semilunar
-     plate).
+579. Interolateral plate: (0) paired; (1) fused (unpaired semilunar plate).
 
 > Zhu et al. (2016), Character 367; Zhu Y. et al. (2021), Character 327; Zhu Y. et al. (2022), Character 579.
 
-580. Anterior ventrolateral plates of both sides: (0) in contact; (1)
-     separated.
+580. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated.
 
-> Zhu et al. (2016), Character 368; Zhu Y. et al. (2021), Character 328;
-> Zhu Y. et al. (2022), Character 580.
+> Zhu et al. (2016), Character 368; Zhu Y. et al. (2021), Character 328; Zhu Y. et al. (2022), Character 580.
 
 581. Brachial process: (0) absent; (1) present.
 
-> Zhu et al. (2016), Character 369; Zhu Y. et al. (2021), Character 329;
-> Zhu Y. et al. (2022), Character 581.
+> Zhu et al. (2016), Character 369; Zhu Y. et al. (2021), Character 329; Zhu Y. et al. (2022), Character 581.
 
 582. Presupracleithrum: (0) absent; (1) present.
 
-> Zhu et al. (2009, Character 121), and references therein; Zhu et al.
-> (2013), Character 244; Choo et al. (2017), Character 231; King et al.
-> (2017), Character 203; Castiello (2018), Character 202; Zhu Y. et al.
-> (2022), Character 582.
+> Zhu et al. (2009, Character 121), and references therein; Zhu et al. (2013), Character 244; Choo et al. (2017), Character 231; King et al. (2017), Character 203; Castiello (2018), Character 202; Zhu Y. et al. (2022), Character 582.
 
-583. Anocleithrum: (0) element developed as postcleithrum; (1) element
-     developed as anocleithrum sensu stricto.
+583. Anocleithrum: (0) element developed as postcleithrum; (1) element developed as anocleithrum sensu stricto.
 
-> Zhu et al. (2009, Character 122), and references therein; Zhu et al.
-> (2013), Character 245; Choo et al. (2017), Character 232; King et al.
-> (2017), Character 430; Castiello (2018), Character 419; Zhu Y. et al.
-> (2022), Character 583.
+> Zhu et al. (2009, Character 122), and references therein; Zhu et al. (2013), Character 245; Choo et al. (2017), Character 232; King et al. (2017), Character 430; Castiello (2018), Character 419; Zhu Y. et al. (2022), Character 583.
 
-584. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of
-     the Placodermi) and pectoral spine (SP of the Placodermi): (0) not
-     fused; (1) fused.
+584. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused.
 
-> Zhu et al. (2009, Character 122), and references therein; Zhu et al.
-> (2013), Character 246; Choo et al. (2017), Character 234; King et al.
-> (2017), Character 431; Castiello (2018), Character 420; Zhu Y. et al.
-> (2022), Character 584.
+> Zhu et al. (2009, Character 122), and references therein; Zhu et al. (2013), Character 246; Choo et al. (2017), Character 234; King et al. (2017), Character 431; Castiello (2018), Character 420; Zhu Y. et al. (2022), Character 584.
 
-585. Shape of dorsal blade of dermal shoulder girdle: (0) spatulate; (1)
-     pointed.
+585. Shape of dorsal blade of dermal shoulder girdle: (0) spatulate; (1) pointed.
 
-> Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001),
-Character 94; Zhu & Schultze (2001), Character 164; Zhu et al. (2001),
-Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia
-(2004), Character 148; Zhu et al. (2006), Character 96; Friedman (2007),
-Character 107; Zhu et al. (2009), Character 124; Giles et al. (2015),
-Character 183; Choo et al. (2017), Character 307; King et al. (2017),
-Character 435; Castiello (2018), Character 424; Zhu Y. et al. (2022),
-Character 585.
+> Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu et al. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu et al. (2006), Character 96; Friedman (2007), Character 107; Zhu et al. (2009), Character 124; Giles et al. (2015), Character 183; Choo et al. (2017), Character 307; King et al. (2017), Character 435; Castiello (2018), Character 424; Zhu Y. et al. (2022), Character 585.
 
 586. Posterior dorsolateral plate or equivalent: (0) absent; (1)
      present.
 
-> Giles et al. (2015), Character 187; Choo et al. (2017), Character 308;
-> King et al. (2017), Character 436; Castiello (2018), Character 425;
-> Zhu Y. et al. (2022), Character 586.
+> Giles et al. (2015), Character 187; Choo et al. (2017), Character 308; King et al. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. et al. (2022), Character 586.
 
-587. Relationship of clavicle to cleithrum: (0) ascending process of
-     clavicle overlapping cleithrum laterally; (1) ascending process of
-     clavicle wrapping round anterior edge of cleithrum, overlapping it
-     both laterally and mesially.
+587. Relationship of clavicle to cleithrum: (0) ascending process of clavicle overlapping cleithrum laterally; (1) ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially.
 
-> Zhu et al. (2009, Character 126), and references therein; Zhu et al.
-> (2013), Character 247; Choo et al. (2017), Character 235; King et al.
-> (2017), Character 432; Castiello (2018), Character 421; Zhu Y. et al.
-> (2022), Character 587.
+> Zhu et al. (2009, Character 126), and references therein; Zhu et al. (2013), Character 247; Choo et al. (2017), Character 235; King et al. (2017), Character 432; Castiello (2018), Character 421; Zhu Y. et al. (2022), Character 587.
 
-588. Paired fins relation to cephalic shield: (0) continuous;(1)
-     delimited at pectoral sinus.
+588. Paired fins relation to cephalic shield: (0) continuous;(1) delimited at pectoral sinus.
 
 > Castiello (2018), Character 383; Zhu Y. et al. (2022), Character 588.
 
-589. Intromittent organ for internal fertilization ('claspers'): (0)
-     absent; (1) present.
+589. Intromittent organ for internal fertilization ('claspers'): (0) absent; (1) present.
 
-> King et al. (2017), Character 395; Castiello (2018), Character 385;
-> Zhu Y. et al. (2022), Character 589.
+> King et al. (2017), Character 395; Castiello (2018), Character 385; Zhu Y. et al. (2022), Character 589.
 
 590. Entepicondyle on humerus: (0) present; (1) absent.
 
@@ -2670,18 +2498,15 @@ Character 585.
 
 > King et al. (2017), Character 437; Castiello (2018), Character 426; Zhu Y. et al. (2022), Character 591.
 
-592. Left and right posterior dorsolateral plates contact below the
-     median dorsal plate: (0) absent; (1) present.
+592. Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
 > King et al. (2017), Character 438; Castiello (2018), Character 427; Zhu Y. et al. (2022), Character 592.
 
 593. PDL plate visible externally: (0) present; (1) absent.
 
-> King et al. (2017), Character 439; Castiello (2018), Character 428;
-> Zhu Y. et al. (2022), Character 593.
->
-> The original character state formulation was incorrect by comparison
-> to their codings in the data set.
+> King et al. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. et al. (2022), Character 593.
+
+> The original character state formulation was incorrect by comparison to their codings in the data set.
 
 594. Posteriorly produced spine on MD plate: (0) absent; (1) present.
 
@@ -2691,18 +2516,13 @@ Character 585.
 
 > King et al. (2017), Character 441; Castiello (2018), Character 430; Zhu Y. et al. (2022), Character 595.
 
-596. Cd1 (first dorsal central) and Cd2 (second dorsal central)
-     plates: (0) in contact; (1) separated.
+596. Cd1 (first dorsal central) and Cd2 (second dorsal central) plates: (0) in contact; (1) separated.
 
-> King et al. (2017), Character 442; Castiello (2018), Character 431;
-> Zhu Y. et al. (2022), Character 596.
+> King et al. (2017), Character 442; Castiello (2018), Character 431; Zhu Y. et al. (2022), Character 596.
 
-597. Clavicles/interolateral plates: (0) large plates, comparable in
-     size to cleithrum; (1) paired small semilunar plates; (2) unpaired
-     semilunar plates.
+597. Clavicles/interolateral plates: (0) large plates, comparable in size to cleithrum; (1) paired small semilunar plates; (2) unpaired semilunar plates.
 
-> King et al. (2017), Character 443; Castiello (2018), Character 432;
-> Zhu Y. et al. (2022), Character 597.
+> King et al. (2017), Character 443; Castiello (2018), Character 432; Zhu Y. et al. (2022), Character 597.
 
 598. Chang's apparatus: (0) absent; (1) present.
 
@@ -2711,193 +2531,129 @@ Character 585.
 
 599. Number of median dorsal plates: (0) one; (1) two; (2) three.
 
-> King et al. (2017), Character 445; Castiello (2018), Character 434;
-> Zhu Y. et al. (2022), Character 599.
+> King et al. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. et al. (2022), Character 599.
 
 600. Anocleithrum sensu stricto: (0) exposed; (1) subdermal.
 
-> King et al. (2017), Character 446; Castiello (2018), Character 435;
-> Zhu Y. et al. (2022), Character 600.
+> King et al. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. et al. (2022), Character 600.
 
 601. Median ventral trunk plates: (0) absent; (1) present.
 
-> King et al. (2017), Character 447; Castiello (2018), Character 436;
-> Zhu Y. et al. (2022), Character 601.
+> King et al. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. et al. (2022), Character 601.
 
 602. Extracleithrum: (0) absent; (1) present.
 
-> King et al. (2017), Character 448; Castiello (2018), Character 437;
-> Zhu Y. et al. (2022), Character 602.
+> King et al. (2017), Character 448; Castiello (2018), Character 437; Zhu Y. et al. (2022), Character 602.
 
 603. Pectoral fin spine small (bivalve-like): (0) absent; (1) present.
 
-> Castiello (2018), Character 438. King et al. (2017), Character 449;
-> Zhu Y. et al. (2022), Character 603.
+> Castiello (2018), Character 438. King et al. (2017), Character 449; Zhu Y. et al. (2022), Character 603.
 
-604. Dorsal branch of main lateral line canal on posterior dorsolateral
-     plate: (0) present; (1) absent.
+604. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
 
-> King et al. (2017), Character 325; Castiello (2018), Character 317;
-> Zhu Y. et al. (2022), Character 604.
->
-> The original character state formulation was incorrect by comparison
-> to their codings in the data set.
+> King et al. (2017), Character 325; Castiello (2018), Character 317; Zhu Y. et al. (2022), Character 604.
 
-605. Sharp downward bend in posterior dorsolateral plate sensory
-     line: (0) absent; (1) present.
+> The original character state formulation was incorrect by comparison to their codings in the data set.
 
-> King et al. (2017), Character 326; Castiello (2018), Character 318;
-> Zhu Y. et al. (2022), Character 605.
+605. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
+
+> King et al. (2017), Character 326; Castiello (2018), Character 318; Zhu Y. et al. (2022), Character 605.
 
 606. Horizontal caudal lobe: (0) absent; (1) present.
 
-> King et al. (2017), Character 451; Castiello (2018), Character 440;
-> Zhu Y. et al. (2022), Character 606.
+> King et al. (2017), Character 451; Castiello (2018), Character 440; Zhu Y. et al. (2022), Character 606.
 
 607. Triphycercal tail: (0) absent; (1) present.
 
-> King et al. (2017), Character 4521; Castiello (2018), Character 441;
-> Zhu Y. et al. (2022), Character 607.
+> King et al. (2017), Character 4521; Castiello (2018), Character 441; Zhu Y. et al. (2022), Character 607.
 
 608. Spine-brush complex: (0) absent; (1) present.
 
-> King et al. (2017), Character 479; Castiello (2018), Character 468;
-> Zhu Y. et al. (2022), Character 608.
+> King et al. (2017), Character 479; Castiello (2018), Character 468; Zhu Y. et al. (2022), Character 608.
 
-609. Series of median hexagonal scutes anterior to first dorsal fin: (0)
-     absent; (1) present.
+609. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
 
-> King et al. (2017), Character 480; Castiello (2018), Character 469;
-> Zhu Y. et al. (2022), Character 609.
+> King et al. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. et al. (2022), Character 609.
 
 610. Intermediate spines with finlets: (0) absent; (1) present.
 
-> King et al. (2017), Character 481; Castiello (2018), Character 470;
-> Zhu Y. et al. (2022), Character 610.
+> King et al. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. et al. (2022), Character 610.
 
 611. Median ventral prepectoral spine: (0) absent; (1) present.
 
-> King et al. (2017), Character 482; Castiello (2018), Character 471;
-> Zhu Y. et al. (2022), Character 611.
+> King et al. (2017), Character 482; Castiello (2018), Character 471; Zhu Y. et al. (2022), Character 611.
 
 612. Prepectoral spines form \"necklace\": (0) absent; (1) present.
 
-> King et al. (2017), Character 483; Castiello (2018), Character 472;
-> Zhu Y. et al. (2022), Character 612.
+> King et al. (2017), Character 483; Castiello (2018), Character 472; Zhu Y. et al. (2022), Character 612.
 
-613. Longitudinal rows of enlarged keeled scutes: (0) absent; (1)
-     present.
+613. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
 
-> King et al. (2017), Character 484; Castiello (2018), Character 473;
-> Zhu Y. et al. (2022), Character 613.
+> King et al. (2017), Character 484; Castiello (2018), Character 473; Zhu Y. et al. (2022), Character 613.
 
-614. Endoskeletal supports in pectoral fin: (0) multiple elements
-     articulating with girdle; (1) single element (\"humerus\")
-     articulating with girdle.
+614. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
 
-> Zhu *et al.* (2009, Character 130), and references therein; Zhu et al.
-> (2013), Character 250; Giles et al. (2015), Character 201; Choo et al.
-> (2017), Character 233; King et al. (2017), Character 409; Castiello
-> (2018), Character 398; Zhu Y. et al. (2022), Character 614.
+> Zhu *et al.* (2009, Character 130), and references therein; Zhu et al., (2013), Character 250; Giles et al. (2015), Character 201; Choo et al. (2017), Character 233; King et al. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. et al. (2022), Character 614.
 
 615. Triradiate scapulocoracoid: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 128), and references therein; Zhu et al.
-> (2013), Character 248; Choo et al. (2017), Character 236; King et al.
-> (2017), Character 410; Castiello (2018), Character 399; Zhu Y. et al.
-> (2022), Character 615.
+> Zhu *et al.* (2009, Character 128), and references therein; Zhu et al. (2013), Character 248; Choo et al. (2017), Character 236; King et al. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. et al. (2022), Character 615.
 
-616. Flange on trailing edge of scapulocoracoid: (0) absent; (1)
-     present.
+616. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
-> Davis (2002); Brazeau (2009); Davis et al. (2012), Character 113; Choo
-> et al. (2017), Character 109; King et al. (2017), Character 401;
-> Castiello (2018), Character 390; Zhu Y. et al. (2022), Character 616.
+> Davis (2002); Brazeau (2009); Davis et al. (2012), Character 113; Choo et al. (2017), Character 109; King et al. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. et al. (2022), Character 616.
 
 617. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
-> King et al. (2017), Character 419; Castiello (2018), Character 408;
-> Zhu Y. et al. (2022), Character 617.
+> King et al. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. et al. (2022), Character 617.
 
 618. Subscapular foramen: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 129), and references therein; Zhu et al.
-> (2013), Character 249; Choo et al. (2017), Character 237; King et al.
-> (2017), Character 411; Castiello (2018), Character 400; Zhu Y. et al.
-> (2022), Character 618.
+> Zhu *et al.* (2009, Character 129), and references therein; Zhu et al. (2013), Character 249; Choo et al. (2017), Character 237; King et al. (2017), Character 411; Castiello (2018), Character 400; Zhu Y. et al. (2022), Character 618.
 
 619. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau
-> (2009); Davis et al. (2012), Character 110; Choo et al. (2017),
-> Character 106; King et al. (2017), Character 398; Castiello (2018),
-> Character 387; Zhu Y. et al. (2022), Character 619.
+> Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis et al. (2012), Character 110; Choo et al. (2017), Character 106; King et al. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. et al. (2022), Character 619.
 
 620. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Davis et al. (2012), Character 114; Choo et
-> al. (2017), Character 110; King et al. (2017), Character 402;
-> Castiello (2018), Character 391; Zhu Y. et al. (2022), Character 620.
+> Coates & Sequeira (2001); Davis et al. (2012), Character 114; Choo et al. (2017), Character 110; King et al. (2017), Character 402; Castiello (2018), Character 391; Zhu Y. et al. (2022), Character 620.
 
 621. Scapular infundibulum: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 190; Choo et al. (2017), Character 309;
-> King et al. (2017), Character 413; Castiello (2018), Character 402;
-> Zhu Y. et al. (2022), Character 621.
->
-> This character refers to the dermal opening for the scapulocoracoid.
-> In antiarchs, the scapula is situated within an infundibulum, rather
-> than a fenestration.
+> Giles et al. (2015), Character 190; Choo et al. (2017), Character 309; King et al. (2017), Character 413; Castiello (2018), Character 402; Zhu Y. et al. (2022), Character 621.
 
-622. Ventral margin of separate scapular ossification: (0)
-     horizontal; (1) deeply angled.
+> This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
 
-> Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character
-> 111; Choo et al. (2017), Character 107; King et al. (2017), Character
-> 399; Castiello (2018), Character 388; Zhu Y. et al. (2022), Character
-> 622.
+622. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
-623. Cross sectional shape of scapular process: (0) flattened or
-     strongly ovate; (1) subcircular.
+> Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 111; Choo et al. (2017), Character 107; King et al. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. et al. (2022), Character 622.
 
-> Davis (2002); Brazeau (2009); Davis et al. (2012), Character 112; Choo
-> et al. (2017), Character 108; King et al. (2017), Character 400;
-> Castiello (2018), Character 389; Zhu Y. et al. (2022), Character 623.
+623. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
-624. Endoskeletal postbranchial lamina on scapular process: (0)
-     present; (1) absent.
+> Davis (2002); Brazeau (2009); Davis et al. (2012), Character 112; Choo et al. (2017), Character 108; King et al. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. et al. (2022), Character 623.
 
-> Brazeau (2009); Davis et al. (2012), Character 115; Choo et al.
-> (2017), Character 111; King et al. (2017), Character 403; Castiello
-> (2018), Character 392; Zhu Y. et al. (2022), Character 624.
+624. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
-625. Mineralisation of internal surface of scapular blade: (0)
-     mineralised all around; (1) unmineralised on internal face forming
-     a hemicylindrical cross-section.
+> Brazeau (2009); Davis et al. (2012), Character 115; Choo et al. (2017), Character 111; King et al. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. et al. (2022), Character 624.
 
-> Brazeau (2009); Davis et al. (2012), Character 116; Choo et al.
-> (2017), Character 112; King et al. (2017), Character 404; Castiello
-> (2018), Character 393; Zhu Y. et al. (2022), Character 625.
+625. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
+
+> Brazeau (2009); Davis et al. (2012), Character 116; Choo et al. (2017), Character 112; King et al. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. et al. (2022), Character 625.
 
 626. Coracoid process: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 117; Choo et al.
-> (2017), Character 113; King et al. (2017), Character 405; Castiello
-> (2018), Character 394; Zhu Y. et al. (2022), Character 626.
+> Brazeau (2009); Davis et al. (2012), Character 117; Choo et al. (2017), Character 113; King et al. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. et al. (2022), Character 626.
 
 627. Procoracoid mineralisation: (0) absent; (1) present.
 
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis et al.
-> (2012), Character 118; Choo et al. (2017), Character 114; King et al.
-> (2017), Character 406; Castiello (2018), Character 395; Zhu Y. et al.
-> (2022), Character 627.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 118; Choo et al. (2017), Character 114; King et al. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. et al. (2022), Character 627.
 
 628. Paired (pectoral) fins: (0) absent; (1) present.
 
 > Castiello (2018), Character 382; Zhu Y. et al. (2022), Character 628.
 
-629. Pectoral fins covered in macromeric dermal armour: (0) absent; (1)
-     present.
+629. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 
 > Brazeau (2009); Davis et al. (2012), Character 124; Choo et al. (2017), Character 120; Zhu Y. et al. (2022), Character 629.
 
@@ -2905,48 +2661,31 @@ Character 585.
 
 > Zhu et al. (2016), Character 371; Zhu Y. et al. (2021), Character 330; Zhu Y. et al. (2022), Character 630.
 
-631. Pectoral fin base has large, hemispherical dermal component: (0)
-     absent; (1) present.
+631. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 125; Choo et al.
-> (2017), Character 121; King et al. (2017), Character 427; Castiello
-> (2018), Character 416; Zhu Y. et al. (2022), Character 631.
+> Brazeau (2009); Davis et al. (2012), Character 125; Choo et al. (2017), Character 121; King et al. (2017), Character 427; Castiello (2018), Character 416; Zhu Y. et al. (2022), Character 631.
 
-632. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or
-     more basals.
+632. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
 
-> Choo et al. (2017), Character 310; King et al. (2017), Character 414;
-> Coates et al. (2018), Character 227; Castiello (2018), Character 403;
-> Zhu Y. et al. (2022), Character 632.
+> Choo et al. (2017), Character 310; King et al. (2017), Character 414; Coates et al. (2018), Character 227; Castiello (2018), Character 403; Zhu Y. et al. (2022), Character 632.
 
-633. Fin base articulation on scapulocoracoid: (0) deeper than wide
-     (stenobasal); (1) wider than deep (eurybasal).
+633. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 
-> Choo et al. (2017), Character 115; King et al. (2017), Character 407;
-> Castiello (2018), Character 396; Zhu Y. et al. (2022), Character 633.
+> Choo et al. (2017), Character 115; King et al. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. et al. (2022), Character 633.
 
-634. Number of mesomeres in metapterygial axis: (0) five or fewer; (1)
-     seven or more.
+634. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
-> Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001),
-Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002),
-Character 132; Friedman (2007), Character 115; Giles et al. (2015),
-Character 204; Choo et al. (2017), Character 311; King et al. (2017),
-Character 415; Castiello (2018), Character 404; Zhu Y. et al. (2022),
-Character 634.
+> Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles et al. (2015), Character 204; Choo et al. (2017), Character 311; King et al. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. et al. (2022), Character 634.
 
 635. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
 
 > Giles et al. (2015), Character 205; Choo et al. (2017), Character 312; King et al. (2017), Character 416; Castiello (2018), Character 405; Zhu Y. et al. (2022), Character 635.
 
-636. Filamentous extension of pectoral fin from axillary region: (0)
-     absent; (1) present.
+636. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
 
 > Giles et al. (2015), Character 207; Choo et al. (2017), Character 313; King et al. (2017), Character 417; Castiello (2018), Character 406; Zhu Y. et al. (2022), Character 636.
 
-637. Metapterygium pectinate subtriangular plate or bar supporting
-     numerous (six or more) radials along distal edge: (0) absent; (1)
-     present.
+637. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 228; Zhu Y. et al. (2022), Character 637.
 
@@ -2956,20 +2695,13 @@ Character 634.
 
 639. Pectoral propterygium: (0) absent; (1) present.
 
-> Zhu *et al.* (2009, Character 131), and references therein; Zhu et al.
-> (2013), Character 251; Choo et al. (2017), Character 238; King et al.
-> (2017), Character 412; Castiello (2018), Character 401; Zhu Y. et al.
-> (2022), Character 639.
+> Zhu *et al.* (2009, Character 131), and references therein; Zhu et al. (2013), Character 251; Choo et al. (2017), Character 238; King et al. (2017), Character 412; Castiello (2018), Character 401; Zhu Y. et al. (2022), Character 639.
 
 640. Perforate propterygium: (0) absent; (1) present.
 
-> Rosen *et al.* (1981); Patterson (1982); Davis et al. (2012),
-> Character 120; Choo et al. (2017), Character 116; King et al. (2017),
-> Character 408; Castiello (2018), Character 397; Zhu Y. et al. (2022),
-> Character 640.
+> Rosen *et al.* (1981); Patterson (1982); Davis et al. (2012), Character 120; Choo et al. (2017), Character 116; King et al. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. et al. (2022), Character 640.
 
-641. Distal articulation of propterygium: (0) with fin rays; (1) with a
-     second enlarged element; (2) no articulation.
+641. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
 
 > King et al. (2017), Character 420; Castiello (2018), Character 409; Zhu Y. et al. (2022), Character 641.
 
@@ -2979,40 +2711,29 @@ Character 634.
 
 643. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 
-> Zhu *et al.* (2012b); Zhu et al. (2013), Character 252; Choo et al.
-> (2017), Character 239; King et al. (2017), Character 433; Castiello
-> (2018), Character 422; Zhu Y. et al. (2022), Character 643.
+> Zhu *et al.* (2012b); Zhu et al. (2013), Character 252; Choo et al. (2017), Character 239; King et al. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. et al. (2022), Character 643.
 
 644. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 123; Choo et al.
-> (2017), Character 119; King et al. (2017), Character 396; Castiello
-> (2018), Character 386; Zhu Y. et al. (2022), Character 644.
+> Brazeau (2009); Davis et al. (2012), Character 123; Choo et al. (2017), Character 119; King et al. (2017), Character 396; Castiello (2018), Character 386; Zhu Y. et al. (2022), Character 644.
 
 645. Pelvic fin: (0) monobasal; (1) polybasal.
 
 > Lu et al. (2017), Character 278; Zhu Y. et al. (2022), Character 645.
 
-646. Intromittent organ containing bone, not associated with pelvic
-     fins: (0) absent; (1) present.
+646. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
 
-> Janvier (1996); Davis et al. (2012), Character 122; Choo et al.
-> (2017), Character 118; Zhu Y. et al. (2022), Character 646.
+> Janvier (1996); Davis et al. (2012), Character 122; Choo et al. (2017), Character 118; Zhu Y. et al. (2022), Character 646.
 
-647. Intromittent organ with one large J-shaped element: (0) absent; (1)
-     present.
+647. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
 
-> Long et al., (2015), Character 258; Choo et al. (2017), Character 250;
-> Zhu Y. et al. (2022), Character 647.
+> Long et al., (2015), Character 258; Choo et al. (2017), Character 250; Zhu Y. et al. (2022), Character 647.
 
-648. Intromittent organ (\'clasper\') consisting entirely of cartilage,
-     formed from distal part of pelvic fin: (0) absent; (1) present.
+648. Intromittent organ (\'clasper\') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
-> Long et al., (2015), Character 259; Choo et al. (2017), Character 251;
-> Zhu Y. et al. (2022), Character 648.
+> Long et al., (2015), Character 259; Choo et al. (2017), Character 251; Zhu Y. et al. (2022), Character 648.
 
-649. Pelvic girdle with fused puboischiadic bar: (0) absent; (1)
-     present.
+649. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 233; Zhu Y. et al. (2022), Character 649.
 
@@ -3026,127 +2747,65 @@ Character 634.
 
 652. Number of dorsal fins, if present: (0) one; (1) two.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis et al. (2012),
-> Character 136; Choo et al. (2017), Character 132; King et al. (2017),
-> Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022),
-> Character 652.
+> Coates & Sequeira (2001); Brazeau (2009); Davis et al. (2012), Character 136; Choo et al. (2017), Character 132; King et al. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. et al. (2022), Character 652.
 
-653. Posterior dorsal fin shape: (0) base approximately as broad as
-     tall, not broader than all of other median fins; (1) base much
-     longer than the height of the fin, substantially longer than any of
-     the other dorsal fins.
+653. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
-> Giles et al. (2015), Character 229; Choo et al. (2017), Character 320;
-> King et al. (2017), Character 476; Castiello (2018), Character 465;
-> Zhu Y. et al. (2022), Character 653.
->
-> This is admittedly a compound character. This owes to the problems of
-> rendering ratio-scale continuous characters as a discrete character.
-> Our conceptualisation of this character is intended to capture the
-> distinctively broad or ribbon-shaped second dorsal fins that are
-> differentiated from any of the other median fins, and the generalized
-> triangular shape of many gnathostomes and their relatives. In taxa
-> possessing only a single dorsal fin, we have scored taxa where we
-> think the observed fin is equivalent to a posterior dorsal fin. This
-> is based on the postition of the posterior dorsal fin behind or at the
-> level of the posterior limit of the posterior wall of the body cavity
-> (as indicated by the position of the pelvic girdle and/or anal fin, or
-> evidence of the body cavity present as an infill). We have
-> reinterpreted the vertebral column of *Cowralepis*, arguing that
-> Ritchie\'s (2005) reconstruction inverts the dorsoventral orientation.
-> Ritchie\'s sub-haemal spines are here interpreted as dorsal or caudal
-> fin radials. This is evidenced by the fact that the series bearing
-> these epi-spinal elements continues under the dermal shoulder armour,
-> while the opposing series terminates at the level of the pelvic fins
-> (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better
-> explains the direction of the gentle sigmoid bend seen in several
-> specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of
-> specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the
-> collapsed vertebral column can be observed. In the specimen showing
-> the dorsal surface, the chordal surface the series lacking the
-> accessory elements is observed, suggesting this was their ventral
-> surface rather than dorsal. (Giles et al., 2015)
+> Giles et al. (2015), Character 229; Choo et al. (2017), Character 320; King et al. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. et al. (2022), Character 653.
+
+> This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie\'s (2005) reconstruction inverts the dorsoventral orientation. Ritchie\'s sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal. (Giles et al., 2015)
 
 654. Basal plate in dorsal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles et al. (2015), Character 230; Choo et al. (2017), Character 321; King et al. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. et al. (2022), Character 654.
 
-655. Branching radial structure articulating with dorsal fin basal
-     plate: (0) absent; (1) present.
+655. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 231; Choo et al. (2017), Character 322;
-> King et al. (2017), Character 456; Castiello (2018), Character 445;
-> Zhu Y. et al. (2022), Character 655.
+> Giles et al. (2015), Character 231; Choo et al. (2017), Character 322; King et al. (2017), Character 456; Castiello (2018), Character 445; Zhu Y. et al. (2022), Character 655.
 
 656. Branching radials in paired fins: (0) absent; (1) present.
 
 > Zhu Y. et al. (2021), Character 197; Zhu Y. et al. (2022), Character 656.
 
-657. Posterior or pelvic-level dorsal fin with calcified base plate: (0)
-     absent; (1) present.
+657. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 241; Zhu Y. et al. (2022), Character 657.
 
-658. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1)
-     present.
+658. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 242; Zhu Y. et al. (2022), Character 658.
 
 659. Anal fin: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis et al. (2012),
-> Character 137; Choo et al. (2017), Character 133; King et al. (2017),
-> Character 466; Castiello (2018), Character 455; Zhu Y. et al. (2022),
-> Character 659.
+> Coates & Sequeira (2001); Brazeau (2009); Davis et al. (2012), Character 137; Choo et al. (2017), Character 133; King et al. (2017), Character 466; Castiello (2018), Character 455; Zhu Y. et al. (2022), Character 659.
 
 660. Basal plate in anal fin: (0) absent; (1) present.
 
-> Friedman & Brazeau (2010), Character 42; Giles et al. (2015),
-> Character 233; Choo et al. (2017), Character 323; King et al. (2017),
-> Character 478; Castiello (2018), Character 467; Zhu Y. et al. (2022),
-> Character 660.
+> Friedman & Brazeau (2010), Character 42; Giles et al. (2015), Character 233; Choo et al. (2017), Character 323; King et al. (2017), Character 478; Castiello (2018), Character 467; Zhu Y. et al. (2022), Character 660.
 
-661. Anal fin base narrow, posteriormost proximal segments radials
-     broad: (0) absent; (1) present.
+661. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 245; Zhu Y. et al. (2022), Character 661.
 
-662. Caudal radials: (0) extend beyond level of body wall and deep into
-     hypochordal lobe; (1) restricted to axial lobe.
+662. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
 
-> Davis et al. (2012), Character 138; Choo et al. (2017), Character 134;
-> King et al. (2017), Character 453; Castiello (2018), Character 442;
-> Zhu Y. et al. (2022), Character 662.
+> Davis et al. (2012), Character 138; Choo et al. (2017), Character 134; King et al. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. et al. (2022), Character 662.
 
 663. Series of thoracic supraneurals: (0) absent; (1) present.
 
-> Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998),
-> Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001),
-> Character 142; Zhu & Yu (2001), Character 142; Friedman (2007),
-> Character 125; Giles et al. (2015), Character 227; Choo et al. (2017),
-> Character 319; King et al. (2017), Character 455; Castiello (2018),
-> Character 444; Zhu Y. et al. (2022), Character 663.
+> Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125; Giles et al. (2015), Character 227; Choo et al. (2017), Character 319; King et al. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. et al. (2022), Character 663.
 
 664. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
 
-> Giles et al. (2015), Character 235; Choo et al. (2017), Character 314;
-> King et al. (2017), Character 454; Castiello (2018), Character 443;
-> Zhu Y. et al. (2022), Character 664.
+> Giles et al. (2015), Character 235; Choo et al. (2017), Character 314; King et al. (2017), Character 454; Castiello (2018), Character 443; Zhu Y. et al. (2022), Character 664.
 
-665. Caudal neural and/or supraneural spines or radials: (0) short; (1)
-     long, expanded, and supporting high aspect-ratio (lunate) tail with
-     notochord extending to posterodorsal extremity; (2) notochord
-     terminates pre-caudal extremity, neural and heamal radial lengths
-     near symmetrical and support epichordal and hypochordal lobes
-     respectively.
+665. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
 
 > Coates et al. (2018), Character 247; Zhu Y. et al. (2022), Character 665.
 
 666. Synarcual: (0) absent; (1) present.
 
-> Brazeau (2009); Davis et al. (2012), Character 135; Choo et al.
-> (2017), Character 131; King et al. (2017), Character 465; Castiello
-> (2018), Character 454; Zhu Y. et al. (2022), Character 666.
+> Brazeau (2009); Davis et al. (2012), Character 135; Choo et al. (2017), Character 131; King et al. (2017), Character 465; Castiello (2018), Character 454; Zhu Y. et al. (2022), Character 666.
 
 667. Calcified vertebral centra: (0) absent; (1) present.
 
@@ -3156,13 +2815,11 @@ Character 634.
 
 > Coates et al. (2018), Character 208; Zhu Y. et al. (2022), Character 668.
 
-669. Chordacentra polyspondylous and consist of narrow closely packed
-     rings: (0) absent; (1) present.
+669. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 209; Zhu Y. et al. (2022), Character 669.
 
-670. Brush complex of bilaterally distributed calcified tubes flanking
-     or embedded in calcified cartilage core: (0) absent; (1) present.
+670. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 240; Zhu Y. et al. (2022), Character 670.
 
