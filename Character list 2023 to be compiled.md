@@ -353,8 +353,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Score changed from 1 to 0 for *Eurycaraspis*, 1 to ? for *Paucipetalichthys*, ? to 0 for *Qilinyu* as for antiarchs.
 
-83. Cutaneous sensory organ on suborbital plate: (0) absent; (1)
-    present.
+83. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
 > King et al. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. et al. (2022), Character 83.
 
@@ -454,7 +453,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > King et al. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. et al. (2022), Character 106.
 
-> *Buchanosteus* *confertituberculatus* is coded 1 (Young, 1979).
+> *Buchanosteus confertituberculatus* is coded 1 (Young, 1979).
 
 107. Accessory operculum: (0) absent; (1) present.
 
@@ -930,7 +929,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Giles et al. (2015), Character 54; Choo et al. (2017), Character 278; King et al. (2017), Character 214; Castiello (2018), Character 213; Zhu Y. et al. (2021), Character 52; Zhu Y. et al. (2022), Character 218.
 
-> This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State \'0\' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms. (Giles et al., 2015)
+> Giles et al. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State \'0\' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.” 
 
 219. Subsquamosals in taxa with divided cheek: (0) absent; (1) present.
 
@@ -1154,8 +1153,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Coates et al. (2018), Character 91. Zhu Y. et al. (2021), Character 354; Zhu Y. et al. (2022), Character 272.
 
-273. Teeth of dentary: (0) reaching anterior end of dentary; (1) not
-     reaching anterior end.
+273. Teeth of dentary: (0) reaching anterior end of dentary; (1) not reaching anterior end.
 
 > Zhu *et al.* (2009, Character 87), and references therein; Zhu et al. (2013), Character 200; Choo et al. (2017), Character 204; Zhu Y. et al. (2022), Character 273.
 
@@ -1755,7 +1753,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Giles et al. (2015), Character 132; Choo et al. (2017), Character 295; Coates et al. (2018), Character 165; King et al. (2017), Character 77; Castiello (2018), Character 79; Zhu Y. et al. (2021), Character 129; Zhu Y. et al. (2022), Character 417.
 
-> Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and Entelegnathus, where a bridge encloses the jugular vein: Yu 1998; Zhu et al. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu et al. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., Macropetalichthys) or where the palatoquadrate is fused to the neurocranium (e.g., Helodus) are coded as uncertain for this character. (Giles et al., 2015)
+> Giles et al. (2015): "Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and *Entelegnathus*, where a bridge encloses the jugular vein: Yu 1998; Zhu et al. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu et al. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., *Macropetalichthys*) or where the palatoquadrate is fused to the neurocranium (e.g., *Helodus*) are coded as uncertain for this character."
 
 418. Elongated distance between postorbital process and the articulation for hyomandibular: (0) absent; (1) present.
 
@@ -1787,7 +1785,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Giles et al. (2015), Character 126; Choo et al. (2017), Character 294; King et al. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. et al. (2022), Character 424.
 
-> This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability. (Giles et al., 2015)
+> Giles et al. (2015)：“This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
 
 425. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
@@ -1883,8 +1881,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis et al. (2012), Character 72; Choo et al. (2017), Character 71; King et al. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. et al. (2022), Character 447.
 
-> Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital 
-process in relation to the overall length of the braincase is used to demarcate these proportions."
+> Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital process in relation to the overall length of the braincase is used to demarcate these proportions."
 
 > Long otico-occipital region of braincase is shared by placoderms, some chondrichchthyans (including 'acanthodians') and *Megamastax*.
 
@@ -1952,7 +1949,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Giles et al. (2015), Character 154; Choo et al. (2017), Character 299; King et al. (2017), Character 81; Castiello (2018), Character 83; Zhu Y. et al. (2022), Character 462.
 
-> This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character. (Giles et al., 2015)
+> Giles et al. (2015)：“This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.”
 
 463. Crus commune connecting anterior and posterior semicircular canals: (0) present; (1) absent.
 
@@ -2078,8 +2075,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Davis et al. (2012), Character 91; Choo et al. (2017), Character 90; King et al. (2017), Character 52; Castiello (2018), Character 52; Zhu Y. et al. (2021), Character 155; Zhu Y. et al. (2022), Character 493.
 
-494. Dorsal otic ridge forms a crest posteriorly: (0) absent; (1)
-     present.
+494. Dorsal otic ridge forms a crest posteriorly: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 189; King et al. (2017), Character 118; Castiello (2018), Character 120; Zhu Y. et al. (2022), Character 494.
 
@@ -2109,13 +2105,13 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Schaeffer (1981); Coates & Sequeira (1998); Giles et al. (2015), Character 125; Choo et al. (2017), Character 293; King et al. (2017), Character 75; Castiello (2018), Character 77; Zhu Y. et al. (2022), Character 500.
 
-> This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164. (Giles et al., 2015)
+> Giles et al. (2015)：“This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164.” 
 
 501. Subcranial ridges: (0) absent; (1) present.
 
 > Giles et al. (2015), Character 141; Choo et al. (2017), Character 298; King et al. (2017), Character 80; Castiello (2018), Character 82; Zhu Y. et al. (2022), Character 501.
 
-> Subcranial ridges were first described in *Doliodus* by Maisey et al. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and *Mimipiscis* (Gardiner, 1984: fig. 50), where they greatly reduced in length. (Giles et al., 2015)
+> Giles et al. (2015)：“Subcranial ridges were first described in *Doliodus* by Maisey et al. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and *Mimipiscis* (Gardiner, 1984: fig. 50), where they greatly reduced in length.”
 
 502. Synotic tectum: (0) absent; (1) present.
 
@@ -2133,7 +2129,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Castiello (2018), Character 92; Zhu Y. et al. (2022), Character 505.
 
-506. Number of \"sel\" canals: (0) five; (1) less than 5.
+506. Number of ‘sel’ canals: (0) five; (1) less than 5.
 
 > King et al. (2017), Character 91; Castiello (2018), Character 95; Zhu Y. et al. (2022), Character 506.
 
@@ -2257,7 +2253,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Giles et al. (2015), Character 166; Choo et al. (2017), Character 302; King et al. (2017), Character 84; Castiello (2018), Character 86; Zhu Y. et al. (2022), Character 536.
 
-> Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\'). (Giles et al., 2015)
+> Giles et al. (2015): "Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
 537. Periotic process: (0) absent; (1) present.
 
@@ -2335,7 +2331,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Giles et al. (2015), Character 176; Choo et al. (2017), Character 304; King et al. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. et al. (2022), Character 554.
 
-> In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate. (Giles et al., 2015)
+>  Giles et al. (2015): "In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate."
 
 555. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
@@ -2717,7 +2713,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Long et al., (2015), Character 258; Choo et al. (2017), Character 250; Zhu Y. et al. (2022), Character 647.
 
-648. Intromittent organ (\'clasper\') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
+648. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
 > Long et al., (2015), Character 259; Choo et al. (2017), Character 251; Zhu Y. et al. (2022), Character 648.
 
@@ -2741,7 +2737,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Giles et al. (2015), Character 229; Choo et al. (2017), Character 320; King et al. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. et al. (2022), Character 653.
 
-> This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie\'s (2005) reconstruction inverts the dorsoventral orientation. Ritchie\'s sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal. (Giles et al., 2015)
+> Giles et al. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
 
 654. Basal plate in dorsal fin: (0) absent; (1) present.
 
@@ -2843,8 +2839,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 678. Intermediate spines when present: (0) one pair; (1) multiple pairs.
 
-> Giles et al. (2015), Character 219; Choo et al. (2017), Character 316;
-> King et al. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. et al. (2022), Character 678.
+> Giles et al. (2015), Character 219; Choo et al. (2017), Character 316; King et al. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. et al. (2022), Character 678.
 
 679. Prepectoral fin spines: (0) absent; (1) present.
 
@@ -2870,8 +2865,7 @@ process in relation to the overall length of the braincase is used to demarcate 
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 133; Choo et al. (2017), Character 129; King et al. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. et al. (2022), Character 684.
 
-685. Fin spines with rows of large retrorse denticles: (0) absent; (1)
-     present.
+685. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
 
 > Davis et al. (2012), Character 134; Choo et al. (2017), Character 130; King et al. (2017), Character 464; Castiello (2018), Character 453; Zhu Y. et al. (2022), Character 685.
 
