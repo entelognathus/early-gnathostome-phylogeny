@@ -2099,7 +2099,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 > Brazeau (2009): "From Coates and Sequeira (1998). While this character (enclosed dorsal aorta) is originally proposed as a synapomorphy of chondrichthyans, it is present in some placoderms. Certain early actinopterygians have an enclosed dorsal aorta and at least partially closed basicranial course for the lateral dorsal aortae (ref. 18, cf. fig 15). This may therefore be a gnathostome symplesiomorphy or simply highly variable."
  
-> The character formulation in the attached nexus file ("Dorsal aorta canal in basicranium: (0) absent, (1) present") is slightly different from that in the text file of Coates et al. (2018). Polarity was reversed in two usages. This resulted in the coding confusion in the following datasets. ***(to check the codings in our dataset)***
+> The character formulation in the attached nexus file ("Dorsal aorta canal in basicranium: (0) absent, (1) present") is slightly different from that in the text file of Coates et al. (2018), which is followed by the later datasets. Polarity was reversed in two usages. Based on their codings, the formulation in the nexus file is incorrect.
 
 499. Dorsal aorta divides into lateral dorsal aortae: (0) posterior to occipital level; (1) anterior to level of the occiput.
 
