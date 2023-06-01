@@ -2905,6 +2905,20 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 ## Newly-added characters
 
-692. test
+692. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 
-> test
+> Cui et al. (in prep.), Character 692.
+
+693. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
+
+> Cui et al. (in prep.), Character 693.
+
+694. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
+
+> Cui et al. (in prep.), Character 694.
+
+695. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
+
+> Cui et al. (in prep.), Character 695.
+
+
