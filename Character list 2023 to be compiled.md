@@ -1,4 +1,4 @@
-# List of characters in Zhu Y. et al. (2022)
+# Character List: 1-691 from Zhu Y. et al. (2022), 692-695 from Cui et al. (in prep.)
 
 ## Skeletal tissues
 
