@@ -152,7 +152,8 @@ Score changed from 0 to 1 for Galeaspida.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 8; Choo et al. (2017), Character 7; Coates et al. (2018), Character 9; King et al. (2017), Character 485; Castiello (2018), Character 474; Zhu Y. et al. (2022), Character 35.
 
-> The coding of *Helodus* is changed from 1 to 0 (Coates et al., 2018).
+> The coding of *Helodus* is changed from 0 to 1 (Coates et al., 2018).
+> The coding of *Halimacanthodes ahlbergi* is changed from 1 to 0 (Burrow et al., 2012).
 
 36. Body scale growth concentric: (0) absent; (1) present.
 
@@ -162,10 +163,13 @@ Score changed from 0 to 1 for Galeaspida.
 
 > Gardiner (1984); Coates (1999); Brazeau (2009); Davis et al. (2012), Character 10; Choo et al. (2017), Character 9; King et al. (2017),
 Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 37.
+> The coding of *Entelognathus primordialis* is changed from 0 to 1 based on new data.
+> The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Long et al., 1997 Fig.51)
 
 38. Peg on rhomboid scale: (0) longer than wide (narrow); (1) wider than long (broad).
 
 > Zhu *et al.* (2009, Character 139), and references therein; Zhu et al. (2013), Character 143; Giles et al. (2015), Character 19; Choo et al. (2017), Character 138; King et al. (2017), Character 492; Castiello (2018), Character 477; Zhu Y. et al. (2022), Character 38.
+> The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data.
 
 39. Body scale profile: (0) distinct crown and base demarcated by a constriction (neck); (1) flattened.
 
@@ -174,12 +178,17 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 40. Body scales with bulging base: (0) absent; (1) present.
 
 > Brazeau (2009); Davis et al. (2012), Character 12; Choo et al. (2017), Character 11; King et al. (2017), Character 489; Castiello (2018), Character 479; Zhu Y. et al. (2022), Character 40.
+> The coding of *Climatius reticulatus* is changed from 0 to 1 (Burrow et al., 2015 Fig.5Q)
 
 41. Body scales with flattened base: (0) absent; (1) present.
 
 > Brazeau (2009); Davis et al. (2012), Character 13; Choo et al. (2017), Character 12; King et al. (2017), Character 490; Castiello (2018), Character 480; Zhu Y. et al. (2022), Character 41.
 
 > The character states in Brazeau (2009, Character 13) were reversed.
+> The coding of *Parayunnanolepis xitunensis* is changed from 0 to 1 (Wang and Zhu, 2022)
+> The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998)
+> The coding of *Gavinia syntrips* is changed from 0 to 1 (Long, 1999)
+> The coding of *Uranolophus wyomingensis* is changed from 0 to 1 (Denison, 1968 Figs. 20, 25)
 
 42. Relationship of crown and base of isolated trunk scale: (0) crown fully covering the base; (1) crown sitting on the bony base, with an exposed depressed field overlapped by adjacent scale in articulation.
 
@@ -188,6 +197,9 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 43. Profile of scales with constriction between crown and base: (0) neck similar in width to crown; (1) neck greatly constricted, resulting in anvil-like shape.
 
 > Giles et al. (2015), Character 22; Choo et al. (2017), Character 262; King et al. (2017), Character 494; Castiello (2018), Character 483; Zhu Y. et al. (2022), Character 43.
+> The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen et al., 2012)
+> The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles et al., 2015 Fig. 2e)
+> The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
 
 44. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
 
@@ -196,6 +208,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 45. Neck canal: (0) absent; (1) present.
 
 > Coates et al. (2018), Character 16; Zhu Y. et al. (2022), Character 45.
+> The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998 Fig. 6)
 
 46. Keel of scale: (0) absent; (1) present.
 
@@ -204,6 +217,8 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 47. Posterior ledge (or secondary keel) of scale: (0) absent; (1) weak; (2) developed.
 
 > Cui et al. (2019), Character 344; Zhu Y. et al. (2022), Character 47.
+> The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972)
+> The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972)
 
 48. Anteroventral process of scale: (0) absent; (1) present.
 
@@ -216,6 +231,7 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 50. Anterodorsal process on scale: (0) absent; (1) present.
 
 > Zhu *et al.* (2009, Character 140), and references therein; Zhu et al. (2013), Character 144; Giles et al. (2015), Character 20; Choo et al. (2017), Character 139; King et al. (2017), Character 493; Castiello (2018), Character 482; Zhu Y. et al. (2022), Character 50.
+> The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data.
 
 > Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
 
