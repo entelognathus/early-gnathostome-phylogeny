@@ -1,4 +1,4 @@
-# Character List: 1-691 from Zhu Y. et al. (2022), 692-695 from Cui et al. (in prep.)
+# Character List: 1-691 from Zhu Y. et al. (2022), 692-695 from Cui et al. (in review)
 
 ## Skeletal tissues
 
@@ -2922,18 +2922,19 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 692. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 
-> Cui et al. (in prep.), Character 692.
+> Cui et al. (in review), Character 691.
 
 693. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
-> Cui et al. (in prep.), Character 693.
+> Cui et al. (in review), Character 692.
 
 694. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
-> Cui et al. (in prep.), Character 694.
+> Cui et al. (in review), Character 693.
 
 695. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
-> Cui et al. (in prep.), Character 695.
+> Cui et al. (in review), Character 694.
+
 
 
