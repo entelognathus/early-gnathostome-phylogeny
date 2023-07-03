@@ -20,7 +20,9 @@
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
-> Forey (1980); Gardiner (1984); Brazeau (2009); Davis et al. (2012), Character 3; Choo et al. (2017), Character 3; King et al. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. et al. (2022), Character 5.
+> Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis et al. (2012), Character 3; Choo et al. (2017), Character 3; King et al. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. et al. (2022), Character 5.
+
+> Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
