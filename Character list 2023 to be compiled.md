@@ -116,13 +116,18 @@ Score changed from 0 to 1 for Galeaspida.
 
  *Squamation & related structures*
 
-27. Lepidotrichia or lepidotrichia-like scale alignment: (0) present; (1) absent.
+27. Longitudinal	scale	alignment	in	fin	webs: (0) present; (1) absent.
 
-> Davis et al. (2012), Character 7; Choo et al. (2017), Character 6; Zhu Y. et al. (2022), Character 27.
+> Brazeau (2009), Character 7; Davis et al. (2012), Character 7; Giles et al. (2015), Character 13; Choo et al. (2017), Character 6; Zhu Y. et al. (2022), Character 27.
+
+> Giles et al. (2015):" The	character	formulation	of	Davis	et	al.	(2012)	did	not	distinguish	between	ordered	arrangements	of	fin	scales	and	lepidotrichia.	Acanthodians	and	*Dialipina* (uncatalogued	specimen,	Musem	für	Naturkunde,	Berlin)	exhibit	fin	web	scales	that	are	not	markedly	distinguished	from	the	body	scales.	Fin	web	scales	of	*Dialipina* even	include	a	distinct	peg-and-socket	articulation.	This	character	thus	refers	to	the	alignment	only,	but	not	to	the	specialized	rectangle-shaped	scales	in	osteichthyans.	*Poracanthodes* is	changed	to	'?'	because	fin	webs	do	not	appear	to	be	preserved	in	articulated	specimens	(Valiukevicius	1992).	*Brachyacanthus* and	*Parexus* scored	'1'	(pers.	obs.	SG,	NHMUK	P.130,	P.38593	for	*Parexus*,	and	NHMUK	P.6959	and	P.9595	*Brachyacanthus*).	*Brochoadmones* is	scored	'0'	based	on	observations	on	UALVP	41495.	*Campbellodus* scored	'?'."
 
 28. Differentiated lepidotrichia: (0) absent; (1) present.
 
 > Giles et al. (2015), Character 14; Choo et al. (2017), Character 261; King et al. (2017), Character 469; Castiello (2018), Character 458; Zhu Y. et al. (2022), Character 28.
+
+> Giles et al. (2015): "Refers	to	the	distinct	rectangular	shape	of	the	aligned	lepidotrichia-like	scales.	
+This	character	is	scored	contingently	on	the	state	of	the	previous	character.	*Dialipina*	is	coded	'0'	(uncatalogued	specimen,	Musem	für	Naturkunde,	Berlin)."
 
 29. Epichordal lepidotrichia in caudal fin: (0) absent; (1) present.
 
