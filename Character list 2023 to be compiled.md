@@ -62,6 +62,8 @@
 
 > Giles et al. (2015), Character 6; Choo et al. (2017), Character 255; King et al. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. et al. (2022), Character 14.
 
+> *Ligulalepis* is scored '1' based on Schultze (1968).
+
 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 
 > Giles et al. (2015), Character 7; Choo et al. (2017), Character 256; King et al. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. et al. (2022), Character 15.
@@ -106,9 +108,11 @@
 
 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
 
-> Giles et al. (2015), Character 11; Choo et al. (2017), Character 259. King et al. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. et al. (2022), Character 25.
- 
-Score changed from 0 to 1 for Galeaspida.
+> Burrow	&	Turner	(2010),	Character	61; Giles et al. (2015), Character 11; Choo et al. (2017), Character 259. King et al. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. et al. (2022), Character 25.
+
+> Giles et al. (2015): "Hanke	&	Davis	(2008)	express	uncertainty	about	bone	cell	lacunae	in	the	scale	bases	of	*Gladiobranchus*.	However,	Newman	et	al.	(2012),	working	on	the	basis	of	better-preserved	material	of	*Uraniacanthus* (to	which	*Gladiobranchus*	is	synonymous)	show	convincingly	that	these	lacunae	are	lacking.	*Climatius* is	scored	'?'	in	spite	of	Ørvig's	(1967)	report	of	acellular	bases.	Ørvig	figured	flat-based	scales	from	the head.	This	character	strictly	concerns	body	scales,	which	may	have	been	different.	*Cheirolepis* is	scored	'1'	based	on	Ørvig	(1967).	However,	this	is	remarkably	poorly	documented	in	any	accessioned	specimens.	*Acanthodes* is	scored	'1'	based	on	Gross	(1947)	and	Valiukevicius	(1995).	*Dialipina* is	scored	from	Schultze	(1968).	*Psarolepis* is	coded	'0'	based	on	Qu	et	al.	(2013).	The	presence	or	absence	of	bone	cells	in	the	scale	bases	of	*Brindabellaspis* is uncertain	based	on	Burrow	&	Turner	(1999)."
+
+> Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve et al. (2016).
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
@@ -1053,7 +1057,9 @@ Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 
 
 242. Teeth ankylosed to dermal bones: (0) absent; (1) present.
 
-> Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 43; Choo et al. (2017), Character 42; King et al. (2017), Character 331; Castiello (2018), Character 323; Zhu Y. et al. (2022), Character 242.
+> Hanke & Wilson (2004); Brazeau (2009), Character 46; Davis et al. (2012), Character 43; Choo et al. (2017), Character 42; King et al. (2017), Character 331; Castiello (2018), Character 323; Zhu Y. et al. (2022), Character 242.
+
+> Hanke & Wilson (2004): Character 13 - Dentigerous jaw element on Meckel's cartilage; Character 14 - Dentigerous jaw element on palatoquarate. In *Ischnacanthus gracilis*.
 
 243. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
