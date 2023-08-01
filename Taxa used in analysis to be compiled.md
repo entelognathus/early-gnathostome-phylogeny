@@ -2,11 +2,11 @@
 
 New taxa and references added along with the research.
 
-*Acanthodes bronni*, Sakmarian to Asselian (BrazeauM and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+*Acanthodes bronni*, Sakmarian to Asselian (Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
 *Aceraspis robustus*, upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
 
-*Achoania jarvikii*, upper Lochkovian (Zhu and Yu, 2004; 2009; Zhu et al., 2001)
+*Achoania jarviki*, upper Lochkovian (Zhu and Yu, 2004; 2009; Zhu et al., 2001)
 
 *Acronemus tuberculatus*, Anisian to Ladinian (Maisey, 2011)
 
@@ -18,7 +18,7 @@ New taxa and references added along with the research.
 
 *Arabosteus variabilis*, Pragian to lower Emsian (Olive et al., 2011; 2014)
 
-*Asterolepis ornate*, upper Givetian (Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009)
+*Asterolepis ornata*, upper Givetian (Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009)
 
 *Austroptyctodus gardineri*, lower Frasnian (Long, 1997)
 
@@ -60,7 +60,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Cladoselache kepleri*, upper Famennian (Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981)
 
-*Climatius reticulatus*, Lochkovian (Miles, 1973a; Watson, 1937)
+*Climatius reticulatus*, Lochkovian (Burrow et al., 2015; Miles, 1973a; Watson, 1937)
 
 *Cobelodus aculeatus*, Sakmarian (Ivanov, 2005)
 
@@ -70,7 +70,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Cowralepis mclachlani*, upper Givetian or lower Frasnian (Ritchie, 2005)
 
-*Culmacanthus stewarti*, Frasnian (Long, 1983)
+*Culmacanthus stewarti*, Frasnian (Burrow and Young, 2012; Long, 1983)
 
 *Damocles serratus*, Serpukhovian (Lund, 1986; Lund and Grogan, 1997)
 
@@ -86,7 +86,9 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Dicksonosteus arcticus*, Lochkovian (Goujet, 1975; Goujet, 1984)
 
-*Diplacanthus striatus*, lower Givetian (Miles, 1973a; Watson, 1937)
+*Diplacanthus crassisimus*, lower Givetian (Burrow et al., 2016; Miles, 1973a; Watson, 1937)
+
+> Used to be *Diplacanthus striatus*.
 
 *Diplocercides* spp.*,* Givetian to Famennian (Forey, 1998)
 
@@ -94,7 +96,13 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Dipterus* spp.*,* Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
 
-*Doliodus problematicus*, lower Emsian (Maisey et al., 2009; Miller et al., 2003)
+*Dobunnacanthus waynensis*, Lochkovian (Dearden et al., 2021; Miles, 1973a)
+
+> Used to be *Vernicomacanthus waynensis*.
+
+*Doliodus latispinosus*, lower Emsian (Burrow et al., 2023a; Maisey et al., 2009; Miller et al., 2003)
+
+> Used to be *Doliodus problematicus*.
 
 *Dwykaselachus oosthuizeni*, Kungurian (Coates et al., 2017)
 
@@ -128,7 +136,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Gladbachus adentatus*, Givetian (Coates et al., 2018)
 
-*Gladiobranchus probaton*, Lochkovian (Hanke and Davis, 2008)
+~~*Gladiobranchus probaton*, Lochkovian (Hanke and Davis, 2008)~~
 
 *Glyptolepis groenlandica*, upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
 
@@ -140,7 +148,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Guiyu oneiros*, Ludfordian (Qiao and Zhu, 2010; Zhu et al., 2009)
 
-*Gyracanthides* spp*.*, Famennian (Warren et al., 2000)
+*Gyracanthides murrayi*, Famennian (Warren et al., 2000)
 
 *Halimacanthodes ahlbergi*, lower Frasnian (Burrow et al., 2012)
 
@@ -164,7 +172,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Iniopera richardsoni*, Moscovian to Kasimovian (Zangerl and Case, 1973)
 
-*Ischnacanthus gracilis*, Lochkovian (Miles, 1973a; Watson, 1937)
+*Ischnacanthus gracilis*, Lochkovian (Burrow et al., 2018; Miles, 1973a; Watson, 1937)
 
 *Jagorina pandora*, upper Frasnian (Stensiö, 1969; Young, 1986)
 
@@ -190,9 +198,9 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Lawrenciella schaefferi*, upper Pennsylvanian (Hamel and Poplin, 2008)
 
-*Ligulalepis toombsi*, Emsian (Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968)
+*Ligulalepis toombsi*, Emsian (Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Burrow et al., 2023b; Schultze, 1968)
 
-*Lophosteus superbus*, lower Ludlow (Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004)
+*Lophosteus superbus*, lower Ludlow (Pickett et al., 2000; Schultze and Märss, 2004)
 
 *Lunaspis broili*, upper Pragian to lower Emsian (Gross, 1961)
 
@@ -202,7 +210,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Meemannia eos*, upper Lochkovian (Zhu et al., 2006; 2010)
 
-*Mesacanthus mitchelli*, Lochkovian (Miles, 1973a; Watson, 1937)
+*Mesacanthus mitchelli*, Lochkovian (Burrow et al., 2022; Miles, 1973a; Watson, 1937)
 
 *Microbrachius dicki*, middle Givetian (Hemmings, 1978; Long et al., 2015)
 
@@ -258,7 +266,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Parexus recurvus*, Lochkovian (Burrow et al., 2013; Miles, 1973a; Watson, 1937)
 
-*Poracanthodes menneri*, lower Lochkovian (Valiukevicius, 1992)
+~~*Poracanthodes menneri*, lower Lochkovian (Valiukevicius, 1992)~~
 
 *Porolepis* spp., Pragian to Emsian (Clément, 2004; Jarvik, 1972)
 
@@ -292,7 +300,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Remigolepis* spp*.*, Famennian (Andrews, 1978)
 
-*Rhadinacanthus longispinus*, Emsian (Burrow et al., 2000)
+*Rhadinacanthus longispinus*, Emsian (Burrow et al., 2016)
 
 *Rhamphodopsis threiplandi*, lower Givetian (Long, 1997; Miles, 1967)
 
@@ -334,9 +342,13 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Uraniacanthus curtus*, Lochkovian (Newman et al., 2012)
 
+*Uraniacanthus probaton*, Lochkovian (Hanke and Davis, 2008; Newman et al., 2012)
+
+> Used to be *Gladiobranchus probaton*.
+
 *Uranolophus wyomingensis*, Pragian (Denison, 1968)
 
-*Vernicomacanthus waynensis*, Lochkovian (Miles, 1973a)
+~~*Vernicomacanthus waynensis*, Lochkovian (Miles, 1973a)~~
 
 *Waengsjoeaspis excellens*, Lochkovian (Janvier, 1985)
 
@@ -354,6 +366,9 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Zenaspis salweyi*, Lochkovian (Stensiö, 1932)
 
+*Zemlyacanthus menneri*, lower Lochkovian (Valiukevicius, 1992; Vergoossen, 1997)
+
+> Used to be *Poracanthodes menneri*.
 
 **References**
 
