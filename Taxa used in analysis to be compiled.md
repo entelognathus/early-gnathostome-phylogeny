@@ -402,17 +402,25 @@ Brazeau, M. D., 2012. A revision of the anatomy of the Early Devonian jawed vert
 
 Brazeau, M. D. and Valerie, D. W., 2015. The hyoid arch and braincase anatomy of *Acanthodes* support chondrichthyan affinity of 'acanthodians'. *Proc. R. Soc. B* **282**: 20152210.
 
-Burrow, C. J., den Blaauwen, J. and Newman, M., 2020. A redescription of the three longest-known species of the acanthodian *Cheiracanthus* from the Middle Devonian of Scotland. *Palaeontol. Electron.* **23**: a15
-
 Burrow, C. J., 1994. Form and function in scales of *Ligulalepis toombsi* Schultze, a palaeoniscoid from the Early Devonian of Australia. *Rec. West. Aust. Mus.* **27**: 175–185.
 
 Burrow, C. J., 2011. A partial articulated acanthodian from the Silurian of New Brunswick, Canada. *Can. J. Earth Sci.* **48**: 1329–1341.
 
+Burrow, C. J., Davidson, R. G., Den Blaauwen, J. L. and Newman, M. J. 2015. Revision of *Climatius reticulatus* Agassiz, 1844 (Acanthodii, Climatiidae), from the Lower Devonian of Scotland, based on new histological and morphological data. J. Vertebr. Paleontol. 35: e913421.
+
+Burrow, C. J., den Blaauwen, J. L., Newman, M. and Davidson, R., 2016. The diplacanthid fishes (Acanthodii, Diplacanthiformes, Diplacanthidae) from the Middle Devonian of Scotland. *Palaeontol. Electron*. **19**: 1–83.
+
+Burrow, C. J., den Blaauwen, J. L. and Newman, M., 2020. A redescription of the three longest-known species of the acanthodian *Cheiracanthus* from the Middle Devonian of Scotland. *Palaeontol. Electron.* **23**: a15
+
+Burrow, C. J., den Blaauwen, J. L. and Newman, M., 2022. New information on the Early Devonian acanthodian *Mesacanthus mitchelli* from the Midland Valley of Scotland. *Scot. J. Geol.* **58**: sjg2021-004.
+
 Burrow, C. J., Newman, M. J., Davidson, R. G. and Blaauwen, J. L. D., 2013. Redescription of *Parexus recurvus*, an Early Devonian acanthodian from the Midland Valley of Scotland. *Alcheringa* **37**: 393–414.
 
-Burrow, C. J. and Rudkin, D., 2014. Oldest near-complete acanthodian: the first vertebrate from the Silurian Bertie Formation Konservat-Lagerstätte, Ontario. *PLoS One* **9**: e104171.
+Burrow, C. J., Newman, M., den Blaauwen, J., Jones, R. and Davidson, R., 2018. The early Devonian ischnacanthiform acanthodian *Ischnacanthus gracilis* (Egerton, 1861) from the Midland Valley of Scotland. *Acta Geol. Pol.* **68**(3), 335–362.
 
-Burrow, C. J. and Simpson, A. J., 1995. A new ischnacanthid acanthodian from the Late Silurian (Ludlow, *ploeckensis* Zone) Jack Formation, north Queensland. *Mem. Queensl. Mus.* **38**: 383–395.
+Burrow, C. J. and Desbiens, S., 2023a. Teeth and tooth whorls of the stem chondrichthyan Doliodus from the Early Devonian of the Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada. *Span. J. Palaeontol.* **38**: 15–22.
+
+Burrow, C. J. and Rudkin, D., 2014. Oldest near-complete acanthodian: the first vertebrate from the Silurian Bertie Formation Konservat-Lagerstätte, Ontario. *PLoS One* **9**: e104171.
 
 Burrow, C. J., Trinajstic, K. and Long, J. A., 2012. First acanthodian from the Upper Devonian (Frasnian) Gogo Formation, Western Australia. *Hist. Biol.* **24**: 349–357.
 
@@ -421,6 +429,10 @@ Burrow, C. J. and Turner, S., 1998. Devonian placoderm scales from Australia. *J
 Burrow, C. J., Turner, S. and Wang, S.-T., 2000. Devonian microvertebrates from Longmenshan, Sichuan, China: Taxonomic assessment. *Cour. Forsch. Inst. Senckenberg* **223**: 391–451.
 
 Burrow, C. J. and Young, G. C., 1999. An articulated teleostome fish from the Late Silurian (Ludlow) of Victoria, Australia. *Rec. West. Aust. Mus. Suppl.* **57**: 1–14.
+
+Burrow, C. J. and Young, G. C., 2012. New information on *Culmacanthus* (Acanthodii: Diplacanthiformes) from the ?Early-middle Devonian of southeastern Australia. *P. Linn. Soc. N. S. W.* **134**: 21–29.
+
+Burrow, C. J., Young, G. C. and Lu, J., 2023b. Dermal skeleton of the stem osteichthyan *Ligulalepis* from the Lower Devonian of New South Wales (Australia). *Span. J. Palaeontol.* **38**: 23–36.
 
 Bystrow, A. P., 1956. *Kolymaspis sibirica* g. n., s. n., a new representative of the Lower Devonian Agnatha. *Vestn. Leningr. Univ. Geol. Geogr.* **18**: 5–13.
 
@@ -835,6 +847,8 @@ Valiukevicius, J., 1992. First articulated *Poracanthodes* from the Lower Devoni
 Vaskaninova, V., 2009. *Asterolepis ornata* Eichwald, 1840 (Placodermi) ve sbirkach Ceske geologicke sluzby. *Zpravy o geologickych vyzkumech* **2008**: 131–132.
 
 Vaškaninová, V. and Ahlberg, P.E., 2017. Unique diversity of acanthothoracid placoderms (basal jawed vertebrates) in the Early Devonian of the Prague Basin, Czech Republic: a new look at *Radotina* and *Holopetalichthys*. *PLoS One* **12**: e0174794.
+
+Vergoossen, J. M. J., Ivanov, A., Wilson, M. V. H. and Zhuravlev, A., 1997. Revision of poracanthodid acanthodians. In: A. Ivanov, M.V.H. Wilson and A. Zhuravalov (Editors), Palaeozoic strata and fossils of the Eurasian Arctic. *Ichthyolith Issues Special Publication*, pp. 44–46. 
 
 Wang, C.-Y., Chen, L., Wang, Y. and Tang, P., 2010. Affirmation of *Pterospathodus eopennatus* Zone (Conodonta) and the age of the Silurian Shamao Formation in Zigui, Hubei as well as the correlation of the related strata. *Acta Palaeontol. Sin.* **49**: 10–28.
 
