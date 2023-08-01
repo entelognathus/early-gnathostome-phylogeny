@@ -1,5 +1,7 @@
 # Character List: 1-691 from Zhu Y. et al. (2022), 692-695 from Cui et al. (in review)
 
+> Character 450 of Zhu Y. et al. (2022) is deleted due to the redundancy.
+
 ## Skeletal tissues
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
