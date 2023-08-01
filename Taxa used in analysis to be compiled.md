@@ -406,7 +406,7 @@ Burrow, C. J., 1994. Form and function in scales of *Ligulalepis toombsi* Schult
 
 Burrow, C. J., 2011. A partial articulated acanthodian from the Silurian of New Brunswick, Canada. *Can. J. Earth Sci.* **48**: 1329–1341.
 
-Burrow, C. J., Davidson, R. G., Den Blaauwen, J. L. and Newman, M. J. 2015. Revision of *Climatius reticulatus* Agassiz, 1844 (Acanthodii, Climatiidae), from the Lower Devonian of Scotland, based on new histological and morphological data. J. Vertebr. Paleontol. 35: e913421.
+Burrow, C. J., Davidson, R. G., Den Blaauwen, J. L. and Newman, M. J. 2015. Revision of *Climatius reticulatus* Agassiz, 1844 (Acanthodii, Climatiidae), from the Lower Devonian of Scotland, based on new histological and morphological data. *J. Vertebr. Paleontol.* **35**: e913421.
 
 Burrow, C. J., den Blaauwen, J. L., Newman, M. and Davidson, R., 2016. The diplacanthid fishes (Acanthodii, Diplacanthiformes, Diplacanthidae) from the Middle Devonian of Scotland. *Palaeontol. Electron*. **19**: 1–83.
 
@@ -712,7 +712,7 @@ Maisey, J. G., 2011. The braincase of the Middle Triassic shark *Acronemus tuber
 
 Maisey, J. G. and Anderson, M. E., 2001. A primitive chondrichthyan braincase from the Early Devonian of South Africa. *J. Vertebr. Paleontol.* **21**: 702–713.
 
-Maisey, J. G. and Denton, J. S. S., 2016. Dermal denticle patterning in the Cretaceous hybodont shark *Tribodus limae* (Euselachii, Hybodontiformes), and its implications for the evolution of patterning in the chondrichthyan dermal skeleton. *J. Vertebr. Paleontol.* **36:**5, e1179200.
+Maisey, J. G. and Denton, J. S. S., 2016. Dermal denticle patterning in the Cretaceous hybodont shark *Tribodus limae* (Euselachii, Hybodontiformes), and its implications for the evolution of patterning in the chondrichthyan dermal skeleton. *J. Vertebr. Paleontol.* **36**(5): e1179200.
 
 Maisey, J. G., Miller, R. and Turner, S., 2009. The braincase of the chondrichthyan *Doliodus* from the Lower Devonian Campbellton Formation of New Brunswick, Canada. *Acta Zool.* **90**: 109–122.
 
