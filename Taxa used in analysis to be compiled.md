@@ -48,7 +48,7 @@ New taxa and references added along with the research.
 
 *Cheirolepis canadensis*, lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
 
-*Cheiracanthus* spp.*,* Eifelian to Givetian (Burrow et al., 2020)
+*Cheiracanthus* spp., Eifelian to Givetian (Burrow et al., 2020)
 
 Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
@@ -94,7 +94,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Diplodoselache woodi*, Visean (Dick, 1981)
 
-*Dipterus* spp.*,* Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
+*Dipterus* spp., Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
 
 *Dobunnacanthus waynensis*, Lochkovian (Dearden et al., 2021; Miles, 1973a)
 
@@ -318,13 +318,13 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Sinopetalichthys kueiyangensis*, lower to middle Emsian (Zhao and Zhu, 2010)
 
-*Squalus* spp.*,* Pliocene to present (Gans and Parsons, 1964)
+*Squalus* spp., Pliocene to present (Gans and Parsons, 1964)
 
 *Styloichthys changae*, upper Lochkovian (Friedman, 2007; Zhu and Yu, 2002)
 
 *Sudaspis chlupaci*, Lochkovian (Vaškaninová and Ahlberg, 2017)
 
-*Synechodus dubrisiensis,* Upper Jurassic to Upper Cretaceous (Maisey, 1985)
+*Synechodus dubrisiensis*, Upper Jurassic to Upper Cretaceous (Maisey, 1985)
 
 *Tamiobatis vetustus*, Famennian (Schaeffer, 1981; Williams, 1998)
 
