@@ -98,7 +98,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Dobunnacanthus waynensis*, Lochkovian (Dearden et al., 2021; Miles, 1973a)
 
-> Used to be *Vernicomacanthus waynensis*.
+> Dearden et al. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
 *Doliodus latispinosus*, lower Emsian (Burrow et al., 2023a; Maisey et al., 2009; Miller et al., 2003)
 
@@ -135,8 +135,6 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 *Gemuendina stuertzi*, upper Pragian to lower Emsian (Gross, 1963)
 
 *Gladbachus adentatus*, Givetian (Coates et al., 2018)
-
-~~*Gladiobranchus probaton*, Lochkovian (Hanke and Davis, 2008)~~
 
 *Glyptolepis groenlandica*, upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
 
@@ -266,8 +264,6 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Parexus recurvus*, Lochkovian (Burrow et al., 2013; Miles, 1973a; Watson, 1937)
 
-~~*Poracanthodes menneri*, lower Lochkovian (Valiukevicius, 1992)~~
-
 *Porolepis* spp., Pragian to Emsian (Clément, 2004; Jarvik, 1972)
 
 *Powichthys thorsteinssoni*, Lochkovian to Pragian (Jessen, 1980)
@@ -344,11 +340,9 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Uraniacanthus probaton*, Lochkovian (Hanke and Davis, 2008; Newman et al., 2012)
 
-> Used to be *Gladiobranchus probaton*.
+> *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman et al., 2012). As such, *Gladiobranchus probaton* was referred to as *U. probaton*.
 
 *Uranolophus wyomingensis*, Pragian (Denison, 1968)
-
-~~*Vernicomacanthus waynensis*, Lochkovian (Miles, 1973a)~~
 
 *Waengsjoeaspis excellens*, Lochkovian (Janvier, 1985)
 
@@ -366,9 +360,8 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Zenaspis salweyi*, Lochkovian (Stensiö, 1932)
 
-*Zemlyacanthus menneri*, lower Lochkovian (Valiukevicius, 1992; Vergoossen, 1997)
+*Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian (Valiukevicius, 1992, 1999; Valiukevicius et al., 1997)
 
-> Used to be *Poracanthodes menneri*.
 
 **References**
 
@@ -843,6 +836,8 @@ Turner, P. and Turner, S., 1974. Thelodonts from the Upper Silurian of Ringerike
 Upeniece, I., 2001. The unique fossil assemblage from the Lode Quarry (Upper Devonian, Latvia). *Mitt. Mus. Natkd. Berl. Geowiss.* **4**: 101–119.
 
 Valiukevicius, J., 1992. First articulated *Poracanthodes* from the Lower Devonian of Severnaya Zemlya. In: E. Mark-Kurik (Editor), Fossil Fishes as Living Animals. Academy of Sciences of Estonia, Tallinn, pp. 193–214.
+
+Vergoossen, J.M.J. 1999 Late Silurian fish microfossils from an East Baltic-derived erratic from Oosterhaule, with a description of new acanthodian taxa. Geologie en Mijnbouw 78, 231-251.
 
 Vaskaninova, V., 2009. *Asterolepis ornata* Eichwald, 1840 (Placodermi) ve sbirkach Ceske geologicke sluzby. *Zpravy o geologickych vyzkumech* **2008**: 131–132.
 
