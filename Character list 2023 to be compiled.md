@@ -165,22 +165,23 @@ This	character	is	scored	contingently	on	the	state	of	the	previous	character.	*D
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis et al. (2012), Character 8; Choo et al. (2017), Character 7; Coates et al. (2018), Character 9; King et al. (2017), Character 485; Castiello (2018), Character 474; Zhu Y. et al. (2022), Character 35.
 
-> The coding of *Helodus* is changed from 0 to 1 (Coates et al., 2018).
+> Coates et al. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
 
-> The coding of *Halimacanthodes ahlbergi* is changed from 1 to 0 (Burrow et al., 2012).
+> *Entelognathus* scales bear appositionally joined odontodes (Cui et al. in review).
 
 36. Body scale growth concentric: (0) absent; (1) present.
 
 > Hanke & Wilson (2004); Brazeau (2009), Character 9; Davis et al. (2012), Character 9; Choo et al. (2017), Character 8; King et al. (2017), Character 486; Castiello (2018), Character 475; Zhu Y. et al. (2022), Character 36.
->
+
 > Brazeau (2009): "Body scale odontodes growing in concentric “onion skin” pattern: absent (0); present (1). This characterises the generalised concentric growth of odontodes around a single scale primordium seen in many acanthodian-type taxa and often used to diagnose acanthodians as a group. Taxa for which the superimposed odontodes do not cover the top of the crown (i.e. *Brochoadmones* and *Poracanthodes*) are scored “0”."
 
 > Davis et al. (2012): "This character is not equivalent the ‘superpositional’ character state used by Hanke & Wilson (2004). More precisely, it refers to the classic mode of acanthodian scale growth depicted in texts from Moy-Thomas & Miles (1971) onwards, and exemplified by *Acanthodes* and *Nostolepis* (shown again by Burrow & Turner 2010). Thus *Brochoadmones* (and similar taxa) coded by Hanke & Wilson (2004) and Burrow & Turner (2010) as sharing the same general superpositional mode of flank scale growth, is here coded as different (mid-sagittal sections of scales shown in Hanke & Wilson 2006)."
 
+> Dearden et al. (2021): "As Miles (1973) observed, the flank scales of *Dobunnacanthus* gen. nov. are ornamented with anteroposteriorly aligned ridges (Fig. 13C, D). These appear to be very similar to the scales of *Vernicomacanthus*, with their laterally apposed odontodes. However, because the internal structure of the scales is not preserved, it is impossible to definitively diagnose this."=
+
 37. Body scales with peg-and-socket articulation: (0) absent; (1) present.
 
-> Gardiner (1984); Coates (1999); Brazeau (2009); Davis et al. (2012), Character 10; Choo et al. (2017), Character 9; King et al. (2017),
-Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 37.
+> Gardiner (1984); Coates (1999); Brazeau (2009); Davis et al. (2012), Character 10; Choo et al. (2017), Character 9; King et al. (2017), Character 487; Castiello (2018), Character 476; Zhu Y. et al. (2022), Character 37.
 
 > The coding of *Entelognathus primordialis* is changed from 0 to 1 based on new data. The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Long et al., 1997 Fig.51).
 
