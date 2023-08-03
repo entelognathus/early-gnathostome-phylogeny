@@ -294,7 +294,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Raynerius splendens*, Frasnian (Giles et al., 2015b)
 
-*Remigolepis* spp*.*, Famennian (Andrews, 1978)
+*Remigolepis* spp., Famennian (Andrews, 1978)
 
 *Rhadinacanthus longispinus*, Emsian (Burrow et al., 2016)
 
@@ -360,7 +360,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Zenaspis salweyi*, Lochkovian (Stensiö, 1932)
 
-*Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian (Valiukevicius, 1992, 1999; Valiukevicius et al., 1997)
+*Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian (Valiukevicius, 1992; 1999; Valiukevicius et al., 1997)
 
 
 **References**
