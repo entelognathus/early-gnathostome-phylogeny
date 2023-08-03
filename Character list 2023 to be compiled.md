@@ -177,7 +177,7 @@ This	character	is	scored	contingently	on	the	state	of	the	previous	character.	*D
 
 > Davis et al. (2012): "This character is not equivalent the ‘superpositional’ character state used by Hanke & Wilson (2004). More precisely, it refers to the classic mode of acanthodian scale growth depicted in texts from Moy-Thomas & Miles (1971) onwards, and exemplified by *Acanthodes* and *Nostolepis* (shown again by Burrow & Turner 2010). Thus *Brochoadmones* (and similar taxa) coded by Hanke & Wilson (2004) and Burrow & Turner (2010) as sharing the same general superpositional mode of flank scale growth, is here coded as different (mid-sagittal sections of scales shown in Hanke & Wilson 2006)."
 
-> Dearden et al. (2021): "As Miles (1973) observed, the flank scales of *Dobunnacanthus* gen. nov. are ornamented with anteroposteriorly aligned ridges (Fig. 13C, D). These appear to be very similar to the scales of *Vernicomacanthus*, with their laterally apposed odontodes. However, because the internal structure of the scales is not preserved, it is impossible to definitively diagnose this."=
+> Dearden et al. (2021): "As Miles (1973) observed, the flank scales of *Dobunnacanthus* gen. nov. are ornamented with anteroposteriorly aligned ridges (Fig. 13C, D). These appear to be very similar to the scales of *Vernicomacanthus*, with their laterally apposed odontodes. However, because the internal structure of the scales is not preserved, it is impossible to definitively diagnose this."
 
 37. Body scales with peg-and-socket articulation: (0) absent; (1) present.
 
