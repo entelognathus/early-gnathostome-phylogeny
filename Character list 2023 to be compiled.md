@@ -1,6 +1,6 @@
-# Character List: 1-690 from Zhu Y. *et al*. (2022), 691-694 from Cui *et al*. (in review)
+# Character List: 1-689 from Zhu Y. *et al*. (2022), 690-693 from Cui *et al*. (in review)
 
-> Character 450 of Zhu Y. *et al*. (2022) is deleted due to the redundancy with Character 448.
+> Character 34 of Zhu Y. *et al*. (2022) is deleted because of vague definition of the character. Character 450 of Zhu Y. *et al*. (2022) is deleted due to the overlooked repetition with Character 448. 
 
 ## Skeletal tissues
 
