@@ -2,15 +2,15 @@
 
 New taxa and references added along with the research.
 
-*Acanthodes bronni*, Sakmarian to Asselian (Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
 *Aceraspis robustus*, upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
 
 *Achoania jarviki*, upper Lochkovian (Zhu and Yu, 2004; 2009; Zhu et al., 2001)
 
-*Acronemus tuberculatus*, Anisian to Ladinian (Maisey, 2011)
+*Acronemus tuberculatus*, Anisian to Ladinian, Middle Triassic (Maisey, 2011)
 
-*Akmonistion zangerli*, Serpukhovian (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
+*Akmonistion zangerli*, early Serpukhovian, Late Mississippian, Carboniferous (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
 
 *Andreolepis hedei*, Ludlow and Pridoli (Chen et al., 2016a)
 
@@ -48,21 +48,21 @@ New taxa and references added along with the research.
 
 *Cheirolepis canadensis*, lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
 
-*Cheiracanthus* spp., Eifelian to Givetian (Burrow et al., 2020)
+*Cheiracanthus* spp., Eifelian to Frasnian, Middle to Late Devonian (Burrow et al., 2020)
 
-Chimaeroidei, Serpukhovian to present (Didier, 1995)
+Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier, 1995)
 
-*Chondrenchelys problematica*, Visean (Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935)
+*Chondrenchelys problematica*, middle Visean, Middle Mississippian, Carboniferous (Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935)
 
 *Chuchinolepis dongmoensis*, lower Pragian (Tông-Dzuy and Janvier, 1990)
 
-*Cladodoides wildungensis*, upper Famennian (Maisey, 2005)
+*Cladodoides wildungensis*, upper Frasnian, Upper Devonian (Maisey, 2005)
 
-*Cladoselache kepleri*, upper Famennian (Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981)
+*Cladoselache kepleri*, upper Famennian, Upper Devonian (Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981)
 
 *Climatius reticulatus*, Lochkovian (Burrow et al., 2015; Miles, 1973a; Watson, 1937)
 
-*Cobelodus aculeatus*, Sakmarian (Ivanov, 2005)
+*Cobelodus aculeatus*, Moscovian, Pennsylvanian, Carboniferous (Ivanov, 2005)
 
 *Coccosteus cuspidatus*, Eifelian to Givetain (Miles and Westoll, 1968)
 
@@ -70,7 +70,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Cowralepis mclachlani*, upper Givetian or lower Frasnian (Ritchie, 2005)
 
-*Culmacanthus stewarti*, Frasnian (Burrow and Young, 2012; Long, 1983)
+*Culmacanthus stewarti*, Givetian, Middle Devonian (Burrow and Young, 2012; Long, 1983)
 
 *Damocles serratus*, Serpukhovian (Lund, 1986; Lund and Grogan, 1997)
 
