@@ -1,4 +1,4 @@
-**List of taxa, geological time, and references in Zhu et al. (2022)**
+**List of taxa, geological range, and references in Zhu et al. (2022)**
 
 New taxa and references added along with the research.
 
@@ -10,7 +10,7 @@ New taxa and references added along with the research.
 
 *Acronemus tuberculatus*, Anisian to Ladinian, Middle Triassic (Maisey, 2011)
 
-*Akmonistion zangerli*, early Serpukhovian, Late Mississippian, Carboniferous (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
+*Akmonistion zangerli*, lower Serpukhovian, Upper Mississippian, Carboniferous (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
 
 *Andreolepis hedei*, Ludlow and Pridoli (Chen et al., 2016a)
 
@@ -48,9 +48,9 @@ New taxa and references added along with the research.
 
 *Cheirolepis canadensis*, lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
 
-*Cheiracanthus* spp., Eifelian to Frasnian, Middle to Late Devonian (Burrow et al., 2020)
+*Cheiracanthus* spp., Eifelian to Frasnian, Middle to Upper Devonian (Burrow et al., 2020)
 
-Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier, 1995)
+Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didier, 1995)
 
 *Chondrenchelys problematica*, middle Visean, Middle Mississippian, Carboniferous (Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935)
 
@@ -72,11 +72,11 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Culmacanthus stewarti*, Givetian, Middle Devonian (Burrow and Young, 2012; Long, 1983)
 
-*Damocles serratus*, Serpukhovian (Lund, 1986; Lund and Grogan, 1997)
+*Damocles serratus*, late Serpukhovian, Mississippian, Carboniferous (Lund, 1986; Lund and Grogan, 1997)
 
 *Dartmuthia gemmifera*, lower Ludlow (Gross, 1968; Märss et al., 2015)
 
-*Debeerius ellefseni*, Bashkirian (Grogan and Lund, 2000)
+*Debeerius ellefseni*, late Serpukhovian, Late Mississippian, Carboniferous (Grogan and Lund, 2000)
 
 *Diabolepis speratus*, upper Lochkovian (Chang, 1995; Chang and Yu, 1984)
 
@@ -86,13 +86,13 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Dicksonosteus arcticus*, Lochkovian (Goujet, 1975; Goujet, 1984)
 
-*Diplacanthus crassisimus*, lower Givetian (Burrow et al., 2016; Miles, 1973a; Watson, 1937)
+*Diplacanthus crassisimus*, Eifelian to Givetian, Middle Devonian (Burrow et al., 2016; Miles, 1973a; Watson, 1937)
 
 > Used to be *Diplacanthus striatus*.
 
-*Diplocercides* spp.*,* Givetian to Famennian (Forey, 1998)
+*Diplocercides* spp., Givetian to Famennian (Forey, 1998)
 
-*Diplodoselache woodi*, Visean (Dick, 1981)
+*Diplodoselache woodi*, late Visean, Middle Mississippian, Carboniferous (Dick, 1981)
 
 *Dipterus* spp., Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
 
@@ -104,11 +104,11 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 > Used to be *Doliodus problematicus*.
 
-*Dwykaselachus oosthuizeni*, Kungurian (Coates et al., 2017)
+*Dwykaselachus oosthuizeni*, Kungurian, Cisuralian, Permian (Coates et al., 2017)
 
 *Eastmanosteus calliaspis*, lower Frasnian (Dennis-Bryan, 1987)
 
-*Egertonodus basanus*, Aptian (Teng et al., 2019)
+*Egertonodus basanus*, Aptian, Lower Cretaceous (Teng et al., 2019)
 
 *Ellopetalichthys scheii*, upper Givetian (Castiello, 2018)
 
@@ -134,7 +134,7 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Gemuendina stuertzi*, upper Pragian to lower Emsian (Gross, 1963)
 
-*Gladbachus adentatus*, Givetian (Coates et al., 2018)
+*Gladbachus adentatus*, Givetian, Middle Devonian (Coates et al., 2018)
 
 *Glyptolepis groenlandica*, upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
 
@@ -150,11 +150,11 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Halimacanthodes ahlbergi*, lower Frasnian (Burrow et al., 2012)
 
-*Hamiltonichthys mapesi*, Gzhelian (Maisey, 1989)
+*Hamiltonichthys mapesi*, Gzhelian, Upper Pennsylvanian, Carboniferous (Maisey, 1989)
 
 *Hanyangaspis guodingshanensis*, middle Telychian (Zhu and Gai, 2007)
 
-*Helodus simplex*, Moscovian (Moy-Thomas, 1936)
+*Helodus simplex*, Moscovian, Middle Pennsylvanian, Carboniferous (Moy-Thomas, 1936)
 
 *Hemicyclaspis murchisoni*, Ludlow (Stensiö, 1932)
 
@@ -162,7 +162,7 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Homalacanthus concinnus*, lower Frasnian (Russell, 1951)
 
-*Homalodontus aplopagus,* Lower Triassic (Mutter et al., 2007; 2008)
+*Homalodontus aplopagus,* Olenekian, Lower Triassic (Mutter et al., 2007; 2008)
 
 *Howqualepis rostridens*, Givetian (Long, 1988)
 
@@ -180,7 +180,7 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Kathemacanthus rosulentus*, Lochkovian (Gagnier and Wilson, 1996; Hanke and Wilson, 2010)
 
-*Kawichthys moodiei*, Gzhelian (Pradel et al., 2011)
+*Kawichthys moodiei*, Gzhelian, Upper Pennsylvanian, Carboniferous (Pradel et al., 2011)
 
 *Kenichthys campbelli*, upper Emsian (Chang and Zhu, 1993; Zhu and Ahlberg, 2004)
 
@@ -238,13 +238,13 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Onychodus jandemarrai*, lower Frasnian (Andrews et al., 2005)
 
-*Onychoselache traquari*, middle Visean (Coates and Gess, 2007; Dick and Maisey, 1980)
+*Onychoselache traquari*, middle Visean, Mississippian, Carboniferous (Coates and Gess, 2007; Dick and Maisey, 1980)
 
 *Osorioichthys marginis*, lower Famennian (Taverne, 1997)
 
 *Osteolepis macrolepidotus*, lower Givetian (Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936)
 
-*Ozarcus mapesae*, Serpukhovian (Pradel et al., 2014)
+*Ozarcus mapesae*, Serpukhovian, Upper Mississippian, Carboniferous (Pradel et al., 2014)
 
 *Pampetalichthys longhuaensis*, lower Emsian (Zhu, 2000; Zhu and Wang, 1996)
 
@@ -276,7 +276,9 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Ptyctolepis brachynotus*, Pragian, (Lu et al., 2017)
 
-*Pucapampella rodrigae*, upper Eifelian to Givetian (Maisey and Anderson, 2001)
+*Pucapampella rodrigae*, Emsian, Early Devonian (Maisey and Anderson, 2001)
+
+> The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
 *Qilinyu rostrata*, Ludfordian (Zhu et al., 2016)
 
@@ -290,13 +292,13 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Radotina tesselata*, Pragian (Gross, 1958; Vaškaninová and Ahlberg, 2017)
 
-*Ramirosuarezia boliviana*, Eifelian (Pradel et al., 2009)
+*Ramirosuarezia boliviana*, Emsian, Early Devonian (Pradel et al., 2009)
 
 *Raynerius splendens*, Frasnian (Giles et al., 2015b)
 
 *Remigolepis* spp., Famennian (Andrews, 1978)
 
-*Rhadinacanthus longispinus*, Emsian (Burrow et al., 2016)
+*Rhadinacanthus longispinus*, Eifelian to Givetian, Middle Devonian (Burrow et al., 2016)
 
 *Rhamphodopsis threiplandi*, lower Givetian (Long, 1997; Miles, 1967)
 
@@ -330,11 +332,11 @@ Chimaeroidei, Serpukhovian, Late Mississippian, Carboniferous to present (Didier
 
 *Tremataspis mammillata*, Gorstian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
 
-*Tribodus limae,* Albian (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
+*Tribodus limae,* Albian, Early Cretaceous (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
 
-*Triodus moorei,* Bashkirian to Changhsingian (Heidtke et al., 2004; Soler-Gijon and Hampe, 1998)
+*Triodus moorei,* Bashkirian, Lower Pennsylvanian, Carboniferous to Changhsingian, Lopingian, Permian (Heidtke et al., 2004; Soler-Gijon and Hampe, 1998)
 
-*Tristychius arcuatus*, lower Serpukhovian (Coates and Gess, 2007; Dick, 1978)
+*Tristychius arcuatus*, lower Serpukhovian, Upper Mississippian, Carboniferous (Coates and Gess, 2007; Dick, 1978)
 
 *Uraniacanthus curtus*, Lochkovian (Newman et al., 2012)
 
