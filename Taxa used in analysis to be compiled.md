@@ -330,9 +330,9 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Tlamaspis inopinatus*, Lochkovian (Vaškaninová and Ahlberg, 2017)
 
-*Tremataspis mammillata*, Gorstian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
+*Tremataspis mammillata*, Gorstian, Ludlow, Silurian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
 
-*Tribodus limae,* Albian, Early Cretaceous (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
+*Tribodus limae,* Albian, Lower Cretaceous (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
 
 *Triodus moorei,* Bashkirian, Lower Pennsylvanian, Carboniferous to Changhsingian, Lopingian, Permian (Heidtke et al., 2004; Soler-Gijon and Hampe, 1998)
 
@@ -356,7 +356,7 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Xiushanosteus mirabilis*, Telychian (Zhu Y. et al., 2022)
 
-*Youngolepis praecursor*, upper Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
+*Youngolepis praecursor*, Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
 
 *Yunnanolepis* spp., Lochkovian (Zhang, 1980; Zhu, 1996)
 
