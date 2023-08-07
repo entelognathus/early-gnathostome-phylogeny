@@ -1,66 +1,66 @@
-**List of taxa, geological range, and references in Zhu et al. (2022)**
+**List of taxa, geological range, and references in Zhu *et al*. (2022)**
 
 New taxa and references added along with the research.
 
-*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
-*Aceraspis robustus*, upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
+*Aceraspis robustus*, upper Wenlock to upper Ludlow, Silurian (Ritchie, 1967; Turner and Turner, 1974)
 
-*Achoania jarviki*, upper Lochkovian (Zhu and Yu, 2004; 2009; Zhu et al., 2001)
+*Achoania jarviki*, upper Lochkovian, Lower Devonian (Zhu and Yu, 2004; 2009; Zhu *et al*., 2001)
 
 *Acronemus tuberculatus*, Anisian to Ladinian, Middle Triassic (Maisey, 2011)
 
-*Akmonistion zangerli*, lower Serpukhovian, Upper Mississippian, Carboniferous (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
+*Akmonistion zangerli*, lower Serpukhovian, Upper Mississippian, Carboniferous (Coates and Sequeira, 1998; 2001; Coates *et al*., 1998)
 
-*Andreolepis hedei*, Ludlow and Pridoli (Chen et al., 2016a)
+*Andreolepis hedei*, Ludlow and Pridoli, Silurian (Chen *et al*., 2016a)
 
-*Anglaspis maccoulloughi*, Pridoli and Lochkovian (Randle and Sansom, 2016)
+*Anglaspis maccoulloughi*, Pridoli, Silurian and Lochkovian, Lower Devonian (Randle and Sansom, 2016)
 
-*Arabosteus variabilis*, Pragian to lower Emsian (Olive et al., 2011; 2014)
+*Arabosteus variabilis*, Pragian to lower Emsian, Lower Devonian (Olive *et al*., 2011; 2014)
 
 *Asterolepis ornata*, upper Givetian (Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009)
 
-*Austroptyctodus gardineri*, lower Frasnian (Long, 1997)
+*Austroptyctodus gardineri*, lower Frasnian, Upper Devonian (Long, 1997)
 
-*Bannhuanaspis vukhuci*, upper Lochkovian to lower Pragian (Janvier et al., 1993)
+*Bannhuanaspis vukhuci*, upper Lochkovian to lower Pragian, Lower Devonian (Janvier *et al*., 1993)
 
-*Benneviaspis holtedahli*, Lochkovian (Janvier, 1985; Ørvig, 1957)
+*Benneviaspis holtedahli*, Lochkovian, Lower Devonian (Janvier, 1985; Ørvig, 1957)
 
-*Boreaspis macrorhynchus*, Pragian (Janvier, 1985)
+*Boreaspis macrorhynchus*, Pragian, Lower Devonian (Janvier, 1985)
 
 *Bothriolepis* spp., Givetian to Famennian (Long and Trinajstic, 2010)
 
-*Brachyacanthus scutiger*, Lockhovian (Watson, 1937)
+*Brachyacanthus scutiger*, Lochkovian, Lower Devonian (Watson, 1937)
 
 *Brindabellaspis stensioi*, lower Emsian to lower Eifelian (Young, 1980)
 
-*Brochoadmones milesi*, Lockhovian (Hanke and Wilson, 2006)
+*Brochoadmones milesi*, Lochkovian, Lower Devonian (Hanke and Wilson, 2006)
 
-*Buchanosteus confertituberculatus*, Emsian (Burrow and Turner, 1998; Long et al., 2014)
+*Buchanosteus confertituberculatus*, Emsian (Burrow and Turner, 1998; Long *et al*., 2014)
 
-*Campbellodus decipiens*, lower Frasnian (Long, 1997)
+*Campbellodus decipiens*, lower Frasnian, Upper Devonian (Long, 1997)
 
-*Cassidiceps vermiculatus*, Lockhovian (Gagnier and Wilson, 1996)
+*Cassidiceps vermiculatus*, Lochkovian, Lower Devonian (Gagnier and Wilson, 1996)
 
-*Cephalaspis lyelli*, Lochkovian (Stensiö, 1932; White, 1958)
+*Cephalaspis lyelli*, Lochkovian, Lower Devonian (Stensiö, 1932; White, 1958)
 
-*Cheirolepis trailli*, upper Eifelian (Giles et al., 2015a; Pearson and Westoll, 1979)
+*Cheirolepis trailli*, upper Eifelian (Giles *et al*., 2015a; Pearson and Westoll, 1979)
 
 *Cheirolepis canadensis*, lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
 
-*Cheiracanthus* spp., Eifelian to Frasnian, Middle to Upper Devonian (Burrow et al., 2020)
+*Cheiracanthus* spp., Eifelian to Frasnian, Middle to Upper Devonian (Burrow *et al*., 2020)
 
 Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didier, 1995)
 
 *Chondrenchelys problematica*, middle Visean, Middle Mississippian, Carboniferous (Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935)
 
-*Chuchinolepis dongmoensis*, lower Pragian (Tông-Dzuy and Janvier, 1990)
+*Chuchinolepis dongmoensis*, lower Pragian, Lower Devonian (Tông-Dzuy and Janvier, 1990)
 
 *Cladodoides wildungensis*, upper Frasnian, Upper Devonian (Maisey, 2005)
 
 *Cladoselache kepleri*, upper Famennian, Upper Devonian (Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981)
 
-*Climatius reticulatus*, Lochkovian (Burrow et al., 2015; Miles, 1973a; Watson, 1937)
+*Climatius reticulatus*, Lochkovian, Lower Devonian (Burrow *et al*., 2015; Miles, 1973a; Watson, 1937)
 
 *Cobelodus aculeatus*, Moscovian, Pennsylvanian, Carboniferous (Ivanov, 2005)
 
@@ -74,19 +74,19 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Damocles serratus*, late Serpukhovian, Mississippian, Carboniferous (Lund, 1986; Lund and Grogan, 1997)
 
-*Dartmuthia gemmifera*, lower Ludlow (Gross, 1968; Märss et al., 2015)
+*Dartmuthia gemmifera*, lower Ludlow, Silurian (Gross, 1968; Märss *et al*., 2015)
 
 *Debeerius ellefseni*, late Serpukhovian, Late Mississippian, Carboniferous (Grogan and Lund, 2000)
 
-*Diabolepis speratus*, upper Lochkovian (Chang, 1995; Chang and Yu, 1984)
+*Diabolepis speratus*, upper Lochkovian, Lower Devonian (Chang, 1995; Chang and Yu, 1984)
 
-*Diandongpetalichthys liaojiaoshanensis*, lower Lochkovian (Zhu, 1991)
+*Diandongpetalichthys liaojiaoshanensis*, lower Lochkovian, Lower Devonian (Zhu, 1991)
 
-*Dialipina salgueiroensis*, Emsian (Schultze, 1968; Schultze and Cumbaa, 2001)
+*Dialipina salgueiroensis*, Emsian, Lower Devonian (Schultze, 1968; Schultze and Cumbaa, 2001)
 
-*Dicksonosteus arcticus*, Lochkovian (Goujet, 1975; Goujet, 1984)
+*Dicksonosteus arcticus*, Lochkovian, Lower Devonian (Goujet, 1975; Goujet, 1984)
 
-*Diplacanthus crassisimus*, Eifelian to Givetian, Middle Devonian (Burrow et al., 2016; Miles, 1973a; Watson, 1937)
+*Diplacanthus crassisimus*, Eifelian to Givetian, Middle Devonian (Burrow *et al*., 2016; Miles, 1973a; Watson, 1937)
 
 > Used to be *Diplacanthus striatus*.
 
@@ -94,275 +94,275 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Diplodoselache woodi*, late Visean, Middle Mississippian, Carboniferous (Dick, 1981)
 
-*Dipterus* spp., Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
+*Dipterus* spp., Eifelian to Givetian, Middle Devonian (Ahlberg and Trewin, 1995; White, 1965)
 
-*Dobunnacanthus waynensis*, Lochkovian (Dearden et al., 2021; Miles, 1973a)
+*Dobunnacanthus waynensis*, Lochkovian, Lower Devonian (Dearden *et al*., 2021; Miles, 1973a)
 
-> Dearden et al. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
+> Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
-*Doliodus latispinosus*, lower Emsian (Burrow et al., 2023a; Maisey et al., 2009; Miller et al., 2003)
+*Doliodus latispinosus*, lower Emsian, Lower Devonian (Burrow *et al*., 2023a; Maisey *et al*., 2009; Miller *et al*., 2003)
 
 > Used to be *Doliodus problematicus*.
 
-*Dwykaselachus oosthuizeni*, Kungurian, Cisuralian, Permian (Coates et al., 2017)
+*Dwykaselachus oosthuizeni*, Kungurian, Cisuralian, Permian (Coates *et al*., 2017)
 
-*Eastmanosteus calliaspis*, lower Frasnian (Dennis-Bryan, 1987)
+*Eastmanosteus calliaspis*, lower Frasnian, Upper Devonian (Dennis-Bryan, 1987)
 
-*Egertonodus basanus*, Aptian, Lower Cretaceous (Teng et al., 2019)
+*Egertonodus basanus*, Aptian, Lower Cretaceous (Teng *et al*., 2019)
 
-*Ellopetalichthys scheii*, upper Givetian (Castiello, 2018)
+*Ellopetalichthys scheii*, upper Givetian, Middle Devonian (Castiello, 2018)
 
-*Entelognathus primordialis*, Ludfordian (Zhu et al., 2013)
+*Entelognathus primordialis*, Ludfordian, Ludlow, Silurian (Zhu *et al*., 2013)
 
 *Epipetalichthys wildungensis*, upper Frasnian (Ørvig, 1957; Sallan and Coates, 2010)
 
-*Escuminaspis laticeps*, lower Frasnian (Janvier et al., 2004)
+*Escuminaspis laticeps*, lower Frasnian, Upper Devonian (Janvier *et al*., 2004)
 
-*Eugaleaspis changi*, lower Lochkovian (Liu, 1965; Zhu and Gai, 2007)
+*Eugaleaspis changi*, lower Lochkovian, Lower Devonian (Liu, 1965; Zhu and Gai, 2007)
 
-*Eurycaraspis incilis*, Givetian (Liu, 1991)
+*Eurycaraspis incilis*, Givetian, Middle Devonian (Liu, 1991)
 
-*Eusthenopteron foordi*, lower Frasnian (Jarvik, 1980a; b)
+*Eusthenopteron foordi*, lower Frasnian, Upper Devonian (Jarvik, 1980a; b)
 
-*Euthacanthus macnicoli*, Lochkovian (Miles, 1973a; Newman et al., 2014; Watson, 1937)
+*Euthacanthus macnicoli*, Lochkovian, Lower Devonian (Miles, 1973a; Newman *et al*., 2014; Watson, 1937)
 
-*Falcatus falcatus*, Serpukhovian (Lund, 1985)
+*Falcatus falcatus*, Serpukhovian, Upper Mississippian, Carboniferous (Lund, 1985)
 
-*Gavinia syntrips*, Givetian (Long, 1999)
+*Gavinia syntrips*, Givetian, Middle Devonian (Long, 1999)
 
-*Gavinaspis convergens*, upper Lochkovian (Dupret et al., 2009)
+*Gavinaspis convergens*, upper Lochkovian, Lower Devonian (Dupret *et al*., 2009)
 
 *Gemuendina stuertzi*, upper Pragian to lower Emsian (Gross, 1963)
 
-*Gladbachus adentatus*, Givetian, Middle Devonian (Coates et al., 2018)
+*Gladbachus adentatus*, Givetian, Middle Devonian (Coates *et al*., 2018)
 
 *Glyptolepis groenlandica*, upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
 
-*Gogonasus andrewsae*, lower Frasnian (Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006)
+*Gogonasus andrewsae*, lower Frasnian (Holland, 2013; 2014; Long, 1985; Long *et al*., 1997; 2006)
 
-*Groenlandaspis antarcticus*, Givetian (Ritchie, 1975; Young, 1989)
+*Groenlandaspis antarcticus*, Givetian, Middle Devonian (Ritchie, 1975; Young, 1989)
 
-*Guangxipetalichthys tiaomajianensis*, lower to middle Givetian (Ji and Pan, 1997)
+*Guangxipetalichthys tiaomajianensis*, lower to middle Givetian, Middle Devonian (Ji and Pan, 1997)
 
-*Guiyu oneiros*, Ludfordian (Qiao and Zhu, 2010; Zhu et al., 2009)
+*Guiyu oneiros*, Ludfordian, Ludlow, Silurian (Qiao and Zhu, 2010; Zhu *et al*., 2009)
 
-*Gyracanthides murrayi*, Famennian (Warren et al., 2000)
+*Gyracanthides murrayi*, Famennian, Upper Devonian (Warren *et al*., 2000)
 
-*Halimacanthodes ahlbergi*, lower Frasnian (Burrow et al., 2012)
+*Halimacanthodes ahlbergi*, lower Frasnian, Upper Devonian (Burrow *et al*., 2012)
 
 *Hamiltonichthys mapesi*, Gzhelian, Upper Pennsylvanian, Carboniferous (Maisey, 1989)
 
-*Hanyangaspis guodingshanensis*, middle Telychian (Zhu and Gai, 2007)
+*Hanyangaspis guodingshanensis*, middle Telychian, Llandovery, Silurian (Zhu and Gai, 2007)
 
 *Helodus simplex*, Moscovian, Middle Pennsylvanian, Carboniferous (Moy-Thomas, 1936)
 
-*Hemicyclaspis murchisoni*, Ludlow (Stensiö, 1932)
+*Hemicyclaspis murchisoni*, Ludlow, Silurian (Stensiö, 1932)
 
-*Holonema westolli*, lower Frasnian (Bechard et al., 2014)
+*Holonema westolli*, lower Frasnian, Upper Devonian (Bechard *et al*., 2014)
 
-*Homalacanthus concinnus*, lower Frasnian (Russell, 1951)
+*Homalacanthus concinnus*, lower Frasnian, Upper Devonian (Russell, 1951)
 
-*Homalodontus aplopagus,* Olenekian, Lower Triassic (Mutter et al., 2007; 2008)
+*Homalodontus aplopagus,* Olenekian, Lower Triassic (Mutter *et al*., 2007; 2008)
 
-*Howqualepis rostridens*, Givetian (Long, 1988)
+*Howqualepis rostridens*, Givetian, Middle Devonian (Long, 1988)
 
-*Incisoscutum ritchiei*, lower Frasnian (Dennis and Miles, 1981; Giles et al., 2013)
+*Incisoscutum ritchiei*, lower Frasnian, Upper Devonian (Dennis and Miles, 1981; Giles *et al*., 2013)
 
-*Iniopera richardsoni*, Moscovian to Kasimovian (Zangerl and Case, 1973)
+*Iniopera richardsoni*, Moscovian to Kasimovian, Pennsylvanian, Carboniferous (Zangerl and Case, 1973)
 
-*Ischnacanthus gracilis*, Lochkovian (Burrow et al., 2018; Miles, 1973a; Watson, 1937)
+*Ischnacanthus gracilis*, Lochkovian, Lower Devonian (Burrow *et al*., 2018; Miles, 1973a; Watson, 1937)
 
-*Jagorina pandora*, upper Frasnian (Stensiö, 1969; Young, 1986)
+*Jagorina pandora*, upper Frasnian, Upper Devonian (Stensiö, 1969; Young, 1986)
 
-*Janusiscus schultzei*, middle Lockhovian (Schultze, 1992; Giles et al., 2015c)
+*Janusiscus schultzei*, middle Lochkovian, Lower Devonian (Schultze, 1992; Giles *et al*., 2015c)
 
-*Kansasiella eatoni*, upper Pennsylvanian (Poplin, 1975)
+*Kansasiella eatoni*, upper Pennsylvanian, Carboniferous (Poplin, 1975)
 
-*Kathemacanthus rosulentus*, Lochkovian (Gagnier and Wilson, 1996; Hanke and Wilson, 2010)
+*Kathemacanthus rosulentus*, Lochkovian, Lower Devonian (Gagnier and Wilson, 1996; Hanke and Wilson, 2010)
 
-*Kawichthys moodiei*, Gzhelian, Upper Pennsylvanian, Carboniferous (Pradel et al., 2011)
+*Kawichthys moodiei*, Gzhelian, Upper Pennsylvanian, Carboniferous (Pradel *et al*., 2011)
 
-*Kenichthys campbelli*, upper Emsian (Chang and Zhu, 1993; Zhu and Ahlberg, 2004)
+*Kenichthys campbelli*, upper Emsian, Lower Devonian (Chang and Zhu, 1993; Zhu and Ahlberg, 2004)
 
 *Kentuckia deani*, upper Tournaisian or lower Visean (Giles and Friedman, 2014; Rayner, 1951)
 
-*Kimaspis tienshanica*, Lochkavian (Mark-Kurik, 1973)
+*Kimaspis tienshanica*, Lochkovian, Lower Devonian (Mark-Kurik, 1973)
 
-*Kolymaspis sibirica,* Lochkavian (Bystrow, 1956)
+*Kolymaspis sibirica,* Lochkovian, Lower Devonian (Bystrow, 1956)
 
-*Kosoraspis peckai*, upper Lochkovian (Denison, 1978; Gross, 1959)
+*Kosoraspis peckai*, upper Lochkovian, Lower Devonian (Denison, 1978; Gross, 1959)
 
-*Kujdanowiaspis podolica*, upper Lockhovian to lower Pragian (Dupret, 2010)
+*Kujdanowiaspis podolica*, upper Lochkovian to lower Pragian, Lower Devonian (Dupret, 2010)
 
 *Lawrenciella schaefferi*, upper Pennsylvanian (Hamel and Poplin, 2008)
 
-*Ligulalepis toombsi*, Emsian (Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Burrow et al., 2023b; Schultze, 1968)
+*Ligulalepis toombsi*, Emsian, Lower Devonian (Basden and Young, 2001; Basden *et al*., 2000; Burrow, 1994; Burrow *et al*., 2023b; Schultze, 1968)
 
-*Lophosteus superbus*, lower Ludlow (Pickett et al., 2000; Schultze and Märss, 2004)
+*Lophosteus superbus*, lower Ludlow, Silurian (Pickett *et al*., 2000; Schultze and Märss, 2004)
 
-*Lunaspis broili*, upper Pragian to lower Emsian (Gross, 1961)
+*Lunaspis broili*, upper Pragian to lower Emsian, Lower Devonian (Gross, 1961)
 
-*Macropetalichthys rapheidolabis*, Eifelian (Stensiö, 1925; 1963; 1969)
+*Macropetalichthys rapheidolabis*, Eifelian, Middle Devonian (Stensiö, 1925; 1963; 1969)
 
-*Materpiscis attenboroughi*, lower Frasnian (Long et al., 2008; Trinajstic et al., 2012)
+*Materpiscis attenboroughi*, lower Frasnian (Long *et al*., 2008; Trinajstic *et al*., 2012)
 
-*Meemannia eos*, upper Lochkovian (Zhu et al., 2006; 2010)
+*Meemannia eos*, upper Lochkovian, Lower Devonian (Zhu *et al*., 2006; 2010)
 
-*Mesacanthus mitchelli*, Lochkovian (Burrow et al., 2022; Miles, 1973a; Watson, 1937)
+*Mesacanthus mitchelli*, Lochkovian, Lower Devonian (Burrow *et al*., 2022; Miles, 1973a; Watson, 1937)
 
-*Microbrachius dicki*, middle Givetian (Hemmings, 1978; Long et al., 2015)
+*Microbrachius dicki*, middle Givetian, Middle Devonian (Hemmings, 1978; Long *et al*., 2015)
 
-*Miguashaia bureaui*, lower Frasnian (Cloutier, 1996; Forey, 1998)
+*Miguashaia bureaui*, lower Frasnian, Upper Devonian (Cloutier, 1996; Forey, 1998)
 
-*Mimipiscis toombsi*, lower Frasnian (Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014)
+*Mimipiscis toombsi*, lower Frasnian, Upper Devonian (Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014)
 
-*Minicrania lirouyii*,lower Lochkovian (Zhu and Janvier, 1996)
+*Minicrania lirouyii*, lower Lochkovian, Lower Devonian (Zhu and Janvier, 1996)
 
-*Nectaspis areolate*, Emsian (Janvier, 1981)
+*Nectaspis areolate*, Emsian, Lower Devonian (Janvier, 1981)
 
-*Moythomasia durgaringa*, lower Frasnian (Gardiner, 1984)
+*Moythomasia durgaringa*, lower Frasnian, Upper Devonian (Gardiner, 1984)
 
-*Mulgaspis evansorum*, lower Eifelian (Janvier and Clément, 2005; Ritchie, 2004)
+*Mulgaspis evansorum*, lower Eifelian, Middle Devonian (Janvier and Clément, 2005; Ritchie, 2004)
 
-*Latviacanthus ventspilsensis*, Pragian (Schultze and Zidek, 1982)
+*Latviacanthus ventspilsensis*, Pragian, Lower Devonian (Schultze and Zidek, 1982)
 
-*Lupopsyrus pygmaeus*, Lochkovian (Hanke and Davis, 2012)
+*Lupopsyrus pygmaeus*, Lochkovian, Lower Devonian (Hanke and Davis, 2012)
 
-*Nerepisacanthus denisoni*, upper Pridoli (Burrow and Rudkin, 2014)
+*Nerepisacanthus denisoni*, upper Pridoli, Silurian (Burrow and Rudkin, 2014)
 
-*Norselaspis glacialis*, lower Pragian (Janvier, 1981)
+*Norselaspis glacialis*, lower Pragian, Lower Devonian (Janvier, 1981)
 
 *Notopetalichthys hillsi*, Middle Devonian (Woodward, 1941; Young, 2004)
 
-*Obtusacanthus corroconis*, Lochkovian (Hanke and Wilson, 2004)
+*Obtusacanthus corroconis*, Lochkovian, Lower Devonian (Hanke and Wilson, 2004)
 
-*Onychodus jandemarrai*, lower Frasnian (Andrews et al., 2005)
+*Onychodus jandemarrai*, lower Frasnian, Upper Devonian (Andrews *et al*., 2005)
 
 *Onychoselache traquari*, middle Visean, Mississippian, Carboniferous (Coates and Gess, 2007; Dick and Maisey, 1980)
 
-*Osorioichthys marginis*, lower Famennian (Taverne, 1997)
+*Osorioichthys marginis*, lower Famennian, Upper Devonian (Taverne, 1997)
 
-*Osteolepis macrolepidotus*, lower Givetian (Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936)
+*Osteolepis macrolepidotus*, lower Givetian, Middle Devonian (Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936)
 
-*Ozarcus mapesae*, Serpukhovian, Upper Mississippian, Carboniferous (Pradel et al., 2014)
+*Ozarcus mapesae*, Serpukhovian, Upper Mississippian, Carboniferous (Pradel *et al*., 2014)
 
-*Pampetalichthys longhuaensis*, lower Emsian (Zhu, 2000; Zhu and Wang, 1996)
+*Pampetalichthys longhuaensis*, lower Emsian, Lower Devonian (Zhu, 2000; Zhu and Wang, 1996)
 
-*Parabuchanosteus murrumbidgeensis*, Pragian to Emsian (White and Toombs, 1972; Young, 1979)
+*Parabuchanosteus murrumbidgeensis*, Pragian to Emsian, Lower Devonian (White and Toombs, 1972; Young, 1979)
 
-*Parayunnanolepis xitunensis*, Lochkovian (Zhang et al., 2001; Zhu et al., 2012)
+*Parayunnanolepis xitunensis*, Lochkovian, Lower Devonian (Zhang *et al*., 2001; Zhu *et al*., 2012)
 
-*Paucicanthus vanelsti*, Lochkovian (Hanke, 2002)
+*Paucicanthus vanelsti*, Lochkovian, Lower Devonian (Hanke, 2002)
 
-*Pauropetalichthys magnoculus*, Emsian (Pan et al., 2015)
+*Pauropetalichthys magnoculus*, Emsian, Lower Devonian (Pan *et al*., 2015)
 
-*Polybranchiaspis liaojiaoshanensis*, Lochkovian (Liu, 1965; 1975)
+*Polybranchiaspis liaojiaoshanensis*, Lochkovian, Lower Devonian (Liu, 1965; 1975)
 
-*Procephalaspis oeselensis*, Wenlock and Ludlow (Denison, 1951)
+*Procephalaspis oeselensis*, Wenlock and Ludlow, Silurian (Denison, 1951)
 
-*Psarolepis romeri*, Lockhovian (Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999)
+*Psarolepis romeri*, Lochkovian, Lower Devonian (Yu, 1998; Zhu and Yu, 2004; 2009; Zhu *et al*., 1999)
 
-*Parexus recurvus*, Lochkovian (Burrow et al., 2013; Miles, 1973a; Watson, 1937)
+*Parexus recurvus*, Lochkovian, Lower Devonian (Burrow *et al*., 2013; Miles, 1973a; Watson, 1937)
 
-*Porolepis* spp., Pragian to Emsian (Clément, 2004; Jarvik, 1972)
+*Porolepis* spp., Pragian to Emsian, Lower Devonian (Clément, 2004; Jarvik, 1972)
 
-*Powichthys thorsteinssoni*, Lochkovian to Pragian (Jessen, 1980)
+*Powichthys thorsteinssoni*, Lochkovian, Lower Devonian to Pragian (Jessen, 1980)
 
-*Promesacanthus eppleri*, Lochkovian (Hanke, 2008)
+*Promesacanthus eppleri*, Lochkovian, Lower Devonian (Hanke, 2008)
 
-*Pterichthyodes milleri*, upper Eifelian (Hemmings, 1978)
+*Pterichthyodes milleri*, upper Eifelian, Middle Devonian (Hemmings, 1978)
 
-*Ptomacanthus anglicus*, Lochkovian (Brazeau, 2012; Dineley, 1999)
+*Ptomacanthus anglicus*, Lochkovian, Lower Devonian (Brazeau, 2012; Dineley, 1999)
 
-*Ptyctolepis brachynotus*, Pragian, (Lu et al., 2017)
+*Ptyctolepis brachynotus*, Pragian, Lower Devonian (Lu *et al*., 2017)
 
-*Pucapampella rodrigae*, Emsian, Early Devonian (Maisey and Anderson, 2001)
+*Pucapampella rodrigae*, Emsian, Lower Devonian (Maisey and Anderson, 2001)
 
 > The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
-*Qilinyu rostrata*, Ludfordian (Zhu et al., 2016)
+*Qilinyu rostrata*, Ludfordian, Ludlow, Silurian (Zhu *et al*., 2016)
 
-*Qingmenodus yui*, upper Pragian (Lu and Zhu, 2010; Lu et al., 2016)
+*Qingmenodus yui*, upper Pragian, Lower Devonian (Lu and Zhu, 2010; Lu *et al*., 2016)
 
-*Quasipetalichthys haikouensis*, Givetian (Liu, 1991)
+*Quasipetalichthys haikouensis*, Givetian, Middle Devonian (Liu, 1991)
 
-*Sparalepis tingi*, Ludfordian (Choo et al., 2017)
+*Sparalepis tingi*, Ludfordian, Ludlow, Silurian (Choo *et al*., 2017)
 
-*Radotina kosorensis*, Lochkovian (Vaškaninová and Ahlberg, 2017)
+*Radotina kosorensis*, Lochkovian, Lower Devonian (Vaškaninová and Ahlberg, 2017)
 
-*Radotina tesselata*, Pragian (Gross, 1958; Vaškaninová and Ahlberg, 2017)
+*Radotina tesselata*, Pragian, Lower Devonian (Gross, 1958; Vaškaninová and Ahlberg, 2017)
 
-*Ramirosuarezia boliviana*, Emsian, Early Devonian (Pradel et al., 2009)
+*Ramirosuarezia boliviana*, Emsian, Early Devonian (Pradel *et al*., 2009)
 
-*Raynerius splendens*, Frasnian (Giles et al., 2015b)
+*Raynerius splendens*, Frasnian, Upper Devonian (Giles *et al*., 2015b)
 
-*Remigolepis* spp., Famennian (Andrews, 1978)
+*Remigolepis* spp., Famennian, Upper Devonian (Andrews, 1978)
 
-*Rhadinacanthus longispinus*, Eifelian to Givetian, Middle Devonian (Burrow et al., 2016)
+*Rhadinacanthus longispinus*, Eifelian to Givetian, Middle Devonian (Burrow *et al*., 2016)
 
-*Rhamphodopsis threiplandi*, lower Givetian (Long, 1997; Miles, 1967)
+*Rhamphodopsis threiplandi*, lower Givetian, Middle Devonian (Long, 1997; Miles, 1967)
 
-*Romundina stellina*, Lochkovian (Dupret et al., 2014; Ørvig, 1975)
+*Romundina stellina*, Lochkovian, Lower Devonian (Dupret *et al*., 2014; Ørvig, 1975)
 
-*Shearsbyaspis oepiki*, Emsian (Castiello, 2018; Young, 1985)
+*Shearsbyaspis oepiki*, Emsian, Lower Devonian (Castiello, 2018; Young, 1985)
 
-*Shenacanthus vermiformis*, Telychian (Zhu Y. et al., 2022)
+*Shenacanthus vermiformis*, Telychian, Llandovery, Silurian (Zhu Y. *et al*., 2022)
 
-*Shuyu zhejiangensis*, middle to upper Telychian (Gai et al., 2011)
+*Shuyu zhejiangensis*, middle to upper Telychian (Gai *et al*., 2011)
 
-*Sigaspis lepidophora*, lower Pragian (Goujet, 1973)
+*Sigaspis lepidophora*, lower Pragian, Lower Devonian (Goujet, 1973)
 
-*Sinolepis macrocephala*, Famennian (Liu and P'an, 1958; Ritchie et al., 1992)
+*Sinolepis macrocephala*, Famennian, Upper Devonian (Liu and P'an, 1958; Ritchie *et al*., 1992)
 
 *Sinopetalichthys kueiyangensis*, lower to middle Emsian (Zhao and Zhu, 2010)
 
 *Squalus* spp., Pliocene to present (Gans and Parsons, 1964)
 
-*Styloichthys changae*, upper Lochkovian (Friedman, 2007; Zhu and Yu, 2002)
+*Styloichthys changae*, upper Lochkovian, Lower Devonian (Friedman, 2007; Zhu and Yu, 2002)
 
-*Sudaspis chlupaci*, Lochkovian (Vaškaninová and Ahlberg, 2017)
+*Sudaspis chlupaci*, Lochkovian, Lower Devonian (Vaškaninová and Ahlberg, 2017)
 
 *Synechodus dubrisiensis*, Upper Jurassic to Upper Cretaceous (Maisey, 1985)
 
-*Tamiobatis vetustus*, Famennian (Schaeffer, 1981; Williams, 1998)
+*Tamiobatis vetustus*, Famennian, Upper Devonian (Schaeffer, 1981; Williams, 1998)
 
-*Tetanopsyrus lindoei/breviacanthias*, Lochkovian (Gagnier et al., 1999; Hanke et al., 2001)
+*Tetanopsyrus lindoei/breviacanthias*, Lochkovian, Lower Devonian (Gagnier *et al*., 1999; Hanke *et al*., 2001)
 
-*Tlamaspis inopinatus*, Lochkovian (Vaškaninová and Ahlberg, 2017)
+*Tlamaspis inopinatus*, Lochkovian, Lower Devonian (Vaškaninová and Ahlberg, 2017)
 
 *Tremataspis mammillata*, Gorstian, Ludlow, Silurian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
 
 *Tribodus limae,* Albian, Lower Cretaceous (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
 
-*Triodus moorei,* Bashkirian, Lower Pennsylvanian, Carboniferous to Changhsingian, Lopingian, Permian (Heidtke et al., 2004; Soler-Gijon and Hampe, 1998)
+*Triodus moorei,* Bashkirian, Lower Pennsylvanian, Carboniferous to Changhsingian, Lopingian, Permian (Heidtke *et al*., 2004; Soler-Gijon and Hampe, 1998)
 
 *Tristychius arcuatus*, lower Serpukhovian, Upper Mississippian, Carboniferous (Coates and Gess, 2007; Dick, 1978)
 
-*Uraniacanthus curtus*, Lochkovian (Newman et al., 2012)
+*Uraniacanthus curtus*, Lochkovian, Lower Devonian (Newman *et al*., 2012)
 
-*Uraniacanthus probaton*, Lochkovian (Hanke and Davis, 2008; Newman et al., 2012)
+*Uraniacanthus probaton*, Lochkovian, Lower Devonian (Hanke and Davis, 2008; Newman *et al*., 2012)
 
-> *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman et al., 2012). As such, *Gladiobranchus probaton* was referred to as *U. probaton*.
+> *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, *Gladiobranchus probaton* was referred to as *U. probaton*.
 
-*Uranolophus wyomingensis*, Pragian (Denison, 1968)
+*Uranolophus wyomingensis*, Pragian, Lower Devonian (Denison, 1968)
 
-*Waengsjoeaspis excellens*, Lochkovian (Janvier, 1985)
+*Waengsjoeaspis excellens*, Lochkovian, Lower Devonian (Janvier, 1985)
 
-*Wenshanaspis zhichangensis*, Pragian (Zhao et al., 2002)
+*Wenshanaspis zhichangensis*, Pragian, Lower Devonian (Zhao *et al*., 2002)
 
 *Widjeaspis warrooensis*, Middle Devonian (Barker and Bone, 1995; Basden, 1999)
 
 *Wuttagoonaspis fletcheri*, Emsian to Eifelian (Ritchie, 1973)
 
-*Xiushanosteus mirabilis*, Telychian (Zhu Y. et al., 2022)
+*Xiushanosteus mirabilis*, Telychian, Llandovery, Silurian (Zhu Y. *et al*., 2022)
 
-*Youngolepis praecursor*, Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
+*Youngolepis praecursor*, Lochkovian, Lower Devonian (Chang, 1982; 1991; Chang and Yu, 1981)
 
-*Yunnanolepis* spp., Lochkovian (Zhang, 1980; Zhu, 1996)
+*Yunnanolepis* spp., Lochkovian, Lower Devonian (Zhang, 1980; Zhu, 1996)
 
-*Zenaspis salweyi*, Lochkovian (Stensiö, 1932)
+*Zenaspis salweyi*, Lochkovian, Lower Devonian (Stensiö, 1932)
 
-*Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian (Valiukevicius, 1992; 1999; Valiukevicius et al., 1997)
+*Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian, Lower Devonian (Valiukevicius, 1992; 1999; Valiukevicius *et al*., 1997)
 
 
 **References**
@@ -933,7 +933,7 @@ Zhu, M., Zhao, W.-J., Jia, L.-T., Lu, J., Qiao, T. and Qu, Q.-M., 2009. The olde
 
 Zhu, Y.-A., Giles, S., Young, G. C., Hu, Y.-Z., Bazzi, M., Ahlberg, P. E., Zhu, M. and Lu, J., 2021. Endocast and bony labyrinth of a Devonian "placoderm" challenges stem gnathostome phylogeny. *Curr. Biol.* **31**: 1112–1118.e4
 
-Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, Y., Ahlberg, P.E., et al. 2022 The oldest complete jawed vertebrates from the early Silurian of China. *Nature* **609**, 954-958. (doi:10.1038/s41586-022-05136-8).
+Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, Y., Ahlberg, P.E., *et al*. 2022 The oldest complete jawed vertebrates from the early Silurian of China. *Nature* **609**, 954-958. (doi:10.1038/s41586-022-05136-8).
 
 Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
 
