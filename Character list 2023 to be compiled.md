@@ -1,6 +1,6 @@
 # Character List: 1-689 from Zhu Y. *et al*. (2022), 690-693 from Cui *et al*. (in review)
 
-> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017) and Character 485 of Castiello (2018), is deleted because of vague definition of the character. Character 450 of Zhu Y. *et al*. (2022) is deleted due to the overlooked repetition with their Character 448. 
+> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017) and Character 485 of Castiello (2018), is deleted because of vague definition of the character. Character 450 of Zhu Y. *et al*. (2022) is deleted due to the overlooked repetition with their Character 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 262 and Character 694.
 
 ## Skeletal tissues
 
@@ -1144,9 +1144,11 @@ This character is scored contingently on the state of the previous character. *D
 
 > Coates *et al*. (2018), Character 92; Zhu Y. *et al*. (2022), Character 262.
 
-262. Maxilla and premaxilla sensu stricto (upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
+262. Maxilla *sensu stricto* (posterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 93; Zhu Y. *et al*. (2022), Character 263.
+> Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
+
+> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto* （Character 262) and the the premaxilla *sensu stricto* (Character 694).
 
 263. Tooth-bearing median rostral: (0) absent; (1) present.
 
@@ -2949,3 +2951,9 @@ This character is scored contingently on the state of the previous character. *D
 693. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (in review), Character 694.
+
+694. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
+
+> Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
+
+> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto* （Character 262) and the the premaxilla *sensu stricto* (Character 694).
