@@ -2769,12 +2769,14 @@ This character is scored contingently on the state of the previous character. *D
 650. Number of dorsal fins, if present: (0) one; (1) two.
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652.
+> The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., in review).
 
 651. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
 > Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653.
 
 > Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
+> The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., in review).
 
 652. Basal plate in dorsal fin: (0) absent; (1) present.
 
@@ -2795,6 +2797,7 @@ This character is scored contingently on the state of the previous character. *D
 656. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658.
+> The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., in review).
 
 657. Anal fin: (0) absent; (1) present.
 
@@ -2857,6 +2860,7 @@ This character is scored contingently on the state of the previous character. *D
 671. Anal fin spine: (0) absent; (1) present.
 
 > Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673.
+> The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
 
 672. Pectoral fin spine: (0) absent; (1) present.
 
@@ -2865,6 +2869,7 @@ This character is scored contingently on the state of the previous character. *D
 673. Pelvic fin spine: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675.
+> The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
 
 674. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
