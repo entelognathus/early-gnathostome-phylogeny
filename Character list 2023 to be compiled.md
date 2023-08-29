@@ -1254,21 +1254,27 @@ This character is scored contingently on the state of the previous character. *D
 
 > Coates *et al*. (2018), Character 99; Zhu Y. *et al*. (2022), Character 289.
 
-289. Coronoids: (0) present, (1) absent.
+289. Coronoids (sensu lato): (0) present, (1) absent.
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290.
 
-290. Number of coronoids: (0) more than three; (1) three.
+> We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 495 (coronoids sensu stricto).
+
+290. Number of coronoids (sensu lato): (0) more than three; (1) three.
 
 > Lu  *et al*. (2012), Character 145; Zhu *et al*. (2013), Character 201; Giles *et al*. (2015), Character 106; Choo *et al*. (2017), Character 147; King *et al*. (2017), Character 344; Castiello (2018), Character 336; Zhu Y. *et al*. (2022), Character 291.
 
-291. Fangs of coronoids (sensu stricto): (0) absent; (1) present.
+> This also refers to the coronoids (sensu lato).
+
+291. Fangs of coronoids (sensu lato): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292.
 
-292. Dentition on coronoids: (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
+292. Dentition on coronoids (sensu lato): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
 > Zhu *et al*. (2001), Zhu and Yu (2002), Character 70; Friedman (2007), Character 58; Zhu *et al*., 2009, Character 95; Zhu *et al*. (2013), Character 203; King *et al*. (2017), Character 348; Castiello (2018), Character 340; Zhu Y. *et al*. (2022), Character 293.
+
+> This refers to the coronoids (sensu lato).
 
 293. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
@@ -2962,3 +2968,8 @@ This character is scored contingently on the state of the previous character. *D
 > Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
 > Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto* （Character 262) and the the premaxilla *sensu stricto* (Character 694).
+
+695. Coronoids (sensu stricto): (0) absent, (1) present.
+
+> New character, see comments on Character 289.
+
