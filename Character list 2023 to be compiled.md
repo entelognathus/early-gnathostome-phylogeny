@@ -461,19 +461,19 @@ This character is scored contingently on the state of the previous character. *D
 
 100. Pore clusters: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101.
+> King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 272.
 
 101. Prerostral plate: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 269; Castiello (2018), Character 263; Zhu Y. *et al*. (2022), Character 102.
+> King *et al*. (2017), Character 269; Castiello (2018), Character 263; Zhu Y. *et al*. (2022), Character 102; Brazeau *et al*. (2023), Character 274.
 
 102. Interparietal: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103.
+> King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 276.
 
 103. Supratemporal (marginal) in contact with postparietal (central): (0) absent; (1) present.
 
-> King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104.
+> King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 275.
 
 104. Supratemporal (marginal) contact with nasal (postnasal): (0) absent; (1) present.
 
@@ -526,7 +526,7 @@ This character is scored contingently on the state of the previous character. *D
 
 116. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117.
+> King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117; Brazeau *et al*. (2023), Character 277.
 
 117. Position of anterior nostril: (0) facial; (1) at oral margin.
 
@@ -714,7 +714,7 @@ This character is scored contingently on the state of the previous character. *D
 
 160. Westoll-lines: (0) absent; (1) present.
 
-> Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161.
+> Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 273.
 
 161. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
@@ -932,8 +932,8 @@ This character is scored contingently on the state of the previous character. *D
 
 211. Foramina (similar to infradentary foramina) on cheek bones: (0)  absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198.
-> 
+> Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
+ 
 212. Most posterior major bone of cheek bearing preopercular canal (preopercular) extending forward, close to orbit: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 59), and references therein; Zhu *et al*. (2013), Character 173; Choo *et al*. (2017), Character 180; King *et al*. (2017), Character 195; Castiello (2018), Character 194; Zhu Y. *et al*. (2022), Character 213; Brazeau *et al*. (2023), Character 200.
