@@ -1,6 +1,6 @@
 # Character List: 1-689 from Zhu Y. *et al*. (2022), 690-693 from Cui *et al*. (2023)
 
-> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017) and Character 485 of Castiello (2018), is deleted because of vague definition of the character. Character 450 of Zhu Y. *et al*. (2022) is deleted due to the overlooked repetition with their Character 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 262 and Character 694.
+> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 450 of Zhu Y. *et al*. (2022) is deleted due to the overlooked repetition with their Character 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 262 and Character 694.
 
 ## Skeletal tissues
 
