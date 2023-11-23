@@ -24,7 +24,7 @@
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
-> Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5.
+> Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Brazeau *et al*. (2023), Character 4.
 
 > Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
 
@@ -46,7 +46,7 @@
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9.
+> King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21.
 
 10. Dentinous tissue: (0) absent; (1) present.
 
@@ -58,30 +58,27 @@
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
-> Zhu  *et al*. (2009, Character 152), and references therein; Zhu *et al*. (2013), Character 141; Giles *et al*. (2015), Character 86; Choo *et al*. (2017), Character 137; King *et al*. (2017), Character 343; Castiello (2018), Character 335; Zhu Y. *et al*. (2022), Character 12.
-
+> Zhu  *et al*. (2009, Character 152), and references therein; Zhu *et al*. (2013), Character 141; Giles *et al*. (2015), Character 86; Choo *et al*. (2017), Character 137; King *et al*. (2017), Character 343; Castiello (2018), Character 335; Zhu Y. *et al*. (2022), Character 12; Brazeau *et al*. (2023), Character 348.
 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13.
+> Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13; Brazeau *et al*. (2023), Character 18.
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
-> Giles *et al*. (2015), Character 6; Choo *et al*. (2017), Character 255; King *et al*. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. *et al*. (2022), Character 14.
-
+> Giles *et al*. (2015), Character 6; Choo *et al*. (2017), Character 255; King *et al*. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. *et al*. (2022), Character 14; Brazeau *et al*. (2023), Character 19.
 > *Ligulalepis* is scored '1' based on Schultze (1968).
 
 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 
-> Giles *et al*. (2015), Character 7; Choo *et al*. (2017), Character 256; King *et al*. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. *et al*. (2022), Character 15.
+> Giles *et al*. (2015), Character 7; Choo *et al*. (2017), Character 256; King *et al*. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. *et al*. (2022), Character 15; Brazeau *et al*. (2023), Character 20.
 
 16. Enamel(oid) on teeth: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 79; Choo *et al*. (2017), Character 284; King *et al*. (2017), Character 365; Castiello (2018), Character 355; Zhu Y. *et al*. (2022), Character 16.
+> Giles *et al*. (2015), Character 79; Choo *et al*. (2017), Character 284; King *et al*. (2017), Character 365; Castiello (2018), Character 355; Zhu Y. *et al*. (2022), Character 16; Brazeau *et al*. (2023), Character 370.
 
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Choo *et al*. (2017), Character 136; King *et al*. (2017), Character 342; Castiello (2018), Character 334; Zhu Y. *et al*. (2021), Character 78; Zhu Y. *et al*. (2022), Character 17.
-
+> Zhu  *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Choo *et al*. (2017), Character 136; King *et al*. (2017), Character 342; Castiello (2018), Character 334; Zhu Y. *et al*. (2021), Character 78; Zhu Y. *et al*. (2022), Character 17; Brazeau *et al*. (2023), Character 347.
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
@@ -92,7 +89,7 @@
 
 20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
 
-> Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20.
+> Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 17.
 
 21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
 
@@ -106,11 +103,11 @@
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
-> King *et al*. (2017), Character 270; Castiello (2018), Character 264; Zhu Y. *et al*. (2022), Character 23.
+> King *et al*. (2017), Character 270; Castiello (2018), Character 264; Zhu Y. *et al*. (2022), Character 23; Brazeau *et al*. (2023), Character 275.
 
 24. Rostral tubuli: (0) absent; (1) present.
 
-> Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24.
+> Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
 
 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
 
@@ -554,15 +551,15 @@ This character is scored contingently on the state of the previous character. *D
 
 121. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 22; Castiello (2018), Character 22; Zhu Y. *et al*. (2022), Character 122.
+> King *et al*. (2017), Character 22; Castiello (2018), Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25.
 
 122. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
-> Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123.
+> Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33.
 
 123. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
-> Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124.
+> Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33.
 
 124. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
@@ -1208,7 +1205,7 @@ This character is scored contingently on the state of the previous character. *D
 
 276. Vomeral area with grooves and raised areas: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 64), and references therein; Zhu *et al*. (2013), Character 236; Choo *et al*. (2017), Character 226; King *et al*. (2017), Character 71; Castiello (2018), Character 73; Zhu Y. *et al*. (2022), Character 277.
+> Zhu  *et al*. (2009, Character 64), and references therein; Zhu *et al*. (2013), Character 236; Choo *et al*. (2017), Character 226; King *et al*. (2017), Character 71; Castiello (2018), Character 73; Zhu Y. *et al*. (2022), Character 277; Brazeau *et al*. (2023), Character 75.
 
 277. Posterior process of vomers: (0) absent; (1) present.
 
@@ -1220,7 +1217,7 @@ This character is scored contingently on the state of the previous character. *D
 
 279. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 
-> Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280.
+> Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Brazeau *et al*. (2023), Character 78.
 
 280. Ascending process of parasphenoid: (0) absent; (1) present.
 
@@ -1602,7 +1599,7 @@ This character is scored contingently on the state of the previous character. *D
 
 370. Endoskeletal intracranial joint: (0) absent; (1) present.
 
-> Janvier (1996), and references therein; Davis *et al*. (2012), Character 61; Choo *et al*. (2017), Character 60; King *et al*. (2017), Character 25; Castiello (2018), Character 25; Zhu Y. *et al*. (2022), Character 371.
+> Janvier (1996), and references therein; Davis *et al*. (2012), Character 61; Choo *et al*. (2017), Character 60; King *et al*. (2017), Character 25; Castiello (2018), Character 25; Zhu Y. *et al*. (2022), Character 371; Brazeau *et al*. (2023), Character 28.
 
 371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissue): (0) absent; (1) present.
 
@@ -1610,7 +1607,7 @@ This character is scored contingently on the state of the previous character. *D
 
 372. Ventral cranial fissure: (0) absent; (1) present.
 
-> Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis *et al*. (2012), Character 96; Giles *et al*. (2015), Character 168; Choo *et al*. (2017), Character 92. King *et al*. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. *et al*. (2022), Character 373.
+> Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis *et al*. (2012), Character 96; Giles *et al*. (2015), Character 168; Choo *et al*. (2017), Character 92. King *et al*. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. *et al*. (2022), Character 373; Brazeau *et al*. (2023), Character 58.
 
 > Davis *et al*. (2012): Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1.
 
@@ -1618,7 +1615,7 @@ This character is scored contingently on the state of the previous character. *D
 
 373. Metotic (otic-occipital) fissure: (0) absent; (1) present.
 
-> Schaeffer (1981); Janvier (1996); Coates & Sequeira (1998); Maisey (2001); Davis (2002); Brazeau (2009) ), Character 93; Davis *et al*. (2012), Character 97; Choo *et al*. (2017), Character 93. King *et al*. (2017), Character 55; Castiello (2018), Character 56; Zhu Y. *et al*. (2022), Character 374.
+> Schaeffer (1981); Janvier (1996); Coates & Sequeira (1998); Maisey (2001); Davis (2002); Brazeau (2009) ), Character 93; Davis *et al*. (2012), Character 97; Choo *et al*. (2017), Character 93. King *et al*. (2017), Character 55; Castiello (2018), Character 56; Zhu Y. *et al*. (2022), Character 374; Brazeau *et al*. (2023), Character 59.
 
 374. External nasal opening: (0) single median; (1) paired.
 
@@ -1626,7 +1623,7 @@ This character is scored contingently on the state of the previous character. *D
 
 375. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 
-> Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376.
+> Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376; Brazeau *et al*. (2023), Character 23.
 
 376. Nasohypophyseal opening shape: (0) unconstructed; (1) constriction between nasal and hypophysial divisions; (2) split into nasal and hypophysial divisions.
 
@@ -1658,11 +1655,11 @@ This character is scored contingently on the state of the previous character. *D
 
 383. Precerebral fontanelle: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Brazeau *et al*. (2023), Character 22.
 
 384. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
 
-> Zhu  *et al*. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 57; Choo *et al*. (2017), Character 56. King *et al*. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. *et al*. (2022), Character 385.
+> Zhu  *et al*. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 57; Choo *et al*. (2017), Character 56. King *et al*. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. *et al*. (2022), Character 385; Brazeau *et al*. (2023), Character 24.
 
 385. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
 
@@ -1676,11 +1673,10 @@ This character is scored contingently on the state of the previous character. *D
 
 387. Ethmoid region elongate with dorsoventrally deep lateral walls: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 73; Choo *et al*. (2017), Character 72. King *et al*. (2017), Character 36; Castiello (2018), Character 36; Zhu Y. *et al*. (2022), Character 388.
-
+> Davis *et al*. (2012), Character 73; Choo *et al*. (2017), Character 72. King *et al*. (2017), Character 36; Castiello (2018), Character 36; Zhu Y. *et al*. (2022), Character 388; Brazeau *et al*. (2023), Character 39.
 388. Ethmoid articulation for palatoquadrate: (0) placed on postnasal wall; (1) extends posteriorly to the level of N.II.
 
-> Zhu  *et al*. (2009, Character 35), and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389.
+> Zhu  *et al*. (2009, Character 35), and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389; Brazeau *et al*. (2023), Character 76.
 
 389. Internasal vacuities or pits: (0) absent; (1) present.
 
@@ -1696,7 +1692,7 @@ This character is scored contingently on the state of the previous character. *D
 
 392. Narrow interorbital septum: (0) absent; (1) present.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 68; Choo *et al*. (2017), Character 67. King *et al*. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. *et al*. (2022), Character 393.
+> Brazeau (2009); Davis *et al*. (2012), Character 68; Choo *et al*. (2017), Character 67. King *et al*. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. *et al*. (2022), Character 393; Brazeau *et al*. (2023), Character 35.
 
 393. Optic lobes: (0) narrower than cerebellum; (1) same width or wider than cerebellum.
 
@@ -1728,11 +1724,11 @@ This character is scored contingently on the state of the previous character. *D
 
 400. Pronounced sub-ethmoidal keel: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 59; Choo *et al*. (2017), Character 58; King *et al*. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. *et al*. (2022), Character 401.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 59; Choo *et al*. (2017), Character 58; King *et al*. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. *et al*. (2022), Character 401; Brazeau *et al*. (2023), Character 26.
 
-401. Eyestalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
+401. Eye stalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 36), and references therein; Zhu *et al*. (2013), Character 222; Giles *et al*. (2015), Character 131; Choo *et al*. (2017), Character 149; King *et al*. (2017), Character 62; Castiello (2018), Character 63; Zhu Y. *et al*. (2022), Character 402.
+> Zhu  *et al*. (2009, Character 36), and references therein; Zhu *et al*. (2013), Character 222; Giles *et al*. (2015), Character 131; Choo *et al*. (2017), Character 149; King *et al*. (2017), Character 62; Castiello (2018), Character 63; Zhu Y. *et al*. (2022), Character 402; Brazeau *et al*. (2023), Character 66.
 
 402. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 
@@ -1740,7 +1736,7 @@ This character is scored contingently on the state of the previous character. *D
 
 403. Position of myodome for superior oblique eye muscles: (0) posterior and dorsal to foramen for nerve II; (1) anterior and dorsal to foramen.
 
-> Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404.
+> Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404; Brazeau *et al*. (2023), Character 27.
 
 404. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
 
@@ -1768,15 +1764,15 @@ This character is scored contingently on the state of the previous character. *D
 
 410. Unconstricted cranial notochord: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 40), and references therein; Zhu *et al*. (2013), Character 225; Choo *et al*. (2017), Character 221; King *et al*. (2017), Character 68; Castiello (2018), Character 70; Zhu Y. *et al*. (2022), Character 411.
+> Zhu  *et al*. (2009, Character 40), and references therein; Zhu *et al*. (2013), Character 225; Choo *et al*. (2017), Character 221; King *et al*. (2017), Character 68; Castiello (2018), Character 70; Zhu Y. *et al*. (2022), Character 411; Brazeau *et al*. (2023), Character 72.
 
 411. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 41), and references therein; Zhu *et al*. (2013), Character 226; Choo *et al*. (2017), Character 222; King *et al*. (2017), Character 69; Castiello (2018), Character 71; Zhu Y. *et al*. (2022), Character 412.
+> Zhu  *et al*. (2009, Character 41), and references therein; Zhu *et al*. (2013), Character 226; Choo *et al*. (2017), Character 222; King *et al*. (2017), Character 69; Castiello (2018), Character 71; Zhu Y. *et al*. (2022), Character 412; Brazeau *et al*. (2023), Character 73.
 
 412. Opercular suspension on braincase: (0) absent; (1) present.
 
-> Brazeau (2009, Character 91); Zhu *et al*. (2013), Character 229; Choo *et al*. (2017), Character 224; King *et al*. (2017), Character 70; Castiello (2018), Character 72; Zhu Y. *et al*. (2022), Character 413.
+> Brazeau (2009, Character 91); Zhu *et al*. (2013), Character 229; Choo *et al*. (2017), Character 224; King *et al*. (2017), Character 70; Castiello (2018), Character 72; Zhu Y. *et al*. (2022), Character 413; Brazeau *et al*. (2023), Character 74.
 
 413. Ophthalmic foramen in anterodorsal extremity of orbit communicates with cranial interior: (0) absent; (1) present.
 
@@ -1790,11 +1786,11 @@ This character is scored contingently on the state of the previous character. *D
 
 415. Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 78; Choo *et al*. (2017), Character 78; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2022), Character 416.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 78; Choo *et al*. (2017), Character 78; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2022), Character 416; Brazeau *et al*. (2023), Character 44.
 
 416. Postorbital process: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 132; Choo *et al*. (2017), Character 295; Coates *et al*. (2018), Character 165; King *et al*. (2017), Character 77; Castiello (2018), Character 79; Zhu Y. *et al*. (2021), Character 129; Zhu Y. *et al*. (2022), Character 417.
+> Giles *et al*. (2015), Character 132; Choo *et al*. (2017), Character 295; Coates *et al*. (2018), Character 165; King *et al*. (2017), Character 77; Castiello (2018), Character 79; Zhu Y. *et al*. (2021), Character 129; Zhu Y. *et al*. (2022), Character 417; Brazeau *et al*. (2023), Character 81.
 
 > Giles *et al*. (2015): "Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and *Entelegnathus*, where a bridge encloses the jugular vein: Yu 1998; Zhu *et al*. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu *et al*. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., *Macropetalichthys*) or where the palatoquadrate is fused to the neurocranium (e.g., *Helodus*) are coded as uncertain for this character."
 
@@ -1806,7 +1802,7 @@ This character is scored contingently on the state of the previous character. *D
 
 418. Postorbital process articulates with palatoquadrate: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis *et al*. (2012), Character 81; Choo *et al*. (2017), Character 80; King *et al*. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. *et al*. (2022), Character 419.
+> Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis *et al*. (2012), Character 81; Choo *et al*. (2017), Character 80; King *et al*. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. *et al*. (2022), Character 419; Brazeau *et al*. (2023), Character 46.
 
 419. Postorbital process and arcade: (0) short and deep - width not more than maximum braincase width (excluding arcade); (1) process and arcade wide - width exceeds maximum width of braincase, and anteroposteriorly narrow; (2) process and arcade massive; (3) arcade forms postorbital pillar.
 
@@ -1818,7 +1814,7 @@ This character is scored contingently on the state of the previous character. *D
 
 421. Canal for jugular in postorbital process: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 133; Choo *et al*. (2017), Character 296; King *et al*. (2017), Character 78; Castiello (2018), Character 80; Zhu Y. *et al*. (2022), Character 422.
+> Giles *et al*. (2015), Character 133; Choo *et al*. (2017), Character 296; King *et al*. (2017), Character 78; Castiello (2018), Character 80; Zhu Y. *et al*. (2022), Character 422; Brazeau *et al*. (2023), Character 82.
 
 422. Jugular canal diameter: (0) small; (1) large; (2) canal absent.
 
@@ -1826,7 +1822,7 @@ This character is scored contingently on the state of the previous character. *D
 
 423. Jugular canal: (0) long (invested in otic region along length of skeletal labyrinth); (1) short (restricted to region anterior of skeletal labyrinth); (2) absent (jugular vein uninvested in otic region).
 
-> Giles *et al*. (2015), Character 126; Choo *et al*. (2017), Character 294; King *et al*. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. *et al*. (2022), Character 424.
+> Giles *et al*. (2015), Character 126; Choo *et al*. (2017), Character 294; King *et al*. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. *et al*. (2022), Character 424; Brazeau *et al*. (2023), Character 80.
 
 > Giles *et al*. (2015)：“This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
 
@@ -1844,25 +1840,25 @@ This character is scored contingently on the state of the previous character. *D
 
 427. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 134; Choo *et al*. (2017), Character 297; King *et al*. (2017), Character 79; Castiello (2018), Character 81; Zhu Y. *et al*. (2022), Character 428.
+> Giles *et al*. (2015), Character 134; Choo *et al*. (2017), Character 297; King *et al*. (2017), Character 79; Castiello (2018), Character 81; Zhu Y. *et al*. (2022), Character 428; Brazeau *et al*. (2023), Character 83.
 
 > This character is coded as inapplicable in taxa lacking well-developed supraorbital shelves. (Giles *et al*., 2015)
 
 428. Spiracular groove on basicranial surface: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 62; Choo *et al*. (2017), Character 61; King *et al*. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. *et al*. (2022), Character 429.
+> Davis *et al*. (2012), Character 62; Choo *et al*. (2017), Character 61; King *et al*. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. *et al*. (2022), Character 429; Brazeau *et al*. (2023), Character 29.
 
 429. Spiracular groove on lateral commissure: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 63; Choo *et al*. (2017), Character 62; King *et al*. (2017), Character 27; Castiello (2018), Character 27; Zhu Y. *et al*. (2022), Character 430.
+> Davis *et al*. (2012), Character 63; Choo *et al*. (2017), Character 62; King *et al*. (2017), Character 27; Castiello (2018), Character 27; Zhu Y. *et al*. (2022), Character 430; Brazeau *et al*. (2023), Character 30.
 
 430. Subpituitary fenestra: (0) absent; (1) present.
 
-> Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 64; Choo *et al*. (2017), Character 63; King *et al*. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. *et al*. (2022), Character 431.
+> Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 64; Choo *et al*. (2017), Character 63; King *et al*. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. *et al*. (2022), Character 431; Brazeau *et al*. (2023), Character 31.
 
-431. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present.
+431. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present; Brazeau *et al*. (2023), Character 106.
 
-> Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 65; Choo *et al*. (2017), Character 64; King *et al*. (2017), Character 29; Castiello (2018), Character 28; Zhu Y. *et al*. (2022), Character 432.
+> Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 65; Choo *et al*. (2017), Character 64; King *et al*. (2017), Character 29; Castiello (2018), Character 28; Zhu Y. *et al*. (2022), Character 432; Brazeau *et al*. (2023), Character 32.
 
 432. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
 
@@ -1878,7 +1874,7 @@ This character is scored contingently on the state of the previous character. *D
 
 435. Extended prehypophysial portion of sphenoid: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 67; Choo *et al*. (2017), Character 66. King *et al*. (2017), Character 31; Castiello (2018), Character 31; Zhu Y. *et al*. (2022), Character 436.
+> Davis *et al*. (2012), Character 67; Choo *et al*. (2017), Character 66. King *et al*. (2017), Character 31; Castiello (2018), Character 31; Zhu Y. *et al*. (2022), Character 436; Brazeau *et al*. (2023), Character 34.
 
 436. Main trunk of facial nerve: (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 
@@ -1886,23 +1882,23 @@ This character is scored contingently on the state of the previous character. *D
 
 437. Hyoid ramus of facial nerve exits through posterior jugular opening: (0) absent; (1) present.
 
-> Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 70; Choo *et al*. (2017), Character 69; King *et al*. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. *et al*. (2022), Character 438.
+> Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 70; Choo *et al*. (2017), Character 69; King *et al*. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. *et al*. (2022), Character 438; Brazeau *et al*. (2023), Character 36.
 
 438. Ascending basisphenoid pillar pierced by common internal carotid: (0) absent; (1) present.
 
-> Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 75; Choo *et al*. (2017), Character 74; King *et al*. (2017), Character 38; Castiello (2018), Character 38; Zhu Y. *et al*. (2022), Character 439.
+> Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 75; Choo *et al*. (2017), Character 74; King *et al*. (2017), Character 38; Castiello (2018), Character 38; Zhu Y. *et al*. (2022), Character 439; Brazeau *et al*. (2023), Character 41.
 
 439. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 79; Choo *et al*. (2017), Character 75; King *et al*. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. *et al*. (2022), Character 440.
+> Brazeau (2009); Davis *et al*. (2012), Character 79; Choo *et al*. (2017), Character 75; King *et al*. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. *et al*. (2022), Character 440; Brazeau *et al*. (2023), Character 42.
 
 440. Position of basal/basipterygoid articulation: (0) same anteroposterior level as hypophysial opening; (1) anterior to hypophysial opening.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 80; Choo *et al*. (2017), Character 79; King *et al*. (2017), Character 42; Castiello (2018), Character 42; Zhu Y. *et al*. (2022), Character 441.
+> Brazeau (2009); Davis *et al*. (2012), Character 80; Choo *et al*. (2017), Character 79; King *et al*. (2017), Character 42; Castiello (2018), Character 42; Zhu Y. *et al*. (2022), Character 441; Brazeau *et al*. (2023), Character 45.
 
 441. Basipterygoid process (basal articulation) with vertically oriented component: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 83; Choo *et al*. (2017), Character 82; King *et al*. (2017), Character 45; Castiello (2018), Character 45; Zhu Y. *et al*. (2022), Character 442.
+> Davis *et al*. (2012), Character 83; Choo *et al*. (2017), Character 82; King *et al*. (2017), Character 45; Castiello (2018), Character 45; Zhu Y. *et al*. (2022), Character 442; Brazeau *et al*. (2023), Character 48.
 
 442. Expanded articular area anterior to basipterygoid process: (0) absent; (1) present.
 
@@ -1910,7 +1906,7 @@ This character is scored contingently on the state of the previous character. *D
 
 443. Pituitary vein canal: (0) dorsal to level of basipterygoid  process; (1) flanked posteriorly by basipterygoid process.
 
-> Davis *et al*. (2012), Character 84; Choo *et al*. (2017), Character 83; King *et al*. (2017), Character 46; Castiello (2018), Character 46; Zhu Y. *et al*. (2022), Character 444.
+> Davis *et al*. (2012), Character 84; Choo *et al*. (2017), Character 83; King *et al*. (2017), Character 46; Castiello (2018), Character 46; Zhu Y. *et al*. (2022), Character 444; Brazeau *et al*. (2023), Character 49.
 
 444. Pituitary vein canal: (0) discontinuous, enters the cranial cavity; (1) discontinuous, enters hypophysial recess; (2) continuous transverse vein.
 
@@ -1922,7 +1918,7 @@ This character is scored contingently on the state of the previous character. *D
 
 446. Short otico-occipital region of braincase: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis *et al*. (2012), Character 72; Choo *et al*. (2017), Character 71; King *et al*. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. *et al*. (2022), Character 447.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis *et al*. (2012), Character 72; Choo *et al*. (2017), Character 71; King *et al*. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. *et al*. (2022), Character 447; Brazeau *et al*. (2023), Character 38.
 
 > Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital process in relation to the overall length of the braincase is used to demarcate these proportions."
 
@@ -1938,7 +1934,7 @@ This character is scored contingently on the state of the previous character. *D
 
 448. Articulation facet with hyomandibular: (0) single-headed; (1) double-headed.
 
-> Zhu  *et al*. (2009, Character 44) and references therein; Zhu *et al*. (2013), Character 227; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 150; King *et al*. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. *et al*. (2022), Character 449.
+> Zhu  *et al*. (2009, Character 44) and references therein; Zhu *et al*. (2013), Character 227; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 150; King *et al*. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. *et al*. (2022), Character 449; Brazeau *et al*. (2023), Character 67.
 
 449. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
      
@@ -1954,7 +1950,7 @@ This character is scored contingently on the state of the previous character. *D
 
 452. Relative position of jugular groove and hyomandibular articulation: (0) hyomandibula dorsal or same level (i.e. on bridge); (1) jugular vein passing dorsal or lateral to hyomandibula.
 
-> Choo *et al*. (2017), Character 324; Zhu Y. *et al*. (2022), Character 454.
+> Choo *et al*. (2017), Character 324; Zhu Y. *et al*. (2022), Character 454; Brazeau *et al*. (2023), Character 93.
 
 453. Hyomandibular facets where they straddle the jugular vein: (0) narrowly separated; (1) widely separated.
 
@@ -1974,25 +1970,25 @@ This character is scored contingently on the state of the previous character. *D
 
 457. Labyrinth cavity: (0) separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall; (1) skeletal capsular wall absent.
 
-> Schaeffer (1981); Davis *et al*. (2012), Character 82; Choo *et al*. (2017), Character 81; King *et al*. (2017), Character 44; Castiello (2018), Character 44; Zhu Y. *et al*. (2022), Character 459.
+> Schaeffer (1981); Davis *et al*. (2012), Character 82; Choo *et al*. (2017), Character 81; King *et al*. (2017), Character 44; Castiello (2018), Character 44; Zhu Y. *et al*. (2022), Character 459; Brazeau *et al*. (2023), Character 47.
 
 458. External (horizontal) semicircular canal: (0) absent; (1) present.
 
-> Janvier (1996); Davis *et al*. (2012), Character 85; Choo *et al*. (2017), Character 84; King *et al*. (2017), Character 47; Castiello (2018), Character 47; Zhu Y. *et al*. (2022), Character 460.
+> Janvier (1996); Davis *et al*. (2012), Character 85; Choo *et al*. (2017), Character 84; King *et al*. (2017), Character 47; Castiello (2018), Character 47; Zhu Y. *et al*. (2022), Character 460; Brazeau *et al*. (2023), Character 50.
 
 459. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
 
-> Davis *et al*. (2012), Character 87; Choo *et al*. (2017), Character 86; King *et al*. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. *et al*. (2022), Character 461.
+> Davis *et al*. (2012), Character 87; Choo *et al*. (2017), Character 86; King *et al*. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. *et al*. (2022), Character 461; Brazeau *et al*. (2023), Character 53.
 
 460. Horizontal semicircular canal in dorsal view: (0) medial to path of jugular vein; (1) dorsal to jugular vein.
 
-> Giles *et al*. (2015), Character 154; Choo *et al*. (2017), Character 299; King *et al*. (2017), Character 81; Castiello (2018), Character 83; Zhu Y. *et al*. (2022), Character 462.
+> Giles *et al*. (2015), Character 154; Choo *et al*. (2017), Character 299; King *et al*. (2017), Character 81; Castiello (2018), Character 83; Zhu Y. *et al*. (2022), Character 462; Brazeau *et al*. (2023), Character 85.
 
 > Giles *et al*. (2015)：“This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.”
 
 461. Crus commune connecting anterior and posterior semicircular canals: (0) present; (1) absent.
 
-> Coates *et al*. (2018), Character 180; Zhu Y. *et al*. (2021), Character 279; Zhu Y. *et al*. (2022), Character 463.
+> Coates *et al*. (2018), Character 180; Zhu Y. *et al*. (2021), Character 279; Zhu Y. *et al*. (2022), Character 463; Brazeau *et al*. (2023), Character 52.
 
 462. Crus commune of anterior and posterior semicircular canals: (0) dorsal to endocranial roof; (1) ventral to endocranial roof.
 
@@ -2012,7 +2008,7 @@ This character is scored contingently on the state of the previous character. *D
 
 466. Sinus superior: (0) absent or indistinguishable from union of anterior and posterior canals with saccular chamber; (1) present.
 
-> Davis *et al*. (2012), Character 86; Choo *et al*. (2017), Character 85; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2021), Character 331; Zhu Y. *et al*. (2022), Character 468.
+> Davis *et al*. (2012), Character 86; Choo *et al*. (2017), Character 85; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2021), Character 331; Zhu Y. *et al*. (2022), Character 468; Brazeau *et al*. (2023), Character 51.
 
 467. Supraotic cavity: (0) absent; (1) present.
 
@@ -2020,7 +2016,7 @@ This character is scored contingently on the state of the previous character. *D
 
 468. Lateral cranial canal: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 55), and references therein; Zhu *et al*. (2013), Character 233; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 152; King *et al*. (2017), Character 64; Castiello (2018), Character 66; Zhu Y. *et al*. (2022), Character 470.
+> Zhu  *et al*. (2009, Character 55), and references therein; Zhu *et al*. (2013), Character 233; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 152; King *et al*. (2017), Character 64; Castiello (2018), Character 66; Zhu Y. *et al*. (2022), Character 470; Brazeau *et al*. (2023), Character 69.
 
 469. Subcircular endolymphatic foramen: (0) absent; (1) present.
 
@@ -2032,7 +2028,7 @@ This character is scored contingently on the state of the previous character. *D
 
 471. Endolymphatic ducts: (0) posteriodorsally angled tubes; (1) tubes oriented vertically through median endolymphatic fossa.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 92; Choo *et al*. (2017), Character 91; Zhu Y. *et al*. (2022), Character 473.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 92; Choo *et al*. (2017), Character 91; Zhu Y. *et al*. (2022), Character 473; Brazeau *et al*. (2023), Character 57.
 
 472. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
 
@@ -2088,11 +2084,11 @@ This character is scored contingently on the state of the previous character. *D
 
 485. Posterior dorsal fontanelle: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Davis *et al*. (2012), Character 89; Choo *et al*. (2017), Character 88; King *et al*. (2017), Character 50; Castiello (2018), Character 50; Zhu Y. *et al*. (2022), Character 487.
+> Schaeffer (1981); Coates & Sequeira (1998); Davis *et al*. (2012), Character 89; Choo *et al*. (2017), Character 88; King *et al*. (2017), Character 50; Castiello (2018), Character 50; Zhu Y. *et al*. (2022), Character 487; Brazeau *et al*. (2023), Character 54.
 
 486. Shape of posterior dorsal fontanelle: (0) approximately as long as broad; (1) much longer than wide, slot-shaped.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 90; Choo *et al*. (2017), Character 89. King *et al*. (2017), Character 51; Castiello (2018), Character 51; Zhu Y. *et al*. (2022), Character 488.
+> Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 90; Choo *et al*. (2017), Character 89. King *et al*. (2017), Character 51; Castiello (2018), Character 51; Zhu Y. *et al*. (2022), Character 488; Brazeau *et al*. (2023), Character 55.
 
 487. Posterior dorsal fontanelle: (0) connected to persistent otico-occipital fissure; (1) separated from the fissure by posterior tectum.
 
@@ -2104,7 +2100,7 @@ This character is scored contingently on the state of the previous character. *D
 
 489. Relationship of cranial endocavity to basisphenoid: (0) endocavity occupies full depth of sphenoid; (1) enodcavity dorsally restricted.
 
-> King *et al*. (2017), Character 37; Castiello (2018), Character 37; Zhu Y. *et al*. (2021), Character 137; Zhu Y. *et al*. (2022), Character 491.
+> King *et al*. (2017), Character 37; Castiello (2018), Character 37; Zhu Y. *et al*. (2021), Character 137; Zhu Y. *et al*. (2022), Character 491; Brazeau *et al*. (2023), Character 40.
 
 490. Supraotic shelf broad: (0) absent; (1) present.
 
@@ -2120,19 +2116,19 @@ This character is scored contingently on the state of the previous character. *D
 
 493. Vestibular fontanelle: (0) absent; (1) present.
 
-> Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Zhu Y. *et al*. (2022), Character 495.
+> Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Zhu Y. *et al*. (2022), Character 495; Brazeau *et al*. (2023), Character 60.
 
 494. Hypotic lamina (and dorsally directed glossopharyngeal canal): (0) absent; (1) present.
 
-> Schaeffer (1981); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 103; Choo *et al*. (2017), Character 99; King *et al*. (2017), Character 61; Castiello (2018), Character 62; Zhu Y. *et al*. (2022), Character 496.
+> Schaeffer (1981); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 103; Choo *et al*. (2017), Character 99; King *et al*. (2017), Character 61; Castiello (2018), Character 62; Zhu Y. *et al*. (2022), Character 496; Brazeau *et al*. (2023), Character 65.
 
 495. Basicranial fenestra: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 52), and references therein; Zhu *et al*. (2013), Character 231; Choo *et al*. (2017), Character 151; King *et al*. (2017), Character 64; Castiello (2018), Character 66; Zhu Y. *et al*. (2022), Character 497. Giles *et al*. (2015), Character 169
+> Zhu  *et al*. (2009, Character 52), and references therein; Zhu *et al*. (2013), Character 231; Choo *et al*. (2017), Character 151; King *et al*. (2017), Character 64; Castiello (2018), Character 66; Zhu Y. *et al*. (2022), Character 497. Giles *et al*. (2015), Character 169; Brazeau *et al*. (2023), Character 68.
 
 496. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel *et al*. (2011); Brazeau & Friedman (2014); Coates *et al*. (2017); Coates *et al*. (2018), Character 201; Choo *et al*. (2017), Character 77; King *et al*. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. *et al*. (2022), Character 498.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel *et al*. (2011); Brazeau & Friedman (2014); Coates *et al*. (2017); Coates *et al*. (2018), Character 201; Choo *et al*. (2017), Character 77; King *et al*. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. *et al*. (2022), Character 498; Brazeau *et al*. (2023), Character 43.
 
 > *Ellopetalichthys* is coded as "0" (Castiello *et al*., 2020).
 
@@ -2148,27 +2144,27 @@ This character is scored contingently on the state of the previous character. *D
 
 498. Transverse otic process: (0) present; (1) absent.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Giles *et al*. (2015), Character 125; Choo *et al*. (2017), Character 293; King *et al*. (2017), Character 75; Castiello (2018), Character 77; Zhu Y. *et al*. (2022), Character 500.
+> Schaeffer (1981); Coates & Sequeira (1998); Giles *et al*. (2015), Character 125; Choo *et al*. (2017), Character 293; King *et al*. (2017), Character 75; Castiello (2018), Character 77; Zhu Y. *et al*. (2022), Character 500; Brazeau *et al*. (2023), Character 79.
 
 > Giles *et al*. (2015)：“This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164.” 
 
 499. Subcranial ridges: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 141; Choo *et al*. (2017), Character 298; King *et al*. (2017), Character 80; Castiello (2018), Character 82; Zhu Y. *et al*. (2022), Character 501.
+> Giles *et al*. (2015), Character 141; Choo *et al*. (2017), Character 298; King *et al*. (2017), Character 80; Castiello (2018), Character 82; Zhu Y. *et al*. (2022), Character 501; Brazeau *et al*. (2023), Character 84.
 
 > Giles *et al*. (2015)：“Subcranial ridges were first described in *Doliodus* by Maisey *et al*. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and *Mimipiscis* (Gardiner, 1984: fig. 50), where they greatly reduced in length.”
 
 500. Synotic tectum: (0) absent; (1) present.
 
-> Coates & Sequeira (1998), Character 9; Giles *et al*. (2015), Character 159; Choo *et al*. (2017), Character 300; King *et al*. (2017), Character 82; Castiello (2018), Character 84; Zhu Y. *et al*. (2022), Character 502.
+> Coates & Sequeira (1998), Character 9; Giles *et al*. (2015), Character 159; Choo *et al*. (2017), Character 300; King *et al*. (2017), Character 82; Castiello (2018), Character 84; Zhu Y. *et al*. (2022), Character 502; Brazeau *et al*. (2023), Character 86.
 
 501. Shape of median dorsal ridge anterior to endolymphatic fossa: (0) developed as a squared-off ridge or otherwise ungrooved; (1) bears a midline groove.
 
-> Coates & Sequeira (1999), Character 11), Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9; Giles *et al*. (2015), Character 161; Choo *et al*. (2017), Character 301; King *et al*. (2017), Character 83; Castiello (2018), Character 85; Zhu Y. *et al*. (2022), Character 503.
+> Coates & Sequeira (1999), Character 11), Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9; Giles *et al*. (2015), Character 161; Choo *et al*. (2017), Character 301; King *et al*. (2017), Character 83; Castiello (2018), Character 85; Zhu Y. *et al*. (2022), Character 503; Brazeau *et al*. (2023), Character 87.
 
 502. Medial recess of the posteroventral mydome: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. *et al*. (2022), Character 504.
+> King *et al*. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. *et al*. (2022), Character 504; Brazeau *et al*. (2023), Character 94.
 
 503. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
 
@@ -2176,39 +2172,38 @@ This character is scored contingently on the state of the previous character. *D
 
 504. Number of ‘sel’ canals: (0) five; (1) less than 5.
 
-> King *et al*. (2017), Character 91; Castiello (2018), Character 95; Zhu Y. *et al*. (2022), Character 506.
+> King *et al*. (2017), Character 91; Castiello (2018), Character 95; Zhu Y. *et al*. (2022), Character 506; Brazeau *et al*. (2023), Character 95.
 
 505. 'sel' 1 canal bifurcation: (0) between orbit and field; (1) adjacent to lateral field; (2) adjacent to orbit.
 
-> King *et al*. (2017), Character 92; Castiello (2018), Character 96; Zhu Y. *et al*. (2022), Character 507.
+> King *et al*. (2017), Character 92; Castiello (2018), Character 96; Zhu Y. *et al*. (2022), Character 507; Brazeau *et al*. (2023), Character 96.
 
 506. Marginal vein: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 92; Castiello (2018), Character 97; Zhu Y. *et al*. (2022), Character 508.
+> King *et al*. (2017), Character 92; Castiello (2018), Character 97; Zhu Y. *et al*. (2022), Character 508; Brazeau *et al*. (2023), Character 97.
 
 507. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
 
-> Young (1980); King *et al*. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. *et al*. (2022), Character 509.
+> Young (1980); King *et al*. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. *et al*. (2022), Character 509; Brazeau *et al*. (2023), Character 98.
 
 508. Transverse otic process: (0) not extending in front of orbits; (1) extending in front of orbits.
 
-> King *et al*. (2017), Character 95; Castiello (2018), Character 99; Zhu Y. *et al*. (2022), Character 510.
+> King *et al*. (2017), Character 95; Castiello (2018), Character 99; Zhu Y. *et al*. (2022), Character 510; Brazeau *et al*. (2023), Character 99.
 
 509. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes.
 
-> King *et al*. (2017), Character 96; Castiello (2018), Character 100; Zhu Y. *et al*. (2022), Character 511.
+> King *et al*. (2017), Character 96; Castiello (2018), Character 100; Zhu Y. *et al*. (2022), Character 511; Brazeau *et al*. (2023), Character 100.
 
 510. Vagal process: (0) forked; (1) unforked.
 
-> King *et al*. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. *et al*. (2022), Character 512.
+> King *et al*. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. *et al*. (2022), Character 512; Brazeau *et al*. (2023), Character 101.
 
 511. Rostral processes: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. *et al*. (2022), Character 513.
-
+> King *et al*. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. *et al*. (2022), Character 513; Brazeau *et al*. (2023), Character 103.
 512. Median rostral dorsal process of the braincase: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 100; Castiello (2018), Character 103; Zhu Y. *et al*. (2022), Character 514.
+> King *et al*. (2017), Character 100; Castiello (2018), Character 103; Zhu Y. *et al*. (2022), Character 514; Brazeau *et al*. (2023), Character 105.
 
 513. Posttemporal fossae: (0) absent; (1) present.
 
@@ -2296,7 +2291,7 @@ This character is scored contingently on the state of the previous character. *D
 
 534. Branchial ridges: (0) present; (1) reduced to vagal process; (2) absent (articulation made with bare cranial wall).
 
-> Giles *et al*. (2015), Character 166; Choo *et al*. (2017), Character 302; King *et al*. (2017), Character 84; Castiello (2018), Character 86; Zhu Y. *et al*. (2022), Character 536.
+> Giles *et al*. (2015), Character 166; Choo *et al*. (2017), Character 302; King *et al*. (2017), Character 84; Castiello (2018), Character 86; Zhu Y. *et al*. (2022), Character 536; Brazeau *et al*. (2023), Character 88.
 
 > Giles *et al*. (2015): "Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
@@ -2344,7 +2339,7 @@ This character is scored contingently on the state of the previous character. *D
 
 545. Glossopharyngeal nerve exit: (0) foramen situated posteroventral to otic capsule and anterior to metotic fissure; (1) through metotic fissure.
 
-> Schaeffer (1981); Coates &Sequeira (1998, 2001); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547.
+> Schaeffer (1981); Coates &Sequeira (1998, 2001); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547; Brazeau *et al*. (2023), Character 37.
 
 546. Glossopharyngeal and vagus nerves share common exit from neurocranium: (0) absent; (1) present.
 
@@ -2352,13 +2347,13 @@ This character is scored contingently on the state of the previous character. *D
 
 547. Ventral portion of occipital arch wedged between rear of otic capsules: (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 203; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 549.
+> Coates *et al*. (2018), Character 203; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 549; Brazeau *et al*. (2023), Character 61.
 
 548. Dorsal portion of occipital arch wedged between otic capsules: (0) absent; (1) present.
 
-> Choo *et al*. (2017), Character 95; Coates *et al*. (2018), Character 204; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 550.
+> Choo *et al*. (2017), Character 95; Coates *et al*. (2018), Character 204; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 550; Brazeau *et al*. (2023), Character 61.
 
-549. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present.
+549. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present; Brazeau *et al*. (2023), Character 89.
 
 > Giles *et al*. (2015), Character 167; Choo *et al*. (2017), Character 303;  King *et al*. (2017), Character 85; Castiello (2018), Character 87; Zhu Y. *et al*. (2022), Character 551.
 
@@ -2368,25 +2363,25 @@ This character is scored contingently on the state of the previous character. *D
 
 550. Parachordal shape: (0) forming a broad, flat surface as wide as the otic capsules; (1) mediolaterally constricted relative to the otic capsules.
 
-> Brazeau (2009), Character 98; Davis *et al*. (2012), Character 102; Choo *et al*. (2017), Character 98; King *et al*. (2017), Character 60; Castiello (2018), Character 61; Zhu Y. *et al*. (2022), Character 552.
+> Brazeau (2009), Character 98; Davis *et al*. (2012), Character 102; Choo *et al*. (2017), Character 98; King *et al*. (2017), Character 60; Castiello (2018), Character 61; Zhu Y. *et al*. (2022), Character 552; Brazeau *et al*. (2023), Character 64.
 
 551. Ventral notch between parachordals: (0) absent; (1) present or entirely unfused.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 101; Choo *et al*. (2017), Character 97; King *et al*. (2017), Character 59; Castiello (2018), Character 60; Zhu Y. *et al*. (2022), Character 553.
+> Brazeau (2009); Davis *et al*. (2012), Character 101; Choo *et al*. (2017), Character 97; King *et al*. (2017), Character 59; Castiello (2018), Character 60; Zhu Y. *et al*. (2022), Character 553; Brazeau *et al*. (2023), Character 63.
 
 552. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 176; Choo *et al*. (2017), Character 304; King *et al*. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. *et al*. (2022), Character 554.
+> Giles *et al*. (2015), Character 176; Choo *et al*. (2017), Character 304; King *et al*. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. *et al*. (2022), Character 554; Brazeau *et al*. (2023), Character 90.
 
 >  Giles *et al*. (2015): "In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate."
 
 553. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
-> Giles *et al*. (2015), Character 178; Choo *et al*. (2017), Character 306; King *et al*. (2017), Character 88; Castiello (2018), Character 90; Zhu Y. *et al*. (2022), Character 555.
+> Giles *et al*. (2015), Character 178; Choo *et al*. (2017), Character 306; King *et al*. (2017), Character 88; Castiello (2018), Character 90; Zhu Y. *et al*. (2022), Character 555; Brazeau *et al*. (2023), Character 92.
 
 554. Spino-occipital nerve foramina: (0) two or more, aligned horizontally; (1) one or two, dorsoventrally offset.
 
-> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 100; Choo *et al*. (2017), Character 96; Zhu Y. *et al*. (2022), Character 556.
+> Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 100; Choo *et al*. (2017), Character 96; Zhu Y. *et al*. (2022), Character 556; Brazeau *et al*. (2023), Character 62.
 
 555. Occipital crest anteroposteriorly elongate, and extends from the roof of the posterior tectum: (0) absent; (1) present.
 
