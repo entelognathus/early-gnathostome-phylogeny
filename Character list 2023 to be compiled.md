@@ -503,19 +503,18 @@ This character is scored contingently on the state of the previous character. *D
 
 110. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111.
+> Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Brazeau *et al*. (2023), Character 174.
 
 111. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
-> Zhu  *et al*. (2009, Character 8), and references therein; Zhu *et al*. (2013), Character 152; Giles *et al*. (2015), Character 116; Choo *et al*. (2017), Character 142; King *et al*. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. *et al*. (2022), Character 112.
-
+> Zhu  *et al*. (2009, Character 8), and references therein; Zhu *et al*. (2013), Character 152; Giles *et al*. (2015), Character 116; Choo *et al*. (2017), Character 142; King *et al*. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 175.
 112. Posterior nostril: (0) external; (1) palatal.
 
 > Choo *et al*. (2017), Character 332; Lu *et al*. (2017), Character 262; Zhu Y. *et al*. (2022), Character 113.
 
 113. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
 
-> Zhu  *et al*. (2009, Character 7), and references therein; Zhu *et al*. (2013), Character 153; Choo *et al*. (2017), Character 163; King *et al*. (2017), Character 181; Castiello (2018), Character 178; Zhu Y. *et al*. (2022), Character 114.
+> Zhu  *et al*. (2009, Character 7), and references therein; Zhu *et al*. (2013), Character 153; Choo *et al*. (2017), Character 163; King *et al*. (2017), Character 181; Castiello (2018), Character 178; Zhu Y. *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 187.
 
 114. Choana: (0) absent; (1) present.
 
@@ -535,15 +534,15 @@ This character is scored contingently on the state of the previous character. *D
 
 118. Number of nasals: (0) many; (1) one or two.
 
-> Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119.
+> Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119; Brazeau *et al*. (2023), Character 184.
 
 119. Mesial margin of nasal: (0) not notched; (1) notched.
 
-> Zhu  *et al*. (2009, Character 3), and references therein; Zhu *et al*. (2013), Character 150; Choo *et al*. (2017), Character 161; King *et al*. (2017), Character 179; Castiello (2018), Character 176; Zhu Y. *et al*. (2022), Character 120.
+> Zhu  *et al*. (2009, Character 3), and references therein; Zhu *et al*. (2013), Character 150; Choo *et al*. (2017), Character 161; King *et al*. (2017), Character 179; Castiello (2018), Character 176; Zhu Y. *et al*. (2022), Character 120; Brazeau *et al*. (2023), Character 185.
 
 > The condition in placoderms is coded 'unavailability', although the 'postnasal plate' is likely to be equivalent of the nasal in osteichthyans. The coding for *Cheirolepis* was changed to '1', following Coates *et al*. (2018, Character 29). Unlike Coates *et al*. (2018), the coding for *Mimipiscis* and *Moythomasia* was retained as '1'.
 
-120. Dermintermedial process: (0) absent; (1) present.
+120. Dermintermedial process: (0) absent; (1) present; Brazeau *et al*. (2023), Character 186.
 
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121.
 
@@ -563,7 +562,7 @@ This character is scored contingently on the state of the previous character. *D
 
 124. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 10), and references therein; Zhu *et al*. (2013), Character 154; Choo *et al*. (2017), Character 164; King *et al*. (2017), Character 182; Castiello (2018), Character 179; Zhu Y. *et al*. (2022), Character 125.
+> Zhu  *et al*. (2009, Character 10), and references therein; Zhu *et al*. (2013), Character 154; Choo *et al*. (2017), Character 164; King *et al*. (2017), Character 182; Castiello (2018), Character 179; Zhu Y. *et al*. (2022), Character 125; Brazeau *et al*. (2023), Character 188.
 
 125. Number of supraorbitals: (0) one; (1) two; (2) many.
 
@@ -571,11 +570,11 @@ This character is scored contingently on the state of the previous character. *D
 
 126. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
-> Zhu  *et al*. (2009, Character 11), and references therein; Zhu *et al*. (2013), Character 155; Choo *et al*. (2017), Character 165; King *et al*. (2017), Character 183; Castiello (2018), Character 180; Zhu Y. *et al*. (2022), Character 127.
+> Zhu  *et al*. (2009, Character 11), and references therein; Zhu *et al*. (2013), Character 155; Choo *et al*. (2017), Character 165; King *et al*. (2017), Character 183; Castiello (2018), Character 180; Zhu Y. *et al*. (2022), Character 127; Brazeau *et al*. (2023), Character 189.
 
 127. Tectal (sensu Cloutier and Ahlberg 1996, not counting the posterior tectal of Jarvik): (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128.
+> Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 190.
 
 128. Pineal opening in braincase: (0) absent; (1) present.
 
@@ -583,7 +582,7 @@ This character is scored contingently on the state of the previous character. *D
 
 129. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
-> Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130.
+> Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162.
 
 130. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 
@@ -635,7 +634,7 @@ This character is scored contingently on the state of the previous character. *D
 
 141. Large unpaired median skull roofing bone anterior to the level of nasal capsules (premedian plate): (0) absent; (1) present.
 
-> Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142.
+> Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142; Brazeau *et al*. (2023), Character 183.
 
 142. Position of premedian plate: (0) dorsal; (1) ventral.
 
@@ -675,11 +674,11 @@ This character is scored contingently on the state of the previous character. *D
 
 151. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
-> Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152.
+> Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
 
 152. Lateral plate: (0) absent; (1) present.
 
-> Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153.
+> Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153; Brazeau *et al*. (2023), Character 191.
 
 153. Paranuchal number: (0) one pair; (1) two pairs.
 
@@ -897,7 +896,7 @@ This character is scored contingently on the state of the previous character. *D
 
 202. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
-> Janvier (1996); Brazeau (2009); Davis *et al*. (2012), Character 21; Choo *et al*. (2017), Character 20; King *et al*. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. *et al*. (2022), Character 203.
+> Janvier (1996); Brazeau (2009); Davis *et al*. (2012), Character 21; Choo *et al*. (2017), Character 20; King *et al*. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. *et al*. (2022), Character 203; Brazeau *et al*. (2023), Character 158.
 
 203. External endolymphatic duct openings' location in relation to median field: (0) internal; (1) external.
 
@@ -905,7 +904,7 @@ This character is scored contingently on the state of the previous character. *D
 
 204. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 
-> Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 22; Choo *et al*. (2017), Character 21; King *et al*. (2017), Character 155; Castiello (2018), Character 154; Zhu Y. *et al*. (2022), Character 205.
+> Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 22; Choo *et al*. (2017), Character 21; King *et al*. (2017), Character 155; Castiello (2018), Character 154; Zhu Y. *et al*. (2022), Character 205; Brazeau *et al*. (2023), Character 159.
 
 205. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): (0) within median bone; (1) on bones flanking the median bone (e.g. paranuchals).
 
@@ -929,7 +928,7 @@ This character is scored contingently on the state of the previous character. *D
 
 210. Consolidated cheek plates: (0) absent; (1) present.
 
-> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 24; Choo *et al*. (2017), Character 23; King *et al*. (2017), Character 157; Castiello (2018), Character 156; Zhu Y. *et al*. (2022), Character 211.
+> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 24; Choo *et al*. (2017), Character 23; King *et al*. (2017), Character 157; Castiello (2018), Character 156; Zhu Y. *et al*. (2022), Character 211; Brazeau *et al*. (2023), Character 161.
 
 211. Foramina (similar to infradentary foramina) on cheek bones: (0)  absent; (1) present.
 
@@ -983,29 +982,29 @@ This character is scored contingently on the state of the previous character. *D
 
 222. Enlarged postorbital tesserae separated from orbital series: (0) absent; (1) present.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 26; Choo *et al*. (2017), Character 25; King *et al*. (2017), Character 159; Castiello (2018), Character 157; Zhu Y. *et al*. (2022), Character 223.
+> Brazeau (2009); Davis *et al*. (2012), Character 26; Choo *et al*. (2017), Character 25; King *et al*. (2017), Character 159; Castiello (2018), Character 157; Zhu Y. *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 163.
 
 223. Bony hyoidean gill-cover series (branchiostegals): (0) absent; (1) present.
 
-> Davis (2002); Hanke & Wilson (2004); Davis *et al*. (2012), Character 27; Choo *et al*. (2017), Character 26; King *et al*. (2017), Character 160; Castiello (2018), Character 158; Zhu Y. *et al*. (2022), Character 224.
+> Davis (2002); Hanke & Wilson (2004); Davis *et al*. (2012), Character 27; Choo *et al*. (2017), Character 26; King *et al*. (2017), Character 160; Castiello (2018), Character 158; Zhu Y. *et al*. (2022), Character 224; Brazeau *et al*. (2023), Character 164.
 
 224. Branchiostegal plate series along ventral margin of lower jaw: (0) absent; (1) present.
 
-> Davis (2002); Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 28; Choo *et al*. (2017), Character 27; King *et al*. (2017), Character 161; Castiello (2018), Character 159; Zhu Y. *et al*. (2022), Character 225.
+> Davis (2002); Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 28; Choo *et al*. (2017), Character 27; King *et al*. (2017), Character 161; Castiello (2018), Character 159; Zhu Y. *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 165.
 
 225. Branchiostegal ossifications: (0) plate-like; (1) narrow and ribbon-like.
 
-> Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 29; Choo *et al*. (2017), Character 28; King *et al*. (2017), Character 162; Castiello (2018), Character 160; Zhu Y. *et al*. (2022), Character 226.
+> Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 29; Choo *et al*. (2017), Character 28; King *et al*. (2017), Character 162; Castiello (2018), Character 160; Zhu Y. *et al*. (2022), Character 226; Brazeau *et al*. (2023), Character 166.
 
 226. Branchiostegal ossifications: (0) ornamented; (1) unornamented.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 30; Choo *et al*. (2017), Character 29; King *et al*. (2017), Character 163; Castiello (2018), Character 161; Zhu Y. *et al*. (2022), Character 227.
+> Brazeau (2009); Davis *et al*. (2012), Character 30; Choo *et al*. (2017), Character 29; King *et al*. (2017), Character 163; Castiello (2018), Character 161; Zhu Y. *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 167.
 
 227. Imbricated branchiostegal ossifications: (0) absent; (1) present.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 31; Choo *et al*. (2017), Character 30; King *et al*. (2017), Character 164; Castiello (2018), Character 162; Zhu Y. *et al*. (2022), Character 228.
+> Brazeau (2009); Davis *et al*. (2012), Character 31; Choo *et al*. (2017), Character 30; King *et al*. (2017), Character 164; Castiello (2018), Character 162; Zhu Y. *et al*. (2022), Character 228; Brazeau *et al*. (2023), Character 168.
 
-228. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits.
+228. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits; Brazeau *et al*. (2023), Character 169.
 
 > Hanke and Wilson (2004); Davis *et al*. (2012), Character 32; Choo *et al*. (2017), Character 31. Dearden *et al*. (2019), Character 73; King *et al*. (2017), Character 165; Castiello (2018), Character 163; Zhu Y. *et al*. (2022), Character 229.
 
@@ -1015,7 +1014,7 @@ This character is scored contingently on the state of the previous character. *D
 
 230. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 34; Choo *et al*. (2017), Character 33; King *et al*. (2017), Character 166; Castiello (2018), Character 164; Zhu Y. *et al*. (2022), Character 231.
+> Brazeau (2009); Davis *et al*. (2012), Character 34; Choo *et al*. (2017), Character 33; King *et al*. (2017), Character 166; Castiello (2018), Character 164; Zhu Y. *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 170.
 
 231. Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
 
@@ -1039,16 +1038,15 @@ This character is scored contingently on the state of the previous character. *D
 
 236. Lateral gular plates: (0) absent; (1) present.
 
-> Gardiner (1984); Brazeau (2009); Davis *et al*. (2012), Character 35; Choo *et al*. (2017), Character 34; King *et al*. (2017), Character 167; Castiello (2018), Character 165; Zhu Y. *et al*. (2022), Character 237.
+> Gardiner (1984); Brazeau (2009); Davis *et al*. (2012), Character 35; Choo *et al*. (2017), Character 34; King *et al*. (2017), Character 167; Castiello (2018), Character 165; Zhu Y. *et al*. (2022), Character 237; Brazeau *et al*. (2023), Character 171.
 
 237. Size of lateral gular plates: (0) extending most of length of the lower jaw; (1) restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals.
 
-> Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 36; Choo *et al*. (2017), Character 35; King *et al*. (2017), Character 168; Castiello (2018), Character 166; Zhu Y. *et al*. (2022), Character 238.
+> Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 36; Choo *et al*. (2017), Character 35; King *et al*. (2017), Character 168; Castiello (2018), Character 166; Zhu Y. *et al*. (2022), Character 238; Brazeau *et al*. (2023), Character 172.
 
 238. Median gular: (0) present; (1) absent.
 
-> Zhu  *et al*. (2009, Character 102), and references therein; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Choo *et al*. (2017), Character 135; King *et al*. (2017), Character 169; Castiello (2018), Character 167; Zhu Y. *et al*. (2022), Character 239.
-
+> Zhu  *et al*. (2009, Character 102), and references therein; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Choo *et al*. (2017), Character 135; King *et al*. (2017), Character 169; Castiello (2018), Character 167; Zhu Y. *et al*. (2022), Character 239; Brazeau *et al*. (2023), Character 173.
 ## Dentition, dermal jaw & tooth-bearing bones
 
 239. Oral dermal tubercles borne on jaw cartilages: (0) absent; (1) present.
@@ -1177,11 +1175,11 @@ This character is scored contingently on the state of the previous character. *D
 
 269. Posterior expansion of maxilla (maxilla cleaver-shaped): (0) present; (1) absent.
 
-> Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270.
+> Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
 
 270. Contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.
 
-> Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271.
+> Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
 
 271. Dentary marginal bone of mouth: (0) absent; (1) present.
 
@@ -2396,7 +2394,7 @@ This character is scored contingently on the state of the previous character. *D
 
 558. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
-> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2022), Character 560.
+> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177.
 
 559. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
