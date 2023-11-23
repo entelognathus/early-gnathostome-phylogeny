@@ -285,17 +285,17 @@ This character is scored contingently on the state of the previous character. *D
 
 58. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
-> Davis *et al*. (2012), Character 18; Choo *et al*. (2017), Character 17; King *et al*. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. *et al*. (2022), Character 59.
+> Davis *et al*. (2012), Character 18; Choo *et al*. (2017), Character 17; King *et al*. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. *et al*. (2022), Character 59; Brazeau *et al*. (2023), Character 155.
 
 > Score changed from 0 to 1 for *Kawichthys*.
 
 59. Tesserae morphology: (0) large interlocking polygonal plates: (1)  microsquamose, not larger than body tesserae.
 
-> Davis *et al*. (2012), Character 19; Choo *et al*. (2017), Character 18; King *et al*. (2017), Character 152; Castiello (2018), Character 151; Zhu Y. *et al*. (2022), Character 60.
+> Davis *et al*. (2012), Character 19; Choo *et al*. (2017), Character 18; King *et al*. (2017), Character 152; Castiello (2018), Character 151; Zhu Y. *et al*. (2022), Character 60; Brazeau *et al*. (2023), Character 156.
 
 60. Extent of dermatocranial cover: (0) complete; (1) incomplete (scale-free and elsewhere).
 
-> Brazeau (2009); Davis *et al*. (2012), Character 20; Choo *et al*. (2017), Character 19; King *et al*. (2017), Character 153; Castiello (2018), Character 152; Zhu Y. *et al*. (2022), Character 61.
+> Brazeau (2009); Davis *et al*. (2012), Character 20; Choo *et al*. (2017), Character 19; King *et al*. (2017), Character 153; Castiello (2018), Character 152; Zhu Y. *et al*. (2022), Character 61; Brazeau *et al*. (2023), Character 157.
 
 61. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 
@@ -579,7 +579,7 @@ This character is scored contingently on the state of the previous character. *D
 
 128. Pineal opening in braincase: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 115; Castiello (2018), Character 116; Zhu Y. *et al*. (2022), Character 129.
+> King *et al*. (2017), Character 115; Castiello (2018), Character 116; Zhu Y. *et al*. (2022), Character 129; Brazeau *et al*. (2023), Character 119.
 
 129. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
@@ -1221,19 +1221,19 @@ This character is scored contingently on the state of the previous character. *D
 
 280. Ascending process of parasphenoid: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281.
+> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Brazeau *et al*. (2023), Character 136.
 
 281. Shape of parasphenoid denticulated field: (0) broad rhomboid or lozenge-shaped; (1) broad, splint-shaped; (2) slender, splint-shaped.
 
-> Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282.
+> Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137.
 
 282. Parasphenoid denticulated field with multifid anterior margin: (0) absent; (1) present.
 
-> Friedman (2007, Character 167), Zhu *et al*. (2009, Character 69), and references therein; Zhu *et al*. (2013), Character 241; Giles *et al*. (2015), Character 112; Choo *et al*. (2017), Character 156; King *et al*. (2017), Character 134; Castiello (2018), Character 133; Zhu Y. *et al*. (2022), Character 283.
+> Friedman (2007, Character 167), Zhu *et al*. (2009, Character 69), and references therein; Zhu *et al*. (2013), Character 241; Giles *et al*. (2015), Character 112; Choo *et al*. (2017), Character 156; King *et al*. (2017), Character 134; Castiello (2018), Character 133; Zhu Y. *et al*. (2022), Character 283; Brazeau *et al*. (2023), Character 138.
 
 283. Parasphenoid: (0) protruding forward into ethmoid region of endocranium; (1) behind ethmoid region.
 
-> Zhu  *et al*. (2009, Character 65), and references therein; Zhu *et al*. (2013), Character 237; Choo *et al*. (2017), Character 227; King *et al*. (2017), Character 135; Castiello (2018), Character 134; Zhu Y. *et al*. (2022), Character 284.
+> Zhu  *et al*. (2009, Character 65), and references therein; Zhu *et al*. (2013), Character 237; Choo *et al*. (2017), Character 227; King *et al*. (2017), Character 135; Castiello (2018), Character 134; Zhu Y. *et al*. (2022), Character 284; Brazeau *et al*. (2023), Character 139.
 
 284. Posterior of parasphenoid: (0) restricted to ethmosphenoid region; (1) extends to otic region.
 
@@ -1241,7 +1241,7 @@ This character is scored contingently on the state of the previous character. *D
 
 285. Denticulated field of parasphenoid: (0) without spiracular groove; (1) with spiracular groove.
 
-> Friedman (2007, Character 82), Zhu *et al*. (2009, Character 66), and references therein; Zhu *et al*. (2013), Character 238; Choo *et al*. (2017), Character 228; King *et al*. (2017), Character 136; Castiello (2018), Character 135; Zhu Y. *et al*. (2022), Character 286.
+> Friedman (2007, Character 82), Zhu *et al*. (2009, Character 66), and references therein; Zhu *et al*. (2013), Character 238; Choo *et al*. (2017), Character 228; King *et al*. (2017), Character 136; Castiello (2018), Character 135; Zhu Y. *et al*. (2022), Character 286; Brazeau *et al*. (2023), Character 140.
 
 286. Parasphenoid denticle field with anteriorly divergent lateral margins: (0) absent; (1) present.
 
@@ -1249,7 +1249,7 @@ This character is scored contingently on the state of the previous character. *D
 
 287. Parasphenoid denticle field: (0) terminates at or anterior to level of foramina for internal carotid arteries; (1) extends posterior to foramina for internal carotid arteries.
 
-> Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288.
+> Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141.
 
 288. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
 
@@ -1499,39 +1499,38 @@ This character is scored contingently on the state of the previous character. *D
 
 346. Foramen in hyomandibular: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 100), and references therein; Zhu *et al*. (2013), Character 197; Choo *et al*. (2017), Character 201; King *et al*. (2017), Character 142; Castiello (2018), Character 141; Zhu Y. *et al*. (2022), Character 347.
+> Zhu  *et al*. (2009, Character 100), and references therein; Zhu *et al*. (2013), Character 197; Choo *et al*. (2017), Character 201; King *et al*. (2017), Character 142; Castiello (2018), Character 141; Zhu Y. *et al*. (2022), Character 347; Brazeau *et al*. (2023), Character 146.
 
 347. Interhyal: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348.
+> Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348; Brazeau *et al*. (2023), Character 145.
 
 348. Hypohyal: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 75; Choo *et al*. (2017), Character 282; King *et al*. (2017), Character 144; Castiello (2018), Character 143; Zhu Y. *et al*. (2022), Character 349.
+> Giles *et al*. (2015), Character 75; Choo *et al*. (2017), Character 282; King *et al*. (2017), Character 144; Castiello (2018), Character 143; Zhu Y. *et al*. (2022), Character 349; Brazeau *et al*. (2023), Character 148.
 
 349. Disposition of the interbranchial ridges of the oralobranchial chamber roof: (0) oligobranchiate; (1) orthobranchiate; (2) nectaspidoform.
 
-> King *et al*. (2017), Character 146; Castiello (2018), Character 145; Zhu Y. *et al*. (2022), Character 350.
+> King *et al*. (2017), Character 146; Castiello (2018), Character 145; Zhu Y. *et al*. (2022), Character 350; Brazeau *et al*. (2023), Character 150.
 
 350. Number of branchial fossae: (0) 5-7; (1) 9-17; (2) more than 20.
 
-> King *et al*. (2017), Character 147; Castiello (2018), Character 146; Zhu Y. *et al*. (2022), Character 351.
-
+> King *et al*. (2017), Character 147; Castiello (2018), Character 146; Zhu Y. *et al*. (2022), Character 351; Brazeau *et al*. (2023), Character 151.
 351. Basibranchial elements: (0) unpaired; (1) paired.
 
-> King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352.
+> King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352; Brazeau *et al*. (2023), Character 152.
 
 352. Sublingual rod: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 149; Castiello (2018), Character 148; Zhu Y. *et al*. (2022), Character 353.
+> King *et al*. (2017), Character 149; Castiello (2018), Character 148; Zhu Y. *et al*. (2022), Character 353; Brazeau *et al*. (2023), Character 153.
 
 353. Dense array of hyoid arch rays covers gill area: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 150; Castiello (2018), Character 149; Zhu Y. *et al*. (2022), Character 354.
+> King *et al*. (2017), Character 150; Castiello (2018), Character 149; Zhu Y. *et al*. (2022), Character 354; Brazeau *et al*. (2023), Character 154.
 
 354. Endoskeletal urohyal: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 76; Choo *et al*. (2017), Character 283; King *et al*. (2017), Character 145; Castiello (2018), Character 144; Zhu Y. *et al*. (2022), Character 355.
+> Giles *et al*. (2015), Character 76; Choo *et al*. (2017), Character 283; King *et al*. (2017), Character 145; Castiello (2018), Character 144; Zhu Y. *et al*. (2022), Character 355; Brazeau *et al*. (2023), Character 149.
 
 355. Urohyal shape (vertical plate): (0) absent; (1) present.
 
@@ -1539,8 +1538,7 @@ This character is scored contingently on the state of the previous character. *D
 
 356. Basihyal: (0) absent; (1) present.
 
-> Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357.
-
+> Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
 357. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358.
@@ -1565,7 +1563,7 @@ This character is scored contingently on the state of the previous character. *D
 
 362. Gill arches: (0) largely restricted to region under braincase; (1) extend far posterior to braincase.
 
-> Giles *et al*. (2015), Character 72; Choo *et al*. (2017), Character 281; King *et al*. (2017), Character 143; Castiello (2018), Character 142; Zhu Y. *et al*. (2022), Character 363.
+> Giles *et al*. (2015), Character 72; Choo *et al*. (2017), Character 281; King *et al*. (2017), Character 143; Castiello (2018), Character 142; Zhu Y. *et al*. (2022), Character 363; Brazeau *et al*. (2023), Character 147.
 
 363. Gill skeleton extends posteriorly beyond occiput: (0) absent; (1) present.
 
@@ -1712,7 +1710,7 @@ This character is scored contingently on the state of the previous character. *D
 
 397. Palatobasal (or orbital) articulation: (0) posterior to the optic foramen; (1) anterior to the optic foramen, grooved, and overlapped by process or flange of palatoquadrate; (2) anterior to optic foramen, smooth, and overlaps or flanks articular surface on palatoquadrate.
 
-> Coates *et al*. (2018), Character 124; Zhu Y. *et al*. (2022), Character 398.
+> Coates *et al*. (2018), Character 124; Zhu Y. *et al*. (2022), Character 398; Brazeau *et al*. (2023), Character 127.
 
 398. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 
@@ -1902,7 +1900,7 @@ This character is scored contingently on the state of the previous character. *D
 
 442. Expanded articular area anterior to basipterygoid process: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 103; Castiello (2018), Character 104; Zhu Y. *et al*. (2022), Character 443.
+> King *et al*. (2017), Character 103; Castiello (2018), Character 104; Zhu Y. *et al*. (2022), Character 443; Brazeau *et al*. (2023), Character 107.
 
 443. Pituitary vein canal: (0) dorsal to level of basipterygoid  process; (1) flanked posteriorly by basipterygoid process.
 
@@ -1954,7 +1952,7 @@ This character is scored contingently on the state of the previous character. *D
 
 453. Hyomandibular facets where they straddle the jugular vein: (0) narrowly separated; (1) widely separated.
 
-> King *et al*. (2017), Character 104; Castiello (2018), Character 105; Zhu Y. *et al*. (2022), Character 455.
+> King *et al*. (2017), Character 104; Castiello (2018), Character 105; Zhu Y. *et al*. (2022), Character 455; Brazeau *et al*. (2023), Character 108.
 
 454. Hypophyseal chamber: (0) projects posteroventrally; (1) projects ventrally or anteroventrally.
 
@@ -2076,7 +2074,7 @@ This character is scored contingently on the state of the previous character. *D
 
 483. Perilymphatic fenestra within the endolymphatic fossa: (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 192; King *et al*. (2017), Character 119; Castiello (2018), Character 121; Zhu Y. *et al*. (2021), Character 353; Zhu Y. *et al*. (2022), Character 485.
+> Coates *et al*. (2018), Character 192; King *et al*. (2017), Character 119; Castiello (2018), Character 121; Zhu Y. *et al*. (2021), Character 353; Zhu Y. *et al*. (2022), Character 485; Brazeau *et al*. (2023), Character 123.
 
 484. Trigemino-facial recess: (0) absent; (1) present.
 
@@ -2112,7 +2110,7 @@ This character is scored contingently on the state of the previous character. *D
 
 492. Dorsal otic ridge forms a crest posteriorly: (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 189; King *et al*. (2017), Character 118; Castiello (2018), Character 120; Zhu Y. *et al*. (2022), Character 494.
+> Coates *et al*. (2018), Character 189; King *et al*. (2017), Character 118; Castiello (2018), Character 120; Zhu Y. *et al*. (2022), Character 494; Brazeau *et al*. (2023), Character 122.
 
 493. Vestibular fontanelle: (0) absent; (1) present.
 
@@ -2207,39 +2205,38 @@ This character is scored contingently on the state of the previous character. *D
 
 513. Posttemporal fossae: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515.
+> King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110.
 
 514. Rostral organ: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516.
+> King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111.
 
 515. Prespiracular dental plate: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 108; Castiello (2018), Character 108; Zhu Y. *et al*. (2022), Character 517.
+> King *et al*. (2017), Character 108; Castiello (2018), Character 108; Zhu Y. *et al*. (2022), Character 517; Brazeau *et al*. (2023), Character 112.
 
 516. Suprapterygoid process: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 109; Castiello (2018), Character 109; Zhu Y. *et al*. (2022), Character 518.
-
+> King *et al*. (2017), Character 109; Castiello (2018), Character 109; Zhu Y. *et al*. (2022), Character 518; Brazeau *et al*. (2023), Character 113.
 517. Processus supraorbitalis lateralis: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 110; Castiello (2018), Character 110; Zhu Y. *et al*. (2022), Character 519.
+> King *et al*. (2017), Character 110; Castiello (2018), Character 110; Zhu Y. *et al*. (2022), Character 519; Brazeau *et al*. (2023), Character 114.
 
 518. Anterolateral fenestra in roof of otoccipital: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 111; Castiello (2018), Character 111; Zhu Y. *et al*. (2022), Character 520.
+> King *et al*. (2017), Character 111; Castiello (2018), Character 111; Zhu Y. *et al*. (2022), Character 520; Brazeau *et al*. (2023), Character 115.
 
 519. Ventral cranial fissure connects with vestibular fontanelles: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 112; Castiello (2018), Character 112; Zhu Y. *et al*. (2022), Character 521.
+> King *et al*. (2017), Character 112; Castiello (2018), Character 112; Zhu Y. *et al*. (2022), Character 521; Brazeau *et al*. (2023), Character 116.
 
 520. Bar across spiracular groove: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 113; Castiello (2018), Character 113; Zhu Y. *et al*. (2022), Character 522.
+> King *et al*. (2017), Character 113; Castiello (2018), Character 113; Zhu Y. *et al*. (2022), Character 522; Brazeau *et al*. (2023), Character 117.
 
 521. Hypophysial opening in braincase: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. *et al*. (2022), Character 523.
+> King *et al*. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. *et al*. (2022), Character 523; Brazeau *et al*. (2023), Character 118.
 
 522. Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
 
@@ -2247,47 +2244,47 @@ This character is scored contingently on the state of the previous character. *D
 
 523. Ventral rounded processes on preotic part of braincase: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 116; Castiello (2018), Character 118; Zhu Y. *et al*. (2022), Character 525.
+> King *et al*. (2017), Character 116; Castiello (2018), Character 118; Zhu Y. *et al*. (2022), Character 525; Brazeau *et al*. (2023), Character 120.
 
 524. Notochord short, ending at the occipital cotylus: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 120; Castiello (2018), Character 122; Zhu Y. *et al*. (2022), Character 526.
+> King *et al*. (2017), Character 120; Castiello (2018), Character 122; Zhu Y. *et al*. (2022), Character 526; Brazeau *et al*. (2023), Character 124.
 
 525. Accessory processes extend from ventral surface of nasal capsule: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 124; Castiello (2018), Character 123; Zhu Y. *et al*. (2022), Character 527.
+> King *et al*. (2017), Character 124; Castiello (2018), Character 123; Zhu Y. *et al*. (2022), Character 527; Brazeau *et al*. (2023), Character 128.
 
 526. Internal carotid meets efferent pseudobranchial in orbit: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 125; Castiello (2018), Character 124; Zhu Y. *et al*. (2022), Character 528.
+> King *et al*. (2017), Character 125; Castiello (2018), Character 124; Zhu Y. *et al*. (2022), Character 528; Brazeau *et al*. (2023), Character 129.
 
 527. Jugular vein passes through cranioquadrate passage: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 126; Castiello (2018), Character 125; Zhu Y. *et al*. (2022), Character 529.
+> King *et al*. (2017), Character 126; Castiello (2018), Character 125; Zhu Y. *et al*. (2022), Character 529; Brazeau *et al*. (2023), Character 130.
 
 528. Anterior margin of ventral fissure: (0) straight; (1) sinusoidal.
 
-> King *et al*. (2017), Character 126; Castiello (2018), Character 126; Zhu Y. *et al*. (2022), Character 530.
+> King *et al*. (2017), Character 126; Castiello (2018), Character 126; Zhu Y. *et al*. (2022), Character 530; Brazeau *et al*. (2023), Character 131.
 
 529. Bulbous otic and auxiliary condyles for palatoquadrate articulation: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 128; Castiello (2018), Character 127; Zhu Y. *et al*. (2022), Character 531.
+> King *et al*. (2017), Character 128; Castiello (2018), Character 127; Zhu Y. *et al*. (2022), Character 531; Brazeau *et al*. (2023), Character 132.
 
 530. Basal fenestra opening into floor of orbit: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 129; Castiello (2018), Character 128; Zhu Y. *et al*. (2022), Character 532.
+> King *et al*. (2017), Character 129; Castiello (2018), Character 128; Zhu Y. *et al*. (2022), Character 532; Brazeau *et al*. (2023), Character 133.
 
 531. Nasal sacs: (0) unpaired; (1) paired.
 
-> King *et al*. (2017), Character 130; Castiello (2018), Character 129; Zhu Y. *et al*. (2022), Character 533.
+> King *et al*. (2017), Character 130; Castiello (2018), Character 129; Zhu Y. *et al*. (2022), Character 533; Brazeau *et al*. (2023), Character 134.
 
 532. 4 carotid foramina in parasphenoid: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 138; Castiello (2018), Character 137; Zhu Y. *et al*. (2022), Character 534.
+> King *et al*. (2017), Character 138; Castiello (2018), Character 137; Zhu Y. *et al*. (2022), Character 534; Brazeau *et al*. (2023), Character 142.
 
 533. Parotic dental plates: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 139; Castiello (2018), Character 138; Zhu Y. *et al*. (2022), Character 535.
+> King *et al*. (2017), Character 139; Castiello (2018), Character 138; Zhu Y. *et al*. (2022), Character 535; Brazeau *et al*. (2023), Character 143.
 
 534. Branchial ridges: (0) present; (1) reduced to vagal process; (2) absent (articulation made with bare cranial wall).
 
@@ -2297,7 +2294,7 @@ This character is scored contingently on the state of the previous character. *D
 
 535. Periotic process: (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 156; King *et al*. (2017), Character 117; Castiello (2018), Character 119; Zhu Y. *et al*. (2022), Character 537.
+> Coates *et al*. (2018), Character 156; King *et al*. (2017), Character 117; Castiello (2018), Character 119; Zhu Y. *et al*. (2022), Character 537; Brazeau *et al*. (2023), Character 121.
 
 536. Sub-otic occipital fossa: (0) absent; (1) present.
 
