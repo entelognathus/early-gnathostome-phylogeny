@@ -6,11 +6,13 @@
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
 
-> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1.
+> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1.
+
+> Maisey, JG, Denton, JSS, Burrow, C, Pradel, A. 2021. Journal of Fish Biology 15: 37-23.
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
-> Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2.
+> Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -18,7 +20,7 @@
 
 4.  Perichondral bone: (0) present; (1) absent.
 
-> Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4.
+> Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 3.
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -28,17 +30,19 @@
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. *et al*. (2022), Character 6.
+> Donoghue *et al*. (2000); King *et al*. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. *et al*. (2022), Character 6; Brazeau *et al*. (2023), Character 6.
+
+> Brazeau *et al*. (2023): "This character is problematic because the "absence" state could refer to anything from the total absence of exoskeletal ossification to the absence of any one of the three possible layers."
 
 > Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
-> King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7.
+> King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8.
+> King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 11.
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
@@ -46,11 +50,11 @@
 
 10. Dentinous tissue: (0) absent; (1) present.
 
-> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10.
+> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10; Brazeau *et al*. (2023), Character 13.
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine.
 
-> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 5; Choo *et al*. (2017), Character 5; King *et al*. (2017), Character 12; Castiello (2018), Character 12; Zhu Y. *et al*. (2022), Character 11.
+> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 5; Choo *et al*. (2017), Character 5; King *et al*. (2017), Character 12; Castiello (2018), Character 12; Zhu Y. *et al*. (2022), Character 11; Brazeau *et al*. (2023), Character 15.
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
@@ -80,11 +84,11 @@
 
 18. Galeaspidin: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18.
+> King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
 
 19. Extensive pore canal network: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19.
+> Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Brazeau *et al*. (2023), Character 5.
 
 20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
 
@@ -110,7 +114,7 @@
 
 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
 
-> Burrow & Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Choo *et al*. (2017), Character 259. King *et al*. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. *et al*. (2022), Character 25.
+> Burrow & Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Choo *et al*. (2017), Character 259. King *et al*. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 14.
 
 > Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
 
@@ -118,7 +122,7 @@
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
-> Giles *et al*. (2015), Character 12; Choo *et al*. (2017), Character 260; King *et al*. (2017), Character 13; Castiello (2018), Character 13; Zhu Y. *et al*. (2022), Character 26.
+> Burrow & Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Choo *et al*. (2017), Character 260; King *et al*. (2017), Character 13; Castiello (2018), Character 13; Zhu Y. *et al*. (2022), Character 26; Brazeau *et al*. (2023), Character 16.
 
  *Squamation & related structures*
 
@@ -2973,3 +2977,12 @@ This character is scored contingently on the state of the previous character. *D
 
 > New character, see comments on Character 289.
 
+## Included in Brazeau et al. (2023)
+> Laminar basal layer: (0) absent; (1) present.
+> Giles *et al*. (2010); Keating *et al*. (2015); Brazeau *et al*. (2023), Character 7.
+
+> Cancellous central layerr: (0) absent; (1) present.
+> Brazeau *et al*. (2023), Character 8.
+
+> Dentinous external layer: (0) absent; (1) present.
+> Brazeau *et al*. (2023), Character 9.
