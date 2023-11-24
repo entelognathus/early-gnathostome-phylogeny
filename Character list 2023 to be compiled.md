@@ -473,33 +473,33 @@ This character is scored contingently on the state of the previous character. *D
 
 103. Supratemporal (marginal) in contact with postparietal (central): (0) absent; (1) present.
 
-> King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 275.
+> King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278.
 
 104. Supratemporal (marginal) contact with nasal (postnasal): (0) absent; (1) present.
 
-> King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105.
+> King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279.
 
 105. Quadratojugal: (0) present; (1) absent.
 
-> King *et al*. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. *et al*. (2022), Character 106.
+> King *et al*. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. *et al*. (2022), Character 106; Brazeau *et al*. (2023), Character 281.
 
 > *Buchanosteus confertituberculatus* is coded 1 (Young, 1979).
 
 106. Accessory operculum: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 278; Castiello (2018), Character 272; Zhu Y. *et al*. (2022), Character 107.
+> King *et al*. (2017), Character 278; Castiello (2018), Character 272; Zhu Y. *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 283.
 
 107. Dermal bone (sarcopterygian postorbital) between jugal (suborbital) and intertemporal (postorbital): (0) absent; (1) present.
 
-> King *et al*. (2017), Character 279; Castiello (2018), Character 273; Zhu Y. *et al*. (2022), Character 108.
+> King *et al*. (2017), Character 279; Castiello (2018), Character 273; Zhu Y. *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 284.
 
 108. Lacrimal notch: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 280; Castiello (2018), Character 274; Zhu Y. *et al*. (2022), Character 109.
+> King *et al*. (2017), Character 280; Castiello (2018), Character 274; Zhu Y. *et al*. (2022), Character 109; Brazeau *et al*. (2023), Character 285.
 
 109. Orbital process of maxilla: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 282; Castiello (2018), Character 275; Zhu Y. *et al*. (2022), Character 110.
+> King *et al*. (2017), Character 282; Castiello (2018), Character 275; Zhu Y. *et al*. (2022), Character 110; Brazeau *et al*. (2023), Character 287.
 
 110. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
 
@@ -924,7 +924,7 @@ This character is scored contingently on the state of the previous character. *D
 
 209. Number of paired extrascapulars: (0) one pair; (1) two pairs.
 
-> King *et al*. (2017), Character 277; Castiello (2018), Character 271; Zhu Y. *et al*. (2022), Character 210.
+> King *et al*. (2017), Character 277; Castiello (2018), Character 271; Zhu Y. *et al*. (2022), Character 210; Brazeau *et al*. (2023), Character 282.
 
 210. Consolidated cheek plates: (0) absent; (1) present.
 
@@ -1026,7 +1026,7 @@ This character is scored contingently on the state of the previous character. *D
 
 233. Notch in anterior margin of jugal: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 275; Castiello (2018), Character 269; Zhu Y. *et al*. (2022), Character 234.
+> King *et al*. (2017), Character 275; Castiello (2018), Character 269; Zhu Y. *et al*. (2022), Character 234; Brazeau *et al*. (2023), Character 280.
 
 234. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
 
