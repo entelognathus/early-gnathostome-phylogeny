@@ -2615,15 +2615,15 @@ This character is scored contingently on the state of the previous character. *D
 
 612. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
 
-> Zhu  *et al*. (2009, Character 130), and references therein; Zhu *et al*., (2013), Character 250; Giles *et al*. (2015), Character 201; Choo *et al*. (2017), Character 233; King *et al*. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. *et al*. (2022), Character 614.
+> Zhu  *et al*. (2009, Character 130), and references therein; Zhu *et al*., (2013), Character 250; Giles *et al*. (2015), Character 201; Choo *et al*. (2017), Character 233; King *et al*. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. *et al*. (2022), Character 614; Brazeau *et al*. (2023), Character 414.
 
 613. Triradiate scapulocoracoid: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615.
+> Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415.
 
 614. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
-> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616.
+> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616; Brazeau *et al*. (2023), Character 407.
 
 615. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
@@ -2635,7 +2635,7 @@ This character is scored contingently on the state of the previous character. *D
 
 617. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619.
+> Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Brazeau *et al*. (2023), Character 403.
 
 618. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
@@ -2649,27 +2649,27 @@ This character is scored contingently on the state of the previous character. *D
 
 620. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
-> Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622.
+> Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Brazeau *et al*. (2023), Character 404.
 
 621. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
-> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623.
+> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623; Brazeau *et al*. (2023), Character 405.
 
 622. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624.
+> Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Brazeau *et al*. (2023), Character 408.
 
 623. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625.
+> Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625; Brazeau *et al*. (2023), Character 409.
 
 624. Coracoid process: (0) absent; (1) present.
 
-> Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626.
+> Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Brazeau *et al*. (2023), Character 410.
 
 625. Procoracoid mineralisation: (0) absent; (1) present.
 
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627; Brazeau *et al*. (2023), Character 411.
 
 626. Paired (pectoral) fins: (0) absent; (1) present.
 
@@ -2693,7 +2693,7 @@ This character is scored contingently on the state of the previous character. *D
 
 631. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 
-> Choo *et al*. (2017), Character 115; King *et al*. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. *et al*. (2022), Character 633.
+> Choo *et al*. (2017), Character 115; King *et al*. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. *et al*. (2022), Character 633; Brazeau *et al*. (2023), Character 412.
 
 632. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
@@ -2721,7 +2721,7 @@ This character is scored contingently on the state of the previous character. *D
 
 638. Perforate propterygium: (0) absent; (1) present.
 
-> Rosen  *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640.
+> Rosen  *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640; Brazeau *et al*. (2023), Character 413.
 
 639. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
 
@@ -2749,11 +2749,11 @@ This character is scored contingently on the state of the previous character. *D
 
 645. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
 
-> Long *et al*., (2015), Character 258; Choo *et al*. (2017), Character 250; Zhu Y. *et al*. (2022), Character 647.
+> Long *et al*., (2015), Character 258; Choo *et al*. (2017), Character 250; Zhu Y. *et al*. (2022), Character 647; Brazeau *et al*. (2023), Character 401.
 
 646. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
-> Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648.
+> Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402.
 
 647. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
