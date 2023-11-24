@@ -2971,11 +2971,84 @@ This character is scored contingently on the state of the previous character. *D
 > New character, see comments on Character 289.
 
 ## Included in Brazeau et al. (2023)
-> Laminar basal layer: (0) absent; (1) present.
+Laminar basal layer: (0) absent; (1) present.
+
 > Giles *et al*. (2010); Keating *et al*. (2015); Brazeau *et al*. (2023), Character 7.
 
-> Cancellous central layerr: (0) absent; (1) present.
+Cancellous central layerr: (0) absent; (1) present.
+
 > Brazeau *et al*. (2023), Character 8.
 
-> Dentinous external layer: (0) absent; (1) present.
+Dentinous external layer: (0) absent; (1) present.
+
 > Brazeau *et al*. (2023), Character 9.
+
+Dorsal ridge: (0) absent; (1) present.
+
+> DFC91; Brazeau *et al*. (2023), Character 56.
+
+> Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
+
+Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
+
+> ZHU234, GFB179; Brazeau *et al*. (2023), Character 70.
+
+Optic fissure: (0) present; absent (1).
+
+> DUPRET255; Brazeau *et al*. (2023), Character 77.
+
+> Brazeau *et al*. (2023), Character 102.
+
+> Brazeau *et al*. (2023), Character 104.
+
+> Brazeau *et al*. (2023), Character 109.
+
+> Brazeau *et al*. (2023), Character 125.
+
+> Brazeau *et al*. (2023), Character 126.
+
+> Brazeau *et al*. (2023), Character 160.
+
+> Brazeau *et al*. (2023), Character 178.
+
+> Brazeau *et al*. (2023), Character 179.
+
+> Brazeau *et al*. (2023), Character 180.
+
+> Brazeau *et al*. (2023), Character 194.
+
+> Brazeau *et al*. (2023), Character 211.
+
+> Brazeau *et al*. (2023), Character 243.
+
+> Brazeau *et al*. (2023), Character 248.
+
+> Brazeau *et al*. (2023), Character 258.
+
+> Brazeau *et al*. (2023), Character 260.
+
+> Brazeau *et al*. (2023), Character 263.
+
+> Brazeau *et al*. (2023), Character 270.
+
+> Brazeau *et al*. (2023), Character 271.
+
+> Brazeau *et al*. (2023), Character 286.
+
+> Brazeau *et al*. (2023), Character 303.
+
+> Brazeau *et al*. (2023), Character 314.
+
+> Brazeau *et al*. (2023), Character 316.
+
+> Brazeau *et al*. (2023), Character 338.
+
+> Brazeau *et al*. (2023), Character 353.
+
+> Brazeau *et al*. (2023), Character 392.
+
+> Brazeau *et al*. (2023), Character 434 多余.
+
+> Brazeau *et al*. (2023), Character 501 多余.
+
+> Brazeau *et al*. (2023), Character 502
