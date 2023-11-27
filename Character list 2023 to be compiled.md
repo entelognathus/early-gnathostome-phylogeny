@@ -2997,7 +2997,7 @@ This character was modified from a compound character “three-layered exoskelet
 
 700. Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
 
-> ZHU234, GFB179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
+> Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
 
 701. Optic fissure: (0) present; absent (1).
 
@@ -3065,7 +3065,7 @@ This character was removed by Castiello (2018) as it was ambiguous if the ethmoi
 
 712. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
 
-> ZHU160; King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
+> King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
 
 713. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
@@ -3134,7 +3134,7 @@ I checked it and think that it is duplicate with character 210 not character 532
 
 722. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
-> ZHU217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
+> Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
 
 723. Anterior supraorbital canal: (0) absent; (1) present.
 
@@ -3157,7 +3157,7 @@ So, he deleted this character.
 
 726. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
 
-> ZHU203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
+> Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
 
 727. Submandibulars: (0) absent; (1) present.
 
@@ -3174,8 +3174,10 @@ This character is duplicate with Characters 672 and 673. So, it need to be remov
 
 729. Scales: (0) macromeric; (1) micromeric.
      
-> Brazeau *et al*. (2023), Character 501.
+> King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
 
 730. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 502
+>King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
+
+Castiello (2018):"The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
