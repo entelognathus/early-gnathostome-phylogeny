@@ -3011,7 +3011,7 @@ Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to
 
 > Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
-Posttemporal fossae: (0) absent; (1) present. 
+Posttemporal fossae: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 110.
 
