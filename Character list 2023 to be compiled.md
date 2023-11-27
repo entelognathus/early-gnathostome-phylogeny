@@ -3132,7 +3132,7 @@ Giles *et al*. (2015), Character 36; Keaing *et al*. (2016), Character 206; Cast
 
 729. Scales: (0) macromeric; (1) micromeric.
      
-> Brazeau *et al*. (2023), Character 501 多余.
+> Brazeau *et al*. (2023), Character 501.
 
 730. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
