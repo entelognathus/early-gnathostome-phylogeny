@@ -3005,43 +3005,52 @@ This character was modified from a compound character “three-layered exoskelet
 
 702. Paravagal fossa: (0) absent; (1) present.
 
-> Castiello (2018), Character 98; Brazeau *et al*. (2023), Character 102.
-This character was removed by Castiello (2018) is related to the present of a bifurcated vagal process (character 91) and is thus redundant.
+> Keaing *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
->Is it a placoderm character? in the Postorbital region of the Endocranium (Castiello *et al*., 2020)
+> This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (character 510) and is thus redundant.
 
 703. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
-> Castiello (2018), Character 100; Brazeau *et al*. (2023), Character 104.
+> Keaing *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
+This character was removed by Castiello (2018) because its ambiguous formulation
 
 704. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
 
-> Brazeau *et al*. (2023), Character 109.
+> Keaing *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
 
 Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
+This character was removed by Castiello (2018) because it was is related to the metotic fissure (Character 51 not found) and thus redundant.???(not found)
+
 705. Posttemporal fossae: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 110.
+> Keaing *et al*. (2016), Character 106; Brazeau *et al*. (2023), Character 110.
 
 > Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
 
 706. Hyomandibular articulating with braincase: (0) yes; (1) no.
 
-> Brazeau *et al*. (2023), Character 125.
+>  Keaing *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
+
+> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (character 71) and thus redundant.
 
 707. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 126.
+> Keaing *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
+
+This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyes is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
 708. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 23; Brazeau *et al*. (2023), Character 160.
+> Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
 
 709. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
 
 > Brazeau *et al*. (2023), Character 178.
+
+> Relative to Keaing *et al*. (2016), Character 173; Castiello (2018), Character 171 :Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle (3.) spoon-like, with transverse articular area.
+> Relative to Zhu *et al*. (2013), Character 169;
 
 710. Para-articular process of dermal neck joint: (0) absent; (1) present.
 
@@ -3053,11 +3062,11 @@ Brazeau *et al*. (2023): "This character is excluded from the analysis because i
 
 712. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
 
-> ZHU160; Brazeau *et al*. (2023), Character 194.
+> ZHU160; Keaing *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
 
 713. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
-[GFB36]; Brazeau *et al*. (2023), Character 211.
+Giles *et al*. (2015), Character 36; Keaing *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
 > Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
