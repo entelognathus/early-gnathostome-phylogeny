@@ -2997,11 +2997,26 @@ Optic fissure: (0) present; absent (1).
 
 > DUPRET255; Brazeau *et al*. (2023), Character 77.
 
+ Paravagal fossa: (0) absent; (1) present.
+
 > Brazeau *et al*. (2023), Character 102.
+
+Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
 > Brazeau *et al*. (2023), Character 104.
 
+Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
+
 > Brazeau *et al*. (2023), Character 109.
+
+> Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+
+Posttemporal fossae: (0) absent; (1) present. 
+
+> Brazeau *et al*. (2023), Character 110.
+
+> Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
+
 
 > Brazeau *et al*. (2023), Character 125.
 
