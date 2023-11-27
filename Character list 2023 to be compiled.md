@@ -3017,159 +3017,104 @@ Posttemporal fossae: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
 
-Hyomandibular articulating with braincase
-0 yes
-1 no
+Hyomandibular articulating with braincase: (0) yes; (1) no.
 
 > Brazeau *et al*. (2023), Character 125.
 
-
-Ethmoidal articulation of palatoquadrate
-0 absent
-1 present
-
+Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 126.
 
- DFC23 Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern)
-0 absent
-1 present
+Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 160.
+> DFC23; Brazeau *et al*. (2023), Character 160.
 
- Dermal neck joint facet morphology
-0 absent
-1 ginglymoid
-2 reverse-ginglymoid
+Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
 
 > Brazeau *et al*. (2023), Character 178.
 
-Para-articular process of dermal neck joint
-0 absent
-1 present
+Para-articular process of dermal neck joint: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 179.
 
-Endoskeletal craniothoracic (sixth branchial) facet
-0 absent
-1 present
+Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 180.
 
- ZHU160 Complete enclosure of spiracle by skull roof bones
-0 absent
-1 present
+Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 194.
+> ZHU160; Brazeau *et al*. (2023), Character 194.
 
+Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
- [GFB36]Cranial spines (This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.)
-0 absent
-1 present, multicuspid
-2 present, monocuspid
-> Brazeau *et al*. (2023), Character 211.
+> [GFB36]; Brazeau *et al*. (2023), Character 211.
 
-Centronuchal plate
-0 absent
-1 present
+> Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
+
+Centronuchal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 243.
 
-Parietals or Preorbital plates at anterior edge of skull roof
-0 no
-1 yes
+Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
 
 > Brazeau *et al*. (2023), Character 248.
 
-Paraorbital plate separating suborbital from orbit
-0 absent
-1 present
+Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 258.
 
-Transverse external groove behind pineal opening
-0 absent
-1 present
+Transverse external groove behind pineal opening: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 260.
 
+Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
-Large median bone directly anterior to parietals and pineal
-0 absent
-1 present
 > Brazeau *et al*. (2023), Character 263.
 
-Contact between most posterior major bone of cheek bearing preopercular canal and maxilla
-0 present
-1 absent
+Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 270.
 
-Number of branchiostegal rays per side
-0 10 or more
-1 2-7
-2 one
+Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > Brazeau *et al*. (2023), Character 271.
 
-Cheek plates fragmented into many small plates
-0 absent
-1 present
+Cheek plates fragmented into many small plates: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 286.
 
-ZHU217 Course of mandibular canal
-0 not passing through most posterior infradentary
-1 passing through most posterior infradentary
+Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
+> ZHU217; Brazeau *et al*. (2023), Character 303.
 
-> Brazeau *et al*. (2023), Character 303.
-
-Anterior supraorbital canal
-0 absent
-1 present
-
+Anterior supraorbital canal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 314.
 
- otic canal runs along mesial margin of marginal plate
-0 absent
-1 present
+Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
 
-DFC45 Maxillary and dentary tooth-bearing bones
-0 absent
-1 present
+Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 338.
+> DFC45; Brazeau *et al*. (2023), Character 338.
 
-ZHU203 Marginal denticle band on coronoids
-0 broad band, at least posteriorly
-1 narrow band with 2-4 denticle rows
+Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
 
-> Brazeau *et al*. (2023), Character 353.
+> ZHU203; Brazeau *et al*. (2023), Character 353.
 
- Submandibulars
-0 absent
-1 present
+Submandibulars: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 392.
 
-DFC128 Paired fin spines
-0 absent
-1 present
+Paired fin spines: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 434 多余.
+> DFC128; Brazeau *et al*. (2023), Character 434 多余.
 
-
-501. Scales
-0 macromeric
-1 micromeric
+Scales: (0) macromeric; (1) micromeric.
+     
 > Brazeau *et al*. (2023), Character 501 多余.
 
-Scales with well developed pores on ganoine surface
-0 absent
-1 present
+Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 502
