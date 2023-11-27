@@ -1821,7 +1821,7 @@ This character is scored contingently on the state of the previous character. *D
 
 > Giles *et al*. (2015), Character 126; Choo *et al*. (2017), Character 294; King *et al*. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. *et al*. (2022), Character 424; Brazeau *et al*. (2023), Character 80.
 
-> Giles *et al*. (2015)：“This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
+> Giles *et al*. (2015)：“This character is modified from Davis *et al*. (2012), Character  characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
 
 424. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
@@ -2975,41 +2975,45 @@ This character is scored contingently on the state of the previous character. *D
 
 > Giles *et al*. (2010); Keating *et* Donoghue (2016), 78; Brazeau *et al*. (2023), Character 7.
 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000) is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
 
 697. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
 > 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000) is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
 
 698. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000) is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
 
 699. Dorsal ridge: (0) absent; (1) present.
 
-> DFC91; Brazeau *et al*. (2023), Character 56.
+> Coates *et* Sequeira, Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
 > Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
 700. Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
 
-> ZHU234, GFB179; Brazeau *et al*. (2023), Character 70.
+> ZHU234, GFB179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
 
 701. Optic fissure: (0) present; absent (1).
 
-> DUPRET255; Brazeau *et al*. (2023), Character 77.
+> DUPRET255; Castiello (2018), Character 75; Brazeau *et al*. (2023), Character 77.
 
 702. Paravagal fossa: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 102.
+> Castiello (2018), Character 98; Brazeau *et al*. (2023), Character 102.
+This character was removed by Castiello (2018) is related to the present of a bifurcated vagal process (character 91) and is thus redundant.
+
+>Is it a placoderm character? in the Postorbital region of the Endocranium (Castiello *et al*., 2020)
 
 703. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
-> Brazeau *et al*. (2023), Character 104.
+> Castiello (2018), Character 100; Brazeau *et al*. (2023), Character 104.
+
 
 704. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
 
@@ -3033,7 +3037,7 @@ Brazeau *et al*. (2023): "This character is excluded from the analysis because i
 
 708. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
-> DFC23; Brazeau *et al*. (2023), Character 160.
+> Davis *et al*. (2012), Character 23; Brazeau *et al*. (2023), Character 160.
 
 709. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
 
@@ -3103,7 +3107,7 @@ Brazeau *et al*. (2023): "This character is excluded from the analysis because i
 
 725. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
 
-> DFC45; Brazeau *et al*. (2023), Character 338.
+> Davis *et al*. (2012), Character 45; Brazeau *et al*. (2023), Character 338.
 
 726. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
 
@@ -3115,7 +3119,7 @@ Brazeau *et al*. (2023): "This character is excluded from the analysis because i
 
 728. Paired fin spines: (0) absent; (1) present.
 
-> DFC128; Brazeau *et al*. (2023), Character 434 多余.
+> Davis *et al*. (2012), Character 128; Brazeau *et al*. (2023), Character 434 多余.
 
 729. Scales: (0) macromeric; (1) micromeric.
      
