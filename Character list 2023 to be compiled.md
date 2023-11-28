@@ -3159,7 +3159,7 @@ Deleted.
 
 725. Paired fin spines: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434 多余.
+> Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434.
 
 > This character is duplicate with Characters 672 and 673. So, it needs to be removed.
 
