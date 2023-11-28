@@ -3139,39 +3139,38 @@ Castiello (2018): "A transverse groove behind the pineal opening is present in D
 
 Deleted.
 
-724. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
+721. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
 
-> Check it. Is it duplicate with Character 182?
-
-725. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
+722. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Brazeau *et al*. (2023), Character 338.
 
-726. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
+723. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
 
 > Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
 
-727. Submandibulars: (0) absent; (1) present.
+724. Submandibulars: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 392.
->
-> Castiello (2018):"This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
-> Check it. Is it duplicate with Character 224 not Character 280?
 
-728. Paired fin spines: (0) absent; (1) present.
+> Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
+
+725. Paired fin spines: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434 多余.
 
-This character is duplicate with Characters 672 and 673. So, it need to be removed.
+> This character is duplicate with Characters 672 and 673. So, it needs to be removed.
 
-729. Scales: (0) macromeric; (1) micromeric.
+726. Scales: (0) macromeric; (1) micromeric.
      
 > King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
 
-730. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
+> Deleted.
 
->King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
+727. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
-Castiello (2018):"The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
+> King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
+
+> Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
