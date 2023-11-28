@@ -2143,7 +2143,9 @@ This character need to be removed because it is duplicate with Character 371.
 
 497. Dorsal aorta divides into lateral dorsal aortae: (0) posterior to occipital level; (1) anterior to level of the occiput.
 
-> Coates *et al*. (2018), Character 202; Choo *et al*. (2017), Character 153; King *et al*. (2017), Character 66; Castiello (2018), Character 68; Zhu Y. *et al*. (2022), Character 499.
+> Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Coates *et al*. (2018), Character 202; Choo *et al*. (2017), Character 153; King *et al*. (2017), Character 66; Castiello (2018), Character 68; Zhu Y. *et al*. (2022), Character 499; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
+
+> Same as the formulation "Midline canal in basicranium for dorsal aorta: (0) absent; (1) present."
 
 498. Transverse otic process: (0) present; (1) absent.
 
