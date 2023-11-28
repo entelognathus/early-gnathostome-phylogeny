@@ -1048,6 +1048,7 @@ This character is scored contingently on the state of the previous character. *D
 238. Median gular: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 102), and references therein; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Choo *et al*. (2017), Character 135; King *et al*. (2017), Character 169; Castiello (2018), Character 167; Zhu Y. *et al*. (2022), Character 239; Brazeau *et al*. (2023), Character 173.
+
 ## Dentition, dermal jaw & tooth-bearing bones
 
 239. Oral dermal tubercles borne on jaw cartilages: (0) absent; (1) present.
@@ -3038,112 +3039,110 @@ This character need to be removed because it is duplicate with Character 371.
 
 > This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
-708. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
+705. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
 
-709. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
+706. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
 
 > Brazeau *et al*. (2023), Character 178.
 
-> Relative to King *et al*. (2016), Character 173; Castiello (2018), Character 171 :Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle (3.) spoon-like, with transverse articular area.
-> Relative to Zhu *et al*. (2013), Character 169;
+> Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
 
-710. Para-articular process of dermal neck joint: (0) absent; (1) present.
+> Related with Zhu *et al*. (2013), Character 169; Partly overlaps Character 558 here.
 
-> Brazeau *et al*. (2023), Character 179.
-(Young, 1978)
+707. Para-articular process of dermal neck joint: (0) absent; (1) present.
 
-711. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+> Young, 1978; Brazeau *et al*. (2023), Character 179.
+
+708. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 180.
 
-712. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
+709. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
 
-713. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
+710. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
 Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
 > Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
-714. Centronuchal plate: (0) absent; (1) present.
+711. Centronuchal plate: (0) absent; (1) present.
 
 > Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
 
-Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-This character need to be removed because it is duplicate with Character 80.
+> This character need to be removed because it is duplicate with Character 80.
 
-715. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
+712. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
 
 >  King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
 
-Castiello (2018):"This character was created by King et al. (2016) to take in account that in some placoderms, such as Cowralepis, Eurycaraspis, Quasipetalichthys and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in Eurycaraspis and Quasipetalichtys, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
+>  Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as Cowralepis, Eurycaraspis, Quasipetalichthys and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in Eurycaraspis and Quasipetalichtys, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
-So, he deleted this character.
+> Deleted.
 
-716. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
+713. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
 
-Castiello (2018):"King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in Wuttagoonaspis and possibly Brindabellaspis. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
+> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in Wuttagoonaspis and possibly Brindabellaspis. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
 
-So, he deleted this character.
+> Deleted.
 
-717. Transverse external groove behind pineal opening: (0) absent; (1) present.
+714. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
->King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
+> King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
 
-Castiello (2018):"A transverse groove behind the pineal opening is present in Dicksonosteus (Goujet 1984a) and Diandongpetalichthys (Zhu 1991), but it is difficult to assess if this feature
-represents an anatomical or taphonomic groove.
+Castiello (2018): "A transverse groove behind the pineal opening is present in Dicksonosteus (Goujet 1984a) and Diandongpetalichthys (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
-So, he deleted this character.
+> Retained.
 
-718. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+715. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 263.
 
-719. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
+716. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
 
-This character was removed by Castiello (2018) as equivalent to character 349. 
+> This character was removed by Castiello (2018) as equivalent to character 349. 
 
-I checked it and think that it is duplicate with character 212 not character 349.
+> I checked it and think that it is duplicate with character 212 not character 349.
 
-720. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
+717. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
 
-This character was removed by Castiello (2018) as the states number are arbitrary and thus character formulation is ambiguous. 
+> This character was removed by Castiello (2018) as the states number are arbitrary and thus character formulation is ambiguous. 
 
-721. Cheek plates fragmented into many small plates: (0) absent; (1) present.
+718. Cheek plates fragmented into many small plates: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 286.
 
-This character was removed by Castiello (2018) as equivalent to 532.
+> This character was removed by Castiello (2018) as equivalent to 532.
 
-I checked it and think that it is duplicate with character 210 not character 532.
+> I checked it and think that it is duplicate with character 210 not character 532.
 
-722. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
+719. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
 > Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
 
-723. Anterior supraorbital canal: (0) absent; (1) present.
+720. Anterior supraorbital canal: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 309; Brazeau *et al*. (2023), Character 314.
 
-Castiello (2018):"The "anterior supraorbital canal" in Lunaspis are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is
-contentious and should be removed."
+> Castiello (2018): "The "anterior supraorbital canal" in Lunaspis are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
 
-So, he deleted this character.
+Deleted.
 
 724. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
->
+
 > Check it. Is it duplicate with Character 182?
 
 725. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
