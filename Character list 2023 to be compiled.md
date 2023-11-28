@@ -1598,7 +1598,7 @@ This character is scored contingently on the state of the previous character. *D
 
 > Janvier (1996), and references therein; Davis *et al*. (2012), Character 61; Choo *et al*. (2017), Character 60; King *et al*. (2017), Character 25; Castiello (2018), Character 25; Zhu Y. *et al*. (2022), Character 371; Brazeau *et al*. (2023), Character 28.
 
-371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissue): (0) absent; (1) present.
+371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissrue): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372.
 
@@ -1821,7 +1821,7 @@ This character is scored contingently on the state of the previous character. *D
 
 > Giles *et al*. (2015), Character 126; Choo *et al*. (2017), Character 294; King *et al*. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. *et al*. (2022), Character 424; Brazeau *et al*. (2023), Character 80.
 
-> Giles *et al*. (2015)：“This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
+> Giles *et al*. (2015)：“This character is modified from Davis *et al*. (2012), Character  characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
 
 424. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
@@ -2971,150 +2971,213 @@ This character is scored contingently on the state of the previous character. *D
 > New character, see comments on Character 289.
 
 ## Included in Brazeau et al. (2023)
-Laminar basal layer: (0) absent; (1) present.
+696. Laminar basal layer: (0) absent; (1) present.
 
-> Giles *et al*. (2010); Keating *et al*. (2015); Brazeau *et al*. (2023), Character 7.
+> Giles *et al*. (2010); Keating *et* Donoghue (2016), 78; Brazeau *et al*. (2023), Character 7.
 
-Cancellous central layerr: (0) absent; (1) present.
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+
+697. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
+> 
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
 
-Dentinous external layer: (0) absent; (1) present.
+698. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
 
-Dorsal ridge: (0) absent; (1) present.
+This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
 
-> DFC91; Brazeau *et al*. (2023), Character 56.
+699. Dorsal ridge: (0) absent; (1) present.
+
+> Coates *et* Sequeira, Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
 > Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
-Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
+700. Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
 
-> ZHU234, GFB179; Brazeau *et al*. (2023), Character 70.
+> Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
 
-Optic fissure: (0) present; absent (1).
+701. Optic fissure: (0) present; absent (1).
 
-> DUPRET255; Brazeau *et al*. (2023), Character 77.
+> DUPRET255; Castiello (2018), Character 75; Brazeau *et al*. (2023), Character 77.
 
- Paravagal fossa: (0) absent; (1) present.
+This character need to be removed because it is duplicate with Character 371.
 
-> Brazeau *et al*. (2023), Character 102.
+702. Paravagal fossa: (0) absent; (1) present.
 
-Braincase is series of bilateral ossifications: (0) no; (1) yes.
+> King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
-> Brazeau *et al*. (2023), Character 104.
+> This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (character 510) and is thus redundant.
 
-Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
+703. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
-> Brazeau *et al*. (2023), Character 109.
+> King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
-> Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+This character was removed by Castiello (2018) because its ambiguous formulation
 
-Posttemporal fossae: (0) absent; (1) present.
+704. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
 
-> Brazeau *et al*. (2023), Character 110.
+> King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
+
+Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+
+This character was removed by Castiello (2018) because it was is related to the metotic fissure (Character 51 not found) and thus redundant.???(not found)
+
+705. Posttemporal fossae: (0) absent; (1) present.
+
+> King *et al*. (2016), Character 106; Brazeau *et al*. (2023), Character 110.
 
 > Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
 
-Hyomandibular articulating with braincase: (0) yes; (1) no.
+706. Hyomandibular articulating with braincase: (0) yes; (1) no.
 
-> Brazeau *et al*. (2023), Character 125.
+>  King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
 
-Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
+> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (character 71) and thus redundant.
 
-> Brazeau *et al*. (2023), Character 126.
+707. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
 
-Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
+> King *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
 
-> DFC23; Brazeau *et al*. (2023), Character 160.
+This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyes is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
-Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
+708. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
+
+> Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
+
+709. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
 
 > Brazeau *et al*. (2023), Character 178.
 
-Para-articular process of dermal neck joint: (0) absent; (1) present.
+> Relative to King *et al*. (2016), Character 173; Castiello (2018), Character 171 :Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle (3.) spoon-like, with transverse articular area.
+> Relative to Zhu *et al*. (2013), Character 169;
+
+710. Para-articular process of dermal neck joint: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 179.
+(Young, 1978)
 
-Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+711. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 180.
 
-Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
+712. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
 
-> ZHU160; Brazeau *et al*. (2023), Character 194.
+> King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
 
-Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
+713. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
-> [GFB36]; Brazeau *et al*. (2023), Character 211.
+Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
 > Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
-Centronuchal plate: (0) absent; (1) present.
+714. Centronuchal plate: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 243.
+> Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
 
-Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
+Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-> Brazeau *et al*. (2023), Character 248.
+This character need to be removed because it is duplicate with Character 80.
 
-Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
+715. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
 
-> Brazeau *et al*. (2023), Character 258.
+>  King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
 
-Transverse external groove behind pineal opening: (0) absent; (1) present.
+Castiello (2018):"This character was created by King et al. (2016) to take in account that in some placoderms, such as Cowralepis, Eurycaraspis, Quasipetalichthys and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in Eurycaraspis and Quasipetalichtys, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
-> Brazeau *et al*. (2023), Character 260.
+So, he deleted this character.
 
-Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+716. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
+
+> King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
+
+Castiello (2018):"King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in Wuttagoonaspis and possibly Brindabellaspis. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
+
+So, he deleted this character.
+
+717. Transverse external groove behind pineal opening: (0) absent; (1) present.
+
+>King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
+
+Castiello (2018):"A transverse groove behind the pineal opening is present in Dicksonosteus (Goujet 1984a) and Diandongpetalichthys (Zhu 1991), but it is difficult to assess if this feature
+represents an anatomical or taphonomic groove.
+
+So, he deleted this character.
+
+718. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 263.
 
-Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
+719. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 270.
+> King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
 
-Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
+This character was removed by Castiello (2018) as equivalent to character 349. 
 
-> Brazeau *et al*. (2023), Character 271.
+I checked it and think that it is duplicate with character 212 not character 349.
 
-Cheek plates fragmented into many small plates: (0) absent; (1) present.
+720. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
-> Brazeau *et al*. (2023), Character 286.
+> King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
 
-Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
+This character was removed by Castiello (2018) as the states number are arbitrary and thus character formulation is ambiguous. 
 
-> ZHU217; Brazeau *et al*. (2023), Character 303.
+721. Cheek plates fragmented into many small plates: (0) absent; (1) present.
 
-Anterior supraorbital canal: (0) absent; (1) present.
+> King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 286.
 
-> Brazeau *et al*. (2023), Character 314.
+This character was removed by Castiello (2018) as equivalent to 532.
 
-Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
+I checked it and think that it is duplicate with character 210 not character 532.
+
+722. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
+
+> Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
+
+723. Anterior supraorbital canal: (0) absent; (1) present.
+
+> King *et al*. (2016), Character 309; Brazeau *et al*. (2023), Character 314.
+
+Castiello (2018):"The "anterior supraorbital canal" in Lunaspis are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is
+contentious and should be removed."
+
+So, he deleted this character.
+
+724. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
+>
+> Check it. Is it duplicate with Character 182?
 
-Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
+725. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
 
-> DFC45; Brazeau *et al*. (2023), Character 338.
+> Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Brazeau *et al*. (2023), Character 338.
 
-Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
+726. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
 
-> ZHU203; Brazeau *et al*. (2023), Character 353.
+> Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
 
-Submandibulars: (0) absent; (1) present.
+727. Submandibulars: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 392.
+>
+> Castiello (2018):"This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
+> Check it. Is it duplicate with Character 224 not Character 280?
 
-Paired fin spines: (0) absent; (1) present.
+728. Paired fin spines: (0) absent; (1) present.
 
-> DFC128; Brazeau *et al*. (2023), Character 434 多余.
+> Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434 多余.
 
-Scales: (0) macromeric; (1) micromeric.
+This character is duplicate with Characters 672 and 673. So, it need to be removed.
+
+729. Scales: (0) macromeric; (1) micromeric.
      
-> Brazeau *et al*. (2023), Character 501 多余.
+> King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
 
-Scales with well developed pores on ganoine surface: (0) absent; (1) present.
+730. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 502
+>King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
+
+Castiello (2018):"The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
