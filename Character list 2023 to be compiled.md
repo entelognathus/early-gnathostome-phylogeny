@@ -2880,6 +2880,7 @@ This character need to be removed because it is duplicate with Character 371.
 673. Pelvic fin spine: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Brazeau *et al*. (2023), Character 439.
+
 > The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
 
 674. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
@@ -3003,29 +3004,25 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
-700. Midline canal in basicranium for dorsal aorta: (0) absent; (1) present.
-
-> Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
-
-701. Paravagal fossa: (0) absent; (1) present.
+700. Paravagal fossa: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
 > This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (character 510) and is thus redundant.
 
-702. Braincase is series of bilateral ossifications: (0) no; (1) yes.
+701. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
 > King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
-This character was removed by Castiello (2018) because its ambiguous formulation
+> This character was removed by Castiello (2018) because its ambiguous formulation
 
-704. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
+702. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
 
 > King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
 
-Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+> Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
-This character was removed by Castiello (2018) because it was is related to the metotic fissure (Character 51 not found) and thus redundant.???(not found)
+> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 Character 55) and is thus redundant.
 
 705. Posttemporal fossae: (0) absent; (1) present.
 
