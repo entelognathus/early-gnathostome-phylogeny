@@ -1600,7 +1600,13 @@ This character is scored contingently on the state of the previous character. *D
 
 371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissrue): (0) absent; (1) present.
 
-> Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372.
+> DUPRET255; Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372; Brazeau *et al*. (2023), Character 77.
+
+> Brazeau *et al*. (2023) "Optic fissure: (0) present; (1) absent."
+
+> Castiello (2018), Character 75.
+
+This character need to be removed because it is duplicate with Character 371.
 
 372. Ventral cranial fissure: (0) absent; (1) present.
 
@@ -2973,25 +2979,25 @@ This character is scored contingently on the state of the previous character. *D
 ## Included in Brazeau et al. (2023)
 696. Laminar basal layer: (0) absent; (1) present.
 
-> Giles *et al*. (2010); Keating *et* Donoghue (2016), 78; Brazeau *et al*. (2023), Character 7.
+> Giles *et al*. (2010); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016). 
 
 697. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
-> 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+
+> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).  
 
 698. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
 
-This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000),71 is a compound character that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer the presence/absence of a basal lamella by Keating et Donoghue (2016). 
+> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016). 
 
 699. Dorsal ridge: (0) absent; (1) present.
 
-> Coates *et* Sequeira, Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
+> Coates & Sequeira (date), Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
 > Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
@@ -2999,19 +3005,13 @@ This character was modified from a compound character “three-layered exoskelet
 
 > Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Castiello (2018), Character 68; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
 
-701. Optic fissure: (0) present; absent (1).
-
-> DUPRET255; Castiello (2018), Character 75; Brazeau *et al*. (2023), Character 77.
-
-This character need to be removed because it is duplicate with Character 371.
-
-702. Paravagal fossa: (0) absent; (1) present.
+701. Paravagal fossa: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
 > This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (character 510) and is thus redundant.
 
-703. Braincase is series of bilateral ossifications: (0) no; (1) yes.
+702. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
 > King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
