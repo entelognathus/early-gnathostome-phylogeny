@@ -2212,7 +2212,9 @@ This character need to be removed because it is duplicate with Character 371.
 
 513. Posttemporal fossae: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110.
+> King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110; Brazeau *et al*. (2023), Character 110.
+
+> Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
 
 514. Rostral organ: (0) absent; (1) present.
 
@@ -3024,23 +3026,17 @@ This character need to be removed because it is duplicate with Character 371.
 
 > This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 Character 55) and is thus redundant.
 
-705. Posttemporal fossae: (0) absent; (1) present.
-
-> King *et al*. (2016), Character 106; Brazeau *et al*. (2023), Character 110.
-
-> Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
-
-706. Hyomandibular articulating with braincase: (0) yes; (1) no.
+703. Hyomandibular articulating with braincase: (0) yes; (1) no.
 
 >  King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
 
-> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (character 71) and thus redundant.
+> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 71) and is thus redundant.
 
-707. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
+704. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
 
-This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyes is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
+> This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
 708. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
