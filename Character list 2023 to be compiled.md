@@ -376,6 +376,8 @@ This character is scored contingently on the state of the previous character. *D
 80. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81.
+>
+> Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
 81. Postnuchal plates: (0) absent; (1) present.
 
@@ -3011,7 +3013,7 @@ This character need to be removed because it is duplicate with Character 371.
 
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
-> This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (character 510) and is thus redundant.
+> This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (Castiello (2016), character 101 (character 510 here)) and is thus redundant.
 
 701. Braincase is series of bilateral ossifications: (0) no; (1) yes.
 
@@ -3025,13 +3027,13 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
-> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 Character 55) and is thus redundant.
+> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56 (Character 373 here)) and is thus redundant.
 
 703. Hyomandibular articulating with braincase: (0) yes; (1) no.
 
 >  King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
 
-> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 71) and is thus redundant.
+> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77 (Character 498 here)) and is thus redundant.
 
 704. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
 
@@ -3073,15 +3075,16 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
 
-> Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-> This character need to be removed because it is duplicate with Character 80.
+> This character need to be removed because it is duplicate with Character 80 here.
+> Deleted?
 
 712. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
 
 >  King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
 
->  Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as Cowralepis, Eurycaraspis, Quasipetalichthys and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in Eurycaraspis and Quasipetalichtys, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
+>  Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as *Cowralepis*, *Eurycaraspis*, *Quasipetalichthys* and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in *Eurycaraspis* and *Quasipetalichtys*, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
 > Deleted.
 
@@ -3089,7 +3092,7 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
 
-> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in Wuttagoonaspis and possibly Brindabellaspis. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
+> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
 
 > Deleted.
 
@@ -3109,9 +3112,9 @@ Castiello (2018): "A transverse groove behind the pineal opening is present in D
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
 
-> This character was removed by Castiello (2018) as equivalent to character 349. 
+> Castiello (2018):"Removed as equivalent to Castiello (2018), character 145." 
 
-> I checked it and think that it is duplicate with character 212 not character 349.
+> I checked it and think that it is duplicate with Castiello (2018), character 194 (character 212 here) not Castiello (2018), character 145 (character 349 here).
 
 717. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
@@ -3123,9 +3126,9 @@ Castiello (2018): "A transverse groove behind the pineal opening is present in D
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 286.
 
-> This character was removed by Castiello (2018) as equivalent to 532.
+> Castiello (2018):"Removed as equivalent to Castiello (2018), character 137." 
 
-> I checked it and think that it is duplicate with character 210 not character 532.
+> I checked it and think that it is duplicate with Castiello (2018), character 156 (character 210 here) not Castiello (2018), character 137 (character 532 here).
 
 719. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
@@ -3161,7 +3164,7 @@ Deleted.
 
 > Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434.
 
-> This character is duplicate with Characters 672 and 673. So, it needs to be removed.
+> This character is duplicate with Characters 672 and 673 here. So, it needs to be removed.
 
 726. Scales: (0) macromeric; (1) micromeric.
      
