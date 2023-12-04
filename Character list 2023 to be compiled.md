@@ -3045,17 +3045,19 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
 
-706. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid
+706. ~~Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid.~~
 
 > Brazeau *et al*. (2023), Character 178.
 
 > Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
 
-> Related with Zhu *et al*. (2013), Character 169; Partly overlaps Character 558 here.
+> Related with Zhu *et al*. (2013), Character 169; overlaps Characters 558 - 562 here.
 
-707. Para-articular process of dermal neck joint: (0) absent; (1) present.
+707. ~~Para-articular process of dermal neck joint: (0) absent; (1) present.~~
 
 > Young, 1978; Brazeau *et al*. (2023), Character 179.
+
+> Character 563 here.
 
 708. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
