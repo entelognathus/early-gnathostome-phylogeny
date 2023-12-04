@@ -3003,43 +3003,43 @@ This character need to be removed because it is duplicate with Character 371.
 
 > See comments above.
 
-699. Dorsal ridge: (0) absent; (1) present.
+699. ~~Dorsal ridge: (0) absent; (1) present.~~
 
 > Coates & Sequeira (date), Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
 > Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
-700. Paravagal fossa: (0) absent; (1) present.
+700. ~~Paravagal fossa: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
-> This character was removed by Castiello (2018) because it was related to the present of a bifurcated vagal process (Castiello (2016), character 101 (character 510 here)) and is thus redundant.
+> This character was removed by Castiello (2018) because it was related to the presence of a bifurcated vagal process (Castiello, 2016, Character 101; Character 510 here) and is thus redundant.
 
-701. Braincase is series of bilateral ossifications: (0) no; (1) yes.
+701. ~~Braincase is series of bilateral ossifications: (0) no; (1) yes.~~
 
 > King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
-> This character was removed by Castiello (2018) because its ambiguous formulation
+> This character was removed by Castiello (2018) because of its ambiguous formulation
 
-702. Parachordal plates: (0) separated from the otic capsule; (1) sutured or fused to otic capsule.
+702. ~~Parachordal plates: (0) separated from otic capsule; (1) sutured or fused to otic capsule.~~
 
 > King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
 
 > Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
-> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56 (Character 373 here)) and is thus redundant.
+> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 373 here) and is thus redundant.
 
-703. Hyomandibular articulating with braincase: (0) yes; (1) no.
+703. ~~Hyomandibular articulating with braincase: (0) yes; (1) no.~~
 
 >  King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
 
-> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77 (Character 498 here)) and is thus redundant.
+> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77; Character 498 here) and is thus redundant.
 
-704. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
+704. ~~Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
 
-> This character was removed by Castiello (2018) as it was ambiguous if the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
+> This character was removed by Castiello (2018) as it was ambiguous whether the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
 705. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
