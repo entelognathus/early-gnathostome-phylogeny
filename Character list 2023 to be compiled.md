@@ -3053,11 +3053,11 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Related with Zhu *et al*. (2013), Character 169; overlaps Characters 558 - 562 here.
 
-707. ~~Para-articular process of dermal neck joint: (0) absent; (1) present.~~
+707. __Para-articular process of dermal neck joint: (0) absent; (1) present.__
 
 > Young, 1978; Brazeau *et al*. (2023), Character 179.
 
-> Character 563 here.
+> The definition of this character should be clarified.
 
 708. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
@@ -3073,38 +3073,33 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
-711. Centronuchal plate: (0) absent; (1) present.
+711. ~~Centronuchal plate: (0) absent; (1) present.~~
 
 > Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
 
 > Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-> This character need to be removed because it is duplicate with Character 80 here.
-> Deleted?
+> This character need to be removed because it is redundant with Character 80 here.
 
-712. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
+712. ~~Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.~~
 
 >  King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
 
 >  Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as *Cowralepis*, *Eurycaraspis*, *Quasipetalichthys* and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in *Eurycaraspis* and *Quasipetalichtys*, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
-> Deleted.
-
-713. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
+713. ~~Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
 
-> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of Wuttagoonaspis as the supposed ”paraorbital” plates in Brindabellaspis are possibly just part of the large premedian plate. Character has been tentatively removed."
-
-> Deleted.
+> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
 
 714. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
 
-Castiello (2018): "A transverse groove behind the pineal opening is present in Dicksonosteus (Goujet 1984a) and Diandongpetalichthys (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
+> Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
-> Retained.
+> We consider it as an anatomical groove.
 
 715. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
@@ -3114,15 +3109,9 @@ Castiello (2018): "A transverse groove behind the pineal opening is present in D
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
 
-> Castiello (2018):"Removed as equivalent to Castiello (2018), character 145." 
-
-> I checked it and think that it is duplicate with Castiello (2018), character 194 (character 212 here) not Castiello (2018), character 145 (character 349 here).
-
 717. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
-
-> This character was removed by Castiello (2018) as the states number are arbitrary and thus character formulation is ambiguous. 
 
 718. Cheek plates fragmented into many small plates: (0) absent; (1) present.
 
