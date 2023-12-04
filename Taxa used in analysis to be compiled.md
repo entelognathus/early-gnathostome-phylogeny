@@ -30,6 +30,8 @@ New taxa and references added along with the research.
 
 *Bothriolepis* spp., Givetian to Famennian (Long and Trinajstic, 2010)
 
+*Bothriolepis canadensis*, Frasnian (Stensiö, 1948; Vezina, 1996)
+
 *Brachyacanthus scutiger*, Lochkovian, Lower Devonian (Watson, 1937)
 
 *Brindabellaspis stensioi*, lower Emsian to lower Eifelian (Young, 1980)
