@@ -3125,13 +3125,11 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
 
-720. Anterior supraorbital canal: (0) absent; (1) present.
+720. ~~Anterior supraorbital canal: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 309; Brazeau *et al*. (2023), Character 314.
 
-> Castiello (2018): "The "anterior supraorbital canal" in Lunaspis are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
-
-Deleted.
+> Castiello (2018): "The "anterior supraorbital canal" in *Lunaspis* are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
 
 721. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
@@ -3151,17 +3149,15 @@ Deleted.
 
 > Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
 
-725. Paired fin spines: (0) absent; (1) present.
+725. ~~Paired fin spines: (0) absent; (1) present.~~
 
 > Davis *et al*. (2012), Character 128; King *et al*. (2016), Character 429; Castiello (2018), Character 418; Brazeau *et al*. (2023), Character 434.
 
-> This character is duplicate with Characters 672 and 673 here. So, it needs to be removed.
+> Redundant with Characters 672 and 673 here.
 
-726. Scales: (0) macromeric; (1) micromeric.
+726. ~~Scales: (0) macromeric; (1) micromeric.~~
      
 > King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
-
-> Deleted.
 
 727. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
