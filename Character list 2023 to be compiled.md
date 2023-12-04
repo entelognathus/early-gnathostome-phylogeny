@@ -3113,13 +3113,13 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
 
-718. Cheek plates fragmented into many small plates: (0) absent; (1) present.
+718. ~~Cheek plates fragmented into many small plates: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 286.
 
-> Castiello (2018):"Removed as equivalent to Castiello (2018), character 137." 
+> Castiello (2018): "Removed as equivalent to Castiello (2018), character 137." (Castiello 2018, character 156)
 
-> I checked it and think that it is duplicate with Castiello (2018), character 156 (character 210 here) not Castiello (2018), character 137 (character 532 here).
+> Redundant with Character 210 here.
 
 719. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
