@@ -2987,7 +2987,7 @@ This character need to be removed because it is duplicate with Character 371.
 ## Included in Brazeau et al. (2023)
 696. Laminar basal layer: (0) absent; (1) present.
 
-> Giles *et al*. (2010); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
+> Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
 
 > This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016). 
 
@@ -2995,13 +2995,13 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Brazeau *et al*. (2023), Character 8.
 
-> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).  
+> See comments above.  
 
 698. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
 
-> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016). 
+> See comments above.
 
 699. Dorsal ridge: (0) absent; (1) present.
 
