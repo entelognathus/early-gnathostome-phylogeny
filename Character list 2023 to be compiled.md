@@ -66,7 +66,8 @@
 14. Enamel: (0) single-layered; (1) multi-layered.
 
 > Giles *et al*. (2015), Character 6; Choo *et al*. (2017), Character 255; King *et al*. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. *et al*. (2022), Character 14; Brazeau *et al*. (2023), Character 19.
-> *Ligulalepis* is scored '1' based on Schultze (1968).
+
+> - *Ligulalepis* is scored '1' based on Schultze (1968).
 
 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 
@@ -79,6 +80,7 @@
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Choo *et al*. (2017), Character 136; King *et al*. (2017), Character 342; Castiello (2018), Character 334; Zhu Y. *et al*. (2021), Character 78; Zhu Y. *et al*. (2022), Character 17; Brazeau *et al*. (2023), Character 347.
+
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
@@ -147,7 +149,7 @@
 
 > Zhu *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 145; Choo *et al*. (2017), Character 252; King *et al*. (2017), Character 467; Castiello (2018), Character 456; Zhu Y. *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 472.
 
-> Taxa without lepidotrichia are coded as 'logical impossibility'.
+> - Taxa without lepidotrichia are coded as 'logical impossibility'.
 
 32. Scute-like ridge scales (basal fulcra): (0) absent; (1) present.
 
@@ -161,7 +163,7 @@
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 8; Choo *et al*. (2017), Character 7; Coates *et al*. (2018), Character 9; King *et al*. (2017), Character 485; Castiello (2018), Character 474; Zhu Y. *et al*. (2022), Character 35; Brazeau *et al*. (2023), Character 490.
 
-> Coates *et al*. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
+> - Coates *et al*. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
 
 > *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*., 2023).
 
@@ -169,23 +171,23 @@
 
 > Hanke & Wilson (2004); Brazeau (2009), Character 9; Davis *et al*. (2012), Character 9; Choo *et al*. (2017), Character 8; King *et al*. (2017), Character 486; Castiello (2018), Character 475; Zhu Y. *et al*. (2022), Character 36; Brazeau *et al*. (2023), Character 491.
 
-> Brazeau (2009): "Body scale odontodes growing in concentric “onion skin” pattern: absent (0); present (1). This characterises the generalised concentric growth of odontodes around a single scale primordium seen in many acanthodian-type taxa and often used to diagnose acanthodians as a group. Taxa for which the superimposed odontodes do not cover the top of the crown (i.e. *Brochoadmones* and *Poracanthodes*) are scored “0”."
+> - Brazeau (2009): "Body scale odontodes growing in concentric “onion skin” pattern: absent (0); present (1). This characterises the generalised concentric growth of odontodes around a single scale primordium seen in many acanthodian-type taxa and often used to diagnose acanthodians as a group. Taxa for which the superimposed odontodes do not cover the top of the crown (i.e. *Brochoadmones* and *Poracanthodes*) are scored “0”."
 
-> Davis *et al*. (2012): "This character is not equivalent the ‘superpositional’ character state used by Hanke & Wilson (2004). More precisely, it refers to the classic mode of acanthodian scale growth depicted in texts from Moy-Thomas & Miles (1971) onwards, and exemplified by *Acanthodes* and *Nostolepis* (shown again by Burrow & Turner 2010). Thus *Brochoadmones* (and similar taxa) coded by Hanke & Wilson (2004) and Burrow & Turner (2010) as sharing the same general superpositional mode of flank scale growth, is here coded as different (mid-sagittal sections of scales shown in Hanke & Wilson 2006)."
+> - Davis *et al*. (2012): "This character is not equivalent the ‘superpositional’ character state used by Hanke & Wilson (2004). More precisely, it refers to the classic mode of acanthodian scale growth depicted in texts from Moy-Thomas & Miles (1971) onwards, and exemplified by *Acanthodes* and *Nostolepis* (shown again by Burrow & Turner 2010). Thus *Brochoadmones* (and similar taxa) coded by Hanke & Wilson (2004) and Burrow & Turner (2010) as sharing the same general superpositional mode of flank scale growth, is here coded as different (mid-sagittal sections of scales shown in Hanke & Wilson 2006)."
 
-> Dearden *et al*. (2021): "As Miles (1973) observed, the flank scales of *Dobunnacanthus* gen. nov. are ornamented with anteroposteriorly aligned ridges (Fig. 13C, D). These appear to be very similar to the scales of *Vernicomacanthus*, with their laterally apposed odontodes. However, because the internal structure of the scales is not preserved, it is impossible to definitively diagnose this."
+> - Dearden *et al*. (2021): "As Miles (1973) observed, the flank scales of *Dobunnacanthus* gen. nov. are ornamented with anteroposteriorly aligned ridges (Fig. 13C, D). These appear to be very similar to the scales of *Vernicomacanthus*, with their laterally apposed odontodes. However, because the internal structure of the scales is not preserved, it is impossible to definitively diagnose this."
 
 36. Body scales with peg-and-socket articulation: (0) absent; (1) present.
 
 > Gardiner (1984); Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 10; Choo *et al*. (2017), Character 9; King *et al*. (2017), Character 487; Castiello (2018), Character 476; Zhu Y. *et al*. (2022), Character 37; Brazeau *et al*. (2023), Character 492.
 
-> The coding of *Entelognathus primordialis* is changed from 0 to 1 based on new data. The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Long *et al*., 1997 Fig.51).
+> - The coding of *Entelognathus primordialis* is changed from 0 to 1 based on new data. The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Long *et al*., 1997 Fig.51).
 
 37. Peg on rhomboid scale: (0) longer than wide (narrow); (1) wider than long (broad).
 
 > Zhu  *et al*. (2009, Character 139), and references therein; Zhu *et al*. (2013), Character 143; Giles *et al*. (2015), Character 19; Choo *et al*. (2017), Character 138; King *et al*. (2017), Character 492; Castiello (2018), Character 477; Zhu Y. *et al*. (2022), Character 38; Brazeau *et al*. (2023), Character 497.
 
-> The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data.
+> - The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data (Cui et al., 2023).
 
 38. Body scale profile: (0) distinct crown and base demarcated by a constriction (neck); (1) flattened.
 
@@ -195,12 +197,13 @@
 
 > Brazeau (2009); Davis *et al*. (2012), Character 12; Choo *et al*. (2017), Character 11; King *et al*. (2017), Character 489; Castiello (2018), Character 479; Zhu Y. *et al*. (2022), Character 40; Brazeau *et al*. (2023), Character 494.
 
-> The coding of *Climatius reticulatus* is changed from 0 to 1 (Burrow *et al*., 2015 Fig.5Q).
+> - The coding of *Climatius reticulatus* is changed from 0 to 1 (Burrow *et al*., 2015 Fig.5Q).
 
 40. Body scales with flattened base: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 13; Choo *et al*. (2017), Character 12; King *et al*. (2017), Character 490; Castiello (2018), Character 480; Zhu Y. *et al*. (2022), Character 41; Brazeau *et al*. (2023), Character 495.
-> The character states in Brazeau (2009, Character 13) were reversed. The coding of *Parayunnanolepis xitunensis* is changed from 0 to 1 (Wang and Zhu, 2022). The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998). The coding of *Gavinia syntrips* is changed from 0 to 1 (Long, 1999). The coding of *Uranolophus wyomingensis* is changed from 0 to 1 (Denison, 1968 Figs. 20, 25)
+
+> - The character states in Brazeau (2009, Character 13) were reversed. The coding of *Parayunnanolepis xitunensis* is changed from 0 to 1 (Wang and Zhu, 2022). The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998). The coding of *Gavinia syntrips* is changed from 0 to 1 (Long, 1999). The coding of *Uranolophus wyomingensis* is changed from 0 to 1 (Denison, 1968 Figs. 20, 25)
 
 41. Relationship of crown and base of isolated trunk scale: (0) crown fully covering the base; (1) crown sitting on the bony base, with an exposed depressed field overlapped by adjacent scale in articulation.
 
@@ -210,7 +213,7 @@
 
 > Giles *et al*. (2015), Character 22; Choo *et al*. (2017), Character 262; King *et al*. (2017), Character 494; Castiello (2018), Character 483; Zhu Y. *et al*. (2022), Character 43; Brazeau *et al*. (2023), Character 499.
 
-> The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
+> - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
 
 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
 
@@ -220,7 +223,7 @@
 
 > Coates *et al*. (2018), Character 16; Zhu Y. *et al*. (2022), Character 45.
 
-> The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998 Fig. 6).
+> - The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998 Fig. 6).
 
 45. Keel of scale: (0) absent; (1) present.
 
@@ -230,7 +233,7 @@
 
 > Cui *et al*. (2019), Character 344; Zhu Y. *et al*. (2022), Character 47.
 
-> The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972). The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972).
+> - The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972). The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972).
 
 47. Anteroventral process of scale: (0) absent; (1) present.
 
@@ -244,9 +247,9 @@
 
 > Zhu  *et al*. (2009, Character 140), and references therein; Zhu *et al*. (2013), Character 144; Giles *et al*. (2015), Character 20; Choo *et al*. (2017), Character 139; King *et al*. (2017), Character 493; Castiello (2018), Character 482; Zhu Y. *et al*. (2022), Character 50; Brazeau *et al*. (2023), Character 498.
 
-> The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data.
+> - The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data (Cui et al., 2023).
 
-> Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles  *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
+> - Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles  *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
 
 50. Anterodorsal process and peg: (0) separated; (1) confluent.
 
@@ -286,7 +289,7 @@
 
 > Davis *et al*. (2012), Character 18; Choo *et al*. (2017), Character 17; King *et al*. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. *et al*. (2022), Character 59; Brazeau *et al*. (2023), Character 155.
 
-> Score changed from 0 to 1 for *Kawichthys*.
+> - Score changed from 0 to 1 for *Kawichthys*.
 
 59. Tesserae morphology: (0) large interlocking polygonal plates: (1)  microsquamose, not larger than body tesserae.
 
@@ -323,7 +326,7 @@
 67. Median fields: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 223; Castiello (2018), Character 222; Zhu Y. *et al*. (2022), Character 68; Brazeau *et al*. (2023), Character 228.
-> 
+
 68. Median field separation from pineal plate or foramen: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 224; Castiello (2018), Character 223; Zhu Y. *et al*. (2022), Character 69; Brazeau *et al*. (2023), Character 229.
@@ -375,8 +378,8 @@
 80. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81.
->
-> Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+
+> - Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
 81. Postnuchal plates: (0) absent; (1) present.
 
@@ -412,7 +415,7 @@
 
 > Zhu *et al*. (2016), Character 342; King *et al*. (2017), Character 247; Castiello (2018), Character 246; Zhu Y. *et al*. (2021), Character 311; Zhu Y. *et al*. (2022), Character 89; Brazeau *et al*. (2023), Character 252.
 
-> Score changed from 0 to 1 for *Minicrania lirouyii* (Zhu and Janvier, 1996).
+> - Score changed from 0 to 1 for *Minicrania lirouyii* (Zhu and Janvier, 1996).
 
 89. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
 
@@ -484,7 +487,7 @@
 
 > King *et al*. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. *et al*. (2022), Character 106; Brazeau *et al*. (2023), Character 281.
 
-> *Buchanosteus confertituberculatus* is coded 1 (Young, 1979).
+> - *Buchanosteus confertituberculatus* is coded 1 (Young, 1979).
 
 106. Accessory operculum: (0) absent; (1) present.
 
@@ -541,13 +544,13 @@
 
 > Zhu  *et al*. (2009, Character 3), and references therein; Zhu *et al*. (2013), Character 150; Choo *et al*. (2017), Character 161; King *et al*. (2017), Character 179; Castiello (2018), Character 176; Zhu Y. *et al*. (2022), Character 120; Brazeau *et al*. (2023), Character 185.
 
-> The condition in placoderms is coded 'unavailability', although the 'postnasal plate' is likely to be equivalent of the nasal in osteichthyans. The coding for *Cheirolepis* was changed to '1', following Coates *et al*. (2018, Character 29). Unlike Coates *et al*. (2018), the coding for *Mimipiscis* and *Moythomasia* was retained as '1'.
+> - The condition in placoderms is coded 'unavailability', although the 'postnasal plate' is likely to be equivalent of the nasal in osteichthyans. The coding for *Cheirolepis* was changed to '1', following Coates *et al*. (2018, Character 29). Unlike Coates *et al*. (2018), the coding for *Mimipiscis* and *Moythomasia* was retained as '1'.
 
 120. Dermintermedial process: (0) absent; (1) present; Brazeau *et al*. (2023), Character 186.
 
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121.
 
-> The process seems present in *Ligulalepis*. The presence should be a plesiomorphy for osteichthyans.
+> - The process seems present in *Ligulalepis*. The presence should be a plesiomorphy for osteichthyans.
 
 121. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
@@ -601,13 +604,13 @@
 
 > Giles *et al*. (2015), Character 42; Choo *et al*. (2017), Character 270; King *et al*. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. *et al*. (2021), Character 41; Zhu Y. *et al*. (2022), Character 134; Brazeau *et al*. (2023), Character 213.
 
-> Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character. (Giles *et al*., 2015)
+> - Giles *et al*. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
 
 134. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
 > Dennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Brazeau *et al*. (2023), Character 214.
 
-> Giles *et al*. (2015): "This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans."
+> - Giles *et al*. (2015): "This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans."
 
 135. Parietals (preorbitals of placoderms): (0) absent; (1) present.
 
@@ -689,7 +692,7 @@
 
 > Zhu Y. *et al*. (2022), Character 155.
 
-> Zhu Y. *et al*. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive *et al*., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
+> - Zhu Y. *et al*. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive *et al*., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
 
 155. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
@@ -707,7 +710,7 @@
 
 > Lu *et al*. (2017), Character 238; Choo *et al*. (2017), Character 325; Castiello (2018), Character 185; Zhu Y. *et al*. (2022), Character 159.
 
-> Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu *et al*. (2016) to be one of the key character uniting actinopterygians."
+> - Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu *et al*. (2016) to be one of the key character uniting actinopterygians."
 
 159. Extratemporal: absent (0), present (1).
 
@@ -839,13 +842,13 @@
 
 > King *et al*. (2017), Character 308; Castiello (2018), Character 300; Zhu Y. *et al*. (2022), Character 190; Brazeau *et al*. (2023), Character 313.
 
-> In the present dataset, the character is only present in *Wenshanaspis*.
+> - In the present dataset, the character is only present in *Wenshanaspis*.
 
 190. Median dorsal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 310; Castiello (2018), Character 301; Zhu Y. *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 315.
 
-> Score changed from 0/1 to 1 for *Eugaleaspis changi*; 0 to ? for *Shuyu zhejiangensis*.
+> - Score changed from 0/1 to 1 for *Eugaleaspis changi*; 0 to ? for *Shuyu zhejiangensis*.
 
 191. Infraorbital and otic sensory line grooves run along mesial margin of marginal plate: (0) no; (1) yes.
 
@@ -860,7 +863,6 @@
 193. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 319.
-
 
 194. Preopercular canal: (0) absent; (1) present.
 
@@ -882,7 +884,7 @@
 
 > King *et al*. (2017), Character 321; Castiello (2018), Character 313; Zhu Y. *et al*. (2022), Character 199; Brazeau *et al*. (2023), Character 326.
 
-> In the present dataset, the character is only present in *Entelognathus*.
+> - In the present dataset, the character is only present in *Entelognathus*.
 
 199. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
@@ -970,7 +972,7 @@
 
 > Zhu *et al*. (2001), Character 54; Zhu & Yu (2001), Character 54; Friedman (2007), Character 48; Giles *et al*. (2015), Character 56; Choo *et al*. (2017), Character 280; King *et al*. (2017), Character 216; Castiello (2018), Character 215; Zhu Y. *et al*. (2021), Character 54; Zhu Y. *et al*. (2022), Character 220; Brazeau *et al*. (2023), Character 221.
 
-> This character applies only to the subset of sarcopterygians with subdivided cheek plates. In onychodonts (Andrews *et al*., 2006), porolepiforms (Jarvik, 1972), and coelacanths (Forey, 1998), the preopercular assumes a plate-like morphology. By contrast, tetrapodomorphs bear a bar-shaped preopercular bone (Jarvik, 1980; Long *et al*., 1997). (Giles *et al*., 2015)
+> - Giles *et al*. (2015): "This character applies only to the subset of sarcopterygians with subdivided cheek plates. In onychodonts (Andrews *et al*., 2006), porolepiforms (Jarvik, 1972), and coelacanths (Forey, 1998), the preopercular assumes a plate-like morphology. By contrast, tetrapodomorphs bear a bar-shaped preopercular bone (Jarvik, 1980; Long *et al*., 1997)."
 
 220. Preoperculosubmandibular: (0) absent; (1) present.
 
