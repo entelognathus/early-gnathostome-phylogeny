@@ -319,9 +319,9 @@
 
 > King *et al*. (2017), Character 221; Castiello (2018), Character 220; Zhu Y. *et al*. (2022), Character 66; Brazeau *et al*. (2023), Character 226.
 
-66. Lateral fields extend onto cornua: (0) absent; (1) present; Brazeau *et al*. (2023), Character 227.
+66. Lateral fields extend onto cornua: (0) absent; (1) present;
 
-> King *et al*. (2017), Character 222; Castiello (2018), Character 221; Zhu Y. *et al*. (2022), Character 67.
+> King *et al*. (2017), Character 222; Castiello (2018), Character 221; Zhu Y. *et al*. (2022), Character 67; Brazeau *et al*. (2023), Character 227..
 
 67. Median fields: (0) absent; (1) present.
 
