@@ -2989,7 +2989,9 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
 
-> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016). 
+> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
+
+> Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
 
 697. Cancellous central layerr: (0) absent; (1) present.
 
