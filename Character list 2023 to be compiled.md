@@ -3058,9 +3058,7 @@ This character is scored contingently on the state of the previous character. *D
 
 700.~~Para-articular process of dermal neck joint: (0) absent; (1) present.~~
 
-> Young, 1978; Brazeau *et al*. (2023), Character 179.
-
-> The definition of this character should be clarified.
+> ~~Young, 1978; Brazeau *et al*. (2023), Character 179.~~
 
 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
@@ -3144,7 +3142,7 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 711. ~~Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows.~~
 
-> Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
+> ~~Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.~~
 
 712. Submandibulars: (0) absent; (1) present.
 
