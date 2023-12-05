@@ -596,7 +596,7 @@ This character is scored contingently on the state of the previous character. *D
 
 132. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: (0) absent; (1) present.
 
-> Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133.
+> Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133; Brazeau *et al*. (2023), Character 194.
 
 133. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones.
 
@@ -3066,9 +3066,9 @@ This character is scored contingently on the state of the previous character. *D
 
 > Brazeau *et al*. (2023), Character 180.
 
-702. Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.
+702. ~~Complete enclosure of spiracle by skull roof bones: (0) absent; (1) present.~~
 
-> King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.
+> ~~King *et al*. (2016), Character 188; Castiello (2018), Character 186; Brazeau *et al*. (2023), Character 194.~~
 
 703. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
