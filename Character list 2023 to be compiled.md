@@ -8,7 +8,7 @@
 
 > Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1.
 
-> Maisey, JG, Denton, JSS, Burrow, C, Pradel, A. 2021. Journal of Fish Biology 15: 37-23.
+> - Maisey, JG, Denton, JSS, Burrow, C, Pradel, A. 2021. Journal of Fish Biology 15: 37-23.
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
@@ -26,15 +26,15 @@
 
 > Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Brazeau *et al*. (2023), Character 4.
 
-> Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
+> - Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
 > Donoghue *et al*. (2000); King *et al*. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. *et al*. (2022), Character 6; Brazeau *et al*. (2023), Character 6.
 
-> Brazeau *et al*. (2023): "This character is problematic because the "absence" state could refer to anything from the total absence of exoskeletal ossification to the absence of any one of the three possible layers."
+> - Brazeau *et al*. (2023): "This character is problematic because the "absence" state could refer to anything from the total absence of exoskeletal ossification to the absence of any one of the three possible layers."
 
-> Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
+> - Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
@@ -113,9 +113,9 @@
 
 > Burrow & Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Choo *et al*. (2017), Character 259. King *et al*. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 14.
 
-> Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
+> - Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
 
-> Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016).
+> - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016).
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
@@ -127,14 +127,13 @@
 
 > Brazeau (2009), Character 7; Davis *et al*. (2012), Character 7; Giles *et al*. (2015), Character 13; Choo *et al*. (2017), Character 6; Zhu Y. *et al*. (2022), Character 27.
 
-> Giles *et al*. (2015):" The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. Acanthodians and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-and-socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-shaped scales in osteichthyans. *Poracanthodes* is changed to '?' because fin webs do not appear to be preserved in articulated specimens (Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1' (pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP 41495. *Campbellodus* scored '?'."
+> - Giles *et al*. (2015):" The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. Acanthodians and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-and-socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-shaped scales in osteichthyans. *Poracanthodes* is changed to '?' because fin webs do not appear to be preserved in articulated specimens (Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1' (pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP 41495. *Campbellodus* scored '?'."
 
 28. Differentiated lepidotrichia: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 14; Choo *et al*. (2017), Character 261; King *et al*. (2017), Character 469; Castiello (2018), Character 458; Zhu Y. *et al*. (2022), Character 28; Brazeau *et al*. (2023), Character 474.
 
-> Giles *et al*. (2015): "Refers to the distinct rectangular shape of the aligned lepidotrichia-like scales. 
-This character is scored contingently on the state of the previous character. *Dialipina* is coded '0' (uncatalogued specimen, Musem für Naturkunde, Berlin)."
+> - Giles *et al*. (2015): "Refers to the distinct rectangular shape of the aligned lepidotrichia-like scales. This character is scored contingently on the state of the previous character. *Dialipina* is coded '0' (uncatalogued specimen, Musem für Naturkunde, Berlin)."
 
 29. Epichordal lepidotrichia in caudal fin: (0) absent; (1) present.
 
