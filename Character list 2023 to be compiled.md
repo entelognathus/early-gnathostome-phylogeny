@@ -164,7 +164,7 @@ This character is scored contingently on the state of the previous character. *D
 
 > Coates *et al*. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
 
-> *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*. in review).
+> *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*., 2023).
 
 35. Body scale growth concentric: (0) absent; (1) present.
 
@@ -1151,7 +1151,7 @@ This character is scored contingently on the state of the previous character. *D
 
 > Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto* （Character 262) and the the premaxilla *sensu stricto* (Character 694).
+> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
 
 263. Tooth-bearing median rostral: (0) absent; (1) present.
 
@@ -2785,14 +2785,15 @@ This character is scored contingently on the state of the previous character. *D
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Brazeau *et al*. (2023), Character 455.
 
-> The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., in review).
+> The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
 
 651. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
 > Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Brazeau *et al*. (2023), Character 481.
 
 > Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
-> The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., in review).
+
+> The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
 
 652. Basal plate in dorsal fin: (0) absent; (1) present.
 
@@ -2813,7 +2814,8 @@ This character is scored contingently on the state of the previous character. *D
 656. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658.
-> The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., in review).
+
+> The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., 2023).
 
 657. Anal fin: (0) absent; (1) present.
 
