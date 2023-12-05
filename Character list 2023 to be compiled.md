@@ -3136,9 +3136,11 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > Brazeau *et al*. (2023), Character 316.
 
-710. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
+710. ~~Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.~~
 
 > Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Brazeau *et al*. (2023), Character 338.
+
+> This character is removed as it is a compound character overlapping some above-used characters. 
 
 711. ~~Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows.~~
 
