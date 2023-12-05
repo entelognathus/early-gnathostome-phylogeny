@@ -1275,9 +1275,11 @@ This character is scored contingently on the state of the previous character. *D
 
 292. Dentition on coronoids (sensu lato): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
-> Zhu *et al*. (2001), Zhu and Yu (2002), Character 70; Friedman (2007), Character 58; Zhu *et al*., 2009, Character 95; Zhu *et al*. (2013), Character 203; King *et al*. (2017), Character 348; Castiello (2018), Character 340; Zhu Y. *et al*. (2022), Character 293.
+> Zhu *et al*. (2001), Zhu and Yu (2002), Character 70; Friedman (2007), Character 58; Zhu *et al*., 2009, Character 95; Zhu *et al*. (2013), Character 203; King *et al*. (2017), Character 348; Castiello (2018), Character 340; Zhu Y. *et al*. (2022), Character 293; Brazeau *et al*. (2023), Character 353.
 
 > This refers to the coronoids (sensu lato).
+
+> Also formulated as "Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows."
 
 293. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
@@ -1541,6 +1543,7 @@ This character is scored contingently on the state of the previous character. *D
 356. Basihyal: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
+
 357. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358.
@@ -1601,15 +1604,11 @@ This character is scored contingently on the state of the previous character. *D
 
 > Janvier (1996), and references therein; Davis *et al*. (2012), Character 61; Choo *et al*. (2017), Character 60; King *et al*. (2017), Character 25; Castiello (2018), Character 25; Zhu Y. *et al*. (2022), Character 371; Brazeau *et al*. (2023), Character 28.
 
-371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissrue): (0) absent; (1) present.
+371. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissure): (0) absent; (1) present.
 
 > DUPRET255; Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372; Brazeau *et al*. (2023), Character 77.
 
 > Brazeau *et al*. (2023) "Optic fissure: (0) present; (1) absent."
-
-> Castiello (2018), Character 75.
-
-This character need to be removed because it is duplicate with Character 371.
 
 372. Ventral cranial fissure: (0) absent; (1) present.
 
@@ -2426,9 +2425,11 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564.
 
-563. Lateral ridges on skull roof laterally defines the articulation: (0) absent; (1) present.
+563. Lateral ridges on skull roof laterally defining the articulation: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565.
+> Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179.
+
+> Brazeau *et al*. (2023): Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) to code it 'absent' in arthrodires.
 
 564. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
@@ -3055,7 +3056,7 @@ This character need to be removed because it is duplicate with Character 371.
 
 > Related with Zhu *et al*. (2013), Character 169; overlaps Characters 558 - 562 here.
 
-700. __Para-articular process of dermal neck joint: (0) absent; (1) present.__
+700.~~Para-articular process of dermal neck joint: (0) absent; (1) present.~~
 
 > Young, 1978; Brazeau *et al*. (2023), Character 179.
 
@@ -3141,7 +3142,7 @@ Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castie
 
 > Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Brazeau *et al*. (2023), Character 338.
 
-711. Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows
+711. ~~Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows.~~
 
 > Zhu *et al*. (2013), Character 203; King *et al*. (2016), Character 348; Castiello (2018), Character 340; Brazeau *et al*. (2023), Character 353.
 
