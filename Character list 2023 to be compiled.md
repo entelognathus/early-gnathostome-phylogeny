@@ -682,7 +682,7 @@
 
 152. Lateral plate: (0) absent; (1) present.
 
-> Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153; Brazeau *et al*. (2023), Character 191; Brazeau *et al*. (2023), Character 157.
+> Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153; Brazeau *et al*. (2023), Character 191.
 
 153. Paranuchal number: (0) one pair; (1) two pairs.
 
