@@ -1680,6 +1680,7 @@
 387. Ethmoid region elongate with dorsoventrally deep lateral walls: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 73; Choo *et al*. (2017), Character 72. King *et al*. (2017), Character 36; Castiello (2018), Character 36; Zhu Y. *et al*. (2022), Character 388; Brazeau *et al*. (2023), Character 39.
+
 388. Ethmoid articulation for palatoquadrate: (0) placed on postnasal wall; (1) extends posteriorly to the level of N.II.
 
 > Zhu  *et al*. (2009, Character 35), and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389; Brazeau *et al*. (2023), Character 76.
@@ -1862,7 +1863,7 @@
 
 > Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 64; Choo *et al*. (2017), Character 63; King *et al*. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. *et al*. (2022), Character 431; Brazeau *et al*. (2023), Character 31.
 
-431. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present; Brazeau *et al*. (2023), Character 106.
+431. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present
 
 > Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 65; Choo *et al*. (2017), Character 64; King *et al*. (2017), Character 29; Castiello (2018), Character 28; Zhu Y. *et al*. (2022), Character 432; Brazeau *et al*. (2023), Character 32.
 
@@ -2209,6 +2210,7 @@
 511. Rostral processes: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. *et al*. (2022), Character 513; Brazeau *et al*. (2023), Character 103.
+
 512. Median rostral dorsal process of the braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 100; Castiello (2018), Character 103; Zhu Y. *et al*. (2022), Character 514; Brazeau *et al*. (2023), Character 105.
@@ -2362,9 +2364,9 @@
 
 > Choo *et al*. (2017), Character 95; Coates *et al*. (2018), Character 204; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 550; Brazeau *et al*. (2023), Character 61.
 
-549. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present; Brazeau *et al*. (2023), Character 89.
+549. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 167; Choo *et al*. (2017), Character 303;  King *et al*. (2017), Character 85; Castiello (2018), Character 87; Zhu Y. *et al*. (2022), Character 551.
+> Giles *et al*. (2015), Character 167; Choo *et al*. (2017), Character 303;  King *et al*. (2017), Character 85; Castiello (2018), Character 87; Zhu Y. *et al*. (2022), Character 551; Brazeau *et al*. (2023), Character 89.
 
 > Giles *et al*. (2015): "The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-thoracic joint. A complete account of the craniospinal process is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
@@ -2612,9 +2614,9 @@
 
 > King *et al*. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. *et al*. (2022), Character 609; Brazeau *et al*. (2023), Character 485.
 
-608. Intermediate spines with finlets: (0) absent; (1) present; Brazeau *et al*. (2023), Character 486.
+608. Intermediate spines with finlets: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. *et al*. (2022), Character 610.
+> King *et al*. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. *et al*. (2022), Character 610; Brazeau *et al*. (2023), Character 486.
 
 609. Median ventral prepectoral spine: (0) absent; (1) present.
 
