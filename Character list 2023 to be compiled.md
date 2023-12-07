@@ -1544,7 +1544,12 @@
 
 356. Basihyal: (0) absent; (1) present.
 
-> Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
+> Davis *et al*. (2012), Character 37; Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
+
+> - **check state formualation in DFC37**, error in later datasets?
+> - Davis *et al*. (2012): "Basihyal, present (0); absent, hyoid arch articulates directly with basibranchial (1). Basihyals are known in chondrichthyans (Zangerl & Case 1976; Didier 1995; Grogan & Lund 2000: the glossohyal reported in *Debeerius* is indistinguishable from a basihyal) and placoderms (Ritchie 2005; Long 1997). Direct articulation between the hyoid arch and one or more basibranchials (where a basihyal is absent) occurs in *Acanthodes* and osteichthyans (Nelson 1968; Miles 1973b; Gardiner 1984: alternative reconstructions of *Acanthodes* gill arches consistently show no basihyal). The polarity of this character is questionable, given the poverty of branchial arch data in early gnathostomes. Friedman & Brazeau (2010) discuss hypohyal presence as a possible osteichthyan synapomorphy, but predetermine the hypohyals of *Debeerius* (Grogan & Lund 2000) as independently derived, and offer no comment on the hypohyal of *Cobelodus* (Zangerl & Case 1976). *Acanthodes* lacks a hypohyal."
+>
+> - Brazeau *et al*. (2023): present (0) for *Acanthodes*.
 
 357. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
