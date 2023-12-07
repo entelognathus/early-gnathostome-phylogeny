@@ -97,7 +97,7 @@
 
 > Zhu Y. *et al*. (2021), Character 17; Zhu Y. *et al*. (2022), Character 21.
 
-> Score changed from 1 to -- for Galeaspida, from 2 to -- for *Eusthenopteron*.
+> - Score changed from 1 to '-' for Galeaspida, from 2 to '-' for *Eusthenopteron*.
 
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal.
 
@@ -796,7 +796,7 @@
 
 > Long *et al*. (2015), Character 256; Choo *et al*. (2017), Character 248; King *et al*. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. *et al*. (2022), Character 180; Brazeau *et al*. (2023), Character 305.
 
-> Zhu Y. *et al*. (2022): "The character "median commissure between supraorbital sensory lines: (0) absent; (1) present" (Choo *et al*., 2017, Character 272; Giles *et al*., 2015c, Character 45) is deleted due to its overlap with the current state 2."
+> - Zhu Y. *et al*. (2022): "The character "median commissure between supraorbital sensory lines: (0) absent; (1) present" (Choo *et al*., 2017, Character 272; Giles *et al*., 2015c, Character 45) is deleted due to its overlap with the current state 2."
 
 180. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
@@ -836,7 +836,7 @@
 
 > King *et al*. (2017), Character 306; Castiello (2018), Character 298; Zhu Y. *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 311.
 
-> In the present dataset, the character is only present in *Wenshanaspis*.
+> - In the present dataset, the character is only present in *Wenshanaspis*.
 
 189. Branching end of lateral transverse canals: (0) absent; (1) present.
 
@@ -858,7 +858,7 @@
 
 > King *et al*. (2017), Character 313; Castiello (2018), Character 304; Zhu Y. *et al*. (2022), Character 193; Brazeau *et al*. (2023), Character 318.
 
-> In the present dataset, the character is only present in *Bothriolepis*.
+> - In the present dataset, the character is only present in *Bothriolepis*.
 
 193. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
@@ -962,7 +962,7 @@
 
 > Giles *et al*. (2015), Character 54; Choo *et al*. (2017), Character 278; King *et al*. (2017), Character 214; Castiello (2018), Character 213; Zhu Y. *et al*. (2021), Character 52; Zhu Y. *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 219.
 
-> Giles *et al*. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State \'0\' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.” 
+> - Giles *et al*. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State \'0\' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.” 
 
 218. Subsquamosals in taxa with divided cheek: (0) absent; (1) present.
 
@@ -1066,7 +1066,7 @@
 
 > Hanke & Wilson (2004); Brazeau (2009), Character 46; Davis *et al*. (2012), Character 43; Choo *et al*. (2017), Character 42; King *et al*. (2017), Character 331; Castiello (2018), Character 323; Zhu Y. *et al*. (2022), Character 242.
 
-> Hanke & Wilson (2004): Character 13 - Dentigerous jaw element on Meckel's cartilage; Character 14 - Dentigerous jaw element on palatoquarate. In *Ischnacanthus gracilis*.
+> - Hanke & Wilson (2004): Character 13 - Dentigerous jaw element on Meckel's cartilage; Character 14 - Dentigerous jaw element on palatoquarate. In *Ischnacanthus gracilis*.
 
 242. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
@@ -1152,7 +1152,7 @@
 
 > Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
+> - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
 
 263. Tooth-bearing median rostral: (0) absent; (1) present.
 
@@ -1262,7 +1262,7 @@
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290; Brazeau *et al*. (2023), Character 387.
 
-> We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 495 (coronoids sensu stricto).
+> - We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 495 (coronoids sensu stricto).
 
 290. Number of coronoids (sensu lato): (0) more than three; (1) three.
 
@@ -1382,7 +1382,7 @@
 
 > Coates *et al*. (2018), Character 86; Zhu Y. *et al*. (2022), Character 318.
 
-> Score changed from 0 (Coates *et al*., 2018) to - for *Austroptyctodus*, *Campbellodus* and *Rhamphodopsis*.
+> - Score changed from 0 (Coates *et al*., 2018) to - for *Austroptyctodus*, *Campbellodus* and *Rhamphodopsis*.
 
 318. Toothplate complement restricted to two pairs in the upper jaw and a single pair in the lower jaw: (0) absent; (1) present.
 
@@ -1521,6 +1521,7 @@
 350. Number of branchial fossae: (0) 5-7; (1) 9-17; (2) more than 20.
 
 > King *et al*. (2017), Character 147; Castiello (2018), Character 146; Zhu Y. *et al*. (2022), Character 351; Brazeau *et al*. (2023), Character 151.
+
 351. Basibranchial elements: (0) unpaired; (1) paired.
 
 > King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352; Brazeau *et al*. (2023), Character 152.
@@ -1553,7 +1554,7 @@
 
 > Pradel *et al*. (2014); Choo *et al*. (2017), Character 36; Coates *et al*. (2018), Character 71; Dearden *et al*. (2019), Character 73; Zhu Y. *et al*. (2022), Character 359.
 
-> This character formulation (Dearsen *et al*., 2019) is modified from Coates *et al*. (2018): Basihyal absent/present.
+> - This character formulation (Dearsen *et al*., 2019) is modified from Coates *et al*. (2018): Basihyal absent/present.
 
 359. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 
@@ -1615,9 +1616,9 @@
 
 > Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis *et al*. (2012), Character 96; Giles *et al*. (2015), Character 168; Choo *et al*. (2017), Character 92. King *et al*. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. *et al*. (2022), Character 373; Brazeau *et al*. (2023), Character 58.
 
-> Davis *et al*. (2012): Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1.
+> - Davis *et al*. (2012): "Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1."
 
-> Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
+> - Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
 
 373. Metotic (otic-occipital) fissure: (0) absent; (1) present.
 
@@ -1799,7 +1800,7 @@
 
 > Giles *et al*. (2015), Character 132; Choo *et al*. (2017), Character 295; Coates *et al*. (2018), Character 165; King *et al*. (2017), Character 77; Castiello (2018), Character 79; Zhu Y. *et al*. (2021), Character 129; Zhu Y. *et al*. (2022), Character 417; Brazeau *et al*. (2023), Character 81.
 
-> Giles *et al*. (2015): "Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and *Entelegnathus*, where a bridge encloses the jugular vein: Yu 1998; Zhu *et al*. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu *et al*. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., *Macropetalichthys*) or where the palatoquadrate is fused to the neurocranium (e.g., *Helodus*) are coded as uncertain for this character."
+> - Giles *et al*. (2015): "Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and *Entelegnathus*, where a bridge encloses the jugular vein: Yu 1998; Zhu *et al*. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu *et al*. 2013). Rudimentary postorbital processes are present in the rhenanid Jagorina (Stensio 1969: fig. 90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs 20-21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g., *Macropetalichthys*) or where the palatoquadrate is fused to the neurocranium (e.g., *Helodus*) are coded as uncertain for this character."
 
 417. Elongated distance between postorbital process and the articulation for hyomandibular: (0) absent; (1) present.
 
@@ -1831,7 +1832,7 @@
 
 > Giles *et al*. (2015), Character 126; Choo *et al*. (2017), Character 294; King *et al*. (2017), Character 76; Castiello (2018), Character 78; Zhu Y. *et al*. (2022), Character 424; Brazeau *et al*. (2023), Character 80.
 
-> Giles *et al*. (2015)：“This character is modified from Davis *et al*. (2012), Character  characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
+> - Giles *et al*. (2015)：“This character is modified from Davis *et al*. (2012), Character  characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet (see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans (e.g. *Tamiobatis*, *Xenacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process (e.g. Schaeffer 1981: figs. 6, 21; Coates & Sequeira 1998: fig. 6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.” 
 
 424. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
@@ -1935,7 +1936,7 @@
 
 > Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 95; Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2021), Character 157; Zhu Y. *et al*. (2022), Character 448; Brazeau *et al*. (2023), Character 374.
 
-> Davis *et al*. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2022), Character 448.
+> - Davis *et al*. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2022), Character 448.
 
 > Character 450 of Zhu Y. *et al*. (2022) replicates this character, and is deleted herein.
 
@@ -1991,7 +1992,7 @@
 
 > Giles *et al*. (2015), Character 154; Choo *et al*. (2017), Character 299; King *et al*. (2017), Character 81; Castiello (2018), Character 83; Zhu Y. *et al*. (2022), Character 462; Brazeau *et al*. (2023), Character 85.
 
-> Giles *et al*. (2015)：“This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.”
+> - Giles *et al*. (2015)：“This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.”
 
 461. Crus commune connecting anterior and posterior semicircular canals: (0) present; (1) absent.
 
@@ -2137,13 +2138,13 @@
 
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009), Character 78; Pradel *et al*. (2011); Brazeau & Friedman (2014); Coates *et al*. (2017); Coates *et al*. (2018), Character 201; Choo *et al*. (2017), Character 77; King *et al*. (2017), Character 40; Castiello (2018), Character 40; Zhu Y. *et al*. (2022), Character 498; Brazeau *et al*. (2023), Character 43.
 
-> *Ellopetalichthys* is coded as "0" (Castiello *et al*., 2020).
+> - *Ellopetalichthys* is coded as "0" (Castiello *et al*., 2020).
 
-> Brazeau (2009): "From Coates and Sequeira (1998). While this character (enclosed dorsal aorta) is originally proposed as a synapomorphy of chondrichthyans, it is present in some placoderms. Certain early actinopterygians have an enclosed dorsal aorta and at least partially closed basicranial course for the lateral dorsal aortae (ref. 18, cf. fig 15). This may therefore be a gnathostome symplesiomorphy or simply highly variable."
+> - Brazeau (2009): "From Coates and Sequeira (1998). While this character (enclosed dorsal aorta) is originally proposed as a synapomorphy of chondrichthyans, it is present in some placoderms. Certain early actinopterygians have an enclosed dorsal aorta and at least partially closed basicranial course for the lateral dorsal aortae (ref. 18, cf. fig 15). This may therefore be a gnathostome symplesiomorphy or simply highly variable."
  
-> The character formulation in the attached nexus file ("Dorsal aorta canal in basicranium: (0) absent, (1) present") is slightly different from that in the text file of Coates *et al*. (2018), which is followed by the later datasets. Polarity was reversed in two usages. Based on their codings, the character formulation in the nexus file is incorrect.
+> - The character formulation in the attached nexus file ("Dorsal aorta canal in basicranium: (0) absent, (1) present") is slightly different from that in the text file of Coates *et al*. (2018), which is followed by the later datasets. Polarity was reversed in two usages. Based on their codings, the character formulation in the nexus file is incorrect.
 
-> The codings in *Squalus* spp., *Synechodus dubrisiensis*, and *Tribodus limae* are corrected as "0" (through basicranium). Finarelli & Coates (2014) stated that "it is not possible to determine whether this cartilage includes a canal for the dorsal aorta" in *Chondrenchelys problematica*. As such, Chondrenchelys is coded as "?". *Debeerius ellefseni* is also coded as "?" due to unknown anatomical information.
+> - The codings in *Squalus* spp., *Synechodus dubrisiensis*, and *Tribodus limae* are corrected as "0" (through basicranium). Finarelli & Coates (2014) stated that "it is not possible to determine whether this cartilage includes a canal for the dorsal aorta" in *Chondrenchelys problematica*. As such, Chondrenchelys is coded as "?". *Debeerius ellefseni* is also coded as "?" due to unknown anatomical information.
 
 497. Dorsal aorta divides into lateral dorsal aortae: (0) posterior to occipital level; (1) anterior to level of the occiput.
 
@@ -2155,13 +2156,13 @@
 
 > Schaeffer (1981); Coates & Sequeira (1998); Giles *et al*. (2015), Character 125; Choo *et al*. (2017), Character 293; King *et al*. (2017), Character 75; Castiello (2018), Character 77; Zhu Y. *et al*. (2022), Character 500; Brazeau *et al*. (2023), Character 79.
 
-> Giles *et al*. (2015)：“This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164.” 
+> - Giles *et al*. (2015)：“This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164.” 
 
 499. Subcranial ridges: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 141; Choo *et al*. (2017), Character 298; King *et al*. (2017), Character 80; Castiello (2018), Character 82; Zhu Y. *et al*. (2022), Character 501; Brazeau *et al*. (2023), Character 84.
 
-> Giles *et al*. (2015)：“Subcranial ridges were first described in *Doliodus* by Maisey *et al*. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and *Mimipiscis* (Gardiner, 1984: fig. 50), where they greatly reduced in length.”
+> - Giles *et al*. (2015)：“Subcranial ridges were first described in *Doliodus* by Maisey *et al*. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young, 2001), and *Mimipiscis* (Gardiner, 1984: fig. 50), where they greatly reduced in length.”
 
 500. Synotic tectum: (0) absent; (1) present.
 
@@ -2219,7 +2220,7 @@
 
 > King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110; Brazeau *et al*. (2023), Character 110.
 
-> Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
+> - Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
 
 514. Rostral organ: (0) absent; (1) present.
 
@@ -2304,7 +2305,7 @@
 
 > Giles *et al*. (2015), Character 166; Choo *et al*. (2017), Character 302; King *et al*. (2017), Character 84; Castiello (2018), Character 86; Zhu Y. *et al*. (2022), Character 536; Brazeau *et al*. (2023), Character 88.
 
-> Giles *et al*. (2015): "Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
+> - Giles *et al*. (2015): "Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
 535. Periotic process: (0) absent; (1) present.
 
@@ -2330,7 +2331,7 @@
 
 > Coates *et al*. (2018), Character 168; Zhu Y. *et al*. (2022), Character 542.
 
-> Coates *et al*. (2018): "Long recognized as a characteristic feature of neoselachian crania (Maisey 1983), this condition is also present in *Acronemus* (Maisey 2011), but not *Tristychius* (Coates & Tietjen in press)." In the attached nexus file of Coates *et al*. (2018), Character 168 is described as "labyrinths separated or meet dorsallly". The codings for *Acronemus* and *Tristychius* follow the comments of Coates *et al*. (2018).
+> - Coates *et al*. (2018): "Long recognized as a characteristic feature of neoselachian crania (Maisey 1983), this condition is also present in *Acronemus* (Maisey 2011), but not *Tristychius* (Coates & Tietjen in press)." In the attached nexus file of Coates *et al*. (2018), Character 168 is described as "labyrinths separated or meet dorsallly". The codings for *Acronemus* and *Tristychius* follow the comments of Coates *et al*. (2018).
 
 541. Endocranial roof anterior to otic capsules domelike, smoothly convex dorsally and anteriorly: (0) absent; (1) present.
 
@@ -2368,9 +2369,9 @@
 
 > Giles *et al*. (2015), Character 167; Choo *et al*. (2017), Character 303;  King *et al*. (2017), Character 85; Castiello (2018), Character 87; Zhu Y. *et al*. (2022), Character 551; Brazeau *et al*. (2023), Character 89.
 
-> Giles *et al*. (2015): "The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-thoracic joint. A complete account of the craniospinal process is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
+> - Giles *et al*. (2015): "The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-thoracic joint. A complete account of the craniospinal process is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
-> Giles *et al*. (2015): "Craniospinal process: large process extending from the posterolateral corner of the braincase, bearing a distinct craniospinal ridge, and defining the posterior margin of the embayment identified by Young (1980) as the cuccularis fossa. In many ‘placoderms’, this endoskeletal process is intimately associated with the dermal craniothoracic joint (e.g. Buchanosteus; Young 1979: fig. 2). A more modest posterolateral extension of the occipital arch, immediately posterior to the metotic fissure, is present in some early actinopterygians (e.g. Mimipiscis; Gardiner 1984: fig. 2, ‘crsp’) and has also been termed a craniospinal process (first by Nielsen 1942). A low prominence is present in a comparable location in Acanthodes (Miles 1973: pl. 5A, ‘pao.p’; Davis *et al*. 2012: supp. fig. 9, ‘Pao.p’), but is not nearly as well-developed as the actinopterygian or ‘placoderm’ craniospinal processes, being hardly noticeable in revised reconstructions (Davis *et al*. 2012 supp. fig. 15). Miles (1977: 55) drew parallels between transverse occipital processes in lungfishes in actinopterygian craniospinal processes, but remained circumspect concerning their possible homology. Gardiner (1984: 190) regarded the dipnoan and actinopterygian processes as non-homologous.  Despite  similarities  in  orientation  and  position,  the  relationship  between  the craniospinal processes of ‘placoderms’ and actinopterygians is obscure. What is clear is that the craniospinal processes of actinopterygians are proportionally smaller than, and in some ways structurally distinct from, the processes of the same name in ‘placoderms’. However,  we  are  not  confident  that  their  homology  can  be  rejected  a  priori.  We therefore consider these processes primary homologues, with this hypothesis subject to testing  through  congruence.  This  mirrors  the  strategy  applied  above  for  lateral otic/transverse  otic  processes.  Based  on  mapped  character  distributions,  our  analysis rejects  homology  between  the  craniospinal  processes  of  actinopterygians  and ‘placoderms’  (Extended  Data  Figure  7m;  cf.  optimizations  shown  in  Supplementary Figure 1)."
+> - Giles *et al*. (2015): "Craniospinal process: large process extending from the posterolateral corner of the braincase, bearing a distinct craniospinal ridge, and defining the posterior margin of the embayment identified by Young (1980) as the cuccularis fossa. In many ‘placoderms’, this endoskeletal process is intimately associated with the dermal craniothoracic joint (e.g. Buchanosteus; Young 1979: fig. 2). A more modest posterolateral extension of the occipital arch, immediately posterior to the metotic fissure, is present in some early actinopterygians (e.g. Mimipiscis; Gardiner 1984: fig. 2, ‘crsp’) and has also been termed a craniospinal process (first by Nielsen 1942). A low prominence is present in a comparable location in Acanthodes (Miles 1973: pl. 5A, ‘pao.p’; Davis *et al*. 2012: supp. fig. 9, ‘Pao.p’), but is not nearly as well-developed as the actinopterygian or ‘placoderm’ craniospinal processes, being hardly noticeable in revised reconstructions (Davis *et al*. 2012 supp. fig. 15). Miles (1977: 55) drew parallels between transverse occipital processes in lungfishes in actinopterygian craniospinal processes, but remained circumspect concerning their possible homology. Gardiner (1984: 190) regarded the dipnoan and actinopterygian processes as non-homologous.  Despite  similarities  in  orientation  and  position,  the  relationship  between  the craniospinal processes of ‘placoderms’ and actinopterygians is obscure. What is clear is that the craniospinal processes of actinopterygians are proportionally smaller than, and in some ways structurally distinct from, the processes of the same name in ‘placoderms’. However,  we  are  not  confident  that  their  homology  can  be  rejected  a  priori.  We therefore consider these processes primary homologues, with this hypothesis subject to testing  through  congruence.  This  mirrors  the  strategy  applied  above  for  lateral otic/transverse  otic  processes.  Based  on  mapped  character  distributions,  our  analysis rejects  homology  between  the  craniospinal  processes  of  actinopterygians  and ‘placoderms’  (Extended  Data  Figure  7m;  cf.  optimizations  shown  in  Supplementary Figure 1)."
 
 550. Parachordal shape: (0) forming a broad, flat surface as wide as the otic capsules; (1) mediolaterally constricted relative to the otic capsules.
 
@@ -2384,7 +2385,7 @@
 
 > Giles *et al*. (2015), Character 176; Choo *et al*. (2017), Character 304; King *et al*. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. *et al*. (2022), Character 554; Brazeau *et al*. (2023), Character 90.
 
->  Giles *et al*. (2015): "In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate."
+> - Giles *et al*. (2015): "In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate."
 
 553. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
@@ -2432,7 +2433,7 @@
 
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179.
 
-> Brazeau *et al*. (2023): Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires.
+> - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires."
 
 564. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
@@ -2546,7 +2547,7 @@
 
 > King *et al*. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. *et al*. (2022), Character 593; Brazeau *et al*. (2023), Character 444.
 
-> The original character state formulation was incorrect by comparison to their codings in the data set.
+> - The original character state formulation was incorrect by comparison to their codings in the data set.
 
 592. Posteriorly produced spine on MD plate: (0) absent; (1) present.
 
@@ -2662,7 +2663,7 @@
 
 > Giles *et al*. (2015), Character 190; Choo *et al*. (2017), Character 309; King *et al*. (2017), Character 413; Castiello (2018), Character 402; Zhu Y. *et al*. (2022), Character 621; Brazeau *et al*. (2023), Character 418.
 
-> This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
+> - This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
 
 620. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
@@ -2788,15 +2789,15 @@
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Brazeau *et al*. (2023), Character 455.
 
-> The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
+> - The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
 
 651. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
 > Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Brazeau *et al*. (2023), Character 481.
 
-> Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
+> - Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
 
-> The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
+> - The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
 
 652. Basal plate in dorsal fin: (0) absent; (1) present.
 
@@ -2818,7 +2819,7 @@
 
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658.
 
-> The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., 2023).
+> - The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., 2023).
 
 657. Anal fin: (0) absent; (1) present.
 
@@ -2882,7 +2883,7 @@
 
 > Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Brazeau *et al*. (2023), Character 471.
 
-> The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
+> - The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
 
 672. Pectoral fin spine: (0) absent; (1) present.
 
@@ -2892,7 +2893,7 @@
 
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Brazeau *et al*. (2023), Character 439.
 
-> The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
+> - The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
 
 674. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
@@ -2942,13 +2943,13 @@
 
 > Giles *et al*. (2015), Character 218; Choo *et al*. (2017), Character 315; King *et al*. (2017), Character 472; Castiello (2018), Character 461; Zhu Y. *et al*. (2022), Character 687; Brazeau *et al*. (2023), Character 477.
 
-> Early gnathostome fin spines have at least two distinctive profiles in cross-section. Generally, the profile is gently curving or parabolic. Taxa such as acanthodids and ischnacanthids exhibit a condition in which the cross-section is more rectangular, and the sides of the spine are flatter and closer to parallel (Denison, 1979; Gagnier & Wilson, 1996). (Giles *et al*., 2015)
+> - Giles *et al*. (2015): "Early gnathostome fin spines have at least two distinctive profiles in cross-section. Generally, the profile is gently curving or parabolic. Taxa such as acanthodids and ischnacanthids exhibit a condition in which the cross-section is more rectangular, and the sides of the spine are flatter and closer to parallel (Denison, 1979; Gagnier & Wilson, 1996)."
 
 686. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688; Brazeau *et al*. (2023), Character 479.
 
-> This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*. (Giles *et al*., 2015)
+> - This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*. (Giles *et al*., 2015)
 
 687. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
@@ -2984,32 +2985,32 @@
 
 > Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
+> - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
 
 695. Coronoids (sensu stricto): (0) absent, (1) present.
 
-> New character, see comments on Character 289.
+> - New character, see comments on Character 289.
 
 ## Included in Brazeau et al. (2023)
 696. Laminar basal layer: (0) absent; (1) present.
 
 > Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
 
-> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
+> - This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
 
-> Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
+> - Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
 
 697. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
 
-> See comments above.  
+> - See comments above.  
 
 698. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
 
-> See comments above.
+> - See comments above.
 
 699. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
@@ -3023,15 +3024,15 @@
 
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
-> Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
+> - Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
 702. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
 
-> Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
+> - Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
-> We consider it as an anatomical groove.
+> - We consider it as an anatomical groove.
 
 703. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
@@ -3057,13 +3058,13 @@
 
 > Brazeau *et al*. (2023), Character 392.
 
-> Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
+> - Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
 
 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
 
-> Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
+> - Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -3071,19 +3072,19 @@
 
 > Coates & Sequeira (date), Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
-> Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
+> - Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
 ~~711. Paravagal fossa: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
 
-> This character was removed by Castiello (2018) because it was related to the presence of a bifurcated vagal process (Castiello, 2016, Character 101; Character 510 here) and is thus redundant.
+> - This character was removed by Castiello (2018) because it was related to the presence of a bifurcated vagal process (Castiello, 2016, Character 101; Character 510 here) and is thus redundant.
 
 ~~712. Braincase is series of bilateral ossifications: (0) no; (1) yes.~~
 
 > King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
 
-> This character was removed by Castiello (2018) because of its ambiguous formulation
+> - This character was removed by Castiello (2018) because of its ambiguous formulation
 
 ~~713. Parachordal plates: (0) separated from otic capsule; (1) sutured or fused to otic capsule.~~
 
@@ -3091,25 +3092,25 @@
 
 > Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
-> This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 373 here) and is thus redundant.
+> - This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 373 here) and is thus redundant.
 
 ~~714. Hyomandibular articulating with braincase: (0) yes; (1) no.~~
 
 >  King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
 
-> This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77; Character 498 here) and is thus redundant.
+> - This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77; Character 498 here) and is thus redundant.
 
 ~~715. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.~~
 
 > King *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
 
-> This character was removed by Castiello (2018) as it was ambiguous whether the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
+> - This character was removed by Castiello (2018) as it was ambiguous whether the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
 ~~716. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid.~~
 
 > Brazeau *et al*. (2023), Character 178.
 
-> Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
+> - Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
 
 > Related with Zhu *et al*. (2013), Character 169; overlaps Characters 558 - 562 here.
 
@@ -3117,7 +3118,7 @@
 
 > Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
 
-> Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> - Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
 > This character need to be removed because it is redundant with Character 80 here.
 
@@ -3125,7 +3126,7 @@
 
 >  King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
 
->  Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as *Cowralepis*, *Eurycaraspis*, *Quasipetalichthys* and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in *Eurycaraspis* and *Quasipetalichtys*, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
+>  - Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as *Cowralepis*, *Eurycaraspis*, *Quasipetalichthys* and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in *Eurycaraspis* and *Quasipetalichtys*, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
 ~~719. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.~~
 
@@ -3137,13 +3138,13 @@
 
 > King *et al*. (2016), Character 309; Brazeau *et al*. (2023), Character 314.
 
-> Castiello (2018): "The "anterior supraorbital canal" in *Lunaspis* are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
+> - Castiello (2018): "The "anterior supraorbital canal" in *Lunaspis* are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
 
 ~~721. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.~~
 
 > Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Brazeau *et al*. (2023), Character 338.
 
-> This character is removed as it is a compound character overlapping some above-used characters. 
+> - This character is removed as it is a compound character overlapping some above-used characters. 
 
 ~~722.Scales: (0) macromeric; (1) micromeric.~~
      
