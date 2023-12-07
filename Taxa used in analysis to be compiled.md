@@ -20,6 +20,8 @@ New taxa and references added along with the research.
 
 *Asterolepis ornata*, upper Givetian (Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009)
 
+*Ateleaspis tessellata*
+
 *Austroptyctodus gardineri*, lower Frasnian, Upper Devonian (Long, 1997)
 
 *Bannhuanaspis vukhuci*, upper Lochkovian to lower Pragian, Lower Devonian (Janvier *et al*., 1993)
@@ -190,7 +192,7 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Kimaspis tienshanica*, Lochkovian, Lower Devonian (Mark-Kurik, 1973)
 
-*Kolymaspis sibirica,* Lochkovian, Lower Devonian (Bystrow, 1956)
+*Kolymaspis sibirica*, Lochkovian, Lower Devonian (Bystrow, 1956; Brazeau et al., 2023)
 
 *Kosoraspis peckai*, upper Lochkovian, Lower Devonian (Denison, 1978; Gross, 1959)
 
@@ -220,7 +222,9 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Minicrania lirouyii*, lower Lochkovian, Lower Devonian (Zhu and Janvier, 1996)
 
-*Nectaspis areolate*, Emsian, Lower Devonian (Janvier, 1981)
+*Minjinia turgenensis*, (Brazeau et al., 2022)
+
+*Nectaspis areolata*, Emsian, Lower Devonian (Janvier, 1981)
 
 *Moythomasia durgaringa*, lower Frasnian, Upper Devonian (Gardiner, 1984)
 
