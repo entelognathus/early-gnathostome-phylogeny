@@ -385,7 +385,7 @@
 
 > King *et al*. (2017), Character 239; Castiello (2018), Character 239; Zhu Y. *et al*. (2022), Character 82; Brazeau *et al*. (2023), Character 244.
 
-> Score changed from 1 to 0 for *Eurycaraspis*, 1 to ? for *Paucipetalichthys*, ? to 0 for *Qilinyu* as for antiarchs.
+> - Score changed from 1 to 0 for *Eurycaraspis*, 1 to ? for *Paucipetalichthys*, ? to 0 for *Qilinyu* as for antiarchs.
 
 82. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
