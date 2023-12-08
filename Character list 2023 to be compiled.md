@@ -2992,9 +2992,20 @@
 
 > - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 262) and the the premaxilla *sensu stricto* (Character 694).
 
-695. Coronoids (sensu stricto): (0) absent, (1) present.
+695. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
 > - New character, see comments on Character 289.
+
+696. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
+
+> - New character. This upper jaw character corresponds to Character 289 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
+
+> - *Lophosteus* and *Andreolepis* with tooth cushions are coded 1.
+
+697. Dermopalatine and ectopterygoid: (0) absent, (1) present.
+ 
+ > - New character. This upper jaw character corresponds to Character 295 (coronoids *sensu strico*) defining the lower jaw features.
+
 
 ## Included in Brazeau et al. (2023)
 696. Laminar basal layer: (0) absent; (1) present.
