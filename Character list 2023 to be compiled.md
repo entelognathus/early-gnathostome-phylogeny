@@ -165,7 +165,7 @@
 
 > - Coates *et al*. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
 
-> *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*., 2023).
+> - *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*., 2023).
 
 35. Body scale growth concentric: (0) absent; (1) present.
 
@@ -461,7 +461,7 @@
 
 > King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu Y. *et al*. (2022), Character 100; Brazeau *et al*. (2023), Character 268.
 
-> Score changed from 1 to 0 for *Romundina*.
+> - Score changed from 1 to 0 for *Romundina*.
 
 100. Pore clusters: (0) absent; (1) present.
 
@@ -830,7 +830,7 @@
 
 > Castiello (2018), Character 297; Zhu and Gai (2006), Character 30; Zhu Y. *et al*. (2022), Character 188.
 
-> We added the third state ("absent") to describe the condition in jawed vertebrates. (Zhu Y. *et al*., 2022)
+> - We added the third state ("absent") to describe the condition in jawed vertebrates. (Zhu Y. *et al*., 2022)
 
 188. Multiply branched sensory canal system associated with the posterior end of the supraorbital canal: (0) absent; (1) present.
 
