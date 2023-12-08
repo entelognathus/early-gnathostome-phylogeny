@@ -1268,7 +1268,7 @@
 
 > Lu  *et al*. (2012), Character 145; Zhu *et al*. (2013), Character 201; Giles *et al*. (2015), Character 106; Choo *et al*. (2017), Character 147; King *et al*. (2017), Character 344; Castiello (2018), Character 336; Zhu Y. *et al*. (2022), Character 291; Brazeau *et al*. (2023), Character 349.
 
-> This also refers to the coronoids (sensu lato).
+> - This also refers to the coronoids (sensu lato).
 
 291. Fangs of coronoids (sensu lato): (0) absent; (1) present.
 
@@ -1278,9 +1278,9 @@
 
 > Zhu *et al*. (2001), Zhu and Yu (2002), Character 70; Friedman (2007), Character 58; Zhu *et al*., 2009, Character 95; Zhu *et al*. (2013), Character 203; King *et al*. (2017), Character 348; Castiello (2018), Character 340; Zhu Y. *et al*. (2022), Character 293; Brazeau *et al*. (2023), Character 353.
 
-> This refers to the coronoids (sensu lato).
+> - This refers to the coronoids (sensu lato).
 
-> Also formulated as "Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows."
+> - Also formulated as "Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows."
 
 293. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
@@ -1625,7 +1625,7 @@
 
 > - Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
 
-373. Metotic (otic-occipital) fissure: (0) absent; (1) present.
+373. Metotic (otico-occipital) fissure: (0) absent; (1) present.
 
 > Schaeffer (1981); Janvier (1996); Coates & Sequeira (1998); Maisey (2001); Davis (2002); Brazeau (2009) ), Character 93; Davis *et al*. (2012), Character 97; Choo *et al*. (2017), Character 93. King *et al*. (2017), Character 55; Castiello (2018), Character 56; Zhu Y. *et al*. (2022), Character 374; Brazeau *et al*. (2023), Character 59.
 
@@ -1681,7 +1681,7 @@
 
 > Brazeau (2009); Davis *et al*. (2012), Character 58; Choo *et al*. (2017), Character 57; Zhu Y. *et al*. (2022), Character 387.
 
-> The coding of *Ramirosuarezia* is changed from 0 to 1.
+> - The coding of *Ramirosuarezia* is changed from 0 to 1.
 
 387. Ethmoid region elongate with dorsoventrally deep lateral walls: (0) absent; (1) present.
 
