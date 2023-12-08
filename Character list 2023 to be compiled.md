@@ -1795,7 +1795,7 @@
 
 > Coates *et al*. (2018), Character 137; Zhu Y. *et al*. (2022), Character 415.
 
-> Internal carotids converging almost head-on toward the midline (Schaeffer, 1981; Maisey, 1983) is shared by *Synechodus* and Recent elasmobranchs (Maisey, 1985).
+> - Internal carotids converging almost head-on toward the midline (Schaeffer, 1981; Maisey, 1983) is shared by *Synechodus* and Recent elasmobranchs (Maisey, 1985).
 
 415. Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium.
 
@@ -1933,7 +1933,7 @@
 
 > Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis *et al*. (2012), Character 72; Choo *et al*. (2017), Character 71; King *et al*. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. *et al*. (2022), Character 447; Brazeau *et al*. (2023), Character 38.
 
-> Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital process in relation to the overall length of the braincase is used to demarcate these proportions."
+> - Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital process in relation to the overall length of the braincase is used to demarcate these proportions."
 
 > Long otico-occipital region of braincase is shared by placoderms, some chondrichchthyans (including 'acanthodians') and *Megamastax*.
 
@@ -2155,7 +2155,7 @@
 
 > Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Coates *et al*. (2018), Character 202; Choo *et al*. (2017), Character 153; King *et al*. (2017), Character 66; Castiello (2018), Character 68; Zhu Y. *et al*. (2022), Character 499; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
 
-> Same as the formulation "Midline canal in basicranium for dorsal aorta: (0) absent; (1) present."
+> - Same as the formulation "Midline canal in basicranium for dorsal aorta: (0) absent; (1) present."
 
 498. Transverse otic process: (0) present; (1) absent.
 
