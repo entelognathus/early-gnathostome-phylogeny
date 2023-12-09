@@ -559,6 +559,7 @@
 122. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
 > Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33.
+> ***Kolymaspis sibirica* is coded from "0" to "1" based on Brazeau *et al*. (2023).**
 
 123. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
@@ -2257,6 +2258,7 @@
 521. Hypophysial opening in braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. *et al*. (2022), Character 523; Brazeau *et al*. (2023), Character 118.
+> ***Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).**
 
 522. Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
 
