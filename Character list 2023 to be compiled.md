@@ -3005,8 +3005,17 @@
 > - *Lophosteus* and *Andreolepis* with tooth cushions are coded 1.
 
 697. Dermopalatine and ectopterygoid: (0) absent, (1) present.
- 
+
  > - New character. This upper jaw character corresponds to Character 295 (coronoids *sensu strico*) defining the lower jaw features.
+
+698. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
+> - New character. This character is relative to revised character 20 "Resorption and redeposition of odontodes of dermal bones". The conditions of odontodes of dermal bones and body scales may different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
+
+699. Buried odontodes of body scales: (0) absent, (1) present.
+> - New character.
+
+701. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
+> - New character.
 
 
 ## Included in Brazeau et al. (2023)
