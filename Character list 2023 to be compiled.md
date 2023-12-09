@@ -99,9 +99,10 @@
 
 > - Score changed from 1 to '-' for Galeaspida, from 2 to '-' for *Eusthenopteron*.
 
-22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal.
+22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
 
-> Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
+> - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
+> - **Added a state.**
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
@@ -116,7 +117,7 @@
 > Burrow & Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Choo *et al*. (2017), Character 259. King *et al*. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 14.
 
 > - Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
-
+> - **check state formualation**, error in later datasets?
 > - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016).
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
