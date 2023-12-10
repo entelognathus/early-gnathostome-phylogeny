@@ -1218,7 +1218,7 @@
 
 278. Median dermal bone of palate (parasphenoid): (0) absent; (1) present.
 
-> Gardiner (1984); Brazeau (2009); Davis *et al*. (2012), Character 55; Choo *et al*. (2017), Character 54; King *et al*. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. *et al*. (2022), Character 279.
+> Gardiner (1984); Brazeau (2009); Davis *et al*. (2012), Character 55; Choo *et al*. (2017), Character 54; King *et al*. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. *et al*. (2022), Character 279; Brazeau *et al*. (2023), Character 135.
 
 279. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 
@@ -1551,6 +1551,7 @@
 > - **check state formualation in DFC37**, error in later datasets?
 > - Davis *et al*. (2012): "Basihyal, present (0); absent, hyoid arch articulates directly with basibranchial (1). Basihyals are known in chondrichthyans (Zangerl & Case 1976; Didier 1995; Grogan & Lund 2000: the glossohyal reported in *Debeerius* is indistinguishable from a basihyal) and placoderms (Ritchie 2005; Long 1997). Direct articulation between the hyoid arch and one or more basibranchials (where a basihyal is absent) occurs in *Acanthodes* and osteichthyans (Nelson 1968; Miles 1973b; Gardiner 1984: alternative reconstructions of *Acanthodes* gill arches consistently show no basihyal). The polarity of this character is questionable, given the poverty of branchial arch data in early gnathostomes. Friedman & Brazeau (2010) discuss hypohyal presence as a possible osteichthyan synapomorphy, but predetermine the hypohyals of *Debeerius* (Grogan & Lund 2000) as independently derived, and offer no comment on the hypohyal of *Cobelodus* (Zangerl & Case 1976). *Acanthodes* lacks a hypohyal."
 >
+> **Checked**
 > - Brazeau *et al*. (2023): present (0) for *Acanthodes*.
 
 357. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
@@ -3013,7 +3014,7 @@
 > - New character. This character is relative to revised character 20 "Resorption and redeposition of odontodes of dermal bones". The conditions of odontodes of dermal bones and body scales may different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
 
 699. Buried odontodes of body scales: (0) absent, (1) present.
-> - New character.
+> - New character. This character is relative to revised character 21 "Generations of odontodes".
 
 701. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
 > - New character.
