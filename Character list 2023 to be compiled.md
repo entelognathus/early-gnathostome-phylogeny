@@ -1264,7 +1264,7 @@
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290; Brazeau *et al*. (2023), Character 387.
 
-> - We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 495 (coronoids sensu stricto).
+> - We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 695 (coronoids sensu stricto).
 
 290. Number of coronoids (sensu lato): (0) more than three; (1) three.
 
