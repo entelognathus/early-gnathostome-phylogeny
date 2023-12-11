@@ -212,6 +212,8 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Meemannia eos*, upper Lochkovian, Lower Devonian (Zhu *et al*., 2006; 2010)
 
+*Megamastax amblyodus*, Upper Ludlow, Silurian (Choo *et al*., 2014; New study)
+
 *Mesacanthus mitchelli*, Lochkovian, Lower Devonian (Burrow *et al*., 2022; Miles, 1973a; Watson, 1937)
 
 *Microbrachius dicki*, middle Givetian, Middle Devonian (Hemmings, 1978; Long *et al*., 2015)
@@ -222,7 +224,7 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Minicrania lirouyii*, lower Lochkovian, Lower Devonian (Zhu and Janvier, 1996)
 
-*Minjinia turgenensis*, (Brazeau et al., 2022)
+*Minjinia turgenensis*, Pragian, Lower Devonian (Brazeau et al., 2020)
 
 *Nectaspis areolata*, Emsian, Lower Devonian (Janvier, 1981)
 
@@ -370,6 +372,12 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Zemlyacanthus (Poracanthodes) menneri*, lower Lochkovian, Lower Devonian (Valiukevicius, 1992; 1999; Valiukevicius *et al*., 1997)
 
+**New taxa under study**
+New placoderm close to the crown gnathostome node
+
+New early Silurian osteichthyan
+
+New Middle Devonian petalichthyid from Zhujiangyuan
 
 **References**
 
@@ -400,6 +408,8 @@ Bendix-Almgreen, S. E., 1975. The paired fins and shoulder girdle in *Cladoselac
 Brazeau, M. D., 2009. The braincase and jaws of a Devonian ‘acanthodian’ and modern gnathostome origins. *Nature* **457**: 305–308.
 
 Brazeau, M. D., 2012. A revision of the anatomy of the Early Devonian jawed vertebrate *Ptomacanthus anglicus* Miles. *Palaeontology* **55**: 355–367.
+
+Brazeau, M. D., S. Giles, R. P. Dearden, A. Jerve, Y. Ariunchimeg, E. Zorig, R. Sansom, T. Guillerme and M. Castiello (2020). Endochondral bone in an Early Devonian 'placoderm' from Mongolia. Nature Ecology & Evolution 4(11): 1477-1484.
 
 Brazeau, M. D. and Valerie, D. W., 2015. The hyoid arch and braincase anatomy of *Acanthodes* support chondrichthyan affinity of 'acanthodians'. *Proc. R. Soc. B* **282**: 20152210.
 
@@ -460,6 +470,8 @@ Chen, X. and Rong, J.-Y., 1996. Telychian (Llandovery) of the Yangtze region and
 Chen, Z., Wang, C. and Fan, R., 2016. Restudy of the Llandovery conodont biostratigraphy in the Xiushan area, Chongqing City, China. *Can. J. Earth Sci.* **53**: 651–659.
 
 Choo, B., Zhu, M., Qu, Q., Yu, X., Jia, L. and Zhao, W., 2017. A new osteichthyan from the late Silurian of Yunnan, China. *PLoS One* **12**: e0170929.
+
+Choo, B., M. Zhu, W. Zhao, L. Jia, and Y. Zhu. 2014. The largest Silurian vertebrate and its palaeoecological implications, Scientific Reports, 4: 5242.
 
 Clarke, J., 1901. Notes on Paleozoic Crustaceans, 2, Phyllocarida from the black shales at the base of the Salina beds in western New York. 3, Some Devonic Phyllocarida from New York. *New York State Museum. 54th Report of the Regents* **1**: 92–103.
 
