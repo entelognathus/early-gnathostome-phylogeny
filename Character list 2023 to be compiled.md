@@ -14,25 +14,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The presence or absence of fissures in globular calcified cartilage could be a character to unite the subtessellate calcified cartilage and TCC.
 
-> - The coding of *Eosteus" is 0. unknown?
+> - The coding of *Eosteus* is 0. unknown?
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
 
-> - The coding of *Eosteus" is -.
+> - The coding of *Eosteus* is -.
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
 
-> - The coding of *Eosteus" is 0. unknown.
+> - The coding of *Eosteus* is 0. unknown.
 
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 3.
 
-> - The coding of *Eosteus" is 0. unknown.
+> - The coding of *Eosteus* is 0. unknown.
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -40,7 +40,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
 
-> - The coding of *Eosteus" is unknown.
+> - The coding of *Eosteus* is unknown.
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
@@ -50,25 +50,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
 
-> - The coding of *Eosteus" is 1. (to be checked)
+> - The coding of *Eosteus* is 1. (to be checked)
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
 > King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
 
-> - The coding of *Eosteus" is 0. 
+> - The coding of *Eosteus* is 0. 
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 11.
 
-> - The coding of *Eosteus" is 0. 
+> - The coding of *Eosteus* is 0. 
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21.
 
-> - The coding of *Eosteus" is 0. 
+> - The coding of *Eosteus* is 0. 
 
 10. Dentinous tissue: (0) absent; (1) present.
 
