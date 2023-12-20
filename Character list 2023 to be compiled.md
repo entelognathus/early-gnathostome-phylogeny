@@ -14,13 +14,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The presence or absence of fissures in globular calcified cartilage could be a character to unite the subtessellate calcified cartilage and TCC.
 
-> - The coding of *Eosteus* is 0. unknown?
+> - The coding of *Eosteus* is 0. unknown? To You'an: the skeletal tissue details of Eosteus should be carefully illustrated. Hou can you code them?
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
 
-> - The coding of *Eosteus* is -.
+> - The coding of *Eosteus* is -（logical impossibility).
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -74,22 +74,33 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10; Brazeau *et al*. (2023), Character 13.
 
+> - The coding of *Eosteus* is 1. **How can you identify the details of hard tissues of Eosteus?**
+
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine.
 
 > Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 5; Choo *et al*. (2017), Character 5; King *et al*. (2017), Character 12; Castiello (2018), Character 12; Zhu Y. *et al*. (2022), Character 11; Brazeau *et al*. (2023), Character 15.
 
+> - The coding of *Eosteus* is unknown.
+
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
 > Zhu  *et al*. (2009, Character 152), and references therein; Zhu *et al*. (2013), Character 141; Giles *et al*. (2015), Character 86; Choo *et al*. (2017), Character 137; King *et al*. (2017), Character 343; Castiello (2018), Character 335; Zhu Y. *et al*. (2022), Character 12; Brazeau *et al*. (2023), Character 348.
+
+> - The coding of *Eosteus* is unknown.
+
 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13; Brazeau *et al*. (2023), Character 18.
+
+> - The coding of *Eosteus* is unknown.
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
 > Giles *et al*. (2015), Character 6; Choo *et al*. (2017), Character 255; King *et al*. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. *et al*. (2022), Character 14; Brazeau *et al*. (2023), Character 19.
 
 > - *Ligulalepis* is scored '1' based on Schultze (1968).
+
+> - The coding of *Eosteus* is unknown.
 
 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 
@@ -99,21 +110,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 79; Choo *et al*. (2017), Character 284; King *et al*. (2017), Character 365; Castiello (2018), Character 355; Zhu Y. *et al*. (2022), Character 16; Brazeau *et al*. (2023), Character 370.
 
+> - The coding of *Eosteus* is unknown.
+
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Choo *et al*. (2017), Character 136; King *et al*. (2017), Character 342; Castiello (2018), Character 334; Zhu Y. *et al*. (2021), Character 78; Zhu Y. *et al*. (2022), Character 17; Brazeau *et al*. (2023), Character 347.
+
+> - The coding of *Eosteus* is unknown.
 
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
 
+> - The coding of *Eosteus* is 0.
+
 19. Extensive pore canal network: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Brazeau *et al*. (2023), Character 5.
 
+> - The coding of *Eosteus* is 0.
+
 20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
 
 > Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 17.
+
+> - The coding of *Eosteus* is 0.
 
 21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
 
@@ -121,32 +142,43 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Score changed from 1 to '-' for Galeaspida, from 2 to '-' for *Eusthenopteron*.
 
+> - The coding of *Eosteus* is unknown.
+
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
-> - **Added a state.**
+
+> - The coding of *Eosteus* is -.
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
 > King *et al*. (2017), Character 270; Castiello (2018), Character 264; Zhu Y. *et al*. (2022), Character 23; Brazeau *et al*. (2023), Character 275.
 
+> - The coding of *Eosteus* is -.
+
 24. Rostral tubuli: (0) absent; (1) present.
 
 > Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
+
+> - The coding of *Eosteus* is 0.
 
 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
 
 > Burrow & Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Choo *et al*. (2017), Character 259. King *et al*. (2017), Character 11; Castiello (2018), Character 11; Zhu Y. *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 14.
 
 > - Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
-> - **check state formualation**, error in later datasets?
+
 > - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016).
+
+> - The coding of *Eosteus* is ?.
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
 > Burrow & Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Choo *et al*. (2017), Character 260; King *et al*. (2017), Character 13; Castiello (2018), Character 13; Zhu Y. *et al*. (2022), Character 26; Brazeau *et al*. (2023), Character 16.
 
- *Squamation & related structures*
+> - The coding of *Eosteus* is ?.
+
+## Squamation & related structures
 
 27. Longitudinal scale alignment in fin webs: (0) present; (1) absent.
 
@@ -154,15 +186,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Giles *et al*. (2015):" The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. Acanthodians and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-and-socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-shaped scales in osteichthyans. *Poracanthodes* is changed to '?' because fin webs do not appear to be preserved in articulated specimens (Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1' (pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP 41495. *Campbellodus* scored '?'."
 
+> - The coding of *Eosteus* is 0.
+
 28. Differentiated lepidotrichia: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 14; Choo *et al*. (2017), Character 261; King *et al*. (2017), Character 469; Castiello (2018), Character 458; Zhu Y. *et al*. (2022), Character 28; Brazeau *et al*. (2023), Character 474.
 
 > - Giles *et al*. (2015): "Refers to the distinct rectangular shape of the aligned lepidotrichia-like scales. This character is scored contingently on the state of the previous character. *Dialipina* is coded '0' (uncatalogued specimen, Musem für Naturkunde, Berlin)."
 
+> - The coding of *Eosteus* is 1.
+
 29. Epichordal lepidotrichia in caudal fin: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 142), and references therein; Zhu *et al*. (2013), Character 146; Giles *et al*. (2015), Character 236; Choo *et al*. (2017), Character 140; King *et al*. (2017), Character 470; Castiello (2018), Character 459; Zhu Y. *et al*. (2022), Character 29; Brazeau *et al*. (2023), Character 475.
+
+> - The coding of *Eosteus* is 0. (to be checked). The epichordal lepidotrichia in the caudal fin is present in *Dialipina* and *Cheirolepis*.
 
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
