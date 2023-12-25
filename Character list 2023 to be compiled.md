@@ -15,6 +15,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The presence or absence of fissures in globular calcified cartilage could be a character to unite the subtessellate calcified cartilage and TCC.
 
 > - The coding of *Eosteus* is 0. unknown? To You'an: the skeletal tissue details of Eosteus should be carefully illustrated. Hou can you code them?
+> - Changed to ?
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
@@ -27,12 +28,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
 
 > - The coding of *Eosteus* is 0. unknown.
+> - changed to ?, same to Sparalepis with similar preservation
 
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 3.
 
 > - The coding of *Eosteus* is 0. unknown.
+> - Changed to ?
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -51,18 +54,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
 
 > - The coding of *Eosteus* is 1. (to be checked)
+> - changed to ?
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
 > King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
 
-> - The coding of *Eosteus* is 0. 
+> - The coding of *Eosteus* is 0.
+> - changed to ?
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 11.
 
-> - The coding of *Eosteus* is 0. 
+> - The coding of *Eosteus* is 0.
+> - 
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
