@@ -3348,7 +3348,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ----------------------------------------------------------------------------------------------------------------------------------
 ~~715. Dorsal ridge: (0) absent; (1) present.~~
 
-> Coates & Sequeira (date), Character 11; Castiello (2018), Character 52; Davis *et al*. (2012), Character 91; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
+> Coates & Sequeira (1998, Character 11; 2001); Maisey (2001); Davis (2002); Davis *et al*. (2012), Character 91; Castiello (2018), Character 52; Brazeau *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
+
+> -  Davis *et al*. (2012): "A dorsal ridge is absent in placoderms such *Brindabellaspis* and *Dicksonosteus*, but present in many early chondrichthyans, including *Akmonistion*, *Pucapampella*, *Cobelodus* and
+*Cladodoides*. The primary neurocranial roof of osteichthyans such as *Eusthenopteron* (Jarvik 1980) and *Mimia* (Gardiner 1984, fig. 27: posterior face of otic region) lacks evidence of such a mid-line dorsal ridge concealed beneath the dermal skull table. In the present work, *Acanthodes* is coded as state ‘1’, ridge present (Supplementary Figures 3-5 and 15), whereas in previous studies such a ridge has been interpreted as absent."
 
 > - Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
