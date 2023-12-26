@@ -394,7 +394,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Brazeau *et al*. (2023), Character 288.
 
-> - The coding of *Eosteus* is 0. **open groove is a plesiomorphic feature for its stem position in osteichthyans**
+> - The coding of *Eosteus* is 1. however, note that the preopercular canal is preserved as open grooves in both Eosteus and an undescribed specimen.**open groove is a plesiomorphic feature for its stem position in osteichthyans**
 
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
@@ -957,212 +957,260 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 150. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
 > Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
+> - The coding of *Eosteus* is 0.
 
 151. Lateral plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153; Brazeau *et al*. (2023), Character 191.
+> - The coding of *Eosteus* is 0.
 
 152. Paranuchal number: (0) one pair; (1) two pairs.
 
 > Zhu *et al*. (2013), Character 162; Choo *et al*. (2017), Character 171; King *et al*. (2017), Character 189; Castiello (2018), Character 187; Zhu Y. *et al*. (2022), Character 154; Brazeau *et al*. (2023), Character 195.
+> - The coding of *Eosteus* is ?, the extrascapulars are not seen.
 
 153. Median paranuchal plate: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 155.
 
 > - Zhu Y. *et al*. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive *et al*., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
+> - The coding of *Eosteus* is ?.
 
 154. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 165; Choo *et al*. (2017), Character 174; Zhu Y. *et al*. (2022), Character 156.
+> - The coding of *Eosteus* is ?.
 
 155. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: (0) absent; (1) present; (2) paranuchals precluded from nuchal by central or median paranuchal.
 
 > Giles *et al*. (2015), Character 50; Choo *et al*. (2017), Character 275; King *et al*. (2017), Character 211; Castiello (2018), Character 210; Zhu Y. *et al*. (2022), Character 157; Brazeau *et al*. (2023), Character 216.
+> - The coding of *Eosteus* is ?.
 
 156. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. *et al*. (2022), Character 158.
+> - The coding of *Eosteus* is ？.
 
 157. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
 > Lu *et al*. (2017), Character 238; Choo *et al*. (2017), Character 325; Castiello (2018), Character 185; Zhu Y. *et al*. (2022), Character 159.
 
 > - Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu *et al*. (2016) to be one of the key character uniting actinopterygians."
+> - The coding of *Eosteus* is 1. 
 
 158. Extratemporal: absent (0), present (1).
 
 > Zhu Y. *et al*. (2022), Character 160
+> - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors 
 
 159. Westoll-lines: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 273.
+> - The coding of *Eosteus* is -, following other non-sarcopterygian osteichthyans.
 
 160. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 250; Zhu Y. *et al*. (2022), Character 162.
+> - The coding of *Eosteus* is ?.
 
 161. Anterior pit line of dermal skull roof: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 162. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
 > Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 163. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
 > Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 164. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
 > Zhu  *et al*. (2009, Character 108), and references therein; Zhu *et al*. (2013), Character 186; Choo *et al*. (2017), Character 191; King *et al*. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. *et al*. (2022), Character 166; Brazeau *et al*. (2023), Character 294.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 165. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
 > Zhu *et al*. (2013), Character 166; Choo *et al*. (2017), Character 175; Zhu Y. *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 290.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 166. Ethmoid commissure: (0) absent; (1) present.
 
 > Castiello (2018), Character 311; Zhu Y. *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 325.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 167. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 168. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
 > Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
+> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 169. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301.
+> - The coding of *Eosteus* is ?. details in this region is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 170. Postmarginal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 320.
+> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
 
 171. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
 > Zhu *et al*. (2016), Character 349; Zhu Y. *et al*. (2021), Character 315; Zhu Y. *et al*. (2022), Character 173.
+> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent.
 
 172. Central sensory line: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 350; Zhu Y. *et al*. (2021), Character 316; King *et al*. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. *et al*. (2022), Character 174; Brazeau *et al*. (2023), Character 317.
+> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent.
 
 173. Supraorbital sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. *et al*. (2022), Character 175; Brazeau *et al*. (2023), Character 312.
+> - The coding of *Eosteus* is 1.
 
 174. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
 > Zhu  *et al*. (2009, Character 109), and references therein; Zhu *et al*. (2013), Character 187; Choo *et al*. (2017), Character 192; King *et al*. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 295.
+> - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to identify.
 
 175. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
 > Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
+> - The coding of *Eosteus* is 0.
 
 176. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
 > Zhu  *et al*. (2009, Character 111), and references therein; Zhu *et al*. (2013), Character 189; Choo *et al*. (2017), Character 194; Zhu Y. *et al*. (2022), Character 178; Brazeau *et al*. (2023), Character 297.
+> - The coding of *Eosteus* is 1.
 
 177. Posteriorly converging supraorbital canals: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 179.
+> - The coding of *Eosteus* is 0, following Janusiscus, but the canal actually coverges, just not meet.
 
 178. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
 > Long *et al*. (2015), Character 256; Choo *et al*. (2017), Character 248; King *et al*. (2017), Character 300; Castiello (2018), Character 291; Zhu Y. *et al*. (2022), Character 180; Brazeau *et al*. (2023), Character 305.
 
 > - Zhu Y. *et al*. (2022): "The character "median commissure between supraorbital sensory lines: (0) absent; (1) present" (Choo *et al*., 2017, Character 272; Giles *et al*., 2015c, Character 45) is deleted due to its overlap with the current state 2."
+> - The coding of *Eosteus* is ?.
 
 179. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
 > Zhu  *et al*. (2009, Character 112), and references therein; Zhu *et al*. (2013), Character 190; Choo *et al*. (2017), Character 195; King *et al*. (2017), Character 293; Castiello (2018), Character 284; Zhu Y. *et al*. (2022), Character 181; Brazeau *et al*. (2023), Character 298.
+> - The coding of *Eosteus* is 0. Although the otic canal is not observed, the course of supraorbital canals suggest it is unlikely to touch the otic canal.
 
 180. Contact of supraorbital and infraorbital canals: (0) in contact rostrally; (1) not in contact rostrally.
 
 > Zhu  *et al*. (2009, Character 113), and references therein; Zhu *et al*. (2013), Character 191; Choo *et al*. (2017), Character 196; King *et al*. (2017), Character 294; Castiello (2018), Character 285; Zhu Y. *et al*. (2022), Character 182; Brazeau *et al*. (2023), Character 299.
+> - The coding of *Eosteus* is ?.
 
 181. Otic canal: (0) runs through skull roof; (1) follows edge of skull roof.
 
 > Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300.
+> - The coding of *Eosteus* is ?.
 
 182. Otic canal extends through postparietals (central): (0) absent; (1) present.
 
 > Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40; Giles *et al*. (2015), Character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Brazeau *et al*. (2023), Character 308.
+> - The coding of *Eosteus* is ?.
 
 183. Jugal portion of infraorbital canal joins supramaxillary canal: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 289.
+> - The coding of *Eosteus* is ?.
 
 184. Infra-orbital sensory line: (0) crosses lateral field; (1) does not cross lateral field.
 
 > Castiello (2018), Character 295; King *et al*. (2017), Character 304; Zhu Y. *et al*. (2022), Character 186; Brazeau *et al*. (2023), Character 309.
+> - The coding of *Eosteus* is -.
 
 185. Festooned pattern of sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 305; Castiello (2018), Character 296; Zhu Y. *et al*. (2022), Character 187; Brazeau *et al*. (2023), Character 310.
+> - The coding of *Eosteus* is 0.
 
 186. Median transverse canals: (0) two or more; (1) one; (2) absent.
 
 > Castiello (2018), Character 297; Zhu and Gai (2006), Character 30; Zhu Y. *et al*. (2022), Character 188.
 
 > - We added the third state ("absent") to describe the condition in jawed vertebrates. (Zhu Y. *et al*., 2022)
+> - The coding of *Eosteus* is 2.
 
 187. Multiply branched sensory canal system associated with the posterior end of the supraorbital canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 306; Castiello (2018), Character 298; Zhu Y. *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 311.
 
 > - In the present dataset, the character is only present in *Wenshanaspis*.
+> - The coding of *Eosteus* is 0.
 
 188. Branching end of lateral transverse canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 308; Castiello (2018), Character 300; Zhu Y. *et al*. (2022), Character 190; Brazeau *et al*. (2023), Character 313.
 
 > - In the present dataset, the character is only present in *Wenshanaspis*.
+> - The coding of *Eosteus* is -.
 
 189. Median dorsal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 310; Castiello (2018), Character 301; Zhu Y. *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 315.
 
 > - Score changed from 0/1 to 1 for *Eugaleaspis changi*; 0 to ? for *Shuyu zhejiangensis*.
+> - The coding of *Eosteus* is 0.
 
 190. Infraorbital and otic sensory line grooves run along mesial margin of marginal plate: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 311; Castiello (2018), Character 302; Zhu Y. *et al*. (2022), Character 192.
+> - The coding of *Eosteus* is ?.
 
 191. Semicircular pit line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 313; Castiello (2018), Character 304; Zhu Y. *et al*. (2022), Character 193; Brazeau *et al*. (2023), Character 318.
 
 > - In the present dataset, the character is only present in *Bothriolepis*.
+> - The coding of *Eosteus* is ?.
 
 192. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 319.
+> - The coding of *Eosteus* is 0.
 
 193. Preopercular canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 316; Castiello (2018), Character 307; Zhu Y. *et al*. (2022), Character 195; Brazeau *et al*. (2023), Character 321.
+> - The coding of *Eosteus* is 1.
 
 194. Preopercular canal meets otic canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 317; Castiello (2018), Character 308; Zhu Y. *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 322.
+> - The coding of *Eosteus* is ?. The detail of  otic canal is difficult to see.
 
 195. Supraoral canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 318; Castiello (2018), Character 309; Zhu Y. *et al*. (2022), Character 197; Brazeau *et al*. (2023), Character 323.
+> - The coding of *Eosteus* is ?.
 
 196. Extension of otic canal beyond infraorbital canal (\"P\" canal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 319; Castiello (2018), Character 310; Zhu Y. *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 324.
+> - The coding of *Eosteus* is ?.
 
 197. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 321; Castiello (2018), Character 313; Zhu Y. *et al*. (2022), Character 199; Brazeau *et al*. (2023), Character 326.
 
 > - In the present dataset, the character is only present in *Entelognathus*.
+> - The coding of *Eosteus* is ?.
 
 199. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
@@ -1171,6 +1219,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 199. Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 323; Castiello (2018), Character 315; Zhu Y. *et al*. (2022), Character 201; Brazeau *et al*. (2023), Character 328.
+
 
 200. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
@@ -3402,7 +3451,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
 
-> - Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+> Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
 > - This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 372 here) and is thus redundant.
 
@@ -3432,7 +3481,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-> - This character need to be removed because it is redundant with Character 79 here.
+> This character need to be removed because it is redundant with Character 79 here.
 
 ~~723. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.~~
 
