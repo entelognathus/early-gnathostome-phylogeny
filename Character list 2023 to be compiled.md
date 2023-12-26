@@ -1509,7 +1509,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290; Brazeau *et al*. (2023), Character 387.
 
-> - We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 695 (coronoids sensu stricto).
+> - We consider that tooth cusions of *Megamastax* and *Lophosteus* as the homologues of the coronoids (lower jaw) or dermal palatines of crown osteichthyans. However, the condition of the coronoids or dermopalatines in crown osteichthyans differ from that of tooth cusions in the neighboring bones are in contact whether they bear fangs as in some sarcopterygians or not. As such, this character is re-formulated as "coronoids sensu lato" that include tooth cusions. whereas the coronoids with neighboring bones in contact are defined as a new character, Character 694 (coronoids sensu stricto).
 
 289. Number of coronoids (sensu lato): (0) more than three; (1) three.
 
@@ -3245,17 +3245,17 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 694. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
-> - New character, see comments on Character 289.
+> - New character, see comments on Character 288.
 
 695. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
 
-> - New character. This upper jaw character corresponds to Character 289 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
+> - New character. This upper jaw character corresponds to Character 288 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
 
 > - *Lophosteus* and *Andreolepis* with tooth cushions are coded 1.
 
 696. Dermopalatine and ectopterygoid: (0) absent, (1) present.
 
- > - New character. This upper jaw character corresponds to Character 695 (coronoids *sensu strico*) defining the lower jaw features.
+ > - New character. This upper jaw character corresponds to Character 694 (coronoids *sensu strico*) defining the lower jaw features.
 
 697. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 
