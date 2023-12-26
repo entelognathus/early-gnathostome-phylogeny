@@ -106,6 +106,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 7; Choo *et al*. (2017), Character 256; King *et al*. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. *et al*. (2022), Character 15; Brazeau *et al*. (2023), Character 20.
 
+> - The coding of *Eosteus* is unknown.
+
 16. Enamel(oid) on teeth: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 79; Choo *et al*. (2017), Character 284; King *et al*. (2017), Character 365; Castiello (2018), Character 355; Zhu Y. *et al*. (2022), Character 16; Brazeau *et al*. (2023), Character 370.
@@ -122,25 +124,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
 
-> - The coding of *Eosteus* is 0. Judging from the obvious difference from the galeoaspid dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from the obvious difference from the galespid dermal skeleton.
 
 19. Extensive pore canal network: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Brazeau *et al*. (2023), Character 5.
 
-> - The coding of *Eosteus* is 0. Judging from the lack of pore or pore-like texture on the dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from the lack of pore or pore-like texture on the dermal skeleton.
 
 20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
 
 > Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 17.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. **This should be unknown.**
 
 21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
 
 > Zhu Y. *et al*. (2021), Character 17; Zhu Y. *et al*. (2022), Character 21.
 
-> - Score changed from 1 to '-' for Galeaspida, from 2 to '-' for *Eusthenopteron*.
+> - Score changed from 1 to '-' (logical impossibility) for Galeaspida, from 2 to '-' for *Eusthenopteron*.
 
 > - The coding of *Eosteus* is unknown.
 
@@ -205,22 +207,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 263; Zhu Y. *et al*. (2022), Character 30.
+
 > - The coding of *Eosteus* is 0.
 
 31. Fringing fulcra: (0) absent; (1) present.
 
 > Zhu *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 145; Choo *et al*. (2017), Character 252; King *et al*. (2017), Character 467; Castiello (2018), Character 456; Zhu Y. *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 472.
 
+> - Arratia (2009): "Fringing fulcra are defined here as paired structures associated with the leading edge of paired and/or unpaired fins. These may be swollen, spine-like, lanceolate, or distally arrow-like in shape."
+
 > - Taxa without lepidotrichia are coded as 'logical impossibility'.
+
+> - The coding of *Eosteus* is unknown, absent or present. **(check)** 
 
 32. Scute-like ridge scales (basal fulcra): (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 27; Choo *et al*. (2017), Character 264; King *et al*. (2017), Character 471; Castiello (2018), Character 460; Zhu Y. *et al*. (2022), Character 32; Brazeau *et al*. (2023), Character 476.
-> - The coding of *Eosteus* is 1, the dorsal margin of the upper cuadal lobe is lined with a series of basal fulcrum as in actinopterygians.
+
+> - Arratia (2009): "According to Arratia (2008), basal fulcra are defined as large, laterally expanded, paired or unpaired scale-like structures that precede the bases of the median fins or of both paired and median fins depending on the actinopterygian subgroup."
+
+> - The coding of *Eosteus* is 1, as the dorsal margin of its upper cuadal lobe is lined with a series of basal fulcrum as in actinopterygians.
 
 33. Flank scale alignment: (0) vertical rows; (1) oblique rows or hexagonal/rhombic packing; (2) disorganised.
 
 > Davis *et al*. (2012), Character 14; Choo *et al*. (2017), Character 13; King *et al*. (2017), Character 491; Castiello (2018), Character 481; Zhu Y. *et al*. (2022), Character 33; Brazeau *et al*. (2023), Character 496.
+
 > - The coding of *Eosteus* is 1.
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
@@ -230,6 +241,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Coates *et al*. (2018): "*Gladbachus* scale crowns consistently meet the multicuspid condition. *Gladbachus* scales have been described as placoderm-like (Burrow & Turner 2013; Brazeau & Friedman 2014) and appear to have increased in size by the addition of dentine tubercles. The resultant patterns resemble closely those identified as *Ohioaspis*, attributed to the rhenanid *Asterosteus* (Gross 1973; Denison 1978) and used in the present matrix to score scale characteristics for rhenanids *Gemuendina* and *Jagorina*. This growth mode is areal, used by Brazeau and Friedman (2014) to characterise complexes of 'appositionally joined odontodes'."
 
 > - *Entelognathus* scales bear appositionally joined odontodes (Cui *et al*., 2023).
+
 > - The coding of *Eosteus* is 1 with joined odontodes forming linear ornament.
 
 35. Body scale growth concentric: (0) absent; (1) present.
@@ -250,17 +262,20 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Entelognathus primordialis* is changed from 0 to 1 based on new data. The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Long *et al*., 1997 Fig.51).
 
-> - The coding of *Eosteus* is ?, the detail of the scale morphology is obscure.
+> - The coding of *Eosteus* is ?, as the detail of the scale morphology is obscure.
 
 37. Peg on rhomboid scale: (0) longer than wide (narrow); (1) wider than long (broad).
 
 > Zhu  *et al*. (2009, Character 139), and references therein; Zhu *et al*. (2013), Character 143; Giles *et al*. (2015), Character 19; Choo *et al*. (2017), Character 138; King *et al*. (2017), Character 492; Castiello (2018), Character 477; Zhu Y. *et al*. (2022), Character 38; Brazeau *et al*. (2023), Character 497.
 
 > - The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data (Cui et al., 2023).
-> - The coding of *Eosteus* is ?, the detail of the scale morphology is obscure.
+
+> - The coding of *Eosteus* is ?, as the detail of the scale morphology is obscure.
+
 38. Body scale profile: (0) distinct crown and base demarcated by a constriction (neck); (1) flattened.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 11; Choo *et al*. (2017), Character 10; King *et al*. (2017), Character 488; Castiello (2018), Character 478; Zhu Y. *et al*. (2022), Character 39; Brazeau *et al*. (2023), Character 493.
+
 > - The coding of *Eosteus* is 1.
 
 39. Body scales with bulging base: (0) absent; (1) present.
@@ -268,6 +283,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 12; Choo *et al*. (2017), Character 11; King *et al*. (2017), Character 489; Castiello (2018), Character 479; Zhu Y. *et al*. (2022), Character 40; Brazeau *et al*. (2023), Character 494.
 
 > - The coding of *Climatius reticulatus* is changed from 0 to 1 (Burrow *et al*., 2015 Fig.5Q).
+
 > - The coding of *Eosteus* is 0.
 
 40. Body scales with flattened base: (0) absent; (1) present.
@@ -281,6 +297,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 41. Relationship of crown and base of isolated trunk scale: (0) crown fully covering the base; (1) crown sitting on the bony base, with an exposed depressed field overlapped by adjacent scale in articulation.
 
 > Choo *et al*. (2017), Character 336; Zhu Y. *et al*. (2022), Character 42.
+
 > - The coding of *Eosteus* is 0.
 
 42. Profile of scales with constriction between crown and base: (0) neck similar in width to crown; (1) neck greatly constricted, resulting in anvil-like shape.
@@ -335,9 +352,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 140), and references therein; Zhu *et al*. (2013), Character 144; Giles *et al*. (2015), Character 20; Choo *et al*. (2017), Character 139; King *et al*. (2017), Character 493; Castiello (2018), Character 482; Zhu Y. *et al*. (2022), Character 50; Brazeau *et al*. (2023), Character 498.
 
-> - The coding of *Entelognathus primordialis* is changed from unapplicable to 1 based on new data (Cui et al., 2023).
+> - The coding of *Entelognathus primordialis* is changed from - to 1 based on new data (Cui et al., 2023).
 
 > - Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles  *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
+
 > - The coding of *Eosteus* is 1, judging from the bulge lining along the adjacent rows of scales.
 
 50. Anterodorsal process and peg: (0) separated; (1) confluent.
@@ -370,25 +388,27 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 29; Choo *et al*. (2017), Character 265; King *et al*. (2017), Character 205; Castiello (2018), Character 204; Zhu Y. *et al*. (2022), Character 56; Brazeau *et al*. (2023), Character 210.
 
-> - The coding of *Eosteus* is 1, linear ornamentation.
+> - The coding of *Eosteus* is 1, linear ornamentation. **(check)**
 
 55. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Brazeau *et al*. (2023), Character 288.
-> - The coding of *Eosteus* is 0.
+
+> - The coding of *Eosteus* is 0. **open groove is a plesiomorphic feature for its stem position in osteichthyans**
 
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Brazeau *et al*. (2023), Character 306.
+
 > - The coding of *Eosteus* is 0.
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
 > Davis *et al*. (2012), Character 18; Choo *et al*. (2017), Character 17; King *et al*. (2017), Character 151; Castiello (2018), Character 150; Zhu Y. *et al*. (2022), Character 59; Brazeau *et al*. (2023), Character 155.
 
-> - The coding of *Eosteus* is 0.
-
 > - Score changed from 0 to 1 for *Kawichthys*.
+
+> - The coding of *Eosteus* is 0.
 
 58. Tesserae morphology: (0) large interlocking polygonal plates: (1)  microsquamose, not larger than body tesserae.
 
@@ -520,7 +540,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81.
 
-> - Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in Wuttagoonaspis, Gavinaspis and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> - Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King *et al*. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
 > - The coding of *Eosteus* is 0.
 
@@ -696,7 +716,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Guiyu* changed from ? to 1. 
 
-> - The coding of *Eosteus* is 0, based on the identification of the sepearate plate being dermosphenotic.
+> - The coding of *Eosteus* is 0, based on the identification of the seperate plate being dermosphenotic.
 
 107. Lacrimal notch: (0) absent; (1) present.
 
