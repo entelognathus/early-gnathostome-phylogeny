@@ -3424,7 +3424,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
 
-> Related with Zhu *et al*. (2013), Character 169; overlaps Characters 557 - 561 here.
+> - Related with Zhu *et al*. (2013), Character 169; overlaps Characters 557 - 561 here.
 
 ~~722. Centronuchal plate: (0) absent; (1) present.~~
 
@@ -3444,7 +3444,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
 
-> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
+> - Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
 
 ~~725. Anterior supraorbital canal: (0) absent; (1) present.~~
 
