@@ -1291,7 +1291,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.
 
-199. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
+198. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
 > King *et al*. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. *et al*. (2022), Character 200; Brazeau *et al*. (2023), Character 327.
 
