@@ -796,132 +796,163 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121.
 
 > - The process seems present in *Ligulalepis*. The presence should be a plesiomorphy for osteichthyans.
+> - The coding of *Eosteus* is ?, due to a lack of nostril detail.
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 22; Castiello (2018), Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25.
+> - The coding of *Eosteus* is 0.
 
 121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
 > Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33.
 
 > ***Kolymaspis sibirica* is coded from "0" to "1" based on Brazeau *et al*. (2023).**
+> - The coding of *Eosteus* is 1.
 
 122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
 > Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33.
+> - The coding of *Eosteus* is 0.
 
 123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 10), and references therein; Zhu *et al*. (2013), Character 154; Choo *et al*. (2017), Character 164; King *et al*. (2017), Character 182; Castiello (2018), Character 179; Zhu Y. *et al*. (2022), Character 125; Brazeau *et al*. (2023), Character 188.
+> - The coding of *Eosteus* is ?.
 
 124. Number of supraorbitals: (0) one; (1) two; (2) many.
 
 > King *et al*. (2017), Character 262; Castiello (2018), Character 259; Zhu Y. *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 267.
+> - The coding of *Eosteus* is ?.
 
 125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
 > Zhu  *et al*. (2009, Character 11), and references therein; Zhu *et al*. (2013), Character 155; Choo *et al*. (2017), Character 165; King *et al*. (2017), Character 183; Castiello (2018), Character 180; Zhu Y. *et al*. (2022), Character 127; Brazeau *et al*. (2023), Character 189.
+> - The coding of *Eosteus* is ?.
 
 126. Tectal (sensu Cloutier and Ahlberg 1996, not counting the posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 190.
+> - The coding of *Eosteus* is ?.
 
 127. Pineal opening in braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 115; Castiello (2018), Character 116; Zhu Y. *et al*. (2022), Character 129; Brazeau *et al*. (2023), Character 119.
+> - The coding of *Eosteus* is ?.
 
 128. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162.
+> - The coding of *Eosteus* is ?.
 
 129. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 233; Zhu Y. *et al*. (2022), Character 131.
+> - The coding of *Eosteus* is ?.
 
 130. Location of pineal foramen/eminence: (0) level with posterior margin of orbits; (1) well posterior of orbits.
 
 > Zhu  *et al*. (2009, Character 19), and references therein; Zhu *et al*. (2013), Character 158; Choo *et al*. (2017), Character 168; King *et al*. (2017), Character 186; Castiello (2018), Character 183; Zhu Y. *et al*. (2022), Character 132; Brazeau *et al*. (2023), Character 192.
+> - The coding of *Eosteus* is ?.
 
 131. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133; Brazeau *et al*. (2023), Character 194.
+> - The coding of *Eosteus* is ?.
 
 132. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones.
 
 > Giles *et al*. (2015), Character 42; Choo *et al*. (2017), Character 270; King *et al*. (2017), Character 208; Castiello (2018), Character 207; Zhu Y. *et al*. (2021), Character 41; Zhu Y. *et al*. (2022), Character 134; Brazeau *et al*. (2023), Character 213.
 
 > - Giles *et al*. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
+> - The coding of *Eosteus* is ?.
 
 133. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
 > Dennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Brazeau *et al*. (2023), Character 214.
 
 > - Giles *et al*. (2015): "This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans."
+> - The coding of *Eosteus* is 0.
 
 134. Parietals (preorbitals of placoderms): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 169; Clement *et al*. (2018), Character 279; Zhu Y. *et al*. (2022), Character 136.
+> - The coding of *Eosteus* is 1.
 
 135. Condition of parietals/preorbitals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 280; Zhu Y. *et al*. (2022), Character 137.
+> - The coding of *Eosteus* is ?. Observing on current specimen, it's diffficult to tell whether the parietal is a single plate or not, however it surely meet in the midline.
 
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 187; Castiello (2018), Character 184; Zhu Y. *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 193.
+> - The coding of *Eosteus* is ?, due to lack of identification of pineal opening.
 
 137. Postparietals (centrals of placoderms): (0) absent; (1) present.
 
 > Clement *et al*. (2018), Character 277; Zhu Y. *et al*. (2022), Character 139.
+> - The coding of *Eosteus* is 1.
 
 138. Condition of postparietals/centrals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140.
+> - The coding of *Eosteus* is 1.
 
 139. Suture between paired skull roofing bones: (0) straight; (1) sinusoidal.
 
 > Miles & Dennis (1979), Character 6; Giles *et al*. (2015), Character 49; Choo *et al*. (2017), Character 274; King *et al*. (2017), Character 210; Castiello (2018), Character 209; Zhu Y. *et al*. (2022), Character 141; Brazeau *et al*. (2023), Character 215.
+> - The coding of *Eosteus* is 0.
 
 140. Large unpaired median skull roofing bone anterior to the level of nasal capsules (premedian plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142; Brazeau *et al*. (2023), Character 183.
+> - The coding of *Eosteus* is ?.
 
 141. Position of premedian plate: (0) dorsal; (1) ventral.
 
 > Zhu Y. *et al*. (2022), Character 143.
+> - The coding of *Eosteus* is ?.
 
 142. Postnasal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 341; Zhu Y. *et al*. (2021), Character 310; Zhu Y. *et al*. (2022), Character 144.
+> - The coding of *Eosteus* is ?.
 
 143. Postmarginal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.
+> - The coding of *Eosteus* is 0.
 
 144. Obstantic margin of skull roof: (0) long; (1) short.
 
 > Zhu *et al*. (2016), Character 347; Zhu Y. *et al*. (2021), Character 314; Zhu Y. *et al*. (2022), Character 146.
+> - The coding of *Eosteus* is -.
 
 145. Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
+> - The coding of *Eosteus* is ?.
 
 146. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
+> - The coding of *Eosteus* is ?.
 
 147. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 345; Zhu Y. *et al*. (2021), Character 312; Zhu Y. *et al*. (2022), Character 149.
+> - The coding of *Eosteus* is 0.
 
 148. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 217.
+> - The coding of *Eosteus* is ?.
 
 149. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 164; Choo *et al*. (2017), Character 173; Zhu Y. *et al*. (2022), Character 151.
+> - The coding of *Eosteus* is 0.
 
 150. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
@@ -3371,7 +3402,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
 
-> - Brazeau *et al*. (2023): "This character is excluded from the analysis because its *scirubg* cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
+> Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
 
 > - This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 372 here) and is thus redundant.
 
@@ -3393,7 +3424,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
 
-> Related with Zhu *et al*. (2013), Character 169; overlapping Characters 557 - 561 here.
+> Related with Zhu *et al*. (2013), Character 169; overlaps Characters 557 - 561 here.
 
 ~~722. Centronuchal plate: (0) absent; (1) present.~~
 
@@ -3401,7 +3432,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
-> - This character need to be removed because it is redundant with Character 79 here.
+> This character need to be removed because it is redundant with Character 79 here.
 
 ~~723. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.~~
 
@@ -3413,7 +3444,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
 
-> - Castiello (2018): "King *et al*. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
+> Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
 
 ~~725. Anterior supraorbital canal: (0) absent; (1) present.~~
 
