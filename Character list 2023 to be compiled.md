@@ -124,7 +124,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
 
-> - The coding of *Eosteus* is 0, judging from the obvious difference from the galespid dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton.
 
 19. Extensive pore canal network: (0) absent; (1) present.
 
