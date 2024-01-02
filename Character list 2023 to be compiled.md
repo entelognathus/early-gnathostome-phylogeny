@@ -130,13 +130,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Brazeau *et al*. (2023), Character 5.
 
-> - The coding of *Eosteus* is 0, judging from the lack of pore or pore-like texture on the dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from the lack of pores or pore-like texture on the dermal skeleton.
 
 20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
 
 > Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 17.
 
-> - The coding of *Eosteus* is 0. **This should be unknown.**
+> - The coding of *Eosteus* is ?.
 
 21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
 
@@ -150,7 +150,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
 
-> - The coding of *Eosteus* is -.
+> - The coding of *Eosteus* is - (logical impossibility).
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
@@ -202,7 +202,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 142), and references therein; Zhu *et al*. (2013), Character 146; Giles *et al*. (2015), Character 236; Choo *et al*. (2017), Character 140; King *et al*. (2017), Character 470; Castiello (2018), Character 459; Zhu Y. *et al*. (2022), Character 29; Brazeau *et al*. (2023), Character 475.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?.**check, 1?**
 
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
@@ -216,9 +216,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Arratia (2009): "Fringing fulcra are defined here as paired structures associated with the leading edge of paired and/or unpaired fins. These may be swollen, spine-like, lanceolate, or distally arrow-like in shape."
 
-> - Taxa without lepidotrichia are coded as 'logical impossibility'.
+> - Taxa without lepidotrichia are coded as 'logical impossibility'. Fringing fulcra is present in *Dialipinaa* and actinopterygians, absent in sarcopterygians.
 
-> - The coding of *Eosteus* is unknown, absent or present. **(check)** 
+> - The coding of *Eosteus* is unknown. **check, 1?**
 
 32. Scute-like ridge scales (basal fulcra): (0) absent; (1) present.
 
@@ -276,7 +276,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 11; Choo *et al*. (2017), Character 10; King *et al*. (2017), Character 488; Castiello (2018), Character 478; Zhu Y. *et al*. (2022), Character 39; Brazeau *et al*. (2023), Character 493.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. **check, unknown?**
 
 39. Body scales with bulging base: (0) absent; (1) present.
 
