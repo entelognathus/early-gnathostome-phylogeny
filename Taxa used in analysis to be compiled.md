@@ -226,6 +226,8 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Minjinia turgenensis*, Pragian, Lower Devonian (Brazeau et al., 2020)
 
+> Preserving partial skull-roof and braincase (anteiror portion missing).
+
 *Nectaspis areolata*, Emsian, Lower Devonian (Janvier, 1981)
 
 *Moythomasia durgaringa*, lower Frasnian, Upper Devonian (Gardiner, 1984)
