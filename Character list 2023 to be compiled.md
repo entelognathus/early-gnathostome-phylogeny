@@ -484,6 +484,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 229; Castiello (2018), Character 228; Zhu Y. *et al*. (2022), Character 71; Brazeau *et al*. (2023), Character 234.
 
+> - Castiello (2018): "King *et al*. (2016) homologized the posterolateral extensions of the headshield present in osteostracans and in galeaspids. However, in osteostracans these extensions are related with the presence of pectoral sinus for the attachment of the pectoral fins (see Sansom, 2008). The posterolateral extensions of the headshield in galeaspids are instead non associated with paired pectoral fins and thus probably not homologous (see Zhu and Gai, 2006). For this reason, here I split the character and coding as presented in King *et al*. (2016), introducing a separated character for the posterolateral extension of Galeaspida (from Zhu and Gai 2006 character 14).“
+
+> - The homology of the posterolateral extensions of the headshield in osteostracans and galeaspids is not resolved. Here we follow Castiello (2018), but leave the issue open.
+
 > - The coding of *Eosteus* is 0.
 
 70. Corners: (0) absent; (1) present.
@@ -544,7 +548,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81.
 
-> - Castiello (2018):"This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King *et al*. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> - Castiello (2018):"This character was originally from Dupret *et al*. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King *et al*. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 
 > - The coding of *Eosteus* is 0.
 
@@ -634,7 +638,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261.
 
-> - The coding of *Eosteus* is 1. The posterior nostril is in the orbit. Check Ligulalepis
+> - The coding of *Eosteus* is 1. The posterior nostril is in the orbit. **Check *Ligulalepis***
 
 94. Lacrimal: (0) absent; (1) present.
 
@@ -714,13 +718,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. 
 
-106. Dermal bone (sarcopterygian postorbital) between jugal (suborbital) and intertemporal (postorbital): (0) absent; (1) present.
+106. Dermal bone (sarcopterygian postorbital) between jugal (placoderm suborbital) and intertemporal (placoderm postorbital): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 279; Castiello (2018), Character 273; Zhu Y. *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 284.
 
 > - The coding of *Guiyu* changed from ? to 1. 
 
-> - The coding of *Eosteus* is 0, based on the identification of the seperate plate being dermosphenotic.
+> - The coding of *Eosteus* is 0, based on the identification of the seperate plate being dermosphenotic. **check, 1**
 
 107. Lacrimal notch: (0) absent; (1) present.
 
