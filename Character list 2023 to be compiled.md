@@ -398,13 +398,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Brazeau *et al*. (2023), Character 288.
 
-> - The coding of *Eosteus* is 1. However, note that the preopercular canal is preserved as open grooves in both Eosteus and an undescribed specimen.**open groove is a plesiomorphic feature for its stem position in osteichthyans**
+> - The coding of *Eosteus* is 1. However, note that the preopercular canal is preserved as open grooves in both *Eosteus* and an undescribed specimen.
 
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Brazeau *et al*. (2023), Character 306.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. **check, unknown?**
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
@@ -472,7 +472,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 224; Castiello (2018), Character 223; Zhu Y. *et al*. (2022), Character 69; Brazeau *et al*. (2023), Character 229.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is -.
 
 68. Median dorsal opening: (0) absent; (1) present.
 
