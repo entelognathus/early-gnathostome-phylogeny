@@ -306,6 +306,8 @@ Chimaeroidei, Serpukhovian, Upper Mississippian, Carboniferous to present (Didie
 
 *Raynerius splendens*, Frasnian, Upper Devonian (Giles *et al*., 2015b)
 
+> single articulated specimen　comprises　a near-complete dermal cranium, braincase and mandibular，hyoid and gill arches
+
 *Remigolepis* spp., Famennian, Upper Devonian (Andrews, 1978)
 
 *Rhadinacanthus longispinus*, Eifelian to Givetian, Middle Devonian (Burrow *et al*., 2016)
