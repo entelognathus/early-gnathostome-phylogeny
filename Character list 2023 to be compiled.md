@@ -344,9 +344,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 48. Ventral process of scale: (0) present; (1) absent.
 
-> Cui *et al*. (2019), Character 346; Zhu Y. *et al*. (2022), Character 49.
+> Cui *et al*. (2019), Character 347; Zhu Y. *et al*. (2022), Character 49.
 
-> - The coding of *Eosteus* is 0.
+> - Cui *et al*. (2019): "The ventral process, which is the extension of the posterior ledge, has not been described till this study. Almost all fank scales of *Psarolepis* have this articulation, while only the scales from the ventral belt of *Guiyu* bear the ventral process (Fig. 3F,G and 4I), but less developed. Accordingly, the ventral process may be a synapomorphy of psarolepids (Fig. 6, node 7)."
+
+> - The coding of *Eosteus* is 0. **check, unknown?**
+
+> - **To Xingdong and You'an: The codings of this character should be checked, with comparison to those in Cui et al. (2019), and thenafter.**
 
 49. Anterodorsal process on scale: (0) absent; (1) present.
 
@@ -360,7 +364,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 50. Anterodorsal process and peg: (0) separated; (1) confluent.
 
-> Zhu Y. *et al*. (2022), Character 51.
+> Cui *et al*. (2019), Character 346; Zhu Y. *et al*. (2022), Character 51.
 
 > - The coding of *Eosteus* is ?.
 
@@ -394,7 +398,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Brazeau *et al*. (2023), Character 288.
 
-> - The coding of *Eosteus* is 1. however, note that the preopercular canal is preserved as open grooves in both Eosteus and an undescribed specimen.**open groove is a plesiomorphic feature for its stem position in osteichthyans**
+> - The coding of *Eosteus* is 1. However, note that the preopercular canal is preserved as open grooves in both Eosteus and an undescribed specimen.**open groove is a plesiomorphic feature for its stem position in osteichthyans**
 
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
