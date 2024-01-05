@@ -1,6 +1,6 @@
 # Character List: 1-688 from Zhu Y. *et al*. (2022), 689-692 from Cui *et al*. (2023); 701-714 from Brazeau *et al*. (2023).
 
-> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 261 and Character 693.
+> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 261 and Character 693.
 
 ## Skeletal tissues
 
@@ -666,9 +666,11 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
 
-> King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100 and 145; Brazeau *et al*. (2023), Character 268.
+> King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100,145 and 160; Brazeau *et al*. (2023), Character 268.
 
 > - Zhu Y. *et al*. (2022), Character 145: Postmarginal plate: (0) absent; (1) present.
+
+> - Zhu Y. *et al*. (2022), Character 160: Extratemporal: absent (0), present (1).
 
 > - This character corresponds to the postmarginal plate in placoderms and the extratemporal in osteichthyans.
 
@@ -1052,9 +1054,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. 
 
-158. Extratemporal: absent (0), present (1).
+~~158. Extratemporal: absent (0), present (1).~~
 
 > Zhu Y. *et al*. (2022), Character 160
+
 > - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors 
 
 159. Westoll-lines: (0) absent; (1) present.
