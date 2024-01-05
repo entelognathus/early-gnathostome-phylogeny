@@ -216,7 +216,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Arratia (2009): "Fringing fulcra are defined here as paired structures associated with the leading edge of paired and/or unpaired fins. These may be swollen, spine-like, lanceolate, or distally arrow-like in shape."
 
-> - Taxa without lepidotrichia are coded as 'logical impossibility'. Fringing fulcra is present in *Dialipinaa* and actinopterygians, absent in sarcopterygians.
+> - Taxa without lepidotrichia are coded as 'logical impossibility'. Fringing fulcra is present in *Dialipina* and actinopterygians, absent in sarcopterygians.
 
 > - The coding of *Eosteus* is unknown. **check, 1?**
 
