@@ -1,6 +1,6 @@
 # Character List: 1-688 from Zhu Y. *et al*. (2022), 689-692 from Cui *et al*. (2023); 701-714 from Brazeau *et al*. (2023).
 
-> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 261 and Character 693.
+> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 261 and Character 693.
 
 ## Skeletal tissues
 
@@ -664,9 +664,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0.
 
-98. Series of bones lateral to supratemporal (postmarginal plate in placoderms): (0) absent; (1) single bone; (2) two bones.
+98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
 
-> King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu Y. *et al*. (2022), Character 100; Brazeau *et al*. (2023), Character 268.
+> King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100 and 145; Brazeau *et al*. (2023), Character 268.
+
+> - Zhu Y. *et al*. (2022), Character 145: Postmarginal plate: (0) absent; (1) present.
+
+> - This character corresponds to the postmarginal plate in placoderms and the extratemporal in osteichthyans.
 
 > - Score changed from 1 to 0 for *Romundina*.
 
@@ -954,7 +958,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.
 
-143. Postmarginal plate: (0) absent; (1) present.
+~~143. Postmarginal plate: (0) absent; (1) present.~~
 
 > Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.
 
