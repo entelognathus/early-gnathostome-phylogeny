@@ -690,13 +690,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0.
 
-102. Supratemporal (marginal) in contact with postparietal (central): (0) absent; (1) present.
+102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278.
 
 > - The coding of *Eosteus* is 1.
 
-103. Supratemporal (marginal) contact with nasal (postnasal): (0) absent; (1) present.
+103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279.
 
@@ -724,7 +724,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Guiyu* changed from ? to 1. 
 
-> - The coding of *Eosteus* is 0, based on the identification of the seperate plate being dermosphenotic. **check, 1**
+> - The coding of *Eosteus* is 0.
 
 107. Lacrimal notch: (0) absent; (1) present.
 
@@ -798,7 +798,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The condition in placoderms is coded 'unavailability', although the 'postnasal plate' is likely to be equivalent of the nasal in osteichthyans. The coding for *Cheirolepis* was changed to '1', following Coates *et al*. (2018, Character 29). Unlike Coates *et al*. (2018), the coding for *Mimipiscis* and *Moythomasia* was retained as '1'.
 
-> - The coding of *Eosteus* is ?, due to a lack of detail.
+> - The coding of *Eosteus* is ?.
 
 119. Dermintermedial process: (0) absent; (1) present; Brazeau *et al*. (2023), Character 186.
 
@@ -908,7 +908,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Clement *et al*. (2018), Character 280; Zhu Y. *et al*. (2022), Character 137.
 
-> - The coding of *Eosteus* is ?. Observing on current specimen, it's diffficult to tell whether the parietal is a single plate or not, however it surely meet in the midline.
+> - The coding of *Eosteus* is ?. Observing the current specimen, it's diffficult to tell whether the parietal is a single plate or not.
 
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
