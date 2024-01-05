@@ -694,6 +694,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278.
 
+> - **The coding of *Groenlandaspis* and *Howqualepis* should be changed from 0 to 1.**
+
 > - The coding of *Eosteus* is 1.
 
 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
