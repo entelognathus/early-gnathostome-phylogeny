@@ -962,9 +962,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ~~143. Postmarginal plate: (0) absent; (1) present.~~
 
-> Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.
+~~> Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.~~
 
-> - The coding of *Eosteus* is 0.
+~~> - The coding of *Eosteus* is 0.~~
 
 144. Obstantic margin of skull roof: (0) long; (1) short.
 
@@ -1056,9 +1056,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ~~158. Extratemporal: absent (0), present (1).~~
 
-> Zhu Y. *et al*. (2022), Character 160
+~~> Zhu Y. *et al*. (2022), Character 160~~
 
-> - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors 
+~~> - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors~~
 
 159. Westoll-lines: (0) absent; (1) present.
 
@@ -2442,8 +2442,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ~~404. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.~~
 
-> Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Zhu Y. *et al*. (2022), Character 406.
-> - The coding of *Eosteus* is 1.
+~~> Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Zhu Y. *et al*. (2022), Character 406.~~
+
+~~> - The coding of *Eosteus* is 1.~~
 
 405. Orbit larger than otic capsule: (0) absent; (1) present.
 
@@ -2676,6 +2677,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 447. Articulation facet with hyomandibular: (0) single-headed; (1) double-headed.
 
 > Zhu  *et al*. (2009, Character 44) and references therein; Zhu *et al*. (2013), Character 227; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 150; King *et al*. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. *et al*. (2022), Character 449; Brazeau *et al*. (2023), Character 67.
+
 > - The coding of *Eosteus* is ?.
 
 448. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
