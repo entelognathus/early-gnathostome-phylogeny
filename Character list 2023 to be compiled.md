@@ -202,7 +202,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 142), and references therein; Zhu *et al*. (2013), Character 146; Giles *et al*. (2015), Character 236; Choo *et al*. (2017), Character 140; King *et al*. (2017), Character 470; Castiello (2018), Character 459; Zhu Y. *et al*. (2022), Character 29; Brazeau *et al*. (2023), Character 475.
 
-> - The coding of *Eosteus* is ?.**check, 1?**
+> - The coding of *Eosteus* is 0.
 
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
@@ -218,7 +218,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Taxa without lepidotrichia are coded as 'logical impossibility'. Fringing fulcra is present in *Dialipina* and actinopterygians, absent in sarcopterygians.
 
-> - The coding of *Eosteus* is unknown. **check, 1?**
+> - The coding of *Eosteus* is ?.
 
 32. Scute-like ridge scales (basal fulcra): (0) absent; (1) present.
 
@@ -276,7 +276,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 11; Choo *et al*. (2017), Character 10; King *et al*. (2017), Character 488; Castiello (2018), Character 478; Zhu Y. *et al*. (2022), Character 39; Brazeau *et al*. (2023), Character 493.
 
-> - The coding of *Eosteus* is 1. **check, unknown?**
+> - The coding of *Eosteus* is ?.
 
 39. Body scales with bulging base: (0) absent; (1) present.
 
@@ -348,9 +348,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Cui *et al*. (2019): "The ventral process, which is the extension of the posterior ledge, has not been described till this study. Almost all fank scales of *Psarolepis* have this articulation, while only the scales from the ventral belt of *Guiyu* bear the ventral process (Fig. 3F,G and 4I), but less developed. Accordingly, the ventral process may be a synapomorphy of psarolepids (Fig. 6, node 7)."
 
-> - The coding of *Eosteus* is 0. **check, unknown?**
-
-> - **To Xingdong and You'an: The codings of this character should be checked, with comparison to those in Cui et al. (2019), and thenafter.**
+> - The coding of *Eosteus* is ?.
 
 49. Anterodorsal process on scale: (0) absent; (1) present.
 
@@ -392,7 +390,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 29; Choo *et al*. (2017), Character 265; King *et al*. (2017), Character 205; Castiello (2018), Character 204; Zhu Y. *et al*. (2022), Character 56; Brazeau *et al*. (2023), Character 210.
 
-> - The coding of *Eosteus* is 1, linear ornamentation. **(check)**
+> - The coding of *Eosteus* is 1, linear ornamentation.
 
 55. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
@@ -404,7 +402,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Brazeau *et al*. (2023), Character 306.
 
-> - The coding of *Eosteus* is 0. **check, unknown?**
+> - The coding of *Eosteus* is ?.
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
@@ -638,7 +636,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261.
 
-> - The coding of *Eosteus* is 1. The posterior nostril is in the orbit. **Check *Ligulalepis***
+> - The coding of *Eosteus* is 1. The posterior nostril is in the orbit. *Ligulalepis* changed from ? to 1, same as Eosteus*.
 
 94. Lacrimal: (0) absent; (1) present.
 
