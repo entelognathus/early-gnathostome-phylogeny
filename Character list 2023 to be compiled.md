@@ -130,7 +130,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Brazeau *et al*. (2023), Character 5.
 
-> - The coding of *Eosteus* is 0, judging from the lack of pores or pore-like texture on the dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from lack of pores or pore-like texture on the surface of the dermal skeleton.
 
 20. Resorption and redeposition of odontodes of dermal plates: (0) lacking or partially developed; (1) developed.
 
@@ -675,7 +675,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - This character corresponds to the postmarginal plate in placoderms and the extratemporal in osteichthyans.
 
 > - Score changed from 1 to 0 for *Romundina*.
-
+> - **check codings in antiarchs**
 > - The coding of *Eosteus* is 0.
 
 99. Pore clusters: (0) absent; (1) present.
@@ -700,7 +700,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278.
 
-> - **The coding of *Groenlandaspis* and *Howqualepis* should be changed from 0 to 1.**
+> - The coding of *Groenlandaspis* and *Howqualepis* changed from 0 to 1.
 
 > - The coding of *Eosteus* is 1.
 
@@ -970,31 +970,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - The coding of *Eosteus* is ?. **should be 0.**
+> - The coding of *Eosteus* is 0.
 
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
 
-> - The coding of *Eosteus* is ?. **should be -.**
+> - The coding of *Eosteus* is -.
 
 146. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 345; Zhu Y. *et al*. (2021), Character 312; Zhu Y. *et al*. (2022), Character 149.
 
-> - The coding of *Eosteus* is 0. **should be -.**
+> - The coding of *Eosteus* is -. 
 
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 217.
 
-> - The coding of *Eosteus* is ?. **should be -.**
+> - The coding of *Eosteus* is -. 
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 164; Choo *et al*. (2017), Character 173; Zhu Y. *et al*. (2022), Character 151.
 
-> - The coding of *Eosteus* is 0. **should be -.**
+> - The coding of *Eosteus* is -. 
 
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
@@ -1054,7 +1054,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 273.
 
-> - The coding of *Eosteus* is -. **should be 0.**
+> - The coding of *Eosteus* is -. 
 
 158. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
@@ -1564,7 +1564,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Hanke & Wilson (2004): Character 13 - Dentigerous jaw element on Meckel's cartilage; Character 14 - Dentigerous jaw element on palatoquarate. In *Ischnacanthus gracilis*.
 
-> - The coding of *Eosteus* is 1, judging from maxilla condition. **should be 0.**
+> - The coding of *Eosteus* is 0. 
 
 239. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
