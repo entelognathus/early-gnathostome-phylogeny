@@ -132,13 +132,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0, judging from the lack of pores or pore-like texture on the dermal skeleton.
 
-20. Resorption and redeposition of odontodes: (0) lacking or partially developed; (1) developed.
+20. Resorption and redeposition of odontodes of dermal plates: (0) lacking or partially developed; (1) developed.
 
 > Zhu *et al*. (2009, Character 148), and references therein; Zhu *et al*. (2013), Character 139; Choo *et al*. (2017), Character 157; King *et al*. (2017), Character 14; Castiello (2018), Character 14; Zhu Y. *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 17.
 
+> - Considering the potential differences of histological details between dermal plates and scales, this character refers to the dermal plates specifically. The odontode condition in body scales is defined with a new character, Characters 694.
+
 > - The coding of *Eosteus* is ?.
 
-21. Generations of odontodes: (0) buried; (1) areally growing; (2) resorbed.
+21. Generations of odontodes of dermal plates: (0) buried; (1) areally growing; (2) resorbed.
 
 > Zhu Y. *et al*. (2021), Character 17; Zhu Y. *et al*. (2022), Character 21.
 
@@ -4425,20 +4427,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 
-> - New character. This character is relative to revised character 20 "Resorption and redeposition of odontodes of dermal bones". The conditions of odontodes of dermal bones and body scales may different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
+> - New character. This character is relative to Character 20 "Resorption and redeposition of odontodes of dermal plates". The conditions of odontodes of dermal bones and body scales may be different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
 
 > - The coding of *Eosteus* is ?.
 
 695. Buried odontodes of body scales: (0) absent, (1) present.
 
-> - New character. This character is relative to revised character 21 "Generations of odontodes".
+> - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 
 > - The coding of *Eosteus* is ?.
 
 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
-> - The coding of *Eosteus* is ?.
 
-> - New character.
+> - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
+
+> - The coding of *Eosteus* is ?.
 
 ## Included in Brazeau et al. (2023)
 697. Laminar basal layer: (0) absent; (1) present.
