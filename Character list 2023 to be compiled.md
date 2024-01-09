@@ -640,7 +640,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261.
 
-> - The coding of *Eosteus* is 1. Its posterior nostril is in the orbit. *Ligulalepis* changed from ? to 1, same as *Eosteus*.
+> - The coding of *Eosteus* is 1. Its posterior nostril is in the orbit. *Ligulalepis* and *Brindabellaspis* changed from ? to 1, same as *Eosteus*.
 
 94. Lacrimal: (0) absent; (1) present.
 
@@ -1006,7 +1006,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 157; Choo *et al*. (2017), Character 167; King *et al*. (2017), Character 185; Castiello (2018), Character 182; Zhu Y. *et al*. (2022), Character 153; Brazeau *et al*. (2023), Character 191.
 
-> - The lateral plate is a synapomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic). 
+> - The lateral plate is a syanpomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic). 
 
 > - The coding of *Eosteus* is 0.
 
@@ -1162,7 +1162,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu Y. *et al*. (2022), Character 179.
 
-> - The coding of *Eosteus* is 0, as in *Janusiscus*. **check**
+> - The coding of *Eosteus* is 0, as in *Janusiscus*. Note that the charater definition only when the posterior ends meet in the midline the coding is 1. 
 
 176. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
@@ -1704,7 +1704,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 76), and references therein; Zhu *et al*. (2013), Character 177; Choo *et al*. (2017), Character 184; King *et al*. (2017), Character 199; Castiello (2018), Character 198; Zhu Y. *et al*. (2022), Character 265; Brazeau *et al*. (2023), Character 204.
 
-> - The coding of *Eosteus* is 1. **check**
+> - The coding of *Eosteus* is 0.
 
 262. Premaxilla forming part of orbit: (0) absent; (1) present.
 
@@ -4490,11 +4490,11 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1.
 
-705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
+705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
 
-> - The coding of *Eosteus* is ?. **check**
+> - The coding of *Eosteus* is 0, same to actinopterygians and Onychodus. Note that the previous definition is reversed to be consistent with the matrix. Coding of Megamastax changed from ? to 0.
 
 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
@@ -4529,6 +4529,18 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
 
 > - The coding of *Eosteus* is ?.
+
+711. Flank scales dorsoventrally long, plank-like, with a height/width ratio over 4: (0) absent; (1) present.
+
+> New character
+
+> - The coding of *Eosteus* is 1. Ligulalepis, Guiyu and Sparalepis are also coded as 1.
+
+712. Jaw joint reaching or extended posterior to the skull roof or neurocranium: (0) absent; (1) present.
+
+> New character
+
+> - The coding of *Eosteus* is 1.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
