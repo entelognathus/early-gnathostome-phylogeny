@@ -2266,15 +2266,28 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 353. Basihyal: (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 37; Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
+> Davis *et al*. (2012), Character 37; Giles *et al*. (2015), Character 143;Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Brazeau *et al*. (2023), Character 144.
 
 > - **check state formualation in DFC37**, error in later datasets?
 > - Davis *et al*. (2012): "Basihyal, present (0); absent, hyoid arch articulates directly with basibranchial (1). Basihyals are known in chondrichthyans (Zangerl & Case 1976; Didier 1995; Grogan & Lund 2000: the glossohyal reported in *Debeerius* is indistinguishable from a basihyal) and placoderms (Ritchie 2005; Long 1997). Direct articulation between the hyoid arch and one or more basibranchials (where a basihyal is absent) occurs in *Acanthodes* and osteichthyans (Nelson 1968; Miles 1973b; Gardiner 1984: alternative reconstructions of *Acanthodes* gill arches consistently show no basihyal). The polarity of this character is questionable, given the poverty of branchial arch data in early gnathostomes. Friedman & Brazeau (2010) discuss hypohyal presence as a possible osteichthyan synapomorphy, but predetermine the hypohyals of *Debeerius* (Grogan & Lund 2000) as independently derived, and offer no comment on the hypohyal of *Cobelodus* (Zangerl & Case 1976). *Acanthodes* lacks a hypohyal."
 >
-> **Checked**
-> - Brazeau *et al*. (2023): present (0) for *Acanthodes*.
-
+> - Brazeau *et al*. (2023): present (0) for *Acanthodes* after Dearden *et al*. (2019) (When contextualised Ptomacanthus displays a combination of derived and plesiomorphic pharyngeal traits (Fig. 4). The presence of a basihyal contacting the hyoid and first branchial arch, and the absence of hypohyals and a mineralised posterior basibranchial adds credence to the reconstruction of Acanthodes by Gardiner, which displays identical conditions30. These states occur in both the chondrichthyan stem-group and in the gnathostome stem-group21 suggesting that these morphologies of the ventral pharynx were likely present at the gnathostome crownnode (Fig. 4). )
+> - 
 > - The coding of *Eosteus* is ?.
+> - 
+> **Checked**
+> - Davis *et al*. (2012) coded *Acanthodes* and osteichthyans (*Eusthenopteron*, *Gogonasus*, *Mimia*,) as 1 (absent), and coded chondrichthyans as 0 (present). (**the state is revised**). Choo *et al*. (2017), King *et al*. (2017), Castiello (2018) followed this and coded some placoderms as 0 (present).
+> - 
+> - Giles *et al*. (2015) coded  and coded sarcopterygians (*Eusthenopteron foordi*, *Glyptolepis groenlandica*, *Onychodus jandemarrai*, *Porolepis sp.*) and chondrichthyan (*Ozarcus mapesae*) as 0 (absent), and coded actinopterygians (*Mimipiscis bartrami*, *Mimipiscis toombsi*, *Moythomasia durgaringa*,*Pteronisculus stensioi*, *Raynerius splendens*) as 1 (present). They might revised the states and miscoded the sarcopterygians or actinopterygians.
+>
+> - **The following codings are changed because they are incorrectly coded when combining the matrix.**
+> - The coding of *Cowralepis mclachlani* is changed from 0 to 1.
+> - The coding of *Campbellodus decipiens* is changed from 0 to 1.
+> - The coding of *Austroptyctodus gardineri* is changed from 0 to 1.
+> - The coding of *Raynerius splendens* is changed from 1 to 0.
+> - The coding of *Mimipiscis toombsi* is changed from 1 to 0.
+> - The coding of *Moythomasia durgaringa* is changed from 1 to 0.
+> - The coding of *Gogonasus andrewsae* is changed from 1 to 0.
 
 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
