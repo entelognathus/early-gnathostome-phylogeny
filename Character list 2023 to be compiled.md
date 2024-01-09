@@ -972,7 +972,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - The coding of *Eosteus* is ?. **should be 1.**
+> - The coding of *Eosteus* is ?. **should be 0.**
 
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
