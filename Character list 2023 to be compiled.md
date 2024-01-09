@@ -2279,7 +2279,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Davis *et al*. (2012) coded *Acanthodes* and osteichthyans (*Eusthenopteron*, *Gogonasus*, *Mimia*,) as 1 (absent), and coded chondrichthyans as 0 (present). (**the state is revised**). Choo *et al*. (2017), King *et al*. (2017), Castiello (2018) followed this and coded some placoderms as 0 (present).
 > - 
 > - Giles *et al*. (2015) coded  and coded sarcopterygians (*Eusthenopteron foordi*, *Glyptolepis groenlandica*, *Onychodus jandemarrai*, *Porolepis sp.*) and chondrichthyan (*Ozarcus mapesae*) as 0 (absent), and coded actinopterygians (*Mimipiscis bartrami*, *Mimipiscis toombsi*, *Moythomasia durgaringa*,*Pteronisculus stensioi*, *Raynerius splendens*) as 1 (present). They might revised the states and miscoded the sarcopterygians or actinopterygians.
-> 
+> - 
+> - The coding of *Cowralepis mclachlani* is changed from 0 to 1.
+> - The coding of *Campbellodus decipiens* is changed from 0 to 1.
+> - The coding of *Austroptyctodus gardineri* is changed from 0 to 1.
+> - The coding of *Raynerius splendens* is changed from 1 to 0.
+> - The coding of *Mimipiscis toombsi* is changed from 1 to 0.
+> - The coding of *Moythomasia durgaringa* is changed from 1 to 0.
+> - The coding of *Gogonasus andrewsae* is changed from 1 to 0.
 
 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
