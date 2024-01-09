@@ -592,7 +592,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 246; Castiello (2018), Character 245; Zhu Y. *et al*. (2022), Character 88; Brazeau *et al*. (2023), Character 251.
 
-> - The coding of *Eosteus* is 0, following other osteichthyans.
+> - The coding of *Eosteus* is 0.
 
 87. Preorbital recess: (0) absent; (1) present.
 
@@ -600,43 +600,43 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Score changed from 0 to 1 for *Minicrania lirouyii* (Zhu and Janvier, 1996).
 
-> - The coding of *Eosteus* is 0, following other osteichthyans.
+> - The coding of *Eosteus* is 0.
 
 88. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
 
 > King *et al*. (2017), Character 248; Castiello (2018), Character 247; Zhu Y. *et al*. (2022), Character 90; Brazeau *et al*. (2023), Character 253.
 
-> - The coding of *Eosteus* is -, following other osteichthyans.
+> - The coding of *Eosteus* is -.
 
 89. Submarginal articulation: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 250; Castiello (2018), Character 249; Zhu Y. *et al*. (2022), Character 91; Brazeau *et al*. (2023), Character 255.
 
-> - The coding of *Eosteus* is 0, following other osteichthyans.
+> - The coding of *Eosteus* is 0.
 
 90. Prelateral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 251; Castiello (2018), Character 250; Zhu Y. *et al*. (2022), Character 92; Brazeau *et al*. (2023), Character 256.
 
-> - The coding of *Eosteus* is 0, following other osteichthyans.
+> - The coding of *Eosteus* is 0.
 
 91. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 257.
 
-> - The coding of *Eosteus* is 0, following other osteichthyans.
+> - The coding of *Eosteus* is 0.
 
 92. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 259.
 
-> - The coding of *Eosteus* is ?, following other osteichthyans.
+> - The coding of *Eosteus* is ?.
 
 93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261.
 
-> - The coding of *Eosteus* is 1. The posterior nostril is in the orbit. *Ligulalepis* changed from ? to 1, same as Eosteus*.
+> - The coding of *Eosteus* is 1. Its posterior nostril is in the orbit. *Ligulalepis* changed from ? to 1, same as *Eosteus*.
 
 94. Lacrimal: (0) absent; (1) present.
 
@@ -667,9 +667,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100,145 and 160; Brazeau *et al*. (2023), Character 268.
 
 > - Zhu Y. *et al*. (2022), Character 145: Postmarginal plate: (0) absent; (1) present.
-
 > - Zhu Y. *et al*. (2022), Character 160: Extratemporal: absent (0), present (1).
-
 > - This character corresponds to the postmarginal plate in placoderms and the extratemporal in osteichthyans.
 
 > - Score changed from 1 to 0 for *Romundina*.
@@ -714,7 +712,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - *Buchanosteus confertituberculatus* is coded 1 (Young, 1979).
 
-> - The coding of *Eosteus* is ?, due to a lack of cheek information.
+> - The coding of *Eosteus* is ?, due to lack of cheek information.
 
 105. Accessory operculum: (0) absent; (1) present.
 
@@ -812,7 +810,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The process seems present in *Ligulalepis*. The presence should be a plesiomorphy for osteichthyans.
 
-> - The coding of *Eosteus* is ?, due to a lack of nostril detail.
+> - The coding of *Eosteus* is ?, due to lack of nostril detail.
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
@@ -974,31 +972,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. **should be 1.**
 
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. **should be -.**
 
 146. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 345; Zhu Y. *et al*. (2021), Character 312; Zhu Y. *et al*. (2022), Character 149.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. **should be -.**
 
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 217.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. **should be -.**
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 164; Choo *et al*. (2017), Character 173; Zhu Y. *et al*. (2022), Character 151.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. **should be -.**
 
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
@@ -1016,7 +1014,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 162; Choo *et al*. (2017), Character 171; King *et al*. (2017), Character 189; Castiello (2018), Character 187; Zhu Y. *et al*. (2022), Character 154; Brazeau *et al*. (2023), Character 195.
 
-> - The coding of *Eosteus* is ?, the extrascapulars are not seen.
+> - The coding of *Eosteus* is ?, as the extrascapulars are not seen.
 
 152. Median paranuchal plate: (0) absent; (1) present.
 
@@ -1062,7 +1060,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 273.
 
-> - The coding of *Eosteus* is -, following other non-sarcopterygian osteichthyans.
+> - The coding of *Eosteus* is -. **should be 0.**
 
 158. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
@@ -1074,73 +1072,73 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 160. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
 > Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 161. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
 > Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 162. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
 > Zhu  *et al*. (2009, Character 108), and references therein; Zhu *et al*. (2013), Character 186; Choo *et al*. (2017), Character 191; King *et al*. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. *et al*. (2022), Character 166; Brazeau *et al*. (2023), Character 294.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 163. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
 > Zhu *et al*. (2013), Character 166; Choo *et al*. (2017), Character 175; Zhu Y. *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 290.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 164. Ethmoid commissure: (0) absent; (1) present.
 
 > Castiello (2018), Character 311; Zhu Y. *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 325.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observet. 
 
 165. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 166. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
 > Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 
-> - The coding of *Eosteus* is ?. details of skull roof surface structrue is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 167. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301.
 
-> - The coding of *Eosteus* is ?. details in this region is very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
 
 168. Postmarginal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 320.
 
-> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent. 
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. 
 
 169. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
 > Zhu *et al*. (2016), Character 349; Zhu Y. *et al*. (2021), Character 315; Zhu Y. *et al*. (2022), Character 173.
 
-> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent.
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe.
 
 170. Central sensory line: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 350; Zhu Y. *et al*. (2021), Character 316; King *et al*. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. *et al*. (2022), Character 174; Brazeau *et al*. (2023), Character 317.
 
-> - The coding of *Eosteus* is ?. most of the sensory lines are very difficult to observe, to avoid overlooking we code ? unknown instead of 0 absent.
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe.
 
 171. Supraorbital sensory canals: (0) absent; (1) present.
 
@@ -1152,7 +1150,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 109), and references therein; Zhu *et al*. (2013), Character 187; Choo *et al*. (2017), Character 192; King *et al*. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 295.
 
-> - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to identify.
+> - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to be identified.
 
 173. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
@@ -1170,7 +1168,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu Y. *et al*. (2022), Character 179.
 
-> - The coding of *Eosteus* is 0, following Janusiscus, but the canal actually coverges, just not meet.
+> - The coding of *Eosteus* is 0, as in *Janusiscus*. **check**
 
 176. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
@@ -1284,7 +1282,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 317; Castiello (2018), Character 308; Zhu Y. *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 322.
 
-> - The coding of *Eosteus* is ?. The detail of  otic canal is difficult to see.
+> - The coding of *Eosteus* is ?, as the detail of the otic canal is difficult to observe.
 
 193. Supraoral canal: (0) absent; (1) present.
 
@@ -1378,7 +1376,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1.
 
-208. Foramina (similar to infradentary foramina) on cheek bones: (0)  absent; (1) present.
+208. Foramina (similar to infradentary foramina) on cheek bones: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
  
@@ -1418,7 +1416,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 54; Choo *et al*. (2017), Character 278; King *et al*. (2017), Character 214; Castiello (2018), Character 213; Zhu Y. *et al*. (2021), Character 52; Zhu Y. *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 219.
 
-> - Giles *et al*. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State \'0\' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.” 
+> - Giles *et al*. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State '0' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.” 
 
 > - The coding of *Eosteus* is 0.
 
@@ -1563,6 +1561,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 237. Oral dermal tubercles patterned in organised rows (teeth): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 76; Zhu Y. *et al*. (2022), Character 241.
+
 > - The coding of *Eosteus* is ?.
 
 238. Teeth ankylosed to dermal bones: (0) absent; (1) present.
@@ -1571,7 +1570,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Hanke & Wilson (2004): Character 13 - Dentigerous jaw element on Meckel's cartilage; Character 14 - Dentigerous jaw element on palatoquarate. In *Ischnacanthus gracilis*.
 
-> - The coding of *Eosteus* is 1, judging from maxilla condition
+> - The coding of *Eosteus* is 1, judging from maxilla condition. **should be 0.**
 
 239. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
@@ -1583,7 +1582,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 74), and references therein; Zhu *et al*. (2013), Character 198; Choo *et al*. (2017), Character 202; King *et al*. (2017), Character 202; Castiello (2018), Character 201; Zhu Y. *et al*. (2022), Character 244; Brazeau *et al*. (2023), Character 207.
 
-> - The coding of *Eosteus* is ?. Whether the dentition is rows of denticles or monolinear tooth row is not seen.
+> - The coding of *Eosteus* is ?, as whether the dentition is rows of denticles or monolinear tooth row is not seen.
 
 241. Dermal plates on mesial (lingual) surfaces of Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
@@ -1636,11 +1635,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 249. Number of infradentaries: (0) one; (1) two; (2) more than 2.
 
 > King *et al*. (2017), Character 381; Castiello (2018), Character 370; Zhu Y. *et al*. (2022), Character 253; Brazeau *et al*. (2023), Character 386.
+
 > - The coding of *Eosteus* is ?.
 
 250. Number of fang pairs on posterior coronoid: (0) none; (1) one; (2) two.
 
 > King *et al*. (2017), Character 383; Castiello (2018), Character 372; Zhu Y. *et al*. (2022), Character 254; Brazeau *et al*. (2023), Character 388.
+
 > - The coding of *Eosteus* is ?.
 
 251. Teeth radial rows on prearticular: (0) absent; (1) present.
@@ -1685,7 +1686,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0.
 
-258. Maxilla and premaxilla sensu lato (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
+258. Maxilla and premaxilla *sensu lato* (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 92; Zhu Y. *et al*. (2022), Character 262.
 
@@ -1697,7 +1698,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the the premaxilla *sensu stricto* (Character 690).
 
-> - The coding of *Eosteus* is ?, not sure whether the palatal lamina is present.
+> - The coding of *Eosteus* is ?, as we are not sure whether the palatal lamina is present.
 
 260. Tooth-bearing median rostral: (0) absent; (1) present.
 
@@ -1709,7 +1710,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 76), and references therein; Zhu *et al*. (2013), Character 177; Choo *et al*. (2017), Character 184; King *et al*. (2017), Character 199; Castiello (2018), Character 198; Zhu Y. *et al*. (2022), Character 265; Brazeau *et al*. (2023), Character 204.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. **check**
 
 262. Premaxilla forming part of orbit: (0) absent; (1) present.
 
@@ -1863,25 +1864,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.
 
-287. Number of coronoids (sensu lato): (0) more than three; (1) three.
+287. Number of coronoids (*sensu lato*): (0) more than three; (1) three.
 
 > Lu  *et al*. (2012), Character 145; Zhu *et al*. (2013), Character 201; Giles *et al*. (2015), Character 106; Choo *et al*. (2017), Character 147; King *et al*. (2017), Character 344; Castiello (2018), Character 336; Zhu Y. *et al*. (2022), Character 291; Brazeau *et al*. (2023), Character 349.
 
-> - This also refers to the coronoids (sensu lato).
-
 > - The coding of *Eosteus* is ?.
 
-288. Fangs of coronoids (sensu lato): (0) absent; (1) present.
+288. Fangs of coronoids (*sensu lato*): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
 
 > - The coding of *Eosteus* is ?.
 
-289. Dentition on coronoids (sensu lato): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
+289. Dentition on coronoids (*sensu lato*): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
 > Zhu *et al*. (2001), Zhu and Yu (2002), Character 70; Friedman (2007), Character 58; Zhu *et al*., 2009, Character 95; Zhu *et al*. (2013), Character 203; King *et al*. (2017), Character 348; Castiello (2018), Character 340; Zhu Y. *et al*. (2022), Character 293; Brazeau *et al*. (2023), Character 353.
-
-> - This refers to the coronoids (sensu lato).
 
 > - Also formulated as "Marginal denticle band on coronoids: (0) broad band, at least posteriorly; (1) narrow band with 2-4 denticle rows."
 
@@ -2016,6 +2013,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 311. Tooth families/whorls: (0) restricted to symphysial region; (1) distributed along jaw margin.
 
 > Coates *et al*. (2018), Character 83; Zhu Y. *et al*. (2022), Character 315.
+
 > - The coding of *Eosteus* is ?.
 
 312. Number of tooth families/whorls per jaw ramus: (0) 15 or fewer; (1) 20 or more.
@@ -2672,6 +2670,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 414. Postorbital process articulates with palatoquadrate: (0) absent; (1) present.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis *et al*. (2012), Character 81; Choo *et al*. (2017), Character 80; King *et al*. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. *et al*. (2022), Character 419; Brazeau *et al*. (2023), Character 46.
+
 > - The coding of *Eosteus* is ?.
 
 415. Postorbital process and arcade: (0) short and deep - width not more than maximum braincase width (excluding arcade); (1) process and arcade wide - width exceeds maximum width of braincase, and anteroposteriorly narrow; (2) process and arcade massive; (3) arcade forms postorbital pillar.
@@ -2695,6 +2694,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 418. Jugular canal diameter: (0) small; (1) large; (2) canal absent.
 
 > Coates *et al*. (2018), Character 146; Zhu Y. *et al*. (2022), Character 423.
+
 > - The coding of *Eosteus* is ?.
 
 419. Jugular canal: (0) long (invested in otic region along length of skeletal labyrinth); (1) short (restricted to region anterior of skeletal labyrinth); (2) absent (jugular vein uninvested in otic region).
@@ -2746,6 +2746,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 426. Subpituitary fenestra: (0) absent; (1) present.
 
 > Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 64; Choo *et al*. (2017), Character 63; King *et al*. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. *et al*. (2022), Character 431; Brazeau *et al*. (2023), Character 31.
+
 > - The coding of *Eosteus* is ?.
 
 427. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present
@@ -2786,6 +2787,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 433. Hyoid ramus of facial nerve exits through posterior jugular opening: (0) absent; (1) present.
 
 > Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 70; Choo *et al*. (2017), Character 69; King *et al*. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. *et al*. (2022), Character 438; Brazeau *et al*. (2023), Character 36.
+
 > - The coding of *Eosteus* is ?.
 
 434. Ascending basisphenoid pillar pierced by common internal carotid: (0) absent; (1) present.
@@ -2809,6 +2811,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 437. Basipterygoid process (basal articulation) with vertically oriented component: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 83; Choo *et al*. (2017), Character 82; King *et al*. (2017), Character 45; Castiello (2018), Character 45; Zhu Y. *et al*. (2022), Character 442; Brazeau *et al*. (2023), Character 48.
+
 > - The coding of *Eosteus* is ?.
 
 438. Expanded articular area anterior to basipterygoid process: (0) absent; (1) present.
@@ -2882,6 +2885,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 448. Relative position of jugular groove and hyomandibular articulation: (0) hyomandibula dorsal or same level (i.e. on bridge); (1) jugular vein passing dorsal or lateral to hyomandibula.
 
 > Choo *et al*. (2017), Character 324; Zhu Y. *et al*. (2022), Character 454; Brazeau *et al*. (2023), Character 93.
+
 > - The coding of *Eosteus* is ?.
 
 449. Hyomandibular facets where they straddle the jugular vein: (0) narrowly separated; (1) widely separated.
@@ -3039,6 +3043,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 474. Endolymphatic duct distal direction in lateral view: (0) posteriorly directed; (1) vertically directed.
 
 > Zhu Y. *et al*. (2021), Character 339; Zhu Y. *et al*. (2022), Character 480.
+
 > - The coding of *Eosteus* is ?.
 
 475. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
@@ -3250,11 +3255,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 507. Rostral processes: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 99; Castiello (2018), Character 102; Zhu Y. *et al*. (2022), Character 513; Brazeau *et al*. (2023), Character 103.
+
 > - The coding of *Eosteus* is ?.
 
 508. Median rostral dorsal process of the braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 100; Castiello (2018), Character 103; Zhu Y. *et al*. (2022), Character 514; Brazeau *et al*. (2023), Character 105.
+
 > - The coding of *Eosteus* is ?.
 
 509. Posttemporal fossae: (0) absent; (1) present.
@@ -3262,42 +3269,49 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110; Brazeau *et al*. (2023), Character 110.
 
 > - Brazeau *et al*. (2023): "This character also cannot be considered independent of the presence of a dorsal ridge. However, it will be retained provisionally."
+
 > - The coding of *Eosteus* is ?.
 
 510. Rostral organ: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111.
+
 > - The coding of *Eosteus* is ?.
 
 511. Prespiracular dental plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 108; Castiello (2018), Character 108; Zhu Y. *et al*. (2022), Character 517; Brazeau *et al*. (2023), Character 112.
+
 > - The coding of *Eosteus* is ?.
 
 512. Suprapterygoid process: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 109; Castiello (2018), Character 109; Zhu Y. *et al*. (2022), Character 518; Brazeau *et al*. (2023), Character 113.
+
 > - The coding of *Eosteus* is ?.
 
 513. Processus supraorbitalis lateralis: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 110; Castiello (2018), Character 110; Zhu Y. *et al*. (2022), Character 519; Brazeau *et al*. (2023), Character 114.
+
 > - The coding of *Eosteus* is ?.
 
 514. Anterolateral fenestra in roof of otoccipital: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 111; Castiello (2018), Character 111; Zhu Y. *et al*. (2022), Character 520; Brazeau *et al*. (2023), Character 115.
-> - The coding of *Eosteus* is ?.
+
 > - The coding of *Eosteus* is ?.
 
 515. Ventral cranial fissure connects with vestibular fontanelles: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 112; Castiello (2018), Character 112; Zhu Y. *et al*. (2022), Character 521; Brazeau *et al*. (2023), Character 116.
+
 > - The coding of *Eosteus* is ?.
 
 516. Bar across spiracular groove: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 113; Castiello (2018), Character 113; Zhu Y. *et al*. (2022), Character 522; Brazeau *et al*. (2023), Character 117.
+
 > - The coding of *Eosteus* is ?.
 
 517. Hypophysial opening in braincase: (0) absent; (1) present.
@@ -3305,66 +3319,79 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. *et al*. (2022), Character 523; Brazeau *et al*. (2023), Character 118.
 
 > ***Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).**
+
 > - The coding of *Eosteus* is ?.
 
 518. Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
 
 > Castiello (2018), Character 115; Zhu Y. *et al*. (2022), Character 524.
+
 > - The coding of *Eosteus* is ?.
 
 519. Ventral rounded processes on preotic part of braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 116; Castiello (2018), Character 118; Zhu Y. *et al*. (2022), Character 525; Brazeau *et al*. (2023), Character 120.
+
 > - The coding of *Eosteus* is ?.
 
 520. Notochord short, ending at the occipital cotylus: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 120; Castiello (2018), Character 122; Zhu Y. *et al*. (2022), Character 526; Brazeau *et al*. (2023), Character 124.
+
 > - The coding of *Eosteus* is ?.
 
 521. Accessory processes extend from ventral surface of nasal capsule: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 124; Castiello (2018), Character 123; Zhu Y. *et al*. (2022), Character 527; Brazeau *et al*. (2023), Character 128.
+
 > - The coding of *Eosteus* is ?.
 
 522. Internal carotid meets efferent pseudobranchial in orbit: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 125; Castiello (2018), Character 124; Zhu Y. *et al*. (2022), Character 528; Brazeau *et al*. (2023), Character 129.
+
 > - The coding of *Eosteus* is ?.
 
 523. Jugular vein passes through cranioquadrate passage: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 126; Castiello (2018), Character 125; Zhu Y. *et al*. (2022), Character 529; Brazeau *et al*. (2023), Character 130.
+
 > - The coding of *Eosteus* is ?.
 
 524. Anterior margin of ventral fissure: (0) straight; (1) sinusoidal.
 
 > King *et al*. (2017), Character 126; Castiello (2018), Character 126; Zhu Y. *et al*. (2022), Character 530; Brazeau *et al*. (2023), Character 131.
+
 > - The coding of *Eosteus* is ?.
 
 525. Bulbous otic and auxiliary condyles for palatoquadrate articulation: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 128; Castiello (2018), Character 127; Zhu Y. *et al*. (2022), Character 531; Brazeau *et al*. (2023), Character 132.
+
 > - The coding of *Eosteus* is ?.
 
 526. Basal fenestra opening into floor of orbit: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 129; Castiello (2018), Character 128; Zhu Y. *et al*. (2022), Character 532; Brazeau *et al*. (2023), Character 133.
+
 > - The coding of *Eosteus* is ?.
 
 527. Nasal sacs: (0) unpaired; (1) paired.
 
 > King *et al*. (2017), Character 130; Castiello (2018), Character 129; Zhu Y. *et al*. (2022), Character 533; Brazeau *et al*. (2023), Character 134.
+
 > - The coding of *Eosteus* is ?.
 
 528. 4 carotid foramina in parasphenoid: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 138; Castiello (2018), Character 137; Zhu Y. *et al*. (2022), Character 534; Brazeau *et al*. (2023), Character 142.
+
 > - The coding of *Eosteus* is ?.
 
 529. Parotic dental plates: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 139; Castiello (2018), Character 138; Zhu Y. *et al*. (2022), Character 535; Brazeau *et al*. (2023), Character 143.
+
 > - The coding of *Eosteus* is ?.
 
 530. Branchial ridges: (0) present; (1) reduced to vagal process; (2) absent (articulation made with bare cranial wall).
@@ -3372,21 +3399,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Giles *et al*. (2015), Character 166; Choo *et al*. (2017), Character 302; King *et al*. (2017), Character 84; Castiello (2018), Character 86; Zhu Y. *et al*. (2022), Character 536; Brazeau *et al*. (2023), Character 88.
 
 > - Giles *et al*. (2015): "Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branche of the vagus (X) nerve and bear facets for the branchial arches. They can also pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
+
 > - The coding of *Eosteus* is ?.
 
 531. Periotic process: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 156; King *et al*. (2017), Character 117; Castiello (2018), Character 119; Zhu Y. *et al*. (2022), Character 537; Brazeau *et al*. (2023), Character 121.
+
 > - The coding of *Eosteus* is ?.
 
 532. Sub-otic occipital fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 163; Zhu Y. *et al*. (2022), Character 538.
+
 > - The coding of *Eosteus* is ?.
 
 533. Postotic process: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 165; Zhu Y. *et al*. (2022), Character 539.
+
 > - The coding of *Eosteus* is ?.
 
 534. Otic capsule extends posterolaterally relative to occipital arch: (0) absent; (1) present.
@@ -3397,6 +3428,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 535. Otic capsules: (0) widely separated; (1) approaching dorsal midline.
 
 > Coates *et al*. (2018), Character 167; Zhu Y. *et al*. (2022), Character 541.
+
 > - The coding of *Eosteus* is ?.
 
 536. Otic capsules project anteriorly between postorbital processes: (0) absent; (1) present.
@@ -3404,46 +3436,55 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates *et al*. (2018), Character 168; Zhu Y. *et al*. (2022), Character 542.
 
 > - Coates *et al*. (2018): "Long recognized as a characteristic feature of neoselachian crania (Maisey 1983), this condition is also present in *Acronemus* (Maisey 2011), but not *Tristychius* (Coates & Tietjen in press)." In the attached nexus file of Coates *et al*. (2018), Character 168 is described as "labyrinths separated or meet dorsallly". The codings for *Acronemus* and *Tristychius* follow the comments of Coates *et al*. (2018).
+
 > - The coding of *Eosteus* is ?.
 
 537. Endocranial roof anterior to otic capsules domelike, smoothly convex dorsally and anteriorly: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 169; Zhu Y. *et al*. (2022), Character 543.
+
 > - The coding of *Eosteus* is ?.
 
 538. Roof of skeletal cavity for cerebellum and mesencephalon significantly higher than dorsal-most level of semicircular canals: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 170; Zhu Y. *et al*. (2022), Character 544.
+
 > - The coding of *Eosteus* is ?.
 
 539. Roof of the endocranial space for telencephalon and olfactory tracts offset ventrally relative to level of mesencephalon: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 171. Zhu Y. *et al*. (2021), Character 348; Zhu Y. *et al*. (2022), Character 545.
+
 > - The coding of *Eosteus* is ?.
 
 540. Double octaval nerve foramina in chondrified mesial wall of otic capsule: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 173; Zhu Y. *et al*. (2022), Character 546.
+
 > - The coding of *Eosteus* is ?.
 
 541. Glossopharyngeal nerve exit: (0) foramen situated posteroventral to otic capsule and anterior to metotic fissure; (1) through metotic fissure.
 
 > Schaeffer (1981); Coates &Sequeira (1998, 2001); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547; Brazeau *et al*. (2023), Character 37.
+
 > - The coding of *Eosteus* is ?.
 
 542. Glossopharyngeal and vagus nerves share common exit from neurocranium: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 199; Zhu Y. *et al*. (2022), Character 548.
+
 > - The coding of *Eosteus* is ?.
 
 543. Ventral portion of occipital arch wedged between rear of otic capsules: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 203; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 549; Brazeau *et al*. (2023), Character 61.
+
 > - The coding of *Eosteus* is ?.
 
 544. Dorsal portion of occipital arch wedged between otic capsules: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 95; Coates *et al*. (2018), Character 204; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 550; Brazeau *et al*. (2023), Character 61.
+
 > - The coding of *Eosteus* is ?.
 
 545. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present.
@@ -3453,16 +3494,19 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Giles *et al*. (2015): "The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-thoracic joint. A complete account of the craniospinal process is provided above in section 3 (\'Lateral Processes of Early Gnathostome Neurocrania\')."
 
 > - Giles *et al*. (2015): "Craniospinal process: large process extending from the posterolateral corner of the braincase, bearing a distinct craniospinal ridge, and defining the posterior margin of the embayment identified by Young (1980) as the cuccularis fossa. In many ‘placoderms’, this endoskeletal process is intimately associated with the dermal craniothoracic joint (e.g. Buchanosteus; Young 1979: fig. 2). A more modest posterolateral extension of the occipital arch, immediately posterior to the metotic fissure, is present in some early actinopterygians (e.g. Mimipiscis; Gardiner 1984: fig. 2, ‘crsp’) and has also been termed a craniospinal process (first by Nielsen 1942). A low prominence is present in a comparable location in Acanthodes (Miles 1973: pl. 5A, ‘pao.p’; Davis *et al*. 2012: supp. fig. 9, ‘Pao.p’), but is not nearly as well-developed as the actinopterygian or ‘placoderm’ craniospinal processes, being hardly noticeable in revised reconstructions (Davis *et al*. 2012 supp. fig. 15). Miles (1977: 55) drew parallels between transverse occipital processes in lungfishes in actinopterygian craniospinal processes, but remained circumspect concerning their possible homology. Gardiner (1984: 190) regarded the dipnoan and actinopterygian processes as non-homologous.  Despite  similarities  in  orientation  and  position,  the  relationship  between  the craniospinal processes of ‘placoderms’ and actinopterygians is obscure. What is clear is that the craniospinal processes of actinopterygians are proportionally smaller than, and in some ways structurally distinct from, the processes of the same name in ‘placoderms’. However,  we  are  not  confident  that  their  homology  can  be  rejected  a  priori.  We therefore consider these processes primary homologues, with this hypothesis subject to testing  through  congruence.  This  mirrors  the  strategy  applied  above  for  lateral otic/transverse  otic  processes.  Based  on  mapped  character  distributions,  our  analysis rejects  homology  between  the  craniospinal  processes  of  actinopterygians  and ‘placoderms’  (Extended  Data  Figure  7m;  cf.  optimizations  shown  in  Supplementary Figure 1)."
+
 > - The coding of *Eosteus* is ?.
 
 546. Parachordal shape: (0) forming a broad, flat surface as wide as the otic capsules; (1) mediolaterally constricted relative to the otic capsules.
 
 > Brazeau (2009), Character 98; Davis *et al*. (2012), Character 102; Choo *et al*. (2017), Character 98; King *et al*. (2017), Character 60; Castiello (2018), Character 61; Zhu Y. *et al*. (2022), Character 552; Brazeau *et al*. (2023), Character 64.
+
 > - The coding of *Eosteus* is ?.
 
 547. Ventral notch between parachordals: (0) absent; (1) present or entirely unfused.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 101; Choo *et al*. (2017), Character 97; King *et al*. (2017), Character 59; Castiello (2018), Character 60; Zhu Y. *et al*. (2022), Character 553; Brazeau *et al*. (2023), Character 63.
+
 > - The coding of *Eosteus* is ?.
 
 548. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
@@ -3470,26 +3514,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Giles *et al*. (2015), Character 176; Choo *et al*. (2017), Character 304; King *et al*. (2017), Character 86; Castiello (2018), Character 88; Zhu Y. *et al*. (2022), Character 554; Brazeau *et al*. (2023), Character 90.
 
 > - Giles *et al*. (2015): "In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö, 1969; Young, 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS 10825) of an isolated skull from the Hunsrück Slate."
+
 > - The coding of *Eosteus* is ?.
 
 549. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
 > Giles *et al*. (2015), Character 178; Choo *et al*. (2017), Character 306; King *et al*. (2017), Character 88; Castiello (2018), Character 90; Zhu Y. *et al*. (2022), Character 555; Brazeau *et al*. (2023), Character 92.
+
 > - The coding of *Eosteus* is ?.
 
 550. Spino-occipital nerve foramina: (0) two or more, aligned horizontally; (1) one or two, dorsoventrally offset.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 100; Choo *et al*. (2017), Character 96; Zhu Y. *et al*. (2022), Character 556; Brazeau *et al*. (2023), Character 62.
+
 > - The coding of *Eosteus* is ?.
 
 551. Occipital crest anteroposteriorly elongate, and extends from the roof of the posterior tectum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 205; Zhu Y. *et al*. (2022), Character 557.
+
 > - The coding of *Eosteus* is ?.
 
 552. Paired occipital condyles: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 305; Coates *et al*. (2018), Character 206; King *et al*. (2017), Character 87; Castiello (2018), Character 89; Zhu Y. *et al*. (2022), Character 558.
+
 > - The coding of *Eosteus* is ?.
 
 ## Axial and appendicular skeleton
@@ -3497,31 +3546,37 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 553. Macromeric dermal shoulder girdle: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 104; Choo *et al*. (2017), Character 100; King *et al*. (2017), Character 421; Castiello (2018), Character 410; Zhu Y. *et al*. (2022), Character 559; Brazeau *et al*. (2023), Character 426.
+
 > - The coding of *Eosteus* is 0.
 
 554. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
 > Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177.
+
 > - The coding of *Eosteus* is 0.
 
 555. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561.
+
 > - The coding of *Eosteus* is -.
 
 556. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562.
+
 > - The coding of *Eosteus* is -.
 
 557. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 
 > Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563.
+
 > - The coding of *Eosteus* is -.
 
 558. Rotatory contact of the articulation: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564.
+
 > - The coding of *Eosteus* is -.
 
 559. Lateral ridges on skull roof laterally defining the articulation: (0) absent; (1) present.
@@ -3529,141 +3584,169 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179.
 
 > - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires."
+
 > - The coding of *Eosteus* is -.
 
 560. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 105; Choo *et al*. (2017), Character 101; King *et al*. (2017), Character 422; Castiello (2018), Character 411; Zhu Y. *et al*. (2022), Character 566; Brazeau *et al*. (2023), Character 427.
+
 > - The coding of *Eosteus* is 0.
 
 561. Dermal shoulder girdle forming a complete ring around the trunk: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 106; Choo *et al*. (2017), Character 102; King *et al*. (2017), Character 423; Castiello (2018), Character 412; Zhu Y. *et al*. (2022), Character 567; Brazeau *et al*. (2023), Character 428.
+
 > - The coding of *Eosteus* is 1.
 
 562. Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 107; Choo *et al*. (2017), Character 103; King *et al*. (2017), Character 424; Castiello (2018), Character 413; Zhu Y. *et al*. (2022), Character 568; Brazeau *et al*. (2023), Character 429.
+
 > - The coding of *Eosteus* is 1.
 
 563. Median dorsal plate: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 108; Choo *et al*. (2017), Character 104; King *et al*. (2017), Character 425; Castiello (2018), Character 414; Zhu Y. *et al*. (2022), Character 569; Brazeau *et al*. (2023), Character 430.
+
 > - The coding of *Eosteus* is 1.
 
 564. Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 109; Choo *et al*. (2017), Character 105; King *et al*. (2017), Character 426; Castiello (2018), Character 415; Zhu Y. *et al*. (2022), Character 570; Brazeau *et al*. (2023), Character 431.
+
 > - The coding of *Eosteus* is ?.
 
 565. Anterior median dorsal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 358; Zhu Y. *et al*. (2021), Character 320; Zhu Y. *et al*. (2022), Character 571.
-> - The coding of *Eosteus* is 1， following the coding of _Guiyu_.
+
+> - The coding of *Eosteus* is 1，as in *Guiyu*.
 
 566. Anterior margin of unpaired anterior median dorsal plate: (0) broad; (1) pointed.
 
 > Zhu *et al*. (2016), Character 362; Zhu Y. *et al*. (2021), Character 322; Zhu Y. *et al*. (2022), Character 572.
-> - The coding of *Eosteus* is 0, following _Guiyu_.
+
+> - The coding of *Eosteus* is 0，as in *Guiyu*.
 
 567. Anterior median dorsal plate (MD1) relative to posterior median dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1 longer than MD2.
 
 > Zhu *et al*. (2016), Character 36; Zhu Y. *et al*. (2021), Character 321; Zhu Y. *et al*. (2022), Character 573.
+
 > - The coding of *Eosteus* is 0. However, the two plates are almost equal in size and shape, this charactere should really be revised.
 
 568. Anterior lateral plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 363; Zhu Y. *et al*. (2021), Character 323; Zhu Y. *et al*. (2022), Character 574.
+
 > - The coding of *Eosteus* is ?.
 
 569. Postbranchial lamina of trunk armour: (0) lateral; (1) internal.
 
 > Zhu *et al*. (2016), Character 364; Zhu Y. *et al*. (2021), Character 324; Zhu Y. *et al*. (2022), Character 575.
+
 > - The coding of *Eosteus* is 0.
 
 570. Crista internalis of dermal shoulder girdle: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 183; Zhu Y. *et al*. (2022), Character 576.
+
 > - The coding of *Eosteus* is ?.
 
 571. Anteroventral plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 365; Zhu Y. *et al*. (2021), Character 325; Zhu Y. *et al*. (2022), Character 577.
+
 > - The coding of *Eosteus* is ?.
 
 572. Number of median ventral plates: (0) two; (1) one.
 
 > Zhu *et al*. (2016), Character 366; Zhu Y. *et al*. (2021), Character 326; Zhu Y. *et al*. (2022), Character 578.
+
 > - The coding of *Eosteus* is ?.
 
 573. Interolateral plate: (0) paired; (1) fused (unpaired semilunar plate).
 
 > Zhu *et al*. (2016), Character 367; Zhu Y. *et al*. (2021), Character 327; Zhu Y. *et al*. (2022), Character 579.
+
 > - The coding of *Eosteus* is ?.
 
 574. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated.
 
 > Zhu *et al*. (2016), Character 368; Zhu Y. *et al*. (2021), Character 328; Zhu Y. *et al*. (2022), Character 580.
+
 > - The coding of *Eosteus* is ?.
 
 575. Brachial process: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 369; Zhu Y. *et al*. (2021), Character 329; Zhu Y. *et al*. (2022), Character 581.
+
 > - The coding of *Eosteus* is ?.
 
 576. Presupracleithrum: (0) absent; (1) present.
 
 > Zhu *et al*. (2009, Character 121), and references therein; Zhu *et al*. (2013), Character 244; Choo *et al*. (2017), Character 231; King *et al*. (2017), Character 203; Castiello (2018), Character 202; Zhu Y. *et al*. (2022), Character 582; Brazeau *et al*. (2023), Character 208.
+
 > - The coding of *Eosteus* is ?.
 
 577. Anocleithrum: (0) element developed as postcleithrum; (1) element developed as anocleithrum sensu stricto.
 
 > Zhu *et al*. (2009, Character 122), and references therein; Zhu *et al*. (2013), Character 245; Choo *et al*. (2017), Character 232; King *et al*. (2017), Character 430; Castiello (2018), Character 419; Zhu Y. *et al*. (2022), Character 583; Brazeau *et al*. (2023), Character 435.
+
 > - The coding of *Eosteus* is ?.
 
 578. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused.
 
 > Zhu *et al*. (2009, Character 122), and references therein; Zhu *et al*. (2013), Character 246; Choo *et al*. (2017), Character 234; King *et al*. (2017), Character 431; Castiello (2018), Character 420; Zhu Y. *et al*. (2022), Character 584; Brazeau *et al*. (2023), Character 436.
+
 > - The coding of *Eosteus* is ?.
 
 579. Shape of dorsal blade of dermal shoulder girdle: (0) spatulate; (1) pointed.
 
 > Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu *et al*. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu *et al*. (2006), Character 96; Friedman (2007), Character 107; Zhu *et al*. (2009), Character 124; Giles *et al*. (2015), Character 183; Choo *et al*. (2017), Character 307; King *et al*. (2017), Character 435; Castiello (2018), Character 424; Zhu Y. *et al*. (2022), Character 585; Brazeau *et al*. (2023), Character 440.
+
 > - The coding of *Eosteus* is ?.
 
 580. Posterior dorsolateral plate or equivalent: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Brazeau *et al*. (2023), Character 441.
+
 > - The coding of *Eosteus* is ?.
 
 581. Relationship of clavicle to cleithrum: (0) ascending process of clavicle overlapping cleithrum laterally; (1) ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially.
 
 > Zhu *et al*. (2009, Character 126), and references therein; Zhu *et al*. (2013), Character 247; Choo *et al*. (2017), Character 235; King *et al*. (2017), Character 432; Castiello (2018), Character 421; Zhu Y. *et al*. (2022), Character 587; Brazeau *et al*. (2023), Character 437.
-> - The coding of *Eosteus* is 0, following _Sparalepis_.
+
+> - The coding of *Eosteus* is 0, as in _Sparalepis_.
 
 582. Paired fins relation to cephalic shield: (0) continuous;(1) delimited at pectoral sinus.
 
 > Castiello (2018), Character 383; Zhu Y. *et al*. (2022), Character 588.
+
 > - The coding of *Eosteus* is 1.
 
 583. Intromittent organ for internal fertilization ('claspers'): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 395; Castiello (2018), Character 385; Zhu Y. *et al*. (2022), Character 589.
+
 > - The coding of *Eosteus* is ?. Unknown from one single specimen (could be female).
 
 584. Entepicondyle on humerus: (0) present; (1) absent.
 
 > King *et al*. (2017), Character 418; Castiello (2018), Character 407; Zhu Y. *et al*. (2022), Character 590; Brazeau *et al*. (2023), Character 423.
+
 > - The coding of *Eosteus* is ?.
 
 585. PL and PDL overlap: (0) simple; (1) insertion.
 
 > King *et al*. (2017), Character 437; Castiello (2018), Character 426; Zhu Y. *et al*. (2022), Character 591; Brazeau *et al*. (2023), Character 442.
+
 > - The coding of *Eosteus* is ?.
 
 586. Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 438; Castiello (2018), Character 427; Zhu Y. *et al*. (2022), Character 592; Brazeau *et al*. (2023), Character 443.
+
 > - The coding of *Eosteus* is ?.
 
 587. PDL plate visible externally: (0) present; (1) absent.
@@ -3671,56 +3754,67 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. *et al*. (2022), Character 593; Brazeau *et al*. (2023), Character 444.
 
 > - The original character state formulation was incorrect by comparison to their codings in the data set.
+
 > - The coding of *Eosteus* is ?.
 
 588. Posteriorly produced spine on MD plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 440; Castiello (2018), Character 429; Zhu Y. *et al*. (2022), Character 594; Brazeau *et al*. (2023), Character 445.
+
 > - The coding of *Eosteus* is 0.
 
 589. Joint in macromeric armoured pectoral fin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 441; Castiello (2018), Character 430; Zhu Y. *et al*. (2022), Character 595; Brazeau *et al*. (2023), Character 446.
+
 > - The coding of *Eosteus* is -.
 
 590. Cd1 (first dorsal central) and Cd2 (second dorsal central) plates: (0) in contact; (1) separated.
 
 > King *et al*. (2017), Character 442; Castiello (2018), Character 431; Zhu Y. *et al*. (2022), Character 596; Brazeau *et al*. (2023), Character 447.
+
 > - The coding of *Eosteus* is -.
 
 591. Clavicles/interolateral plates: (0) large plates, comparable in size to cleithrum; (1) paired small semilunar plates; (2) unpaired semilunar plates.
 
 > King *et al*. (2017), Character 443; Castiello (2018), Character 432; Zhu Y. *et al*. (2022), Character 597; Brazeau *et al*. (2023), Character 448.
+
 > - The coding of *Eosteus* is ?.
 
 592. Chang's apparatus: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 444; Castiello (2018), Character 433; Zhu Y. *et al*. (2022), Character 598; Brazeau *et al*. (2023), Character 449.
+
 > - The coding of *Eosteus* is 0.
 
 593. Number of median dorsal plates: (0) one; (1) two; (2) three.
 
 > King *et al*. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. *et al*. (2022), Character 599; Brazeau *et al*. (2023), Character 450.
-> - The coding of *Eosteus* is 2. However, Eosteus has four median dorsals, the character should be revised.
+
+> - The coding of *Eosteus* is 2. However, *Eosteus* has four median dorsals, the character should be revised.
 
 594. Anocleithrum sensu stricto: (0) exposed; (1) subdermal.
 
 > King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451.
+
 > - The coding of *Eosteus* is ?.
 
 595. Median ventral trunk plates: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. *et al*. (2022), Character 601; Brazeau *et al*. (2023), Character 452.
+
 > - The coding of *Eosteus* is ?.
 
 596. Extracleithrum: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 448; Castiello (2018), Character 437; Zhu Y. *et al*. (2022), Character 602; Brazeau *et al*. (2023), Character 453.
+
 > - The coding of *Eosteus* is ?.
 
 597. Pectoral fin spine small (bivalve-like): (0) absent; (1) present.
 
 > Castiello (2018), Character 438. King *et al*. (2017), Character 449; Zhu Y. *et al*. (2022), Character 603; Brazeau *et al*. (2023), Character 454.
+
 > - The coding of *Eosteus* is 0.
 
 598. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
@@ -3728,243 +3822,291 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 325; Castiello (2018), Character 317; Zhu Y. *et al*. (2022), Character 604; Brazeau *et al*. (2023), Character 330.
 
 > The original character state formulation was incorrect by comparison to their codings in the data set.
+
 > - The coding of *Eosteus* is ?.
 
 599. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 326; Castiello (2018), Character 318; Zhu Y. *et al*. (2022), Character 605; Brazeau *et al*. (2023), Character 331.
+
 > - The coding of *Eosteus* is ?.
 
 600. Horizontal caudal lobe: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 451; Castiello (2018), Character 440; Zhu Y. *et al*. (2022), Character 606; Brazeau *et al*. (2023), Character 456.
+
 > - The coding of *Eosteus* is 0.
 
 601. Triphycercal tail: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 4521; Castiello (2018), Character 441; Zhu Y. *et al*. (2022), Character 607; Brazeau *et al*. (2023), Character 457.
+
 > - The coding of *Eosteus* is 0.
 
 602. Spine-brush complex: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 479; Castiello (2018), Character 468; Zhu Y. *et al*. (2022), Character 608; Brazeau *et al*. (2023), Character 484.
+
 > - The coding of *Eosteus* is 0.
 
 603. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. *et al*. (2022), Character 609; Brazeau *et al*. (2023), Character 485.
+
 > - The coding of *Eosteus* is -.
 
 604. Intermediate spines with finlets: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. *et al*. (2022), Character 610; Brazeau *et al*. (2023), Character 486.
-> - The coding of *Eosteus* is -, following the other osteichthyans and placoderms. Alternatively, these can be coded as 0 absent.
+
+> - The coding of *Eosteus* is -, as in the taxa without intermediate spines.
 
 605. Median ventral prepectoral spine: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 482; Castiello (2018), Character 471; Zhu Y. *et al*. (2022), Character 611; Brazeau *et al*. (2023), Character 487.
+
 > - The coding of *Eosteus* is 0.
 
-606. Prepectoral spines form \"necklace\": (0) absent; (1) present.
+606. Prepectoral spines form "necklace": (0) absent; (1) present.
 
 > King *et al*. (2017), Character 483; Castiello (2018), Character 472; Zhu Y. *et al*. (2022), Character 612; Brazeau *et al*. (2023), Character 488.
+
 > - The coding of *Eosteus* is -.
 
 607. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 484; Castiello (2018), Character 473; Zhu Y. *et al*. (2022), Character 613; Brazeau *et al*. (2023), Character 489.
-> - The coding of *Eosteus* is ?. Note that in current dataset the scutes are only present in Lupopsyrus pygmaeus.
+
+> - The coding of *Eosteus* is ?. Note that in the current dataset, the scutes are only present in *Lupopsyrus pygmaeus*.
 
 608. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
 
 > Zhu  *et al*. (2009, Character 130), and references therein; Zhu *et al*., (2013), Character 250; Giles *et al*. (2015), Character 201; Choo *et al*. (2017), Character 233; King *et al*. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. *et al*. (2022), Character 614; Brazeau *et al*. (2023), Character 414.
+
 > - The coding of *Eosteus* is ?.
 
 609. Triradiate scapulocoracoid: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616; Brazeau *et al*. (2023), Character 407.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. *et al*. (2022), Character 617; Brazeau *et al*. (2023), Character 424.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 612. Subscapular foramen: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 129), and references therein; Zhu *et al*. (2013), Character 249; Choo *et al*. (2017), Character 237; King *et al*. (2017), Character 411; Castiello (2018), Character 400; Zhu Y. *et al*. (2022), Character 618; Brazeau *et al*. (2023), Character 416.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Brazeau *et al*. (2023), Character 403.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Zhu Y. *et al*. (2022), Character 620.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 615. Scapular infundibulum: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 190; Choo *et al*. (2017), Character 309; King *et al*. (2017), Character 413; Castiello (2018), Character 402; Zhu Y. *et al*. (2022), Character 621; Brazeau *et al*. (2023), Character 418.
 
 > - This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Brazeau *et al*. (2023), Character 404.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623; Brazeau *et al*. (2023), Character 405.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Brazeau *et al*. (2023), Character 408.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625; Brazeau *et al*. (2023), Character 409.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -. **should be unknown, rather than -**
 
 620. Coracoid process: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Brazeau *et al*. (2023), Character 410.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -.  **should be unknown, rather than -**
 
 621. Procoracoid mineralisation: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627; Brazeau *et al*. (2023), Character 411.
-> - The coding of *Eosteus* is -.
+
+> - The coding of *Eosteus* is -.  **should be unknown, rather than -**
 
 622. Paired (pectoral) fins: (0) absent; (1) present.
 
 > Castiello (2018), Character 382; Zhu Y. *et al*. (2022), Character 628.
+
 > - The coding of *Eosteus* is 1.
 
 623. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 124; Choo *et al*. (2017), Character 120; Zhu Y. *et al*. (2022), Character 629; Brazeau *et al*. (2023), Character 433.
+
 > - The coding of *Eosteus* is 0.
 
 624. Armoured pectoral appendage: (0) unjointed; (1) jointed.
 
 > Zhu *et al*. (2016), Character 371; Zhu Y. *et al*. (2021), Character 330; Zhu Y. *et al*. (2022), Character 630.
+
 > - The coding of *Eosteus* is -.
 
 625. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 125; Choo *et al*. (2017), Character 121; King *et al*. (2017), Character 427; Castiello (2018), Character 416; Zhu Y. *et al*. (2022), Character 631.
+
 > - The coding of *Eosteus* is 0.
 
 626. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
 
 > Choo *et al*. (2017), Character 310; King *et al*. (2017), Character 414; Coates *et al*. (2018), Character 227; Castiello (2018), Character 403; Zhu Y. *et al*. (2022), Character 632; Brazeau *et al*. (2023), Character 419.
+
 > - The coding of *Eosteus* is ?.
 
 627. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 
 > Choo *et al*. (2017), Character 115; King *et al*. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. *et al*. (2022), Character 633; Brazeau *et al*. (2023), Character 412.
+
 > - The coding of *Eosteus* is ?.
 
 628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
 > Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Brazeau *et al*. (2023), Character 420.
+
 > - The coding of *Eosteus* is ?.
 
 629. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 205; Choo *et al*. (2017), Character 312; King *et al*. (2017), Character 416; Castiello (2018), Character 405; Zhu Y. *et al*. (2022), Character 635; Brazeau *et al*. (2023), Character 421.
+
 > - The coding of *Eosteus* is ?.
 
 630. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 207; Choo *et al*. (2017), Character 313; King *et al*. (2017), Character 417; Castiello (2018), Character 406; Zhu Y. *et al*. (2022), Character 636; Brazeau *et al*. (2023), Character 422
+
 > - The coding of *Eosteus* is ?.
 
 631. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 228; Zhu Y. *et al*. (2022), Character 637.
+
 > - The coding of *Eosteus* is ?.
 
 632. Metapterygial whip: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 229; Zhu Y. *et al*. (2022), Character 638.
+
 > - The coding of *Eosteus* is ?.
 
 633. Pectoral propterygium: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 131), and references therein; Zhu *et al*. (2013), Character 251; Choo *et al*. (2017), Character 238; King *et al*. (2017), Character 412; Castiello (2018), Character 401; Zhu Y. *et al*. (2022), Character 639; Brazeau *et al*. (2023), Character 417.
+
 > - The coding of *Eosteus* is ?.
 
 634. Perforate propterygium: (0) absent; (1) present.
 
 > Rosen  *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640; Brazeau *et al*. (2023), Character 413.
+
 > - The coding of *Eosteus* is ?.
 
 635. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
 
 > King *et al*. (2017), Character 420; Castiello (2018), Character 409; Zhu Y. *et al*. (2022), Character 641; Brazeau *et al*. (2023), Character 425.
+
 > - The coding of *Eosteus* is ?.
 
 636. Pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 121; Choo *et al*. (2017), Character 117; King *et al*. (2017), Character 394; Castiello (2018), Character 384; Zhu Y. *et al*. (2022), Character 642; Brazeau *et al*. (2023), Character 399.
+
 > - The coding of *Eosteus* is 1.
 
 637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 
 > Zhu  *et al*. (2012b); Zhu *et al*. (2013), Character 252; Choo *et al*. (2017), Character 239; King *et al*. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. *et al*. (2022), Character 643; Brazeau *et al*. (2023), Character 438.
+
 > - The coding of *Eosteus* is 0.
 
 638. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 123; Choo *et al*. (2017), Character 119; King *et al*. (2017), Character 396; Castiello (2018), Character 386; Zhu Y. *et al*. (2022), Character 644.
-> - The coding of *Eosteus* is ?. Can't be certain with only one specimen.
+
+> - The coding of *Eosteus* is ?.
 
 639. Pelvic fin: (0) monobasal; (1) polybasal.
 
 > Lu *et al*. (2017), Character 278; Zhu Y. *et al*. (2022), Character 645.
+
 > - The coding of *Eosteus* is ?.
 
 640. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 122; Choo *et al*. (2017), Character 118; Zhu Y. *et al*. (2022), Character 646; Brazeau *et al*. (2023), Character 400.
+
 > - The coding of *Eosteus* is ?.
 
 641. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 258; Choo *et al*. (2017), Character 250; Zhu Y. *et al*. (2022), Character 647; Brazeau *et al*. (2023), Character 401.
+
 > - The coding of *Eosteus* is ?.
 
 642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402.
+
 > - The coding of *Eosteus* is ?.
 
 643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 233; Zhu Y. *et al*. (2022), Character 649.
+
 > - The coding of *Eosteus* is ?.
 
 644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 234; Zhu Y. *et al*. (2022), Character 650.
+
 > - The coding of *Eosteus* is ?.
 
 645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 236; Zhu Y. *et al*. (2022), Character 651.
+
 > - The coding of *Eosteus* is ?.
 
 646. Number of dorsal fins, if present: (0) one; (1) two.
@@ -3972,6 +4114,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Brazeau *et al*. (2023), Character 455.
 
 > - The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
+
 > - The coding of *Eosteus* is 0.
 
 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
@@ -3981,26 +4124,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
 
 > - The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
-> - The coding of *Eosteus* is 1.
+
+> - The coding of *Eosteus* is 1. **To be consisitent with the character above**
 
 648. Basal plate in dorsal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 230; Choo *et al*. (2017), Character 321; King *et al*. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. *et al*. (2022), Character 654; Brazeau *et al*. (2023), Character 482.
+
 > - The coding of *Eosteus* is ?.
 
 649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 231; Choo *et al*. (2017), Character 322; King *et al*. (2017), Character 456; Castiello (2018), Character 445; Zhu Y. *et al*. (2022), Character 655; Brazeau *et al*. (2023), Character 461.
+
 > - The coding of *Eosteus* is ?.
 
 650. Branching radials in paired fins: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 197; Zhu Y. *et al*. (2022), Character 656.
+
 > - The coding of *Eosteus* is ?.
 
 651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 241; Zhu Y. *et al*. (2022), Character 657.
+
 > - The coding of *Eosteus* is ?.
 
 652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
@@ -4008,66 +4156,79 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658.
 
 > - The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., 2023).
+
 > - The coding of *Eosteus* is ?.
 
 653. Anal fin: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Zhu Y. *et al*. (2022), Character 659.
+
 > - The coding of *Eosteus* is 1.
 
 654. Basal plate in anal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 233; Choo *et al*. (2017), Character 323; King *et al*. (2017), Character 478; Castiello (2018), Character 467; Zhu Y. *et al*. (2022), Character 660; Brazeau *et al*. (2023), Character 483.
+
 > - The coding of *Eosteus* is ?.
 
 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661.
+
 > - The coding of *Eosteus* is 0.
 
 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
 
 > Davis *et al*. (2012), Character 138; Choo *et al*. (2017), Character 134; King *et al*. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. *et al*. (2022), Character 662; Brazeau *et al*. (2023), Character 458.
+
 > - The coding of *Eosteus* is ?.
 
 657. Series of thoracic supraneurals: (0) absent; (1) present.
 
 > Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Brazeau *et al*. (2023), Character 460.
+
 > - The coding of *Eosteus* is ?.
 
 658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 235; Choo *et al*. (2017), Character 314; King *et al*. (2017), Character 454; Castiello (2018), Character 443; Zhu Y. *et al*. (2022), Character 664; Brazeau *et al*. (2023), Character 459.
+
 > - The coding of *Eosteus* is ?.
 
 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
 
 > Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665.
+
 > - The coding of *Eosteus* is ?.
 
 660. Synarcual: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 135; Choo *et al*. (2017), Character 131; King *et al*. (2017), Character 465; Castiello (2018), Character 454; Zhu Y. *et al*. (2022), Character 666; Brazeau *et al*. (2023), Character 470.
+
 > - The coding of *Eosteus* is ?.
 
 661. Calcified vertebral centra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 207; Zhu Y. *et al*. (2022), Character 667.
+
 > - The coding of *Eosteus* is ?.
 
 662. Chordacentra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 208; Zhu Y. *et al*. (2022), Character 668.
+
 > - The coding of *Eosteus* is ?.
 
 663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 209; Zhu Y. *et al*. (2022), Character 669.
+
 > - The coding of *Eosteus* is ?.
 
 664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 240; Zhu Y. *et al*. (2022), Character 670.
+
 > - The coding of *Eosteus* is ?.
 
 ## Spines: fins, cranial and elsewhere
@@ -4075,11 +4236,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 665. Dorsal fin spine: (0) absent; (1) present.
 
 > Zhu  *et al*. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 126; Choo *et al*. (2017), Character 122; King *et al*. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. *et al*. (2022), Character 671; Brazeau *et al*. (2023), Character 462.
+
 > - The coding of *Eosteus* is 1.
 
 666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672.
+
 > - The coding of *Eosteus* is 0.
 
 667. Anal fin spine: (0) absent; (1) present.
@@ -4087,11 +4250,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Brazeau *et al*. (2023), Character 471.
 
 > - The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
+
 > - The coding of *Eosteus* is 1.
 
 668. Pectoral fin spine: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674.
+
 > - The coding of *Eosteus* is 1.
 
 669. Pelvic fin spine: (0) absent; (1) present.
@@ -4099,61 +4264,73 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Brazeau *et al*. (2023), Character 439.
 
 > - The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
-> - The coding of *Eosteus* is 1, following Guiyu and Sparalepis
+
+> - The coding of *Eosteus* is 1, as in *Guiyu* and *Sparalepis*.
 
 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Brazeau *et al*. (2023), Character 464.
+
 > - The coding of *Eosteus* is 0.
 
 671. Intermediate fin spines: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 130; Choo *et al*. (2017), Character 126; King *et al*. (2017), Character 460; Castiello (2018), Character 449; Zhu Y. *et al*. (2022), Character 677; Brazeau *et al*. (2023), Character 465.
+
 > - The coding of *Eosteus* is 0.
 
 672. Intermediate spines when present: (0) one pair; (1) multiple pairs.
 
 > Giles *et al*. (2015), Character 219; Choo *et al*. (2017), Character 316; King *et al*. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. *et al*. (2022), Character 678; Brazeau *et al*. (2023), Character 478.
+
 > - The coding of *Eosteus* is -.
 
 673. Prepectoral fin spines: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Brazeau *et al*. (2023), Character 466.
+
 > - The coding of *Eosteus* is 0.
 
 674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 256. Dearden *et al*. (2019), Character 261; Zhu Y. *et al*. (2022), Character 680.
+
 > - The coding of *Eosteus* is -.
 
 675. Cephalic spines: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681.
+
 > - The coding of *Eosteus* is 0.
 
 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682.
-> - The coding of *Eosteus* is 0, following Guiyu.
+
+> - The coding of *Eosteus* is 0, as in *Guiyu*.
 
 677. Fin spines with ridges: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Brazeau *et al*. (2023), Character 467.
+
 > - The coding of *Eosteus* is 1.
 
 678. Fin spines with nodes: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Brazeau *et al*. (2023), Character 468.
+
 > - The coding of *Eosteus* is 0.
 
 679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 134; Choo *et al*. (2017), Character 130; King *et al*. (2017), Character 464; Castiello (2018), Character 453; Zhu Y. *et al*. (2022), Character 685; Brazeau *et al*. (2023), Character 469.
+
 > - The coding of *Eosteus* is 0.
 
 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
 
 > Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686.
+
 > - The coding of *Eosteus* is 0.
 
 681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
@@ -4161,6 +4338,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Giles *et al*. (2015), Character 218; Choo *et al*. (2017), Character 315; King *et al*. (2017), Character 472; Castiello (2018), Character 461; Zhu Y. *et al*. (2022), Character 687; Brazeau *et al*. (2023), Character 477.
 
 > - Giles *et al*. (2015): "Early gnathostome fin spines have at least two distinctive profiles in cross-section. Generally, the profile is gently curving or parabolic. Taxa such as acanthodids and ischnacanthids exhibit a condition in which the cross-section is more rectangular, and the sides of the spine are flatter and closer to parallel (Denison, 1979; Gagnier & Wilson, 1996)."
+
 > - The coding of *Eosteus* is 0.
 
 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
@@ -4168,21 +4346,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688; Brazeau *et al*. (2023), Character 479.
 
 > - This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*. (Giles *et al*., 2015)
+
 > - The coding of *Eosteus* is 0.
 
 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
 > Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Brazeau *et al*. (2023), Character 480.
+
 > - The coding of *Eosteus* is 0.
 
 684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
 
 > Coates *et al*. (2018), Character 250; Zhu Y. *et al*. (2022), Character 690.
+
 > - The coding of *Eosteus* is 0.
 
 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691.
+
 > - The coding of *Eosteus* is -.
 
 ## Newly-added characters
@@ -4190,21 +4372,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 686. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 
 > Cui *et al*. (2023), Character 691.
+
 > - The coding of *Eosteus* is 0.
 
 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 692.
+
 > - The coding of *Eosteus* is 1.
 
 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 693.
+
 > - The coding of *Eosteus* is 0.
 
 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 694.
+
 > - The coding of *Eosteus* is 0.
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
@@ -4213,7 +4399,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the the premaxilla *sensu stricto* (Character 690).
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. **should be unknown, see comment in character 259**
 
 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
@@ -4318,6 +4504,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
+
+> - The coding of *Eosteus* is ?. **check**
 
 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
