@@ -960,12 +960,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.
 
-~~143. Postmarginal plate: (0) absent; (1) present.~~
-
-~~> Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.~~
-
-~~> - The coding of *Eosteus* is 0.~~
-
 143. Obstantic margin of skull roof: (0) long; (1) short.
 
 > Zhu *et al*. (2016), Character 347; Zhu Y. *et al*. (2021), Character 314; Zhu Y. *et al*. (2022), Character 146.
@@ -1053,12 +1047,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu *et al*. (2016) to be one of the key character uniting actinopterygians."
 
 > - The coding of *Eosteus* is 1. 
-
-~~158. Extratemporal: absent (0), present (1).~~
-
-~~> Zhu Y. *et al*. (2022), Character 160~~
-
-~~> - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors~~
 
 157. Westoll-lines: (0) absent; (1) present.
 
@@ -2586,12 +2574,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Zhu Y. *et al*. (2022), Character 406: Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.
 
 > - The coding of *Eosteus* is 1.
-
-~~404. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.~~
-
-~~> Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Zhu Y. *et al*. (2022), Character 406.~~
-
-~~> - The coding of *Eosteus* is 1.~~
 
 402. Orbit larger than otic capsule: (0) absent; (1) present.
 
@@ -4633,6 +4615,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
      
 > King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
 
+~~143. Postmarginal plate: (0) absent; (1) present.~~
+
+~~> Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.~~
+
+~~> - The coding of *Eosteus* is 0.~~
+
+~~158. Extratemporal: absent (0), present (1).~~
+
+~~> Zhu Y. *et al*. (2022), Character 160~~
+
+~~> - The coding of *Eosteus* is 1, there seems an extra tiny stripe of bone in the most lateral position of the temporal region. To be checked and agreed by other authors~~
+
+~~404. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.~~
+
+~~> Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Zhu Y. *et al*. (2022), Character 406.~~
+
+~~> - The coding of *Eosteus* is 1.~~
 
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
 
