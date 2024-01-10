@@ -149,12 +149,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Considering the potential differences of histological details between dermal plates and scales, this character refers to the dermal plates specifically. The odontode condition in body scales is defined with two new characters, Characters 695-696.
 
 > - The coding of *Eosteus* is unknown.
+> - The coding of *Styloichthys* is 1.
 
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
 
 > - The coding of *Eosteus* is - (logical impossibility).
+> - **The condition of *Psarolepis* is different in dermal bones and scales. I will check the dermal bones of this form. The finspine shows that the enamel absent from inner surface of pores.**
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
@@ -174,9 +176,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Giles *et al*. (2015): "Hanke & Davis (2008) express uncertainty about bone cell lacunae in the scale bases of *Gladiobranchus*. However, Newman *et al*. (2012), working on the basis of better-preserved material of *Uraniacanthus* (to which *Gladiobranchus* is synonymous) show convincingly that these lacunae are lacking. *Climatius* is scored '?' in spite of Ørvig's (1967) report of acellular bases. Ørvig figured flat-based scales from the head. This character strictly concerns body scales, which may have been different. *Cheirolepis* is scored '1' based on Ørvig (1967). However, this is remarkably poorly documented in any accessioned specimens. *Acanthodes* is scored '1' based on Gross (1947) and Valiukevicius (1995). *Dialipina* is scored from Schultze (1968). *Psarolepis* is coded '0' based on Qu *et al*. (2013). The presence or absence of bone cells in the scale bases of *Brindabellaspis* is uncertain based on Burrow & Turner (1999)."
 
-> - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016).
+> - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016). Score changed from 1 to 0 for *Rhadinacanthus longispinus*  Burrow *et al*. (2016).
 
 > - The coding of *Eosteus* is ?.
+> - The coding of *Styloichthys* is 0.
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
@@ -237,6 +240,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Davis *et al*. (2012), Character 14; Choo *et al*. (2017), Character 13; King *et al*. (2017), Character 491; Castiello (2018), Character 481; Zhu Y. *et al*. (2022), Character 33; Brazeau *et al*. (2023), Character 496.
 
 > - The coding of *Eosteus* is 1.
+> - The coding of *Styloichthys* is 1.
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
 
@@ -311,6 +315,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
 
 > - The coding of *Eosteus* is -.
+> - The coding of *Styloichthys* is -.
  
 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
 
@@ -1483,24 +1488,28 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Hanke and Wilson (2004); Davis *et al*. (2012), Character 32; Choo *et al*. (2017), Character 31. Dearden *et al*. (2019), Character 73; King *et al*. (2017), Character 165; Castiello (2018), Character 163; Zhu Y. *et al*. (2022), Character 229.
 
 > - The coding of *Eosteus* is 0.
+> - The coding of *Styloichthys* is 0.
 
 226. Opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 33; Choo *et al*. (2017), Character 32; Zhu Y. *et al*. (2022), Character 230.
 
 > - The coding of *Eosteus* is 1.
+> - The coding of *Styloichthys* is 0.
 
 227. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 34; Choo *et al*. (2017), Character 33; King *et al*. (2017), Character 166; Castiello (2018), Character 164; Zhu Y. *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 170.
 
 > - The coding of *Eosteus* is 0.
+> - The coding of *Styloichthys* is 0.
 
 228. Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 355; Zhu Y. *et al*. (2021), Character 317; Zhu Y. *et al*. (2022), Character 232.
 
 > - The coding of *Eosteus* is 0.
+> - The coding of *Styloichthys* is 0.
 
 229. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
 
@@ -1519,6 +1528,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2016), Character 357; Zhu Y. *et al*. (2021), Character 319; Zhu Y. *et al*. (2022), Character 235.
 
 > - The coding of *Eosteus* is 0.
+> - The coding of *Styloichthys* is 0.
 
 232. Subopercular ossification: (0) absent; (1) present.
 
@@ -3781,6 +3791,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 443; Castiello (2018), Character 432; Zhu Y. *et al*. (2022), Character 597; Brazeau *et al*. (2023), Character 448.
 
 > - The coding of *Eosteus* is ?.
+> - The coding of *Styloichthys* is 0.
 
 592. Chang's apparatus: (0) absent; (1) present.
 
