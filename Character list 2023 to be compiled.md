@@ -149,6 +149,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Considering the potential differences of histological details between dermal plates and scales, this character refers to the dermal plates specifically. The odontode condition in body scales is defined with two new characters, Characters 695-696.
 
 > - The coding of *Eosteus* is unknown.
+
 > - The coding of *Styloichthys* is 1.
 
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
@@ -156,6 +157,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
 
 > - The coding of *Eosteus* is - (logical impossibility).
+
 > - **The condition of *Psarolepis* is different in dermal bones and scales. I will check the dermal bones of this form. The finspine shows that the enamel absent from inner surface of pores.**
 
 23. Relative size of cosmine pores: (0) small; (1) large.
@@ -179,6 +181,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Score changed from 0 to 1 for Galeaspida. *Lophosteus* and *Andreolepis* are scored '0' based on Gross (1968, 1969) and Jerve *et al*. (2016). Score changed from 1 to 0 for *Rhadinacanthus longispinus*  Burrow *et al*. (2016).
 
 > - The coding of *Eosteus* is ?.
+
 > - The coding of *Styloichthys* is 0.
 
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
@@ -209,7 +212,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 142), and references therein; Zhu *et al*. (2013), Character 146; Giles *et al*. (2015), Character 236; Choo *et al*. (2017), Character 140; King *et al*. (2017), Character 470; Castiello (2018), Character 459; Zhu Y. *et al*. (2022), Character 29; Brazeau *et al*. (2023), Character 475.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 1.
 
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
@@ -240,6 +243,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Davis *et al*. (2012), Character 14; Choo *et al*. (2017), Character 13; King *et al*. (2017), Character 491; Castiello (2018), Character 481; Zhu Y. *et al*. (2022), Character 33; Brazeau *et al*. (2023), Character 496.
 
 > - The coding of *Eosteus* is 1.
+
 > - The coding of *Styloichthys* is 1.
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
@@ -315,6 +319,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
 
 > - The coding of *Eosteus* is -.
+
 > - The coding of *Styloichthys* is -.
  
 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
@@ -680,7 +685,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - This character corresponds to the postmarginal plate in placoderms and the extratemporal in osteichthyans.
 
 > - Score changed from 1 to 0 for *Romundina*.
-> - **check codings in antiarchs**
+
 > - The coding of *Eosteus* is 0.
 
 99. Pore clusters: (0) absent; (1) present.
@@ -755,7 +760,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Brazeau *et al*. (2023), Character 174.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. **This state should be carefully coded. I'm not sure of the presence of the joint in this taxon.**
 
 110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
@@ -977,6 +982,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0.
 
+> - **check states in sarcopterygians**
+
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
@@ -993,13 +1000,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 217.
 
-> - The coding of *Eosteus* is -. 
+> - The coding of *Eosteus* is ?. 
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 164; Choo *et al*. (2017), Character 173; Zhu Y. *et al*. (2022), Character 151.
 
-> - The coding of *Eosteus* is -. 
+> - The coding of *Eosteus* is ?. 
 
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
@@ -1488,6 +1495,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Hanke and Wilson (2004); Davis *et al*. (2012), Character 32; Choo *et al*. (2017), Character 31. Dearden *et al*. (2019), Character 73; King *et al*. (2017), Character 165; Castiello (2018), Character 163; Zhu Y. *et al*. (2022), Character 229.
 
 > - The coding of *Eosteus* is 0.
+
 > - The coding of *Styloichthys* is 0.
 
 226. Opercular (submarginal) ossification: (0) absent; (1) present.
@@ -1495,6 +1503,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 33; Choo *et al*. (2017), Character 32; Zhu Y. *et al*. (2022), Character 230.
 
 > - The coding of *Eosteus* is 1.
+
 > - The coding of *Styloichthys* is 0.
 
 227. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
@@ -1502,6 +1511,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 34; Choo *et al*. (2017), Character 33; King *et al*. (2017), Character 166; Castiello (2018), Character 164; Zhu Y. *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 170.
 
 > - The coding of *Eosteus* is 0.
+
 > - The coding of *Styloichthys* is 0.
 
 228. Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
@@ -1509,6 +1519,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2016), Character 355; Zhu Y. *et al*. (2021), Character 317; Zhu Y. *et al*. (2022), Character 232.
 
 > - The coding of *Eosteus* is 0.
+
 > - The coding of *Styloichthys* is 0.
 
 229. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
@@ -1528,6 +1539,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2016), Character 357; Zhu Y. *et al*. (2021), Character 319; Zhu Y. *et al*. (2022), Character 235.
 
 > - The coding of *Eosteus* is 0.
+
 > - The coding of *Styloichthys* is 0.
 
 232. Subopercular ossification: (0) absent; (1) present.
@@ -3901,37 +3913,37 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616; Brazeau *et al*. (2023), Character 407.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. *et al*. (2022), Character 617; Brazeau *et al*. (2023), Character 424.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 612. Subscapular foramen: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 129), and references therein; Zhu *et al*. (2013), Character 249; Choo *et al*. (2017), Character 237; King *et al*. (2017), Character 411; Castiello (2018), Character 400; Zhu Y. *et al*. (2022), Character 618; Brazeau *et al*. (2023), Character 416.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Brazeau *et al*. (2023), Character 403.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Zhu Y. *et al*. (2022), Character 620.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 615. Scapular infundibulum: (0) absent; (1) present.
 
@@ -3939,43 +3951,43 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Brazeau *et al*. (2023), Character 404.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623; Brazeau *et al*. (2023), Character 405.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Brazeau *et al*. (2023), Character 408.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625; Brazeau *et al*. (2023), Character 409.
 
-> - The coding of *Eosteus* is -. **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 620. Coracoid process: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Brazeau *et al*. (2023), Character 410.
 
-> - The coding of *Eosteus* is -.  **should be unknown, rather than -**
-
+> - The coding of *Eosteus* is ?.
+>
 621. Procoracoid mineralisation: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627; Brazeau *et al*. (2023), Character 411.
 
-> - The coding of *Eosteus* is -.  **should be unknown, rather than -**
+> - The coding of *Eosteus* is ?.
 
 622. Paired (pectoral) fins: (0) absent; (1) present.
 
