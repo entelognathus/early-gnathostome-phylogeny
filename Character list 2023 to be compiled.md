@@ -312,18 +312,18 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Choo *et al*. (2017), Character 336; Zhu Y. *et al*. (2022), Character 42.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is ?.
 
 42. Profile of scales with constriction between crown and base: (0) neck similar in width to crown; (1) neck greatly constricted, resulting in anvil-like shape.
 
 > Giles *et al*. (2015), Character 22; Choo *et al*. (2017), Character 262; King *et al*. (2017), Character 494; Castiello (2018), Character 483; Zhu Y. *et al*. (2022), Character 43; Brazeau *et al*. (2023), Character 499.
 
-> - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
-
-> - The coding of *Eosteus* is -.
+> - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid of necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
 
 > - The coding of *Styloichthys* is -.
- 
+> - **check codings**
+> - The coding of *Eosteus* is -.
+
 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 263; Coates *et al*. (2018), Character 15; King *et al*. (2017), Character 495; Castiello (2018), Character 484; Zhu Y. *et al*. (2022), Character 44; Brazeau *et al*. (2023), Character 500.
