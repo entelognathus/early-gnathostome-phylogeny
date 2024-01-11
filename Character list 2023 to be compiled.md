@@ -68,6 +68,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21.
 
+> - check the definition of this character. It is present in *Dartmuthia gemmifera* and *Tremataspis*.
+
 > - The coding of *Eosteus* is 0. 
 
 10. Dentinous tissue: (0) absent; (1) present.
@@ -124,7 +126,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
 
-> - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton.
+> - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton. The same is for *Janusiscus*.
 
 19. Extensive pore canal network: (0) absent; (1) present.
 
