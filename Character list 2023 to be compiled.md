@@ -158,9 +158,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22.
 
-> - The coding of *Eosteus* is - (logical impossibility).
+> - The condition of *Psarolepis* is different in dermal plates and scales. The finspine shows that the enamel is absent from inner surface of pores. **To be splited in the future.**
 
-> - **The condition of *Psarolepis* is different in dermal bones and scales. I will check the dermal bones of this form. The finspine shows that the enamel absent from inner surface of pores.**
+> - The coding of *Eosteus* is - (logical impossibility).
 
 23. Relative size of cosmine pores: (0) small; (1) large.
 
