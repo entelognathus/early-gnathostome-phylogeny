@@ -68,7 +68,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21.
 
-> - check the definition of this character. It is present in *Dartmuthia gemmifera* and *Tremataspis*.
+> - **check the definition of this character**. It is present in *Dartmuthia gemmifera* and *Tremataspis mammillata*.
 
 > - The coding of *Eosteus* is 0. 
 
