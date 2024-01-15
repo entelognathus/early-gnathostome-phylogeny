@@ -2092,139 +2092,139 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Dupret *et al*. (2014), Character 254; Choo *et al*. (2017), Character 246; Zhu Y. *et al*. (2022), Character 324; Brazeau *et al*. (2023), Character 368.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 321. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
 
 > Zhu Y. *et al*. (2021), Character 93; Zhu Y. *et al*. (2022), Character 325.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 322. Palatoquadrate relationship to dermal cheek bones: (0) articulation narrow and restricted; (1) broad articulation.
 
 > Zhu Y. *et al*. (2021), Character 97; Zhu Y. *et al*. (2022), Character 326.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 323. Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 144; Zhu Y. *et al*. (2022), Character 327.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 324. Articulation surface of the palatoquadrate with the postorbital (suprapteryoid) process: (0) directed anteriorly; (1) laterally; (2) dorsally.
 
 > Coates *et al*. (2018), Character 107; Zhu Y. *et al*. (2022), Character 328.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
 325. Large otic process of the palatoquadrate: (0) absent; (1) present.
 
 > Coates & Sequeira (2001a); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 46; Choo *et al*. (2017), Character 45; King *et al*. (2017), Character 334; Castiello (2018), Character 326; Zhu Y. *et al*. (2022), Character 329; Brazeau *et al*. (2023), Character 339.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 326. Laterally extending palatoquadrate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 327; Zhu Y. *et al*. (2021), Character 308; Zhu Y. *et al*. (2022), Character 330.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 327. Insertion area for jaw adductor muscles on palatoquadrate: (0) ventral; (1) lateral.
 
 > Janvier (1996); Brazeau (2009); Davis *et al*. (2012), Character 47; Choo *et al*. (2017), Character 46; King *et al*. (2017), Character 335; Castiello (2018), Character 327; Zhu Y. *et al*. (2022), Character 331; Brazeau *et al*. (2023), Character 340.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 328. Oblique ridge or groove along medial face of palatoquadrate: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 48; Choo *et al*. (2017), Character 47; King *et al*. (2017), Character 336; Castiello (2018), Character 328; Zhu Y. *et al*. (2022), Character 332; Brazeau *et al*. (2023), Character 341.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 329. Fenestration of palatoquadrate at basipterygoid articulation: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 49; Choo *et al*. (2017), Character 48; King *et al*. (2017), Character 337; Castiello (2018), Character 329; Zhu Y. *et al*. (2022), Character 333; Brazeau *et al*. (2023), Character 342.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 330. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 50; Choo *et al*. (2017), Character 49; King *et al*. (2017), Character 338; Castiello (2018), Character 330; Zhu Y. *et al*. (2022), Character 334; Brazeau *et al*. (2023), Character 343.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 331. Metapterygoid with developed medial ventral protrusion: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 216; Choo *et al*. (2017), Character 244; King *et al*. (2017), Character 362; Castiello (2018), Character 353; Zhu Y. *et al*. (2022), Character 335; Brazeau *et al*. (2023), Character 367.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 332. Autopalatine and quadrate: (0) comineralized; (1) separate mineralizations.
 
 > Giles *et al*. (2015), Character 97; Choo *et al*. (2017), Character 290; King *et al*. (2017), Character 370; Castiello (2018), Character 359; Zhu Y. *et al*. (2022), Character 336; Brazeau *et al*. (2023), Character 375.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 333. Palatoquadrate fused with neurocranium: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 101; Choo *et al*. (2017), Character 291; King *et al*. (2017), Character 371; Castiello (2018), Character 360; Zhu Y. *et al*. (2022), Character 337; Brazeau *et al*. (2023), Character 376.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 334. Contact between palatoquadrate and dermal cheek bones: (0) continuous contact of metapterygoid and autopalatine; (1) metapterygoid and autopalatine contacts separated by gap between commissural lamina of palatoquadrate and cheek bones.
 
 > Zhu *et al*. (2013), Character 215; Choo *et al*. (2017), Character 243; Zhu Y. *et al*. (2022), Character 338; Brazeau *et al*. (2023), Character 366.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 335. Position of upper mandibular arch cartilage (and associated cheek plate where present): (0) entirely suborbital; (1) with a postorbital extension.
 
 > Giles *et al*. (2015), Character 95; Choo *et al*. (2017), Character 289; Zhu Y. *et al*. (2022), Character 339.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 336. Scalloped oral margin on Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 113; Zhu Y. *et al*. (2022), Character 340.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 337. Mandibular symphysis fused: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 114; Zhu Y. *et al*. (2022), Character 341.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 338. Pronounced dorsal process on Meckelian bone or cartilage: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 51; Choo *et al*. (2017), Character 50; King *et al*. (2017), Character 339; Castiello (2018), Character 331; Zhu Y. *et al*. (2022), Character 342; Brazeau *et al*. (2023), Character 344.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 339. Meckelian bone exposed immediately anterior to first coronoid: (0) yes; (1) no.
 
 > Zhu  *et al*. (2009, Character 99), and references therein; Zhu *et al*. (2013), Character 212; Choo *et al*. (2017), Character 214; King *et al*. (2017), Character 357; Castiello (2018), Character 349; Zhu Y. *et al*. (2022), Character 343; Brazeau *et al*. (2023), Character 362.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 340. Preglenoid process: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 52; Choo *et al*. (2017), Character 51; King *et al*. (2017), Character 340; Castiello (2018), Character 332; Zhu Y. *et al*. (2022), Character 344; Brazeau *et al*. (2023), Character 345.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 341. Biconcave glenoid on lower jaw: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010, Character 17); Zhu *et al*. (2013), Character 214; Choo *et al*. (2017), Character 216; King *et al*. (2017), Character 359; Castiello (2018), Character 351; Zhu Y. *et al*. (2022), Character 345; Brazeau *et al*. (2023), Character 364.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 342. Jaw articulation located on rearmost extremity of mandible: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 53; Choo *et al*. (2017), Character 52; King *et al*. (2017), Character 341; Castiello (2018), Character 333; Zhu Y. *et al*. (2022), Character 346; Brazeau *et al*. (2023), Character 346.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
  
  ## Hyoid and gill arches
 
@@ -2232,61 +2232,61 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 100), and references therein; Zhu *et al*. (2013), Character 197; Choo *et al*. (2017), Character 201; King *et al*. (2017), Character 142; Castiello (2018), Character 141; Zhu Y. *et al*. (2022), Character 347; Brazeau *et al*. (2023), Character 146.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 344. Interhyal: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348; Brazeau *et al*. (2023), Character 145.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 345. Hypohyal: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 75; Choo *et al*. (2017), Character 282; King *et al*. (2017), Character 144; Castiello (2018), Character 143; Zhu Y. *et al*. (2022), Character 349; Brazeau *et al*. (2023), Character 148.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 346. Disposition of the interbranchial ridges of the oralobranchial chamber roof: (0) oligobranchiate; (1) orthobranchiate; (2) nectaspidoform.
 
 > King *et al*. (2017), Character 146; Castiello (2018), Character 145; Zhu Y. *et al*. (2022), Character 350; Brazeau *et al*. (2023), Character 150.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 347. Number of branchial fossae: (0) 5-7; (1) 9-17; (2) more than 20.
 
 > King *et al*. (2017), Character 147; Castiello (2018), Character 146; Zhu Y. *et al*. (2022), Character 351; Brazeau *et al*. (2023), Character 151.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 348. Basibranchial elements: (0) unpaired; (1) paired.
 
 > King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352; Brazeau *et al*. (2023), Character 152.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 349. Sublingual rod: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 149; Castiello (2018), Character 148; Zhu Y. *et al*. (2022), Character 353; Brazeau *et al*. (2023), Character 153.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 350. Dense array of hyoid arch rays covers gill area: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 150; Castiello (2018), Character 149; Zhu Y. *et al*. (2022), Character 354; Brazeau *et al*. (2023), Character 154.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 351. Endoskeletal urohyal: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 76; Choo *et al*. (2017), Character 283; King *et al*. (2017), Character 145; Castiello (2018), Character 144; Zhu Y. *et al*. (2022), Character 355; Brazeau *et al*. (2023), Character 149.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-352. Urohyal shape (vertical plate): (0) absent; (1) present.
+352. Urohyal shape (vertical plate): (0) absent; (1) present. The coding of *Megamastax amblyodus* is ?.
 
 > Choo *et al*. (2017), Character 329; Lu *et al*. (2017), Character 246; Zhu Y. *et al*. (2022), Character 356.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 353. Basihyal: (0) absent; (1) present.
 
@@ -2302,13 +2302,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The codings of *Cowralepis mclachlani*,*Campbellodus decipiens*, and *Austroptyctodus gardineri* are changed from 0 to 1. The codings of *Raynerius splendens*,*Mimipiscis toombsi*, *Moythomasia durgaringa*, and *Gogonasus andrewsae* are changed from 1 to 0.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 355. Anterior most unpaired element of branchial skeleton contacted by: (0) one branchial arch only; (1) two or more branchial arches.
 
@@ -2316,73 +2316,73 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - This character formulation (Dearden *et al*., 2019) is modified from Coates *et al*. (2018): Basihyal absent/present.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 356. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 
 > Dearden *et al*. (2019), Character 74; Zhu Y. *et al*. (2022), Character 360.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 357. Posterior two ventral branchial arches:0 separate; (1) articulate ventrally.
 
 > Dearden *et al*. (2019), Character 80; Zhu Y. *et al*. (2022), Character 361.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 358. Posterior two dorsal branchial arches: (0) separate; (1) articulate dorsally.
 
 > Dearden *et al*. (2019), Character 81; Zhu Y. *et al*. (2022), Character 362.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 359. Gill arches: (0) largely restricted to region under braincase; (1) extend far posterior to braincase.
 
 > Giles *et al*. (2015), Character 72; Choo *et al*. (2017), Character 281; King *et al*. (2017), Character 143; Castiello (2018), Character 142; Zhu Y. *et al*. (2022), Character 363; Brazeau *et al*. (2023), Character 147.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 360. Gill skeleton extends posteriorly beyond occiput: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 66. Dearden *et al*. (2019), Character 67; Zhu Y. *et al*. (2022), Character 364.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 361. First branchial arch meets neurocranium: (0) ventral to otic region; (1) posterior to otic region.
 
 > Dearden *et al*. (2019), Character 68; Zhu Y. *et al*. (2021), Character 355; Zhu Y. *et al*. (2022), Character 365.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 362. Separate supra- and infra-pharyngobranchials: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 72; Zhu Y. *et al*. (2022), Character 366.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 363. Pharyngobranchial orientation: (0) directed anteriorly; (1) posteriorly.
 
 > Coates *et al*. (2018), Character 73; Zhu Y. *et al*. (2022), Character 367.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 364. Posteriormost branchial arch bears epibranchial unit: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 74; Zhu Y. *et al*. (2022), Character 368.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 365. Epibranchials bear posterior flange: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 75; Zhu Y. *et al*. (2022), Character 369.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 366. Hypobranchial orientation: (0) directed anteriorly; (1) hypobranchials of second and more posterior gill arches directed posteriorly.
 
 > Coates *et al*. (2018), Character 76; Zhu Y. *et al*. (2022), Character 370.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
  ## Neurocranium
 
