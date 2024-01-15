@@ -762,55 +762,55 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Brazeau *et al*. (2023), Character 174.
 
-> - The coding of *Eosteus* is 1. **This state should be carefully coded. I'm not sure of the presence of the joint in this taxon.**
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
 > Zhu  *et al*. (2009, Character 8), and references therein; Zhu *et al*. (2013), Character 152; Giles *et al*. (2015), Character 116; Choo *et al*. (2017), Character 142; King *et al*. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 175.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
 111. Posterior nostril: (0) external; (1) palatal.
 
 > Choo *et al*. (2017), Character 332; Lu *et al*. (2017), Character 262; Zhu Y. *et al*. (2022), Character 113.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 112. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
 
 > Zhu  *et al*. (2009, Character 7), and references therein; Zhu *et al*. (2013), Character 153; Choo *et al*. (2017), Character 163; King *et al*. (2017), Character 181; Castiello (2018), Character 178; Zhu Y. *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 187.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 113. Choana: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 260; Castiello (2018), Character 257; Zhu Y. *et al*. (2022), Character 115; Brazeau *et al*. (2023), Character 265.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 114. Lacrimal posteriorly enclosing posterior nostril: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 58), and references therein; Zhu *et al*. (2013), Character 172; Choo *et al*. (2017), Character 179; King *et al*. (2017), Character 194; Castiello (2018), Character 193; Zhu Y. *et al*. (2022), Character 116; Brazeau *et al*. (2023), Character 199.
 
-> - The coding of *Eosteus* is ?, due to lack of lacrimal detail.
+> - The coding of *Eosteus* is ?, due to lack of lacrimal detail. The coding of *Megamastax amblyodus* is 1.
 
 115. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117; Brazeau *et al*. (2023), Character 277.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
 116. Position of anterior nostril: (0) facial; (1) at oral margin.
 
 > Zhu Y. *et al*. (2021), Character 255; Zhu Y. *et al*. (2022), Character 118.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 117. Number of nasals: (0) many; (1) one or two.
 
 > Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119; Brazeau *et al*. (2023), Character 184.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 118. Mesial margin of nasal: (0) not notched; (1) notched.
 
@@ -818,21 +818,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The condition in placoderms is coded 'unavailability', although the 'postnasal plate' is likely to be equivalent of the nasal in osteichthyans. The coding for *Cheirolepis* was changed to '1', following Coates *et al*. (2018, Character 29). Unlike Coates *et al*. (2018), the coding for *Mimipiscis* and *Moythomasia* was retained as '1'.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-119. Dermintermedial process: (0) absent; (1) present; Brazeau *et al*. (2023), Character 186.
+119. Dermintermedial process: (0) absent; (1) present. 
 
-> Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121.
+> Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 186.
 
 > - The process seems present in *Ligulalepis*. The presence should be a plesiomorphy for osteichthyans.
 
-> - The coding of *Eosteus* is ?, due to lack of nostril detail.
+> - The coding of *Eosteus* is ?, due to lack of nostril detail. The coding of *Megamastax amblyodus* is 1.
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 22; Castiello (2018), Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
@@ -840,67 +840,67 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > *Kolymaspis sibirica* is coded from "0" to "1" based on Brazeau *et al*. (2023).
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
 > Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 10), and references therein; Zhu *et al*. (2013), Character 154; Choo *et al*. (2017), Character 164; King *et al*. (2017), Character 182; Castiello (2018), Character 179; Zhu Y. *et al*. (2022), Character 125; Brazeau *et al*. (2023), Character 188.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 124. Number of supraorbitals: (0) one; (1) two; (2) many.
 
 > King *et al*. (2017), Character 262; Castiello (2018), Character 259; Zhu Y. *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 267.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
 > Zhu  *et al*. (2009, Character 11), and references therein; Zhu *et al*. (2013), Character 155; Choo *et al*. (2017), Character 165; King *et al*. (2017), Character 183; Castiello (2018), Character 180; Zhu Y. *et al*. (2022), Character 127; Brazeau *et al*. (2023), Character 189.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 126. Tectal (sensu Cloutier and Ahlberg 1996, not counting the posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 190.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 127. Pineal opening in braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 115; Castiello (2018), Character 116; Zhu Y. *et al*. (2022), Character 129; Brazeau *et al*. (2023), Character 119.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 128. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 129. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 233; Zhu Y. *et al*. (2022), Character 131.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 130. Location of pineal foramen/eminence: (0) level with posterior margin of orbits; (1) well posterior of orbits.
 
 > Zhu  *et al*. (2009, Character 19), and references therein; Zhu *et al*. (2013), Character 158; Choo *et al*. (2017), Character 168; King *et al*. (2017), Character 186; Castiello (2018), Character 183; Zhu Y. *et al*. (2022), Character 132; Brazeau *et al*. (2023), Character 192.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 131. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133; Brazeau *et al*. (2023), Character 194.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 132. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones.
 
@@ -908,7 +908,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Giles *et al*. (2015): "Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and *Romundina* bear pineal plates that contribute to the margin of the orbit, corresponding to state \'0\'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e.g., *Mimipiscis*) as showing state \'1\'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character."
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 133. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
@@ -916,73 +916,73 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Giles *et al*. (2015): "This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans."
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 134. Parietals (preorbitals of placoderms): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 169; Clement *et al*. (2018), Character 279; Zhu Y. *et al*. (2022), Character 136.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 135. Condition of parietals/preorbitals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 280; Zhu Y. *et al*. (2022), Character 137.
 
-> - The coding of *Eosteus* is ?. Observing the current specimen, it's diffficult to tell whether the parietal is a single plate or not.
+> - The coding of *Eosteus* is ?. Observing the current specimen, it's diffficult to tell whether the parietal is a single plate or not. The coding of *Megamastax amblyodus* is 2.
 
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 187; Castiello (2018), Character 184; Zhu Y. *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 193.
 
-> - The coding of *Eosteus* is ?, due to lack of identification of pineal opening.
+> - The coding of *Eosteus* is ?, due to lack of identification of pineal opening. The coding of *Megamastax amblyodus* is 1.
 
 137. Postparietals (centrals of placoderms): (0) absent; (1) present.
 
 > Clement *et al*. (2018), Character 277; Zhu Y. *et al*. (2022), Character 139.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 138. Condition of postparietals/centrals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 2.
 
 139. Suture between paired skull roofing bones: (0) straight; (1) sinusoidal.
 
 > Miles & Dennis (1979), Character 6; Giles *et al*. (2015), Character 49; Choo *et al*. (2017), Character 274; King *et al*. (2017), Character 210; Castiello (2018), Character 209; Zhu Y. *et al*. (2022), Character 141; Brazeau *et al*. (2023), Character 215.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 140. Large unpaired median skull roofing bone anterior to the level of nasal capsules (premedian plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142; Brazeau *et al*. (2023), Character 183.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1
 
 141. Position of premedian plate: (0) dorsal; (1) ventral.
 
 > Zhu Y. *et al*. (2022), Character 143.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 142. Postnasal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 341; Zhu Y. *et al*. (2021), Character 310; Zhu Y. *et al*. (2022), Character 144.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 143. Obstantic margin of skull roof: (0) long; (1) short.
 
 > Zhu *et al*. (2016), Character 347; Zhu Y. *et al*. (2021), Character 314; Zhu Y. *et al*. (2022), Character 146.
 
-> - The coding of *Eosteus* is -.
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 144. Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - **check states in sarcopterygians**
 
