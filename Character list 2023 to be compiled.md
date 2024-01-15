@@ -990,31 +990,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
 
-> - The coding of *Eosteus* is -.
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 146. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 345; Zhu Y. *et al*. (2021), Character 312; Zhu Y. *et al*. (2022), Character 149.
 
-> - The coding of *Eosteus* is -. 
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 217.
 
-> - The coding of *Eosteus* is ?. 
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 164; Choo *et al*. (2017), Character 173; Zhu Y. *et al*. (2022), Character 151.
 
-> - The coding of *Eosteus* is ?. 
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
 > Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
 150. Lateral plate: (0) absent; (1) present.
 
@@ -1022,13 +1022,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The lateral plate is a syanpomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic). 
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 151. Paranuchal number: (0) one pair; (1) two pairs.
 
 > Zhu *et al*. (2013), Character 162; Choo *et al*. (2017), Character 171; King *et al*. (2017), Character 189; Castiello (2018), Character 187; Zhu Y. *et al*. (2022), Character 154; Brazeau *et al*. (2023), Character 195.
 
-> - The coding of *Eosteus* is ?, as the extrascapulars are not seen.
+> - The coding of *Eosteus* is ?, as the extrascapulars are not seen. The coding of *Megamastax amblyodus* is 1.
 
 152. Median paranuchal plate: (0) absent; (1) present.
 
@@ -1036,25 +1036,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2022): "We exclude the median paranuchal plate from the paranuchal series (Character 154), which runs along the main lateral line. Paired median paranuchals are present in some acanthothoracids, e.g., *Romundina*, *Arabosteus* (Olive *et al*., 2011) and *Sudaspis* (Vaškaninová and Ahlberg, 2017)."
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 153. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 165; Choo *et al*. (2017), Character 174; Zhu Y. *et al*. (2022), Character 156.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 154. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: (0) absent; (1) present; (2) paranuchals precluded from nuchal by central or median paranuchal.
 
 > Giles *et al*. (2015), Character 50; Choo *et al*. (2017), Character 275; King *et al*. (2017), Character 211; Castiello (2018), Character 210; Zhu Y. *et al*. (2022), Character 157; Brazeau *et al*. (2023), Character 216.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 155. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. *et al*. (2022), Character 158.
 
-> - The coding of *Eosteus* is ？.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 156. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
@@ -1062,109 +1062,109 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Castiello (2018): "The presence of a posteriorly expanded supraorbital has been revealed by Lu *et al*. (2016) to be one of the key character uniting actinopterygians."
 
-> - The coding of *Eosteus* is 1. 
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 157. Westoll-lines: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 273.
 
-> - The coding of *Eosteus* is -. 
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 158. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 250; Zhu Y. *et al*. (2022), Character 162.
 
-> - The coding of *Eosteus* is ?.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 159. Anterior pit line of dermal skull roof: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 160. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
 > Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 161. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
 > Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 1.
 
 162. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
 > Zhu  *et al*. (2009, Character 108), and references therein; Zhu *et al*. (2013), Character 186; Choo *et al*. (2017), Character 191; King *et al*. (2017), Character 289; Castiello (2018), Character 281; Zhu Y. *et al*. (2022), Character 166; Brazeau *et al*. (2023), Character 294.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 163. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
 > Zhu *et al*. (2013), Character 166; Choo *et al*. (2017), Character 175; Zhu Y. *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 290.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 164. Ethmoid commissure: (0) absent; (1) present.
 
 > Castiello (2018), Character 311; Zhu Y. *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 325.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observet. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 165. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 166. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
 > Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 167. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301.
 
-> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. 
+> - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is ?.
 
 168. Postmarginal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 320.
 
-> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. 
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 169. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
 > Zhu *et al*. (2016), Character 349; Zhu Y. *et al*. (2021), Character 315; Zhu Y. *et al*. (2022), Character 173.
 
-> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe.
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 170. Central sensory line: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 350; Zhu Y. *et al*. (2021), Character 316; King *et al*. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. *et al*. (2022), Character 174; Brazeau *et al*. (2023), Character 317.
 
-> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe.
+> - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 171. Supraorbital sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. *et al*. (2022), Character 175; Brazeau *et al*. (2023), Character 312.
 
-> - The coding of *Eosteus* is 1.
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 172. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
 > Zhu  *et al*. (2009, Character 109), and references therein; Zhu *et al*. (2013), Character 187; Choo *et al*. (2017), Character 192; King *et al*. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 295.
 
-> - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to be identified.
+> - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to be identified. The coding of *Megamastax amblyodus* is 1.
 
 173. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
 > Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
-> - The coding of *Eosteus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
