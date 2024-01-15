@@ -12,7 +12,7 @@ END;
 
 
 BEGIN CHARACTERS;
-	TITLE  'Matrix in file "Zhu2022+Megamastax+Ruiyu20240101clear1.nex"';
+	TITLE  'Matrix in file "early gnathostome phylogeny 2024.nex"';
 	DIMENSIONS  NCHAR=712;
 	FORMAT DATATYPE = STANDARD RESPECTCASE GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5 6 7 8 9 A B C D E F G H J K M N";
 	CHARSTATELABELS 
@@ -27,7 +27,7 @@ BEGIN CHARACTERS;
 		9 Superficial_glassy_layer_of_dermal_armour /  absent present,
 		10 Dentinous_tissue /  absent present,
 		11 Dentine_kind /  mesodentine semidentine orthodentine,
-		12 Plicidentine_ /  absent simple_or_generalized_polyplacodont,
+		12 Plicidentine /  absent simple_or_generalized_polyplacodont,
 		13 'Enamel(oid) present on dermal bones and scales' /  absent present,
 		14 Enamel /  'single-layered' 'multi-layered',
 		15 Enamel_layers /  'applied directly to one another (ganoine)' separated_by_layers_of_dentine,
@@ -52,7 +52,7 @@ BEGIN CHARACTERS;
 		34 Body_scale_growth_pattern /  monodontode polyodontode,
 		35 Body_scale_growth_concentric /  absent present,
 		36 'Body scales with peg-and-socket articulation' /  absent present,
-		37 Peg_on_rhomboid_scale_ /  narrow broad,
+		37 Peg_on_rhomboid_scale /  narrow broad,
 		38 Body_scale_profile /  'distinct crown and base demarcated by a constriction (neck)' flattened,
 		39 Body_scales_with_bulging_base /  absent present,
 		40 Body_scales_with_flattened_base /  absent present,
@@ -77,12 +77,12 @@ BEGIN CHARACTERS;
 		59 Extent_of_dermatocranial_cover /  complete 'incomplete (scale-free and elsewhere)',
 		60 Unpaired_median_skull_roofing_bone_in_contact_with_unpaired_plate_bearing_pineal_eminence_or_foramen /  absent present,
 		61 Median_rostral_extension_of_the_headshield /  absent present,
-		62 Lateral_fields /  absent_ present_,
+		62 Lateral_fields /  absent present,
 		63 Division_of_lateral_fields /  absent divided_once divided_twice,
 		64 Lateral_fields_extend_posterior_to_pectoral_sinus /  absent_ present_,
-		65 Lateral_fields_extend_onto_cornua /  absent_ present_,
+		65 Lateral_fields_extend_onto_cornua /  absent present,
 		66 Median_fields /  absent present,
-		67 Median_field_separation_from_pineal_plate_or_foramen /  absent_ present_,
+		67 Median_field_separation_from_pineal_plate_or_foramen /  absent present,
 		68 Median_dorsal_opening /  absent present,
 		69 Cornual_extensions /  absent present,
 		70 Corners /  absent present,
@@ -93,19 +93,19 @@ BEGIN CHARACTERS;
 		75 Spines_on_cornual_extension /  absent present,
 		76 Headshield_enclosed_posteriorly_behind_oralobranchial_chamber /  no yes,
 		77 Enlarged_tubercles_form_symmetrical_pattern_on_posterior_part_of_headshield /  absent present,
-		78 'T-shaped rostral plate' /  absent_ present_,
+		78 'T-shaped rostral plate' /  absent present,
 		79 'Single median element carring the central, middle and posterior pit line' /  absent_ present_,
-		80 Postnuchal_plates /  absent_ present_,
-		81 Cutaneous_sensory_organ_on_suborbital_plate /  absent_ present_,
+		80 Postnuchal_plates /  absent present,
+		81 Cutaneous_sensory_organ_on_suborbital_plate /  absent present,
 		82 Cutaneous_sensory_organ_on_postsuborbital_plate /  absent_ present_,
-		83 Cutaneous_sensory_organ_on_skull_roof_posterior_to_orbits /  absent_ present_,
+		83 Cutaneous_sensory_organ_on_skull_roof_posterior_to_orbits /  absent present,
 		84 Sclerotic_ring_incorporated_into_skull_roof /  absent present,
 		85 Rostrocaudal_groove_on_the_inner_surface_of_the_premedian_plate /  absent present,
-		86 Preorbital_depression /  absent_ present_,
-		87 Preorbital_recess /  absent_ present_,
+		86 Preorbital_depression /  absent present,
+		87 Preorbital_recess /  absent present,
 		88 Preorbital_recess /  restricted_to_premedian_plate_ extends_onto_lateral_plates_,
-		89 Submarginal_articulation /  absent_ present_,
-		90 Prelateral_plate /  absent_ present_,
+		89 Submarginal_articulation /  absent present,
+		90 Prelateral_plate /  absent present,
 		91 Posterior_descending_lamina_of_skull_roof /  absent_ present_,
 		92 Mesial_lamina_of_marginal_plate /  absent_ present_,
 		93 Nostril_enclosed_in_dermal_skull_roof /  yes_ no_,
@@ -315,7 +315,7 @@ BEGIN CHARACTERS;
 		297 Parasymphysial_plate /  detachable_tooth_whorl 'long with posterior corner, sutured to coronoid, denticulated or with tooth row' absent,
 		298 Anterior_end_of_prearticular_ /  far_from_jaw_symphysis near_jaw_symphysis,
 		299 'Prearticular - dentary contact ' /  present absent,
-		300 Number_of_dermopalatines /  one_ two_ more_than_2_,
+		300 Number_of_dermopalatines /  one two more_than_2,
 		301 Entopterygoids /  separated contact_along_midline,
 		302 Proportions_of_entopterygoid /  anterior_end_level_with_processus_ascendens anterior_end_considerably_anterior_to_processus_ascendens,
 		303 Course_of_mandibular_canal_ /  passing_through_dentary not_passing_through_dentary,
@@ -930,7 +930,6 @@ BEGIN LABELS;
 	TAXAGROUPLABEL A_outgroup COLOR = (RGB 1.0 1.0 1.0) ;
 	TAXAGROUPLABEL stem_osteichthyans COLOR = (RGB 1.0 0.06666667 0.06666667) ;
 	TAXAGROUPLABEL actinopterygians COLOR = (RGB 0.83529412 1.0 0.16862745) ;
-
 
 END;
 
