@@ -978,13 +978,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-144. Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate): (0) absent; (1) present.
+144. Nuchal plate contributing to posterior margin of skull roof (nuchal plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+> - Previous formulation of the character "Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate)" might denote either the nuchal and its homologue (median extrascapular in osteichthyans) or the nuchal plate forming part of the posterior margin of skull roof. This ambiguity resulted in the coding confusion in previous datasets. Here the character is re-formulated as "nuchal plate contributing to posterior margin of skull roof". The condition in osteichthyans or sarcopterygians (median extrascapular) is coded inapplicable.
 
-> - **check states in sarcopterygians**
+> - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
