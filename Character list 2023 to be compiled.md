@@ -125,7 +125,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
-> **coding in osteichthyans**
 
 > - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton. The same is for *Janusiscus*. The coding of *Megamastax amblyodus* is 0.
 
@@ -247,7 +246,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Styloichthys* is 1. **Youngolepis 1**
+> - The coding of *Styloichthys* is 1. *Youngolepis* 1.
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
 
