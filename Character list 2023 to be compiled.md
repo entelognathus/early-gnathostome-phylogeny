@@ -4599,7 +4599,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax amblyodus* is 0.
 
-711. Jaw joint reaching or extended posterior to the skull roof or neurocranium: (0) absent; (1) present.
+711. Mandible length relative to the length of the skull roof or the neurocranium if the skull roof is absent: (0) mandible shorter than the latter; (1) mandible longer than the latter.
 
 > New character
 
