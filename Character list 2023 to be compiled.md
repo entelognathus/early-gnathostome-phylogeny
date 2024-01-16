@@ -1335,13 +1335,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 323; Castiello (2018), Character 315; Zhu Y. *et al*. (2022), Character 201; Brazeau *et al*. (2023), Character 328.
 
-> - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is ?. **Mega. to be changed as 1**
+> - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is 1.
 
 198. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 116), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 199; King *et al*. (2017), Character 297; Castiello (2018), Character 288; Zhu Y. *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 302.
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1. **Mega. to be changed as 0**
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
@@ -1889,7 +1889,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 286. Coronoids (sensu lato): (0) present, (1) absent.
 
@@ -2465,7 +2465,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 
 376. Size of profundus canal in postnasal wall: (0) small; (1) large.
 
@@ -3356,7 +3356,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 114; Castiello (2018), Character 114; Zhu Y. *et al*. (2022), Character 523; Brazeau *et al*. (2023), Character 118.
 
-> ***Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).**
+> *Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
