@@ -4579,6 +4579,19 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+712. Skull roof clearly divided into parietals and postparietals: 0) absent; (1) present.
+
+> New character
+
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
+
+713. Boundary between the parietals and postparietals: 0) roughly straight across; (1) zigzag or wedged in each other.
+
+> New character
+
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.  Note that placoderm condition is considered inapplicable.
+
+
 **Deleted characters**
 
 D1. Dorsal ridge: (0) absent; (1) present.
