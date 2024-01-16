@@ -125,6 +125,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
+> **coding in osteichthyans**
 
 > - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton. The same is for *Janusiscus*. The coding of *Megamastax amblyodus* is 0.
 
@@ -246,7 +247,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Styloichthys* is 1.
+> - The coding of *Styloichthys* is 1. **Youngolepis 1**
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
 
@@ -330,6 +331,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - **The coding of *Styloichthys* is 0.**
+
 44. Neck canal: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 16; Zhu Y. *et al*. (2022), Character 45.
@@ -338,11 +341,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - **The coding of *Styloichthys* is 1.**
+
 45. Keel of scale: (0) absent; (1) present.
 
 > Cui *et al*. (2019), Character 343; Zhu Y. *et al*. (2022), Character 46.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - **The coding of *Styloichthys* is 1.**
 
 46. Posterior ledge (or secondary keel) of scale: (0) absent; (1) weak; (2) developed.
 
@@ -351,6 +358,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972). The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
+
+> - **The coding of *Styloichthys* is 1.**
 
 47. Anteroventral process of scale: (0) absent; (1) present.
 
