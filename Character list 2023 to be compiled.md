@@ -331,7 +331,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 
 44. Neck canal: (0) absent; (1) present.
 
@@ -341,7 +341,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 45. Keel of scale: (0) absent; (1) present.
 
@@ -349,7 +349,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 46. Posterior ledge (or secondary keel) of scale: (0) absent; (1) weak; (2) developed.
 
@@ -359,7 +359,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 47. Anteroventral process of scale: (0) absent; (1) present.
 
@@ -397,7 +397,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
-> - **The coding of *Styloichthys* is 2.**
+> - The coding of *Styloichthys* is 2.
 
 52. Sensory line canal of head: (0) passes between or beneath scales; (1) passes over scales and/or is partially enclosed or surrounded by scales; (2) perforates and passes through scales.
 
@@ -921,7 +921,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 133. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
@@ -995,7 +995,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu *et al*. (2013), Character 163; Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2022), Character 147.
 
-> - **Previous formulation of the character "Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate)" might denote either the nuchal and its homologue (median extrascapular in osteichthyans) or the nuchal plate forming part of the posterior margin of skull roof. This ambiguity resulted in the coding confusion in previous datasets. Here the character is re-formulated as "nuchal plate contributing to posterior margin of skull roof". The condition in osteichthyans or sarcopterygians (median extrascapular) is coded inapplicable.**
+> - Previous formulation of the character "Large unpaired median bone contributing to posterior margin of skull roof (nuchal plate)" might denote either the nuchal and its homologue (median extrascapular in osteichthyans) or the nuchal plate forming part of the posterior margin of skull roof. This ambiguity resulted in the coding confusion in previous datasets. Here the character is re-formulated as "nuchal plate contributing to posterior margin of skull roof". The condition in osteichthyans or sarcopterygians (median extrascapular) is coded inapplicable.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -1177,7 +1177,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
-> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0. **1 in Mega? Osteolepis 1, Eusthenopteron 0, Gogonasus 1, weak, Holland et al. 2009)**
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1. *Osteolepis* and *Gogonasus* (weak, Holland et al., 2009) are coded 1, *Eusthenopteron* 0.
 
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
@@ -1197,7 +1197,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2022): "The character "median commissure between supraorbital sensory lines: (0) absent; (1) present" (Choo *et al*., 2017, Character 272; Giles *et al*., 2015c, Character 45) is deleted due to its overlap with the current state 2."
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. **This is a character for placoderms, inapplicable for osteichthyans.**
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -. This is a character for placoderms, inapplicable for osteichthyans.
 
 177. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
@@ -1431,7 +1431,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Giles *et al*. (2015), Character 57; Choo *et al*. (2017), Character 258; Zhu Y. *et al*. (2022), Character 217.
 
-> - The coding of *Eosteus* is 0. *Guiyu* changed from "?" to 0. The coding of *Megamastax amblyodus* is ?. **check**
+> - The coding of *Eosteus* is 0. *Guiyu* changed from "?" to 0. The coding of *Megamastax amblyodus* is 0.
 
 214. Cheek plate: (0) undivided; (1) divided (i.e., squamosal and preopercular).
 
@@ -2201,7 +2201,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 336. Scalloped oral margin on Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
@@ -4418,7 +4418,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 
 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
@@ -4426,7 +4426,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
@@ -4434,7 +4434,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 >
 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
@@ -4442,7 +4442,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
@@ -4478,7 +4478,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 695. Buried odontodes of body scales: (0) absent, (1) present.
 
@@ -4503,7 +4503,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 698. Cancellous central layerr: (0) absent; (1) present.
 
@@ -4513,7 +4513,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - **The coding of *Styloichthys* is 1.**
+> - The coding of *Styloichthys* is 1.
 
 699. Dentinous external layer: (0) absent; (1) present.
 
@@ -4535,7 +4535,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - **The coding of *Styloichthys* is 0.**
+> - The coding of *Styloichthys* is 0.
 
 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
