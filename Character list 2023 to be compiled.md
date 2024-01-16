@@ -1466,6 +1466,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis (2002); Hanke & Wilson (2004); Davis *et al*. (2012), Character 27; Choo *et al*. (2017), Character 26; King *et al*. (2017), Character 160; Castiello (2018), Character 158; Zhu Y. *et al*. (2022), Character 224; Brazeau *et al*. (2023), Character 164.
 
+> - The coding of *Miguashaia* is changed from 1 to 0 (Clouttier, 1996). 
+
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 221. Branchiostegal plate series along ventral margin of lower jaw: (0) absent; (1) present.
