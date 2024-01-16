@@ -4593,33 +4593,25 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-710. Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
+**Arguablly useful characters**
 
-> New character
+P1. Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax amblyodus* is 0.
 
-711. Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
+P2. Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
 
-> New character
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
-
-
-712. Skull roof clearly divided into parietals and postparietals: 0) absent; (1) present.
-
-> New character
+P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
 
-713. Boundary between the parietals and postparietals: 0) roughly straight across; (1) zigzag or wedged in each other.
+> - The relationship with the dermal intracranial joint should be considered.
 
-> New character
+P4. Boundary between the parietals and postparietals: 0) roughly straight across; (1) zigzag or wedged in each other.
 
-> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.  Note that placoderm condition is considered inapplicable.
-
-> - **The coding of *Styloichthys* is 1.**
-
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
 
 **Deleted characters**
 
