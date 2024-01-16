@@ -152,7 +152,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Styloichthys* is 1.
+> - The coding of *Styloichthys* is 1.  
 
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
 
@@ -1520,7 +1520,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Styloichthys* is 0.
+> - The coding of *Styloichthys* is 1.
 
 227. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
