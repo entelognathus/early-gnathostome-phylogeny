@@ -1164,7 +1164,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
-> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0. **1 in Mega? Osteolepis 1, Eusthenopteron 0, Gogonasus 1, weak, Holland et al. 2009)**
 
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
@@ -1184,7 +1184,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2022): "The character "median commissure between supraorbital sensory lines: (0) absent; (1) present" (Choo *et al*., 2017, Character 272; Giles *et al*., 2015c, Character 45) is deleted due to its overlap with the current state 2."
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. **This is a character for placoderms, inapplicable for osteichthyans.**
 
 177. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
@@ -1322,13 +1322,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 323; Castiello (2018), Character 315; Zhu Y. *et al*. (2022), Character 201; Brazeau *et al*. (2023), Character 328.
 
-> - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is ?. **check Mega**
+> - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is ?. **Mega. to be changed as 1**
 
 198. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 116), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 199; King *et al*. (2017), Character 297; Castiello (2018), Character 288; Zhu Y. *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 302.
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1. **Mega. to be changed as 0**
 
 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
@@ -1494,9 +1494,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-225. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits; Brazeau *et al*. (2023), Character 169.
+225. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits.
 
-> Hanke and Wilson (2004); Davis *et al*. (2012), Character 32; Choo *et al*. (2017), Character 31. Dearden *et al*. (2019), Character 73; King *et al*. (2017), Character 165; Castiello (2018), Character 163; Zhu Y. *et al*. (2022), Character 229.
+> Hanke and Wilson (2004); Davis *et al*. (2012), Character 32; Choo *et al*. (2017), Character 31. Dearden *et al*. (2019), Character 73; King *et al*. (2017), Character 165; Castiello (2018), Character 163; Zhu Y. *et al*. (2022), Character 229; Brazeau *et al*. (2023), Character 169.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
