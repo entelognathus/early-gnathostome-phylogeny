@@ -27,8 +27,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
->
-> - **Yao‘s comments: *Meeamnnaia* coding should be 0, reference**
 
 4.  Perichondral bone: (0) present; (1) absent.
 
