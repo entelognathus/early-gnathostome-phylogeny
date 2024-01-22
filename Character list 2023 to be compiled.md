@@ -1123,24 +1123,28 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Castiello (2018), Character 311; Zhu Y. *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 325.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Achoania* is changed from ? to 1.
 
 165. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
+> - The coding of *Achoania* is changed from ? to 0.
 
 166. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
 > Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
+> - The coding of *Achoania* is changed from ? to 1. The coding of *Psarolepis* is changed from 0 to 1. The coding of *Guiyu* is changed from 0 to 1.
 
 167. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Achoania* is changed from ? to 1. The coding of *Guiyu* is changed from ? to 1. The coding of *Psarolepis* is changed from 0 to 1.
 
 168. Postmarginal canal: (0) absent; (1) present.
 
@@ -1165,6 +1169,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 307; Castiello (2018), Character 299; Zhu Y. *et al*. (2022), Character 175; Brazeau *et al*. (2023), Character 312.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
+> - The coding of *Psarolepis romeri* is changed from ? to 1. The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Youngolepis praecursor* is changed from ? to 1 (Chang, 1982). The coding of *Diabolepis speratus* is changed from ? to 1 (Qiao, 2011). The coding of *Onychodus jandemarrai* is changed from 0 to 1 (Andrews et al., 2006). The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Porolepis spp* is changed from 0 to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from 0 to 1 (Jarvik, 1972). The coding of *Osteolepis macrolepidotus* is changed from 0 to 1 (Westoll, 1936). The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Jarvik, 1980). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
 172. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
@@ -1177,6 +1182,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1. *Osteolepis* and *Gogonasus* (weak, Holland et al., 2009) are coded 1, *Eusthenopteron* 0.
+> - The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Guiyu oneiros* is changed from 0 to 1 (Qiao et al., 2010). The coding of *Achoania jarviki* is changed from 0 to 1. The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016).
 
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
@@ -1209,6 +1215,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu  *et al*. (2009, Character 113), and references therein; Zhu *et al*. (2013), Character 191; Choo *et al*. (2017), Character 196; King *et al*. (2017), Character 294; Castiello (2018), Character 285; Zhu Y. *et al*. (2022), Character 182; Brazeau *et al*. (2023), Character 299.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Ligulaleois toombsi* is changed from ? to 1 (Clement et al., 2018). The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Miguashaia bureaui* is changed from ? to 0 (Forey, 1998). The coding of *Diabolepis speratus* is changed from ? to 0 (Qiao, 2011). The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Jarvik, 1980). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
 179. Otic canal: (0) runs through skull roof; (1) follows edge of skull roof.
 
@@ -1839,6 +1846,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Brazeau *et al*. (2023), Character 136.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
+> - The coding of *Achoania jarviki* is changed from ? to 0.
 
 278. Shape of parasphenoid denticulated field: (0) broad rhomboid or lozenge-shaped; (1) broad, splint-shaped; (2) slender, splint-shaped.
 
@@ -1889,6 +1897,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Styloichthys* is 1.
+> - The coding of *Achoania* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 0 (Andrews et al., 2006).The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Powichthys thorsteinssoni* is changed from ? to 1 (Jessen, 1980). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). The coding of *Porolepis spp* is changed from ? to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from ? to 1 (Jarvik, 1972). The coding of *Gogonasus andrewsae* is changed from ? to 1 (Holland, 2014). The coding of *Eusthenopteron foordi* is changed from ? to 1 (Jarvik, 1980).
 
 286. Coronoids (sensu lato): (0) present, (1) absent.
 
@@ -2501,12 +2510,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu  *et al*. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 57; Choo *et al*. (2017), Character 56. King *et al*. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. *et al*. (2022), Character 385; Brazeau *et al*. (2023), Character 24.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Achoania jarviki* is changed from 0 to 1.
 
 382. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
 
 > Zhu Y. *et al*. (2021), Character 342; Zhu Y. *et al*. (2022), Character 386.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Psarolepis romeri* is changed from ? to 1. The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Diabolepis speratus* is changed from ? to 1 (Qiao, 2011). The coding of *Porolepis spp* is changed from 0 to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from 0 to 1 (Jarvik, 1972).
 
 383. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
 
@@ -2521,6 +2532,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Davis *et al*. (2012), Character 73; Choo *et al*. (2017), Character 72. King *et al*. (2017), Character 36; Castiello (2018), Character 36; Zhu Y. *et al*. (2022), Character 388; Brazeau *et al*. (2023), Character 39.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Achoania jarviki* is changed from ? to 0.
 
 385. Ethmoid articulation for palatoquadrate: (0) placed on postnasal wall; (1) extends posteriorly to the level of N.II.
 
@@ -2637,6 +2649,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Choo *et al*. (2017), Character 334; Lu *et al*. (2017), Character 266; Zhu Y. *et al*. (2022), Character 408.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
 404. Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal.
 
@@ -2838,6 +2851,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 79; Choo *et al*. (2017), Character 75; King *et al*. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. *et al*. (2022), Character 440; Brazeau *et al*. (2023), Character 42.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Achoania jarviki* is changed from ? to 1.
 
 436. Position of basal/basipterygoid articulation: (0) same anteroposterior level as hypophysial opening; (1) anterior to hypophysial opening.
 
@@ -2868,6 +2882,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Clement *et al*. (2018), Character 282; Zhu Y. *et al*. (2022), Character 445.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Achoania jarviki* is changed from ? to 1.
 
 441. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
 
@@ -3270,6 +3285,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Young (1980); King *et al*. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. *et al*. (2022), Character 509; Brazeau *et al*. (2023), Character 98.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Achoania jarviki* is changed from ? to 0.
 
 504. Transverse otic process: (0) not extending in front of orbits; (1) extending in front of orbits.
 
@@ -3358,12 +3374,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > *Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 1 (Andrews et al., 2006). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Miguashaia bureaui* is changed from ? to 1 (Forey, 1998). The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Styloichthys changae* is changed from ? to 1 (Zhu & Yu, 2002). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). 
 
 518. Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
 
 > Castiello (2018), Character 115; Zhu Y. *et al*. (2022), Character 524.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+> - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. 
 
 519. Ventral rounded processes on preotic part of braincase: (0) absent; (1) present.
 
