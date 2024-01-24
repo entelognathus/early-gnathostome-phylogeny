@@ -3505,6 +3505,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Castiello (2018), Character 115; Zhu Y. *et al*. (2022), Character 524.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - A status "ventral" should be added to this character to take into account the condition of *Qingmenodus yui*, *Youngolepis praecursor* and *Eusthenopteron foordi*.
+
 > - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. 
 
 519. Ventral rounded processes on preotic part of braincase: (0) absent; (1) present.
