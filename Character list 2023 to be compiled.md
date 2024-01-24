@@ -21,7 +21,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
->  This type of cartilage calcification is widely considered a chondrichthyan synapomorphy (Schaeffer, 1981). It is manifest as a tessellated sub-perichondral surface of the endoskeleton (Brazeau, 2009).
+
+> - This type of cartilage calcification is widely considered a chondrichthyan synapomorphy (Schaeffer, 1981). It is manifest as a tessellated sub-perichondral surface of the endoskeleton (Brazeau, 2009).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
