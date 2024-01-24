@@ -21,6 +21,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
+>  This type of cartilage calcification is widely considered a chondrichthyan synapomorphy (Schaeffer, 1981). It is manifest as a tessellated sub-perichondral surface of the endoskeleton (Brazeau, 2009).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -29,6 +30,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
+> By extensive, the character aims to capture all of those taxa in which the neurocranium, jaws, hyoid and gill arches, as well as parts of the axial and appendicular skeleton are mineralized in the absence of perichondral bone (Coates et al., 2018).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -37,6 +39,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 3.
+> The absence of perichondral bone has been thought to define chondrichthyans, but may occasionally appear in some chondrichthyans (Brazeau, 2009).
 
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
 
@@ -66,7 +69,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
-> King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
+> Donoghue *et al*. (2000), Character 67; King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
