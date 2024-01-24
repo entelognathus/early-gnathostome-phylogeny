@@ -14,9 +14,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The presence or absence of fissures in globular calcified cartilage could be a character to unite the subtessellate calcified cartilage and TCC.
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. 
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0]
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
@@ -25,7 +25,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be -]
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -34,7 +34,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0]
 
 4.  Perichondral bone: (0) present; (1) absent.
 
@@ -43,7 +43,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0 if its neurocranium is well preserved.]
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -53,7 +53,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be 1 if its neurocranium is well preserved.]
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
@@ -65,7 +65,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Meemannia*_like fish is ?. [MZ: should be 1 if its neurocranium is well preserved.]
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
