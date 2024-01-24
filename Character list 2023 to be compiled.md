@@ -159,6 +159,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 18. Galeaspidin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 9; Castiello (2018), Character 9; Zhu Y. *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 12.
+>  "galeaspedin" is a term to describe a unique histological structure found in the dermal bone of the galeaspids. This structure is characterized by acellular lamellar bone with its mineral arranged in cylindrical crystal bundles, forming three sets of orthogonal arrays. The term "galeaspedin" specifically refers to this distinctive arrangement and composition of bone tissue in galeaspids. (wang et al., 2005)
 
 > - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton. The same is for *Janusiscus*. The coding of *Megamastax amblyodus* is 0.
 
