@@ -1577,6 +1577,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Ligulaleois toombsi* is changed from ? to 1 (Clement et al., 2018). The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Miguashaia bureaui* is changed from ? to 0 (Forey, 1998). The coding of *Diabolepis speratus* is changed from ? to 0 (Qiao, 2011). The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Jarvik, 1980). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
 > - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Cheirolepis trailli* , *Howqualepis rostridens*, *Mimipiscis toombsi* and *Moythomasia durgaringa* is changed from 1 to 0 (Mickle, 2012)(Choo et al, 2009).
 
 179. Otic canal: (0) runs through skull roof; (1) follows edge of skull roof.
 
