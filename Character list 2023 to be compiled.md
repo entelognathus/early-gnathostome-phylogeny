@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/880aefb8-124c-4dd3-8507-5308fd09f8b1)# Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
+## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
@@ -31,6 +31,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
+
 > By extensive, the character aims to capture all of those taxa in which the neurocranium, jaws, hyoid and gill arches, as well as parts of the axial and appendicular skeleton are mineralized in the absence of perichondral bone (Coates et al., 2018).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
@@ -40,6 +41,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 3.
+
 > The absence of perichondral bone has been thought to define chondrichthyans, but may occasionally appear in some chondrichthyans (Brazeau, 2009).
 
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
