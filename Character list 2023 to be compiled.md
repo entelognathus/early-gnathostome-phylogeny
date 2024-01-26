@@ -1,4 +1,4 @@
-# Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
+![image](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/880aefb8-124c-4dd3-8507-5308fd09f8b1)# Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
@@ -1598,6 +1598,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 289.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 182. Infra-orbital sensory line: (0) crosses lateral field; (1) does not cross lateral field.
@@ -1606,11 +1608,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
+> - The coding of *Meemannia*_like fish is -.
+
 183. Festooned pattern of sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 305; Castiello (2018), Character 296; Zhu Y. *et al*. (2022), Character 187; Brazeau *et al*. (2023), Character 310.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is 0.
 
 184. Median transverse canals: (0) two or more; (1) one; (2) absent.
 
@@ -1620,6 +1626,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 2. The coding of *Megamastax amblyodus* is 2.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 185. Multiply branched sensory canal system associated with the posterior end of the supraorbital canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 306; Castiello (2018), Character 298; Zhu Y. *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 311.
@@ -1627,6 +1635,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - In the present dataset, the character is only present in *Wenshanaspis*.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is 0.
 
 186. Branching end of lateral transverse canals: (0) absent; (1) present.
 
@@ -1636,6 +1646,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
+> - The coding of *Meemannia*_like fish is -.
+
 187. Median dorsal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 310; Castiello (2018), Character 301; Zhu Y. *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 315.
@@ -1644,11 +1656,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is 0.
+
 188. Infraorbital and otic sensory line grooves run along mesial margin of marginal plate: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 311; Castiello (2018), Character 302; Zhu Y. *et al*. (2022), Character 192.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is 0.
 
 189. Semicircular pit line: (0) absent; (1) present.
 
@@ -1658,11 +1674,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is 0.
+
 190. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 319.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 191. Preopercular canal: (0) absent; (1) present.
 
@@ -1670,11 +1690,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 192. Preopercular canal meets otic canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 317; Castiello (2018), Character 308; Zhu Y. *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 322.
 
 > - The coding of *Eosteus* is ?, as the detail of the otic canal is difficult to observe. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 193. Supraoral canal: (0) absent; (1) present.
 
@@ -1682,11 +1706,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 194. Extension of otic canal beyond infraorbital canal (\"P\" canal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 319; Castiello (2018), Character 310; Zhu Y. *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 324.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 195. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 
@@ -1696,11 +1724,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 196. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
 > King *et al*. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. *et al*. (2022), Character 200; Brazeau *et al*. (2023), Character 327.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 197. Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
@@ -1708,11 +1740,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 198. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 116), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 199; King *et al*. (2017), Character 297; Castiello (2018), Character 288; Zhu Y. *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 302.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
@@ -1720,11 +1756,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 200. External endolymphatic duct openings' location in relation to median field: (0) internal; (1) external.
 
 > Castiello (2018), Character 224; Zhu Y. *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 230.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 201. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 
@@ -1732,11 +1772,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 202. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): (0) within median bone; (1) on bones flanking the median bone (e.g. paranuchals).
 
 > Giles *et al*. (2015), Character 40; Choo *et al*. (2017), Character 269; King *et al*. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. *et al*. (2022), Character 206; Brazeau *et al*. (2023), Character 212.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 203. Sclerotic ring: (0) absent; (1) present.
 
@@ -1744,11 +1788,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 204. Number of sclerotic plates: (0) four or less; (1) more than four.
 
 > Zhu  *et al*. (2009, Character 57), and references therein; Zhu *et al*. (2013), Character 170; Choo *et al*. (2017), Character 241; King *et al*. (2017), Character 204; Castiello (2018), Character 203; Zhu Y. *et al*. (2022), Character 208; Brazeau *et al*. (2023), Character 209.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 205. Number of extrascapulars: (0) uneven; (1) paired.
 
@@ -1756,11 +1804,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is 0.
+
 206. Number of paired extrascapulars: (0) one pair; (1) two pairs.
 
 > King *et al*. (2017), Character 277; Castiello (2018), Character 271; Zhu Y. *et al*. (2022), Character 210; Brazeau *et al*. (2023), Character 282.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is -.
 
 207. Consolidated cheek plates: (0) absent; (1) present.
 
@@ -1768,11 +1820,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 208. Foramina (similar to infradentary foramina) on cheek bones: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
  
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 209. Most posterior major bone of cheek bearing preopercular canal (preopercular) extending forward, close to orbit: (0) absent; (1) present.
 
@@ -1780,11 +1836,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 210. Number of cheek bones bearing preopercular canal posterior to jugal: (0) one; (1) two.
 
 > Zhu  *et al*. (2009, Character 60), and references therein; Zhu *et al*. (2013), Character 174; Choo *et al*. (2017), Character 181; King *et al*. (2017), Character 196; Castiello (2018), Character 195; Zhu Y. *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 201.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 211. Bone bearing both quadratojugal pit-line and preopercular canal: (0) absent; (1) present.
 
@@ -1792,17 +1852,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 212. Anterior portion of preopercular canal: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 118), and references therein; Zhu *et al*. (2013), Character 195; Choo *et al*. (2017), Character 200; Zhu Y. *et al*. (2022), Character 216.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 213. Vertical canal associated with preopercular/suborbital canal: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 57; Choo *et al*. (2017), Character 258; Zhu Y. *et al*. (2022), Character 217.
 
 > - The coding of *Eosteus* is 0. *Guiyu* changed from "?" to 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 214. Cheek plate: (0) undivided; (1) divided (i.e., squamosal and preopercular).
 
@@ -1812,11 +1878,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 215. Subsquamosals in taxa with divided cheek: (0) absent; (1) present.
 
 > Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48; Zhu & Yu (2002), Character 48; Friedman (2007), Character 43; Giles *et al*. (2015), Character 55; Choo *et al*. (2017), Character 279; King *et al*. (2017), Character 215; Castiello (2018), Character 214; Zhu Y. *et al*. (2021), Character 53; Zhu Y. *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 220.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 216. Preopercular shape: (0) rhombic; (1) bar-shaped.
 
@@ -1826,11 +1896,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 217. Preoperculosubmandibular: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 328; Lu *et al*. (2017), Character 244; Zhu Y. *et al*. (2022), Character 221.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 218. Dermohyal: (0) absent; (1) present.
 
@@ -1840,11 +1914,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 219. Enlarged postorbital tesserae separated from orbital series: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 26; Choo *et al*. (2017), Character 25; King *et al*. (2017), Character 159; Castiello (2018), Character 157; Zhu Y. *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 163.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
+
+> - The coding of *Meemannia*_like fish is -.
 
 220. Bony hyoidean gill-cover series (branchiostegals): (0) absent; (1) present.
 
@@ -1854,11 +1932,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 221. Branchiostegal plate series along ventral margin of lower jaw: (0) absent; (1) present.
 
 > Davis (2002); Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 28; Choo *et al*. (2017), Character 27; King *et al*. (2017), Character 161; Castiello (2018), Character 159; Zhu Y. *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 165.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 222. Branchiostegal ossifications: (0) plate-like; (1) narrow and ribbon-like.
 
@@ -1866,17 +1948,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 223. Branchiostegal ossifications: (0) ornamented; (1) unornamented.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 30; Choo *et al*. (2017), Character 29; King *et al*. (2017), Character 163; Castiello (2018), Character 161; Zhu Y. *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 167.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 224. Imbricated branchiostegal ossifications: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 31; Choo *et al*. (2017), Character 30; King *et al*. (2017), Character 164; Castiello (2018), Character 162; Zhu Y. *et al*. (2022), Character 228; Brazeau *et al*. (2023), Character 168.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 225. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits.
 
@@ -1886,6 +1974,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 226. Opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 33; Choo *et al*. (2017), Character 32; Zhu Y. *et al*. (2022), Character 230.
@@ -1893,6 +1983,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Styloichthys* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 227. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
@@ -1902,6 +1994,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 228. Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 355; Zhu Y. *et al*. (2021), Character 317; Zhu Y. *et al*. (2022), Character 232.
@@ -1910,17 +2004,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 229. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 356) Zhu Y. *et al*. (2021), Character 318; Zhu Y. *et al*. (2022), Character 233.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 230. Notch in anterior margin of jugal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 275; Castiello (2018), Character 269; Zhu Y. *et al*. (2022), Character 234; Brazeau *et al*. (2023), Character 280.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 231. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
 
@@ -1930,11 +2030,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 232. Subopercular ossification: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 58; Zhu Y. *et al*. (2022), Character 236.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 233. Lateral gular plates: (0) absent; (1) present.
 
@@ -1942,17 +2046,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 234. Size of lateral gular plates: (0) extending most of length of the lower jaw; (1) restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals.
 
 > Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 36; Choo *et al*. (2017), Character 35; King *et al*. (2017), Character 168; Castiello (2018), Character 166; Zhu Y. *et al*. (2022), Character 238; Brazeau *et al*. (2023), Character 172.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 235. Median gular: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 102), and references therein; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Choo *et al*. (2017), Character 135; King *et al*. (2017), Character 169; Castiello (2018), Character 167; Zhu Y. *et al*. (2022), Character 239; Brazeau *et al*. (2023), Character 173.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 ## Dentition, dermal jaw & tooth-bearing bones
 
@@ -1962,11 +2072,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 237. Oral dermal tubercles patterned in organised rows (teeth): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 76; Zhu Y. *et al*. (2022), Character 241.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 238. Teeth ankylosed to dermal bones: (0) absent; (1) present.
 
@@ -1976,17 +2090,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 239. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 44; Choo *et al*. (2017), Character 43; King *et al*. (2017), Character 332; Castiello (2018), Character 324; Zhu Y. *et al*. (2022), Character 243; Brazeau *et al*. (2023), Character 337.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 240. Large dermal plates forming outer dental arcade: (0) only with denticles; (1) with large monolinear tooth row.
 
 > Zhu  *et al*. (2009, Character 74), and references therein; Zhu *et al*. (2013), Character 198; Choo *et al*. (2017), Character 202; King *et al*. (2017), Character 202; Castiello (2018), Character 201; Zhu Y. *et al*. (2022), Character 244; Brazeau *et al*. (2023), Character 207.
 
 > - The coding of *Eosteus* is ?, as whether the dentition is rows of denticles or monolinear tooth row is not seen. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 241. Dermal plates on mesial (lingual) surfaces of Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
