@@ -3487,7 +3487,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Choo *et al*. (2017), Character 334; Lu *et al*. (2017), Character 266; Zhu Y. *et al*. (2022), Character 408.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
-> - The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
+
+> - The coding of *Achoania jarviki* is changed from ? to 1.
+
+> - LXY. The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
 > - The coding of *Meemannia*_like fish is ?.
 
@@ -3753,6 +3756,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 79; Choo *et al*. (2017), Character 75; King *et al*. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. *et al*. (2022), Character 440; Brazeau *et al*. (2023), Character 42.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
 > - The coding of *Meemannia*_like fish is ?.
@@ -3794,6 +3798,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Clement *et al*. (2018), Character 282; Zhu Y. *et al*. (2022), Character 445.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
 > - The coding of *Meemannia*_like fish is ?.
@@ -4323,6 +4328,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Young (1980); King *et al*. (2017), Character 94; Castiello (2018), Character 98; Zhu Y. *et al*. (2022), Character 509; Brazeau *et al*. (2023), Character 98.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
 > - The coding of *Achoania jarviki* is changed from ? to 0.
 
 > - The coding of *Meemannia*_like fish is ?.
@@ -4438,7 +4444,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > *Kolymaspis sibirica* is coded from "1" to "0" based on Brazeau *et al*. (2023).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
-> - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 1 (Andrews et al., 2006). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Miguashaia bureaui* is changed from ? to 1 (Forey, 1998). The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Styloichthys changae* is changed from ? to 1 (Zhu & Yu, 2002). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). 
+
+> - The coding of *Achoania jarviki* is changed from ? to 1.
+
+> - LXY. The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 1 (Andrews et al., 2006). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Miguashaia bureaui* is changed from ? to 1 (Forey, 1998). The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Styloichthys changae* is changed from ? to 1 (Zhu & Yu, 2002). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). 
 
 > - The coding of *Meemannia*_like fish is 1.
 
@@ -4448,7 +4457,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - A status "ventral" should be added to this character to take into account the condition of *Qingmenodus yui*, *Youngolepis praecursor* and *Eusthenopteron foordi*.
+> - LXY. A status "ventral" should be added to this character to take into account the condition of *Qingmenodus yui*, *Youngolepis praecursor* and *Eusthenopteron foordi*.
 
 > - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. 
 
