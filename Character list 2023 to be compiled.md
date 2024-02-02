@@ -6057,3 +6057,7 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
 
+> **Added characters**
+
+> A1. The ossification centre of parasphenoid: (0) many; (1) one.
+
