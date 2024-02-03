@@ -6068,5 +6068,5 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 > **Added characters**
 
-> A1. The ossification centre of parasphenoid: (0) many; (1) one.
+> A1. The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
