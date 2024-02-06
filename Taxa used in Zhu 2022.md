@@ -118,7 +118,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Falcatus falcatus*, Serpukhovian (Lund, 1985)
 
-*Gavinia syntrips*, Givetian (Long, 1999)
+[*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen), Givetian (Long, 1999)
 
 *Gavinaspis convergens*, upper Lochkovian (Dupret et al., 2009)
 
@@ -208,7 +208,7 @@ Chimaeroidei, Serpukhovian to present (Didier, 1995)
 
 *Microbrachius dicki*, middle Givetian (Hemmings, 1978; Long et al., 2015)
 
-*Miguashaia bureaui*, lower Frasnian (Cloutier, 1996; Forey, 1998)
+[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Cloutier, 1996; Forey, 1998)
 
 *Mimipiscis toombsi*, lower Frasnian (Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014)
 
