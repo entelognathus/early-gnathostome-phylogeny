@@ -1,6 +1,363 @@
-**List of taxa, geological range, and references in Zhu *et al*. (2022)**
+**List of taxa, geological range, horizon and locality, and references in Zhu *et al*. (2022)**
 
 New taxa and references added along with the research.
+
+
+[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen), Sakmarian to Asselian (BrazeauM and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+
+[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen), upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
+
+[*Achoania jarvikii*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Zhu and Yu, 2004; 2009; Zhu et al., 2001)
+
+[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen), Anisian to Ladinian (Maisey, 2011)
+
+[*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen), Serpukhovian (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
+
+[*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen), Ludlow and Pridoli (Chen et al., 2016a)
+
+[*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen), Pridoli and Lochkovian (Randle and Sansom, 2016)
+
+[*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen), Pragian to lower Emsian (Olive et al., 2011; 2014)
+
+[*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen), upper Givetian (Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009)
+
+[*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Long, 1997)
+
+[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen), upper Lochkovian to lower Pragian (Janvier et al., 1993)
+
+[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen), Lochkovian (Janvier, 1985; Ørvig, 1957)
+
+[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen), Pragian (Janvier, 1985)
+
+[*Bothriolepis spp.*](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen), Givetian to Famennian (Long and Trinajstic, 2010)
+
+[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen), Lockhovian (Watson, 1937)
+
+[*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen), lower Emsian to lower Eifelian (Young, 1980)
+
+[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen), Lockhovian (Hanke and Wilson, 2006)
+
+[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen), Emsian (Burrow and Turner, 1998; Long et al., 2014)
+
+[*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Long, 1997)
+
+[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen), Lockhovian (Gagnier and Wilson, 1996)
+
+[*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen), Lochkovian (Stensiö, 1932; White, 1958)
+
+[*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen), upper Eifelian (Giles et al., 2015a; Pearson and Westoll, 1979)
+
+[*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
+
+[*Cheiracanthus spp.*](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetian (Burrow et al., 2020)
+
+[*Chimaeroidei*](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen), Serpukhovian to present (Didier, 1995)
+
+[*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen), Visean (Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935)
+
+[*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen), lower Pragian (Tông-Dzuy and Janvier, 1990)
+
+[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen), upper Famennian (Maisey, 2005)
+
+[*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen), upper Famennian (Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981)
+
+[*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
+
+[*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen), Sakmarian (Ivanov, 2005)
+
+[*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetain (Miles and Westoll, 1968)
+
+[*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Gardiner and Miles, 1994)
+
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen), upper Givetian or lower Frasnian (Ritchie, 2005)
+
+[*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen), Frasnian (Long, 1983)
+
+[*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen), Serpukhovian (Lund, 1986; Lund and Grogan, 1997)
+
+[*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen), lower Ludlow (Gross, 1968; Märss et al., 2015)
+
+[*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen), Bashkirian (Grogan and Lund, 2000)
+
+[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Chang, 1995; Chang and Yu, 1984)
+
+[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen), lower Lochkovian (Zhu, 1991)
+
+[*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen), Emsian (Schultze, 1968; Schultze and Cumbaa, 2001)
+
+[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen), Lochkovian (Goujet, 1975; Goujet, 1984)
+
+[*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen), lower Givetian (Miles, 1973a; Watson, 1937)
+
+[*Diplocercides spp.*](https://deepbone.org/public/#/explor?s_id=4369&functionId=Deepbone_header_searchResultOpen), Givetian to Famennian (Forey, 1998)
+
+[*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen), Visean (Dick, 1981)
+
+[*Dipterus spp.*](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
+
+[*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen), lower Emsian (Maisey et al., 2009; Miller et al., 2003)
+
+[*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen), Kungurian (Coates et al., 2017)
+
+[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Dennis-Bryan, 1987)
+
+[*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen), Aptian (Teng et al., 2019)
+
+[*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen), upper Givetian (Castiello, 2018)
+
+[*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen), Ludfordian (Zhu et al., 2013)
+
+[*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen), upper Frasnian (Ørvig, 1957; Sallan and Coates, 2010)
+
+[*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Janvier et al., 2004)
+
+[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen), lower Lochkovian (Liu, 1965; Zhu and Gai, 2007)
+
+[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen), Givetian (Liu, 1991)
+
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Jarvik, 1980a; b)
+
+[*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Newman et al., 2014; Watson, 1937)
+
+[*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen), Serpukhovian (Lund, 1985)
+
+[*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen), Givetian (Long, 1999)
+
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Dupret et al., 2009)
+
+[*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen), upper Pragian to lower Emsian (Gross, 1963)
+
+[*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen), Givetian (Coates et al., 2018)
+
+[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Davis, 2008)
+
+[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen), upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
+
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006)
+
+[*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen), Givetian (Ritchie, 1975; Young, 1989)
+
+[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen), lower to middle Givetian (Ji and Pan, 1997)
+
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen), Ludfordian (Qiao and Zhu, 2010; Zhu et al., 2009)
+
+[*Gyracanthides spp.*](https://deepbone.org/public/#/explor?s_id=4645&functionId=Deepbone_header_searchResultOpen), Famennian (Warren et al., 2000)
+
+[*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Burrow et al., 2012)
+
+[*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen), Gzhelian (Maisey, 1989)
+
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen), middle Telychian (Zhu and Gai, 2007)
+
+[*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen), Moscovian (Moy-Thomas, 1936)
+
+[*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen), Ludlow (Stensiö, 1932)
+
+[*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Bechard et al., 2014)
+
+[*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Russell, 1951)
+
+[*Homalodontus aplopagus*](https://deepbone.org/public/#/explor?s_id=5472&functionId=Deepbone_header_searchResultOpen), Lower Triassic (Mutter et al., 2007; 2008)
+
+[*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen), Givetian (Long, 1988)
+
+[*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Dennis and Miles, 1981; Giles et al., 2013)
+
+[*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen), Moscovian to Kasimovian (Zangerl and Case, 1973)
+
+[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
+
+[*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen), upper Frasnian (Stensiö, 1969; Young, 1986)
+
+[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen), middle Lockhovian (Giles et al., 2015c)
+
+[*Kansasiella eatoni*](https://deepbone.org/public/#/explor?s_id=3023&functionId=Deepbone_header_searchResultOpen), upper Pennsylvanian (Poplin, 1975)
+
+[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier and Wilson, 1996; Hanke and Wilson, 2010)
+
+[*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen), Gzhelian (Pradel et al., 2011)
+
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen), upper Emsian (Chang and Zhu, 1993; Zhu and Ahlberg, 2004)
+
+[*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen), upper Tournaisian or lower Visean (Giles and Friedman, 2014; Rayner, 1951)
+
+[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen), Lochkavian (Mark-Kurik, 1973)
+
+[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen), Lochkavian (Bystrow, 1956)
+
+[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Denison, 1978; Gross, 1959)
+
+[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen), upper Lockhovian to lower Pragian (Dupret, 2010)
+
+[*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen), Pragian (Schultze and Zidek, 1982)
+
+[*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen), upper Pennsylvanian (Hamel and Poplin, 2008)
+
+[*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen), Emsian (Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968)
+
+[*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen), lower Ludlow (Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004)
+
+[*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen), upper Pragian to lower Emsian (Gross, 1961)
+
+[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Davis, 2012)
+
+[*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen), Eifelian (Stensiö, 1925; 1963; 1969)
+
+[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Long et al., 2008; Trinajstic et al., 2012)
+
+[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Zhu et al., 2006; 2010)
+
+[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
+
+[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen), middle Givetian (Hemmings, 1978; Long et al., 2015)
+
+[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Cloutier, 1996; Forey, 1998)
+
+[*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014)
+
+[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen),lower Lochkovian (Zhu and Janvier, 1996)
+
+[*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Gardiner, 1984)
+
+[*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen), lower Eifelian (Janvier and Clément, 2005; Ritchie, 2004)
+
+[*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen), Emsian (Janvier, 1981)
+
+[*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen), upper Pridoli (Burrow and Rudkin, 2014)
+
+[*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen), lower Pragian (Janvier, 1981)
+
+[*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen), Middle Devonian (Woodward, 1941; Young, 2004)
+
+[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Wilson, 2004)
+
+[*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Andrews et al., 2005)
+
+[*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen), middle Visean (Coates and Gess, 2007; Dick and Maisey, 1980)
+
+[*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen), lower Famennian (Taverne, 1997)
+
+[*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen), lower Givetian (Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936)
+
+[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen), Serpukhovian (Pradel et al., 2014)
+
+[*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen), lower Emsian (Zhu, 2000; Zhu and Wang, 1996)
+
+[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen), Pragian to Emsian (White and Toombs, 1972; Young, 1979)
+
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen), Lochkovian (Zhang et al., 2001; Zhu et al., 2012)
+
+[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke, 2002)
+
+[*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen), Emsian (Pan et al., 2015)
+
+[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen), Lochkovian (Liu, 1965; 1975)
+
+[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen), Wenlock and Ludlow (Denison, 1951)
+
+[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen), Lockhovian (Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999)
+
+[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen), Lochkovian (Burrow et al., 2013; Miles, 1973a; Watson, 1937)
+
+[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen), lower Lochkovian (Valiukevicius, 1992)
+
+[*Porolepis spp.*](https://deepbone.org/public/#/explor?s_id=166837&functionId=Deepbone_header_searchResultOpen), Pragian to Emsian (Clément, 2004; Jarvik, 1972)
+
+[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen), Lochkovian to Pragian (Jessen, 1980)
+
+[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke, 2008)
+
+[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen), upper Eifelian (Hemmings, 1978)
+
+[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen), Lochkovian (Brazeau, 2012; Dineley, 1999)
+
+[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen), Pragian, (Lu et al., 2017)
+
+[*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen), upper Eifelian to Givetian (Maisey and Anderson, 2001)
+
+[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen), Ludfordian (Zhu et al., 2016)
+
+[*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen), upper Pragian (Lu and Zhu, 2010; Lu et al., 2016)
+
+[*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen), Givetian (Liu, 1991)
+
+[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
+
+[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen), Pragian (Gross, 1958; Vaškaninová and Ahlberg, 2017)
+
+[*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen), Eifelian (Pradel et al., 2009)
+
+[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen), Frasnian (Giles et al., 2015b)
+
+[*Remigolepis spp.*](https://deepbone.org/public/#/explor?s_id=17978&functionId=Deepbone_header_searchResultOpen), Famennian (Andrews, 1978)
+
+[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen), Emsian (Burrow et al., 2000)
+
+[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen), lower Givetian (Long, 1997; Miles, 1967)
+
+[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen), Lochkovian (Dupret et al., 2014; Ørvig, 1975)
+
+[*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen), Emsian (Castiello, 2018; Young, 1985)
+
+[*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen), Telychian, this paper
+
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen), middle to upper Telychian (Gai et al., 2011)
+
+[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen), lower Pragian (Goujet, 1973)
+
+[*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen), Famennian (Liu and P'an, 1958; Ritchie et al., 1992)
+
+[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen), lower to middle Emsian (Zhao and Zhu, 2010)
+
+[*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen), Ludfordian (Choo et al., 2017)
+
+[*Squalus spp.*](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen), Pliocene to present (Gans and Parsons, 1964)
+
+[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Friedman, 2007; Zhu and Yu, 2002)
+
+[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
+
+[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen), Upper Jurassic to Upper Cretaceous (Maisey, 1985)
+
+[*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen), Famennian (Schaeffer, 1981; Williams, 1998)
+
+[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier et al., 1999; Hanke et al., 2001)
+
+[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier et al., 1999; Hanke et al., 2001)
+
+[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
+
+[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen), Gorstian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
+
+[*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen), Albian (Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016)
+
+[*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen), Bashkirian to Changhsingian (Heidtke et al., 2004; Soler-Gijon and Hampe, 1998)
+
+[*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen), lower Serpukhovian (Coates and Gess, 2007; Dick, 1978)
+
+[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen), Lochkovian (Newman et al., 2012)
+
+[*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen), Pragian (Denison, 1968)
+
+[*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a)
+
+[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen), Lochkovian (Janvier, 1985)
+
+[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen), Pragian (Zhao et al., 2002)
+
+*Widjeaspis warrooensis*, Middle Devonian (Barker and Bone, 1995; Basden, 1999)
+
+[*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen), Emsian to Eifelian (Ritchie, 1973)
+
+[*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen), Telychian, this paper
+
+[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
+
+[*Yunnanolepis spp.*](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen), Lochkovian (Zhang, 1980; Zhu, 1996)
+
+[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen), Lochkovian (Stensiö, 1932)
+
+
 
 *Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
