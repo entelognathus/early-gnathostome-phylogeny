@@ -44,7 +44,7 @@
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen), upper Eifelian (Giles et al., 2015a; Pearson and Westoll, 1979)
 
-*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
+[*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Arratia and Cloutier, 1996; Pearson and Westoll, 1979)
 
 [*Cheiracanthus spp.*](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetian (Burrow et al., 2020)
 
