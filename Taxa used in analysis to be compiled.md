@@ -1,9 +1,12 @@
-**List of taxa, geological range, horizon and locality, and references in Zhu *et al*. (2022)**
+**List of taxa, geological range (Ma), horizon and locality, and references in Zhu *et al*. (2022)**
 
 New taxa and references added along with the research.
 
 
-[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen), Sakmarian to Asselian (BrazeauM and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen)
+> Sakmarian to Asselian, XXX (maximum age), YYY (minimum age)
+> - [horizon and locality]
+> - BrazeauM and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen), upper Wenlock to upper Ludlow (Ritchie, 1967; Turner and Turner, 1974)
 
