@@ -815,11 +815,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke, 2008)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Hanke, 2008
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen), upper Eifelian (Hemmings, 1978)
 > [geological range], XXX (maximum age), YYY (minimum age)
