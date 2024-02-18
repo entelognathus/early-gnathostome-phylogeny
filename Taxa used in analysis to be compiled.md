@@ -21,11 +21,11 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
-[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen), Anisian to Ladinian (Maisey, 2011)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
+> Anisian to Ladinian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Maisey, 2011
 
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen), Serpukhovian (Coates and Sequeira, 1998; 2001; Coates et al., 1998)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -75,17 +75,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen), Lochkovian (Janvier, 1985; Ørvig, 1957)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Janvier, 1985; Ørvig, 1957
 
-[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen), Pragian (Janvier, 1985)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen)
+> Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Janvier, 1985
 
 [*Bothriolepis spp.*](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen), Givetian to Famennian (Long and Trinajstic, 2010)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -93,11 +93,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen), Lockhovian (Watson, 1937)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Watson, 1937
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen), lower Emsian to lower Eifelian (Young, 1980)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -123,11 +123,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen), Lockhovian (Gagnier and Wilson, 1996)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen), Lockhovian ()
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Gagnier and Wilson, 1996
 
 [*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen), Lochkovian (Stensiö, 1932; White, 1958)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -255,11 +255,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen), Lochkovian (Goujet, 1975; Goujet, 1984)
-> [geological range], XXX (maximum age), YYY (minimum age)
-
+[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, 419.2, 410.8
+> 
 > - [horizon and locality]
-> - [references]
+> - Goujet, 1975; Goujet, 1984
 
 *Diplacanthus crassisimus*, Eifelian to Givetian, Middle Devonian (Burrow *et al*., 2016; Miles, 1973a; Watson, 1937)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -287,13 +287,13 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-*Dobunnacanthus waynensis*, Lochkovian, Lower Devonian (Dearden *et al*., 2021; Miles, 1973a)
-> [geological range], XXX (maximum age), YYY (minimum age)
+*Dobunnacanthus waynensis*
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Dearden *et al*., 2021; Miles, 1973a
 
-> Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
+> - Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
 *Doliodus latispinosus*, lower Emsian, Lower Devonian (Burrow *et al*., 2023a; Maisey *et al*., 2009; Miller *et al*., 2003)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -381,11 +381,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Dupret et al., 2009)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen)
+> upper Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Dupret et al., 2009
 
 [*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen), upper Pragian to lower Emsian (Gross, 1963)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -429,11 +429,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen), Ludfordian (Qiao and Zhu, 2010; Zhu et al., 2009)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen)
+> Ludfordian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Qiao and Zhu, 2010; Zhu et al., 2009
 
 [*Gyracanthides spp.*](https://deepbone.org/public/#/explor?s_id=4645&functionId=Deepbone_header_searchResultOpen), Famennian (Warren et al., 2000)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -453,11 +453,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen), middle Telychian (Zhu and Gai, 2007)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen)
+> middle Telychian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Zhu and Gai, 2007
 
 [*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen), Moscovian (Moy-Thomas, 1936)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -507,11 +507,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Miles, 1973a; Watson, 1937
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen), upper Frasnian (Stensiö, 1969; Young, 1986)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -555,23 +555,23 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen), Lochkavian (Mark-Kurik, 1973)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Mark-Kurik, 1973
 
-[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen), Lochkavian (Bystrow, 1956)
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-
-[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Denison, 1978; Gross, 1959)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Bystrow, 1956
+
+[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)
+> upper Lochkovian, XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen), upper Lockhovian to lower Pragian (Dupret, 2010)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -633,11 +633,11 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu et al., 2006; 2010
 
-[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Miles, 1973a; Watson, 1937
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen), middle Givetian (Hemmings, 1978; Long et al., 2015)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -657,17 +657,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen),lower Lochkovian (Zhu and Janvier, 1996)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
+> lower Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Zhu and Janvier, 1996
 
-*Minjinia turgenensis*, Pragian, Lower Devonian (Brazeau et al., 2020)
-> [geological range], XXX (maximum age), YYY (minimum age)
+*Minjinia turgenensis*
+> Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Brazeau et al., 2020
 
 > - Preserving partial skull-roof and braincase (anterior portion missing).
 
@@ -755,11 +755,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen), Lochkovian (Zhang et al., 2001; Zhu et al., 2012)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Zhang et al., 2001; Zhu et al., 2012
 
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen)
 > Lockhovian, 419.2, 410.8
@@ -773,11 +773,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen), Lochkovian (Liu, 1965; 1975)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Liu, 1965; 1975
 
 [*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen), Wenlock and Ludlow (Denison, 1951)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -785,23 +785,23 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen), Lockhovian (Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999
 
-[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen), Lochkovian (Burrow et al., 2013; Miles, 1973a; Watson, 1937)
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-
-[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen), lower Lochkovian (Valiukevicius, 1992)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Burrow et al., 2013; Miles, 1973a; Watson, 1937
+
+[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen)
+> lower Lochkovian, XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Valiukevicius, 1992
 
 [*Porolepis spp.*](https://deepbone.org/public/#/explor?s_id=166837&functionId=Deepbone_header_searchResultOpen), Pragian to Emsian (Clément, 2004; Jarvik, 1972)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -809,11 +809,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen), Lochkovian to Pragian (Jessen, 1980)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian to Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Jessen, 1980
 
 [*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen)
 > Lockhovian, 419.2, 410.8
@@ -827,11 +827,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen), Lochkovian (Brazeau, 2012; Dineley, 1999)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Brazeau, 2012; Dineley, 1999
 
 [*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen), Pragian, (Lu et al., 2017)
 
@@ -842,17 +842,17 @@ New taxa and references added along with the research.
 > - [references]
 > - The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
-[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen), Ludfordian (Zhu et al., 2016)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen)
+> Ludfordian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Zhu et al., 2016
 
-[*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen), upper Pragian (Lu and Zhu, 2010; Lu et al., 2016)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen)
+> upper Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Lu and Zhu, 2010; Lu et al., 2016
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen), Givetian (Liu, 1991)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -860,17 +860,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Vaškaninová and Ahlberg, 2017
 
-[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen), Pragian (Gross, 1958; Vaškaninová and Ahlberg, 2017)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen),  ()
+> Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Gross, 1958; Vaškaninová and Ahlberg, 2017
 
 [*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen), Eifelian (Pradel et al., 2009)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -904,11 +904,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen), Lochkovian (Dupret et al., 2014; Ørvig, 1975)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Dupret et al., 2014; Ørvig, 1975
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen), Emsian (Castiello, 2018; Young, 1985)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -946,11 +946,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen), Ludfordian (Choo et al., 2017)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen)
+> Ludfordian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Choo et al., 2017
 
 [*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen), Pliocene to present (Gans and Parsons, 1964)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -964,11 +964,11 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China
 > - Friedman, 2007; Zhu and Yu, 2002
 
-[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Vaškaninová and Ahlberg, 2017
 
 [*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen), Upper Jurassic to Upper Cretaceous (Maisey, 1985)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -994,11 +994,11 @@ New taxa and references added along with the research.
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
 
-[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Vaškaninová and Ahlberg, 2017
 
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen), Gorstian (Denison, 1947; 1951; Robertson, 1937; Robertson, 1938)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -1024,43 +1024,43 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen), Lochkovian (Newman et al., 2012)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Newman et al., 2012
 
-*Uraniacanthus probaton*, Lochkovian, Lower Devonian (Hanke and Davis, 2008; Newman *et al*., 2012)
-> [geological range], XXX (maximum age), YYY (minimum age)
+*Uraniacanthus probaton*
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Hanke and Davis, 2008; Newman *et al*., 2012
 
 > *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
 
-[*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen), Pragian (Denison, 1968)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
+> Pragian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Denison, 1968
 
-[*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a)
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-
-[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen), Lochkovian (Janvier, 1985)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Miles, 1973a
 
-[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen), Pragian (Zhao et al., 2002)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Janvier, 1985
+
+[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen),  ()
+> Pragian, XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Zhao et al., 2002
 
 *Widjeaspis warrooensis*, Middle Devonian (Barker and Bone, 1995; Basden, 1999)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -1086,17 +1086,17 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
 
-[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen), Lochkovian (Zhang, 1980; Zhu, 1996)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen), Lochkovian ()
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Zhang, 1980; Zhu, 1996
 
-[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen), Lochkovian (Stensiö, 1932)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - [references]
+> - Stensiö, 1932
 
 **New taxa under study**
 New placoderm close to the crown gnathostome node
