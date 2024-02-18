@@ -108,7 +108,7 @@ New taxa and references added along with the research.
 [*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen)
 > Lockhovian, 419.2, 410.8
 
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Wilson, 2006
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen), Emsian (Burrow and Turner, 1998; Long et al., 2014)
@@ -531,11 +531,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier and Wilson, 1996; Hanke and Wilson, 2010)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
 
 [*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen), Gzhelian (Pradel et al., 2011)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -761,11 +761,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke, 2002)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Hanke, 2002
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen), Emsian (Pan et al., 2015)
 > [geological range], XXX (maximum age), YYY (minimum age)
