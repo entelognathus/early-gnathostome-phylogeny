@@ -15,8 +15,8 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Ritchie, 1967; Turner and Turner, 1974
 
-[*Achoania jarvikii*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
-> upper Lochkovian, 415.0, 410.8
+[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
+> late Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
@@ -93,7 +93,11 @@ New taxa and references added along with the research.
 
 [*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen), Bashkirian (Grogan and Lund, 2000)
 
-[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Chang, 1995; Chang and Yu, 1984)
+[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen)
+> late Lochkovian, 415.0, 410.8
+
+> - Xitun Fm, Qujing, Yunnan, China
+> - Chang, 1995; Chang and Yu, 1984)
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen), lower Lochkovian (Zhu, 1991)
 
@@ -108,7 +112,6 @@ New taxa and references added along with the research.
 [*Diplocercides spp.*](https://deepbone.org/public/#/explor?s_id=4369&functionId=Deepbone_header_searchResultOpen), Givetian to Famennian (Forey, 1998)
 
 [*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen), Visean (Dick, 1981)
-
 
 [*Dipterus spp.*](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetian (Ahlberg and Trewin, 1995; White, 1965)
 
@@ -228,7 +231,11 @@ New taxa and references added along with the research.
 
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Long et al., 2008; Trinajstic et al., 2012)
 
-[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Zhu et al., 2006; 2010)
+[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen)
+> late Lochkovian, 415.0, 410.8
+
+> - Xitun Fm, Qujing, Yunnan, China
+> - Zhu et al., 2006; 2010
 
 [*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen), Lochkovian (Miles, 1973a; Watson, 1937)
 
@@ -344,8 +351,7 @@ New taxa and references added along with the research.
 [*Squalus spp.*](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen), Pliocene to present (Gans and Parsons, 1964)
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen)
-
-> upper Lochkovian, 415.0, 410.8
+> late Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - Friedman, 2007; Zhu and Yu, 2002
@@ -390,7 +396,11 @@ New taxa and references added along with the research.
 
 [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen), Telychian, Llandovery, Silurian (Zhu Y. *et al*., 2022)
 
-[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Chang, 1982; 1991; Chang and Yu, 1981)
+[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen)
+> late Lochkovian, 415.0, 410.8
+
+> - Xitun Fm, Qujing, Yunnan, China
+> - Chang, 1982; 1991; Chang and Yu, 1981
 
 [*Yunnanolepis spp.*](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen), Lochkovian (Zhang, 1980; Zhu, 1996)
 
