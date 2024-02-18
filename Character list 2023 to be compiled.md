@@ -1085,7 +1085,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 22; Castiello (2018), Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25.
+> King *et al*. (2017), Character 22; , Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25.
+
+> - Castiello (2018)："The original definition of this character stated that a prominent expansion was when the neurocranium extended far anterior to the nasal capsules. In antiarchs and acanthothoracids, this condition is present because of the posteriorly placed nostrils and anteriorly positioned jaws and associated attachments. In Macropetalichthys, Chondrenchelys and Debeerius the neurocranium does not extend far anteriorly to the nasal capsules, but rather there is an extended region between the nasal capsules and the orbits. Therefore this character was apparently previously scored as present in taxa either with posteriorly placed or extremely anteriorly placed nasal capsules, and absent in those with an intermediate condition. The definition of this character is therefore altered to apply only to taxa with very anteriorly placed nasal capsules, as posterior nasal capsules are dealt with in another character."
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
