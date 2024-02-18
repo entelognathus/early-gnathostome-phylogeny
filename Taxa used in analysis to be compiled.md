@@ -16,7 +16,7 @@ New taxa and references added along with the research.
 > - Ritchie, 1967; Turner and Turner, 1974
 
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
-> late Lochkovian, 415.0, 410.8
+> upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
@@ -105,11 +105,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen), Lockhovian (Hanke and Wilson, 2006)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+> - Hanke and Wilson, 2006
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen), Emsian (Burrow and Turner, 1998; Long et al., 2014)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -238,13 +238,13 @@ New taxa and references added along with the research.
 > - [references]
 
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen)
-> late Lochkovian, 415.0, 410.8
+> upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - Chang, 1995; Chang and Yu, 1984)
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen)
-> early Lochkovian, 419.2, 415.0
+> lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm, Qujing, Yunnan, China
 > - Zhu, 1991
@@ -609,11 +609,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Davis, 2012)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+> - Hanke and Wilson, 2006; Hanke and Davis, 2012
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen), Eifelian (Stensiö, 1925; 1963; 1969)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -707,11 +707,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Wilson, 2004)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
+> - Hanke and Wilson, 2006
 
 [*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen), lower Frasnian (Andrews et al., 2005)
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -1081,7 +1081,7 @@ New taxa and references added along with the research.
 > - [references]
 
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen)
-> late Lochkovian, 415.0, 410.8
+> upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
