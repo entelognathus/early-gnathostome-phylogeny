@@ -399,11 +399,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen), Lochkovian (Hanke and Davis, 2008)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Hanke and Davis, 2008
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen), upper Eifelian to lower Givetian (Ahlberg, 1989; Jarvik, 1972)
 > [geological range], XXX (maximum age), YYY (minimum age)
