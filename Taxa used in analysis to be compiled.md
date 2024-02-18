@@ -752,6 +752,8 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
+Palaeospondylus gunni Traquair, 1890
+
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen), lower Emsian (Zhu, 2000; Zhu and Wang, 1996)
 > [geological range], XXX (maximum age), YYY (minimum age)
 
