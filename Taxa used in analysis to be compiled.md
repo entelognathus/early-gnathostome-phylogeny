@@ -147,11 +147,12 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Cheiracanthus spp.*](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen), Eifelian to Givetian (Burrow et al., 2020)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen)
+> Eifelian to Givetian, 393.3, 382.7
 
-> - [horizon and locality]
-> - [references]
+> - Orcadian Basin, Scotland
+> - Burrow et al., 2020
+> - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
 
 [Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen), Serpukhovian to present (Didier, 1995)
 > [geological range], XXX (maximum age), YYY (minimum age)
