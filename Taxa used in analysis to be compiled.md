@@ -16,9 +16,9 @@ New taxa and references added along with the research.
 > - Ritchie, 1967; Turner and Turner, 1974
 
 [*Achoania jarvikii*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
->upper Lochkovian, XXX (maximum age), YYY (minimum age)
+> upper Lochkovian, 415.0, 410.8
 
-> - [horizon and locality]
+> - Xitun Fm, Qujing, Yunnan, China
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen), Anisian to Ladinian (Maisey, 2011)
@@ -343,7 +343,12 @@ New taxa and references added along with the research.
 
 [*Squalus spp.*](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen), Pliocene to present (Gans and Parsons, 1964)
 
-[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen), upper Lochkovian (Friedman, 2007; Zhu and Yu, 2002)
+[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen)
+
+> upper Lochkovian, 415.0, 410.8
+
+> - Xitun Fm, Qujing, Yunnan, China
+> - Friedman, 2007; Zhu and Yu, 2002
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
 
