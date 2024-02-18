@@ -261,13 +261,15 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Goujet, 1975; Goujet, 1984
 
-*Diplacanthus crassisimus*, Eifelian to Givetian, Middle Devonian (Burrow *et al*., 2016; Miles, 1973a; Watson, 1937)
-> [geological range], XXX (maximum age), YYY (minimum age)
+*Diplacanthus crassisimus* Duff, 1842
+> Eifelian to Givetian, 393.3, 382.7
 
-> - [horizon and locality]
-> - [references]
+> - Orcadian Basin, Scotland
+> - Burrow *et al*., 2016; Miles, 1973a; Watson, 1937; Newman, 2010
 
 > - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
+> - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
+> - The three species of *Diplacanthus* are distinguished from the other acanthodians by the presence of two dorsal fin spines and a heavily ossified shoulder girdle. The other two species are *Diplacanthus longispinus* Agassiz, 1845 and *Diplacanthus tenuistriatus* Traquair, 1894.
 
 [*Diplocercides spp.*](https://deepbone.org/public/#/explor?s_id=4369&functionId=Deepbone_header_searchResultOpen), Givetian to Famennian (Forey, 1998)
 > [geological range], XXX (maximum age), YYY (minimum age)
