@@ -982,17 +982,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier et al., 1999; Hanke et al., 2001)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Gagnier et al., 1999; Hanke et al., 2001
 
-[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen), Lochkovian (Gagnier et al., 1999; Hanke et al., 2001)
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen)
+> Lockhovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
+> - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
+> - Gagnier et al., 1999; Hanke et al., 2001
 
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen), Lochkovian (Vaškaninová and Ahlberg, 2017)
 > [geological range], XXX (maximum age), YYY (minimum age)
