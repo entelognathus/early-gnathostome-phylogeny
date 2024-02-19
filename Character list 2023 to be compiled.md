@@ -16,7 +16,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. 
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0]
+> - The coding of *Meemannia*_like fish is 0.
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
@@ -26,7 +26,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be -]
+> - The coding of *Meemannia*_like fish is -.
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -36,7 +36,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0]
+> - The coding of *Meemannia*_like fish is 0.
 
 4.  Perichondral bone: (0) present; (1) absent.
 
@@ -46,7 +46,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be 0 if its neurocranium is well preserved.]
+> - The coding of *Meemannia*_like fish is 0.
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -56,7 +56,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be 1 if its neurocranium is well preserved.]
+> - The coding of *Meemannia*_like fish is 1.
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
@@ -68,7 +68,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?. [MZ: should be 1 if its neurocranium is well preserved.]
+> - The coding of *Meemannia*_like fish is 1.
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
@@ -629,7 +629,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Meemannia*_like fish is 0.
 
 67. Median field separation from pineal plate or foramen: (0) absent; (1) present.
 
@@ -749,7 +749,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Meemannia*_like fish is 0.
 
 81. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
@@ -1834,7 +1834,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Meemannia*_like fish is 0.
 
 207. Consolidated cheek plates: (0) absent; (1) present.
 
@@ -4755,7 +4755,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Meemannia*_like fish is 0.
 
 554. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
@@ -4763,7 +4763,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Meemannia*_like fish is 0.
 
 555. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
