@@ -5791,7 +5791,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> - Considering different states of tha maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the the premaxilla *sensu stricto* (Character 690).
+> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
