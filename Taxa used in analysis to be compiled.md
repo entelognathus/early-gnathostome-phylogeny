@@ -10,13 +10,15 @@ New taxa and references added along with the research.
 
 > - **No data in deepbone**
 
-[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen)
->upper Wenlock to upper Ludlow, 430.5, 423.0
+[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer
+> Gorstian, 427.4, 425.6
 
-> - [horizon and locality]
-> - Ritchie, 1967; Turner and Turner, 1974
+> - Sundvollen Fm; Rudstangen, Ringerike, S. Norway.
+> - Heintz, 1939; Ritchie, 1967; Turner and Turner, 1974
+> - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas 
+were lower Ludlovian in age and the evidence from this study supports this view."
 
-> - **This age is different from deepbone, Pridoli in deepbone**
+> - **This age is different from deepbone, Pridoli in deepbone** To be corrected in deepbone.
 
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
@@ -29,7 +31,7 @@ New taxa and references added along with the research.
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
 > Anisian to Ladinian, 247.2, 237.0
 
-> - Besano Fm, Grenzbitumenzone, Monte San Giorgio (Switzerland)
+> - Besano Fm, Grenzbitumenzone; Monte San Giorgio, Switzerland.
 > - Maisey, 2011
 
 > - **No data in deepbone**
