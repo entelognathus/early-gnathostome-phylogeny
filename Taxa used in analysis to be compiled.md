@@ -23,7 +23,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
 
-> - Xitun Fm, Qujing, Yunnan, China
+> - Xitun Fm; Qujing, Yunnan, China.
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
@@ -39,27 +39,25 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian, 330.9, 323.2
 
-> - Bearsden, Manse Burn Fm, Bearsden, Scotland
+> - Manse Burn Fm; Bearsden, Scotland.
 > - Coates and Sequeira, 1998; 2001; Coates et al., 1998; Sallan and Coates, 2010
-
-
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen)
 > Ludlow and Pridoli, 427.4, 419.2
 
-> - Gotland, Sweden
+> - Gotland, Sweden.
 > - Chen et al., 2016a
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen)
 > Pridoli to Lochkovian, 423.0, 410.8
 
-> - Welsh Borders, UK and the Artois-Ardenne regions of France and Belgium
+> - Welsh Borders, UK, and the Artois-Ardenne regions of France and Belgium.
 > - Randle and Sansom, 2016
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen)
 > Pragian to lower Emsian, 410.8, 400.45
 
-> - Al Huj section, Al Qalibah area, Saudi Arabia
+> - Al Huj section, Al Qalibah area, Saudi Arabia.
 > - Olive et al., 2011; 2014
 
 > - Emsian is subdivided into lower and upper Emsian.
@@ -67,13 +65,13 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.4, 382.7
 
-> - liepaja quarry, Latvia and Ligat, Livonia and Dorpat, Estonia
+> - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
 > - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
 
 *Ateleaspis tessellata*
 > upper Wenlock to middle Ludlow, 430.5, 425.6
 
-> - Slot Burn and Birkenhead Burn both in the Lesmahagow inlier and from Shiel Burn, Monks Water and Smithy Burn in the Hagshaw Hills inlier.
+> - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
 > - Ritchie, 1967
 
 > - **No data in deepbone**
