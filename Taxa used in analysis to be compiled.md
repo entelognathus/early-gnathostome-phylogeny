@@ -16,6 +16,8 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Ritchie, 1967; Turner and Turner, 1974
 
+> - **This age is different from deepbone, Pridoli in deepbone**
+
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
 
@@ -27,7 +29,7 @@ New taxa and references added along with the research.
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
 > Anisian to Ladinian, 247.2, 237.0
 
-> - [horizon and locality]
+> - Besano Fm, Grenzbitumenzone, Monte San Giorgio (Switzerland)
 > - Maisey, 2011
 
 > - **No data in deepbone**
@@ -35,25 +37,27 @@ New taxa and references added along with the research.
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian, 330.9, 323.2
 
-> - [horizon and locality]
-> - Coates and Sequeira, 1998; 2001; Coates et al., 1998
+> - Bearsden, Manse Burn Fm, Bearsden, Scotland
+> - Coates and Sequeira, 1998; 2001; Coates et al., 1998; Sallan and Coates, 2010
+
+
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen)
 > Ludlow and Pridoli, 427.4, 419.2
 
-> - [horizon and locality]
+> - Gotland, Sweden
 > - Chen et al., 2016a
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen)
 > Pridoli to Lochkovian, 423.0, 410.8
 
-> - [horizon and locality]
+> - Welsh Borders, UK and the Artois-Ardenne regions of France and Belgium
 > - Randle and Sansom, 2016
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen)
 > Pragian to lower Emsian, 410.8, 400.45
 
-> - [horizon and locality]
+> - Al Huj section, Al Qalibah area, Saudi Arabia
 > - Olive et al., 2011; 2014
 
 > - Emsian is subdivided into lower and upper Emsian.
@@ -61,14 +65,16 @@ New taxa and references added along with the research.
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.4, 382.7
 
-> - [horizon and locality]
+> - liepaja quarry, Latvia and Ligat, Livonia and Dorpat, Estonia
 > - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
 
 *Ateleaspis tessellata*
-> [geological range], XXX (maximum age), YYY (minimum age)
+> upper Wenlock to middle Ludlow, 430.5, 425.6
 
-> - [horizon and locality]
+> - Slot Burn and Birkenhead Burn both in the Lesmahagow inlier and from Shiel Burn, Monks Water and Smithy Burn in the Hagshaw Hills inlier.
 > - Ritchie, 1967
+
+> - **No data in deepbone**
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
