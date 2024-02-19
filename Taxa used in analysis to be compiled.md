@@ -84,7 +84,7 @@ New taxa and references added along with the research.
 > - Janvier, 1985; Ørvig, 1957
 
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Janvier, 1985
@@ -114,7 +114,7 @@ New taxa and references added along with the research.
 > - Hanke and Wilson, 2006
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Burrow and Turner, 1998; Long et al., 2014
@@ -253,7 +253,7 @@ New taxa and references added along with the research.
 > - Zhu, 1991
 
 [*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Schultze, 1968; Schultze and Cumbaa, 2001
@@ -585,7 +585,7 @@ New taxa and references added along with the research.
 > - Dupret, 2010
 
 [*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Schultze and Zidek, 1982
@@ -597,7 +597,7 @@ New taxa and references added along with the research.
 > - Hamel and Poplin, 2008
 
 [*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968
@@ -677,7 +677,7 @@ New taxa and references added along with the research.
 > - Zhu and Janvier, 1996
 
 *Minjinia turgenensis*
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Brazeau et al., 2020
@@ -697,7 +697,7 @@ New taxa and references added along with the research.
 > - Janvier and Clément, 2005; Ritchie, 2004
 
 [*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Janvier, 1981
@@ -853,7 +853,7 @@ New taxa and references added along with the research.
 > - Brazeau, 2012; Dineley, 1999
 
 [*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - Posongchong Fm; Zhaotong, Yunnan, China.
 > - Lu et al., 2017
@@ -890,7 +890,7 @@ New taxa and references added along with the research.
 > - Vaškaninová and Ahlberg, 2017
 
 [*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Gross, 1958; Vaškaninová and Ahlberg, 2017
@@ -934,7 +934,7 @@ New taxa and references added along with the research.
 > - Dupret et al., 2014; Ørvig, 1975
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Castiello, 2018; Young, 1985
@@ -1062,7 +1062,7 @@ New taxa and references added along with the research.
 > *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
 
 [*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Denison, 1968
@@ -1080,7 +1080,7 @@ New taxa and references added along with the research.
 > - Janvier, 1985
 
 [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen)
-> Pragian, XXX (maximum age), YYY (minimum age)
+> Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Zhao et al., 2002
@@ -1092,7 +1092,7 @@ New taxa and references added along with the research.
 > - Barker and Bone, 1995; Basden, 1999
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen)
-> Emsian to Eifelian, XXX (maximum age), YYY (minimum age)
+> Emsian to Eifelian, 407.6, 387.7
 
 > - [horizon and locality]
 > - Ritchie, 1973
