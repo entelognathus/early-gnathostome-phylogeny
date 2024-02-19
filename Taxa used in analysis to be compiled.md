@@ -2,7 +2,6 @@
 
 New taxa and references added along with the research.
 
-
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen)
 > Asselian to Sakmarian, 298.9, 290.1
 
