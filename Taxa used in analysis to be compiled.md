@@ -313,7 +313,7 @@ New taxa and references added along with the research.
 > - Coates et al., 2017
 
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Dennis-Bryan, 1987
@@ -343,7 +343,7 @@ New taxa and references added along with the research.
 > - Ørvig, 1957; Sallan and Coates, 2010
 
 [*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Janvier et al., 2004
@@ -361,7 +361,7 @@ New taxa and references added along with the research.
 > - Liu, 1991
 
 [*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
  
 > - [horizon and locality]
 > - Jarvik, 1980a; b
@@ -415,7 +415,7 @@ New taxa and references added along with the research.
 > - Ahlberg, 1989; Jarvik, 1972
 
 [*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
@@ -445,7 +445,7 @@ New taxa and references added along with the research.
 > - Warren et al., 2000
 
 [*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Burrow et al., 2012
@@ -475,13 +475,13 @@ New taxa and references added along with the research.
 > - Stensiö, 1932
 
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Bechard et al., 2014
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Russell, 1951
@@ -499,7 +499,7 @@ New taxa and references added along with the research.
 > - Long, 1988
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Dennis and Miles, 1981; Giles et al., 2013
@@ -723,7 +723,7 @@ New taxa and references added along with the research.
 > - Hanke and Wilson, 2006
 
 [*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.5
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Andrews et al., 2005
