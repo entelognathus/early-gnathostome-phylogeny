@@ -868,9 +868,9 @@ New taxa and references added along with the research.
 > - Zhu et al., 2016
 
 [*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen)
-> upper Pragian, XXX (maximum age), YYY (minimum age)
+> upper Pragian, 409.2, 407.6
 
-> - [horizon and locality]
+> - Posongchong Fm; Zhaotong, Yunnan, China.
 > - Lu and Zhu, 2010; Lu et al., 2016
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen)
