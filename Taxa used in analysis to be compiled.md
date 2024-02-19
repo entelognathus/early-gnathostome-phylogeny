@@ -806,7 +806,7 @@ New taxa and references added along with the research.
 > - Liu, 1965; 1975
 
 [*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen)
-> Wenlock and Ludlow, XXX (maximum age), YYY (minimum age)
+> Wenlock to Ludlow, 433.4, 423.0
 
 > - [horizon and locality]
 > - Denison, 1951
