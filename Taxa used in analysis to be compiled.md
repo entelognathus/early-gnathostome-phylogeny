@@ -328,7 +328,7 @@ New taxa and references added along with the research.
 > - Dennis-Bryan, 1987
 
 [*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen)
-> Aptian, XXX (maximum age), YYY (minimum age)
+> Aptian, 121.4, 113.0
 
 > - [horizon and locality]
 > - Teng et al., 2019
@@ -600,7 +600,7 @@ New taxa and references added along with the research.
 > - Schultze and Zidek, 1982
 
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen)
-> upper Pennsylvanian, XXX (maximum age), YYY (minimum age)
+> upper Pennsylvanian, 307.0, 298.9
 
 > - [horizon and locality]
 > - Hamel and Poplin, 2008
