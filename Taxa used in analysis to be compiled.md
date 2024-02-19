@@ -56,7 +56,7 @@ New taxa and references added along with the research.
 > - Emsian is subdivided into lower and upper Emsian.
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian, XXX (maximum age), YYY (minimum age)
+> upper Givetian, 384.4, 382.7
 
 > - [horizon and locality]
 > - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
@@ -214,11 +214,11 @@ New taxa and references added along with the research.
 > - Gogo Fm; Western Australia, Australia
 > - Gardiner and Miles, 1994
 
-[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian or lower Frasnian, XXX (maximum age), YYY (minimum age)
+[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
+> upper Givetian, 384.4, 382.7
 
-> - [horizon and locality]
-> - Ritchie, 2005
+> - Merriganowry Shale Mb; near Cowra, New South Wales, Australia.
+> - Ritchie, 2005; Carr *et al*., 2009
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, XXX (maximum age), YYY (minimum age)
@@ -331,7 +331,7 @@ New taxa and references added along with the research.
 > - Teng et al., 2019
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian, XXX (maximum age), YYY (minimum age)
+> upper Givetian, 384.4, 382.7
 
 > - [horizon and locality]
 > - Castiello, 2018
