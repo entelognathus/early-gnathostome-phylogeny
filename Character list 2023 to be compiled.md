@@ -5469,11 +5469,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
@@ -5481,17 +5485,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 234; Zhu Y. *et al*. (2022), Character 650.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 236; Zhu Y. *et al*. (2022), Character 651.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 646. Number of dorsal fins, if present: (0) one; (1) two.
 
@@ -5500,6 +5510,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
@@ -5513,11 +5525,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 648. Basal plate in dorsal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 230; Choo *et al*. (2017), Character 321; King *et al*. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. *et al*. (2022), Character 654; Brazeau *et al*. (2023), Character 482.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
 
@@ -5525,17 +5541,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 650. Branching radials in paired fins: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 197; Zhu Y. *et al*. (2022), Character 656.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 241; Zhu Y. *et al*. (2022), Character 657.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
@@ -5545,11 +5567,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 653. Anal fin: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Zhu Y. *et al*. (2022), Character 659.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 654. Basal plate in anal fin: (0) absent; (1) present.
 
@@ -5557,11 +5583,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
 
@@ -5569,11 +5599,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 657. Series of thoracic supraneurals: (0) absent; (1) present.
 
 > Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Brazeau *et al*. (2023), Character 460.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
 
@@ -5581,11 +5615,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
 
 > Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 660. Synarcual: (0) absent; (1) present.
 
@@ -5593,11 +5631,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 661. Calcified vertebral centra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 207; Zhu Y. *et al*. (2022), Character 667.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 662. Chordacentra: (0) absent; (1) present.
 
@@ -5605,17 +5647,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 209; Zhu Y. *et al*. (2022), Character 669.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 240; Zhu Y. *et al*. (2022), Character 670.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 ## Spines: fins, cranial and elsewhere
 
@@ -5625,11 +5673,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 667. Anal fin spine: (0) absent; (1) present.
 
@@ -5639,11 +5691,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 668. Pectoral fin spine: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 669. Pelvic fin spine: (0) absent; (1) present.
 
@@ -5653,11 +5709,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1, as in *Guiyu* and *Sparalepis*. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Brazeau *et al*. (2023), Character 464.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 671. Intermediate fin spines: (0) absent; (1) present.
 
@@ -5665,11 +5725,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 672. Intermediate spines when present: (0) one pair; (1) multiple pairs.
 
 > Giles *et al*. (2015), Character 219; Choo *et al*. (2017), Character 316; King *et al*. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. *et al*. (2022), Character 678; Brazeau *et al*. (2023), Character 478.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 673. Prepectoral fin spines: (0) absent; (1) present.
 
@@ -5677,11 +5741,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 256. Dearden *et al*. (2019), Character 261; Zhu Y. *et al*. (2022), Character 680.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 675. Cephalic spines: (0) absent; (1) present.
 
@@ -5689,11 +5757,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682.
 
 > - The coding of *Eosteus* is 0, as in *Guiyu*. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 677. Fin spines with ridges: (0) absent; (1) present.
 
@@ -5701,11 +5773,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 678. Fin spines with nodes: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Brazeau *et al*. (2023), Character 468.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
 
@@ -5713,11 +5789,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
 
 > Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
 
@@ -5727,6 +5807,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688; Brazeau *et al*. (2023), Character 479.
@@ -5735,11 +5817,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
 > Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Brazeau *et al*. (2023), Character 480.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
 
@@ -5747,11 +5833,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 ## Newly-added characters
 
@@ -5763,6 +5853,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 692.
@@ -5771,6 +5863,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 693.
@@ -5778,7 +5872,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Styloichthys* is 0.
->
+
+> - The coding of *Meemannia*_like fish is ?.
+
 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 694.
@@ -5786,6 +5882,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Styloichthys* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
@@ -5795,11 +5893,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
 > - New character, see comments on Character 286.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
 
@@ -5809,11 +5911,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
 
 > - New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 
@@ -5823,17 +5929,23 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 695. Buried odontodes of body scales: (0) absent, (1) present.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 ## Included in Brazeau et al. (2023)
 697. Laminar basal layer: (0) absent; (1) present.
@@ -5848,6 +5960,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 698. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
@@ -5858,6 +5972,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 1.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 699. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
@@ -5866,11 +5982,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
@@ -5880,6 +6000,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Styloichthys* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
@@ -5887,6 +6009,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 703. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
@@ -5898,11 +6022,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 263.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
 
@@ -5910,11 +6038,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0, same to actinopterygians and Onychodus. Note that the previous definition is reversed to be consistent with the matrix. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
@@ -5922,11 +6054,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
+> - The coding of *Meemannia*_like fish is ?.
+
 708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
@@ -5935,6 +6071,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Meemannia*_like fish is ?.
 
 **Arguablly useful characters**
 
