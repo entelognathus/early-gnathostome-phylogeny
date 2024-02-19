@@ -236,13 +236,13 @@ New taxa and references added along with the research.
 > - Lund, 1986; Lund and Grogan, 1997
 
 [*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen)
-> [geological range]lower Ludlow, XXX (maximum age), YYY (minimum age)
+> Gorstian, 427.4, 425.6
 
 > - [horizon and locality]
 > - Gross, 1968; Märss et al., 2015
 
 [*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen)
-> Bashkirian, XXX (maximum age), YYY (minimum age)
+> Bashkirian, 323.2, 315.2
 
 > - [horizon and locality]
 > - Grogan and Lund, 2000
@@ -466,13 +466,13 @@ New taxa and references added along with the research.
 > - Maisey, 1989
 
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen)
-> middle Telychian, XXX (maximum age), YYY (minimum age)
+> middle Telychian, 436.8, 435.1
 
 > - [horizon and locality]
 > - Zhu and Gai, 2007
 
 [*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen)
-> Moscovian, XXX (maximum age), YYY (minimum age)
+> Moscovian, 315.2, 307.0
 
 > - [horizon and locality]
 > - Moy-Thomas, 1936
@@ -949,13 +949,13 @@ New taxa and references added along with the research.
 > - Castiello, 2018; Young, 1985
 
 [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen)
-> Telychian, XXX (maximum age), YYY (minimum age)
+> middle Telychian, 436.8, 435.1
 
-> - [horizon and locality]
+> - Huixingshao Fm; Xiushan, Chongqing, China.
 > - Zhu Y. *et al*., 2022
 
 [*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen)
-> middle to upper Telychian, XXX (maximum age), YYY (minimum age)
+> middle to upper Telychian, 436.8, 433.4
 
 > - [horizon and locality]
 > - Gai et al., 2011
@@ -1045,13 +1045,13 @@ New taxa and references added along with the research.
 > - Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016
 
 [*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen)
-> Bashkirian to Changhsingian, XXX (maximum age), YYY (minimum age)
+> Bashkirian to Changhsingian, 323.2, 251.9
 
 > - [horizon and locality]
 > - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
 
 [*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen)
-> lower Serpukhovian, 330.9, YYY (minimum age)
+> lower Serpukhovian, 330.9, 328.3
 
 > - [horizon and locality]
 > - Coates and Gess, 2007; Dick, 1978
@@ -1095,7 +1095,7 @@ New taxa and references added along with the research.
 > - Zhao et al., 2002
 
 *Widjeaspis warrooensis*
-> Middle Devonian, XXX (maximum age), YYY (minimum age)
+> Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
 > - Barker and Bone, 1995; Basden, 1999
@@ -1107,10 +1107,10 @@ New taxa and references added along with the research.
 > - Ritchie, 1973
 
 [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen)
-> Telychian, XXX (maximum age), YYY (minimum age)
+> middle Telychian, 436.8, 435.1
 
-> - [horizon and locality]
-> - ]Zhu Y. *et al*., 2022
+> - Huixingshao Fm; Xiushan, Chongqing, China.
+> - Zhu Y. *et al*., 2022
 
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
