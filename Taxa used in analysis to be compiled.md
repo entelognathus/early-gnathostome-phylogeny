@@ -26,13 +26,15 @@ New taxa and references added along with the research.
 > - Lochkovian is subdivided into lower and upper Lochkovian.
 
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
-> Anisian to Ladinian, XXX (maximum age), YYY (minimum age)
+> Anisian to Ladinian, 247.2, 237.0
 
 > - [horizon and locality]
 > - Maisey, 2011
 
+> - **No data in deepbone**
+
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian, XXX (maximum age), YYY (minimum age)
+> Serpukhovian, 330.9, 323.2
 
 > - [horizon and locality]
 > - Coates and Sequeira, 1998; 2001; Coates et al., 1998
@@ -161,7 +163,7 @@ New taxa and references added along with the research.
 > - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
 
 [Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian to present, XXX (maximum age), YYY (minimum age)
+> Serpukhovian to present, 330.9, 0
 
 > - [horizon and locality]
 > - Didier, 1995
@@ -229,7 +231,7 @@ New taxa and references added along with the research.
 > - Long, 1983
 
 [*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian, XXX (maximum age), YYY (minimum age)
+> Serpukhovian, 330.9, 323.2
 
 > - [horizon and locality]
 > - Lund, 1986; Lund and Grogan, 1997
@@ -381,7 +383,7 @@ New taxa and references added along with the research.
 > - Miles, 1973a; Newman et al., 2014; Watson, 1937
 
 [*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian, XXX (maximum age), YYY (minimum age)
+> Serpukhovian, 330.9, 323.2
 
 > - [horizon and locality]
 > - Lund, 1985
@@ -759,7 +761,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
 [*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian, XXX (maximum age), YYY (minimum age)
+> Serpukhovian, 330.9, 323.2
 
 > - [horizon and locality]
 > - Pradel et al., 2014
@@ -1050,7 +1052,7 @@ New taxa and references added along with the research.
 > - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
 
 [*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen)
-> lower Serpukhovian, XXX (maximum age), YYY (minimum age)
+> lower Serpukhovian, 330.9, YYY (minimum age)
 
 > - [horizon and locality]
 > - Coates and Gess, 2007; Dick, 1978
