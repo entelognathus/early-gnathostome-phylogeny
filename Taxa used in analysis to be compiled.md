@@ -379,9 +379,9 @@ New taxa and references added along with the research.
 > - Lund, 1985
 
 [*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> uppermost Givetian, 384.37, 382.7
 
-> - [horizon and locality]
+> - Avon River Gr; Mount Howitt, Victoria, Australia.
 > - Long, 1999
 
 [*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen)
