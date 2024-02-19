@@ -36,22 +36,24 @@ New taxa and references added along with the research.
 > - Coates and Sequeira, 1998; 2001; Coates et al., 1998
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen)
-> Ludlow and Pridoli, XXX (maximum age), YYY (minimum age)
+> Ludlow and Pridoli, 427.4, 419.2
 
 > - [horizon and locality]
 > - Chen et al., 2016a
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen)
-> Pridoli and Lochkovian, XXX (maximum age), YYY (minimum age)
+> Pridoli to Lochkovian, 423.0, 410.8
 
 > - [horizon and locality]
 > - Randle and Sansom, 2016
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen)
-> Pragian to lower Emsian, XXX (maximum age), YYY (minimum age)
+> Pragian to lower Emsian, 410.8, 400.45
 
 > - [horizon and locality]
 > - Olive et al., 2011; 2014
+
+> - Emsian is subdivided into lower and upper Emsian.
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, XXX (maximum age), YYY (minimum age)
@@ -72,7 +74,7 @@ New taxa and references added along with the research.
 > - Long, 1997
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen)
-> upper Lochkovian to lower Pragian, XXX (maximum age), YYY (minimum age)
+> upper Lochkovian to lower Pragian, XXX (maximum age), 409.2
 
 > - [horizon and locality]
 > - Janvier et al., 1993
@@ -90,9 +92,9 @@ New taxa and references added along with the research.
 > - Janvier, 1985
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, XXX (maximum age), YYY (minimum age)
+> upper Emsian to Famennian, 400.45, 358.9
 
-> - [horizon and locality]
+> - wide distribution.
 > - Long and Trinajstic, 2010
 
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen)
@@ -102,7 +104,7 @@ New taxa and references added along with the research.
 > - Watson, 1937
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen)
-> lower Emsian to lower Eifelian, XXX (maximum age), YYY (minimum age)
+> lower Emsian to lower Eifelian, 407.6, YYY (minimum age)
 
 > - [horizon and locality]
 > - Young, 1980
@@ -169,19 +171,21 @@ New taxa and references added along with the research.
 > - Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935
 
 [*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen)
-> lower Pragian, XXX (maximum age), YYY (minimum age)
+> lower Pragian, 410.8, 409.2
 
 > - [horizon and locality]
 > - Tông-Dzuy and Janvier, 1990
 
+> - Pragian is subdivided into lower and upper Pragian.
+
 [*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen)
-> upper Famennian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
 > - [horizon and locality]
 > - Maisey, 2005
 
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen)
-> upper Famennian, XXX (maximum age), YYY (minimum age)
+> upper Famennian, 363.3, 358.9
 
 > - [horizon and locality]
 > - Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981
@@ -205,9 +209,9 @@ New taxa and references added along with the research.
 > - Miles and Westoll, 1968
 
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Western Australia, Australia
 > - Gardiner and Miles, 1994
 
 [*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen)
@@ -301,7 +305,7 @@ New taxa and references added along with the research.
 > - Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
 *Doliodus latispinosus*
-> lower Emsian, XXX (maximum age), YYY (minimum age)
+> lower Emsian, 407.6, 400.45
 
 > - [horizon and locality]
 > - Burrow *et al*., 2023a; Maisey *et al*., 2009; Miller *et al*., 2003
@@ -423,13 +427,13 @@ New taxa and references added along with the research.
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - [horizon and locality]
 > - Ritchie, 1975; Young, 1989
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen)
-> lower to middle Givetian, XXX (maximum age), YYY (minimum age)
+> lower to middle Givetian, 387.7, 384.1
 
 > - [horizon and locality]
 > - Ji and Pan, 1997
@@ -441,7 +445,7 @@ New taxa and references added along with the research.
 > - Qiao and Zhu, 2010; Zhu et al., 2009
 
 [*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=4645&functionId=Deepbone_header_searchResultOpen)
-> Famennian, XXX (maximum age), YYY (minimum age)
+> Famennian, 372.2, 358.9
 
 > - [horizon and locality]
 > - Warren et al., 2000
@@ -519,16 +523,18 @@ New taxa and references added along with the research.
 > - Miles, 1973a; Watson, 1937
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
 > - [horizon and locality]
 > - Stensiö, 1969; Young, 1986
 
 [*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen)
-> middle Lockhovian, XXX (maximum age), YYY (minimum age)
+> middle Lockhovian, 416.4, 413.6
 
 > - [horizon and locality]
 > - Giles et al., 2015c
+
+> - Here Lochkovian is subdivided into lower, middle and upper Lochkovian. In the rest, it is subdivided into lower and upper Lochkovian.
 
 [*Kansasiella eatoni*](https://deepbone.org/public/#/explor?s_id=3023&functionId=Deepbone_header_searchResultOpen)
 > upper Pennsylvanian, XXX (maximum age), YYY (minimum age)
@@ -549,7 +555,7 @@ New taxa and references added along with the research.
 > - Pradel et al., 2011
 
 [*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang et Zhu, 1993
-> upper Emsian, XXX (maximum age), YYY (minimum age)
+> upper Emsian, 400.45, 393.3
 
 > - Chuandong Fm; Qujing, Yunnan, China.
 > - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
@@ -579,7 +585,7 @@ New taxa and references added along with the research.
 > - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen)
-> upper Lockhovian to lower Pragian, XXX (maximum age), YYY (minimum age)
+> upper Lockhovian to lower Pragian, XXX (maximum age), 409.2
 
 > - [horizon and locality]
 > - Dupret, 2010
@@ -603,7 +609,7 @@ New taxa and references added along with the research.
 > - Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968
 
 [*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen)
-> lower Ludlow, XXX (maximum age), YYY (minimum age)
+> Gorstian, 427.4, 425.6
 
 > - [horizon and locality]
 > - Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004
@@ -621,7 +627,7 @@ New taxa and references added along with the research.
 > - Hanke and Wilson, 2006; Hanke and Davis, 2012
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen)
-> Eifelian, XXX (maximum age), YYY (minimum age)
+> Eifelian, 393.3, 387.7
 
 > - [horizon and locality]
 > - Stensiö, 1925; 1963; 1969
@@ -709,7 +715,7 @@ New taxa and references added along with the research.
 > - Burrow and Rudkin, 2014
 
 [*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen)
-> lower Pragian, XXX (maximum age), YYY (minimum age)
+> lower Pragian, 410.8, 409.2
 
 > - [horizon and locality]
 > - Janvier, 1981
@@ -739,7 +745,7 @@ New taxa and references added along with the research.
 > - Coates and Gess, 2007; Dick and Maisey, 1980
 
 [*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen)
-> lower Famennian, XXX (maximum age), YYY (minimum age)
+> lower Famennian, 372.2, 367.7
 
 > - [horizon and locality]
 > - Taverne, 1997
@@ -787,7 +793,7 @@ New taxa and references added along with the research.
 > - Hanke, 2002
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian, XXX (maximum age), YYY (minimum age)
+> upper Emsian, 400.45, 393.3
 
 > - Chuandong Fm; Qujing, Yunnan, China.
 > - Pan *et al*., 2015
@@ -896,7 +902,7 @@ New taxa and references added along with the research.
 > - Gross, 1958; Vaškaninová and Ahlberg, 2017
 
 [*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen)
-> Eifelian, XXX (maximum age), YYY (minimum age)
+> Eifelian, 393.3, 387.7
 
 > - [horizon and locality]
 > - Pradel et al., 2009
@@ -910,7 +916,7 @@ New taxa and references added along with the research.
 > - single articulated specimen　comprises　a near-complete dermal cranium, braincase and mandibular，hyoid and gill arches
 
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=17978&functionId=Deepbone_header_searchResultOpen)
-> Famennian, XXX (maximum age), YYY (minimum age)
+> Famennian, 372.2, 358.9
 
 > - [horizon and locality]
 > - Andrews, 1978
@@ -952,13 +958,13 @@ New taxa and references added along with the research.
 > - Gai et al., 2011
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen)
-> lower Pragian, XXX (maximum age), YYY (minimum age)
+> lower Pragian, 410.8, 409.2
 
 > - [horizon and locality]
 > - Goujet, 1973
 
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen)
-> Famennian, XXX (maximum age), YYY (minimum age)
+> Famennian, 372.2, 358.9
 
 > - [horizon and locality]
 > - Liu and P'an, 1958; Ritchie et al., 1992
@@ -1000,7 +1006,7 @@ New taxa and references added along with the research.
 > - Maisey, 1985
 
 [*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen)
-> Famennian, XXX (maximum age), YYY (minimum age)
+> Famennian, 372.2, 358.9
 
 > - [horizon and locality]
 > - Schaeffer, 1981; Williams, 1998
@@ -1024,7 +1030,7 @@ New taxa and references added along with the research.
 > - Vaškaninová and Ahlberg, 2017
 
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen)
-> Gorstian, XXX (maximum age), YYY (minimum age)
+> Gorstian, 427.4, 425.6
 
 > - [horizon and locality]
 > - Denison, 1947; 1951; Robertson, 1937; Robertson, 1938
