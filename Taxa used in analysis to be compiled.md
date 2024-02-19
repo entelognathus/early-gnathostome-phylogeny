@@ -4,10 +4,12 @@ New taxa and references added along with the research.
 
 
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen)
-> Sakmarian to Asselian, XXX (maximum age), YYY (minimum age)
+> Asselian to Sakmarian, 298.9, 290.1
 
 > - [horizon and locality]
 > - Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937
+
+> - **No data in deepbone**
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen)
 >upper Wenlock to upper Ludlow, XXX (maximum age), YYY (minimum age)
