@@ -67,7 +67,7 @@ New taxa and references added along with the research.
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Ritchie, 1967
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
@@ -76,7 +76,7 @@ New taxa and references added along with the research.
 > - Long, 1997
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen)
-> upper Lochkovian to lower Pragian, XXX (maximum age), 409.2
+> upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - [horizon and locality]
 > - Janvier et al., 1993
