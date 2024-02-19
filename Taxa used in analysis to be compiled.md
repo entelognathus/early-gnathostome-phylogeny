@@ -777,8 +777,7 @@ New taxa and references added along with the research.
 > - Zhu, 2000; Zhu and Wang, 1996
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)
-> Pragian to Emsian, XXX (maximum age), YYY (minimum age)
-
+> Pragian to Emsian, 410.8, 393.3
 > - [horizon and locality]
 > - White and Toombs, 1972; Young, 1979
 
@@ -831,7 +830,7 @@ New taxa and references added along with the research.
 > - Valiukevicius, 1992
 
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=166837&functionId=Deepbone_header_searchResultOpen)
-> Pragian to Emsian, XXX (maximum age), YYY (minimum age)
+> Pragian to Emsian, 410.8, 393.3
 
 > - [horizon and locality]
 > - Clément, 2004; Jarvik, 1972
@@ -924,7 +923,7 @@ New taxa and references added along with the research.
 > - Andrews, 1978
 
 [*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen)
-> Emsian, XXX (maximum age), YYY (minimum age)
+> Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Burrow et al., 2000
