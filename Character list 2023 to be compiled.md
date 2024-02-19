@@ -3787,7 +3787,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-439. Pituitary vein canal: (0) dorsal to level of basipterygoid  process; (1) flanked posteriorly by basipterygoid process.
+439. Pituitary vein canal: (0) dorsal to level of basipterygoid process; (1) flanked posteriorly by basipterygoid process.
 
 > Davis *et al*. (2012), Character 84; Choo *et al*. (2017), Character 83; King *et al*. (2017), Character 46; Castiello (2018), Character 46; Zhu Y. *et al*. (2022), Character 444; Brazeau *et al*. (2023), Character 49.
 
@@ -3893,7 +3893,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-451. Cuccullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
+451. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
 
 > Zhu *et al*. (2016), Character 324; Zhu Y. *et al*. (2021), Character 306; Zhu Y. *et al*. (2022), Character 457.
 
@@ -4233,7 +4233,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
  
 > - The character formulation in the attached nexus file ("Dorsal aorta canal in basicranium: (0) absent, (1) present") is slightly different from that in the text file of Coates *et al*. (2018), which is followed by the later datasets. Polarity was reversed in two usages. Based on their codings, the character formulation in the nexus file is incorrect.
 
-> - The codings in *Squalus* spp., *Synechodus dubrisiensis*, and *Tribodus limae* are corrected as "0" (through basicranium). Finarelli & Coates (2014) stated that "it is not possible to determine whether this cartilage includes a canal for the dorsal aorta" in *Chondrenchelys problematica*. As such, Chondrenchelys is coded as "?". *Debeerius ellefseni* is also coded as "?" due to unknown anatomical information.
+> - The codings in *Squalus* spp., *Synechodus dubrisiensis*, and *Tribodus limae* are corrected as "0" (through basicranium). Finarelli & Coates (2014) stated that "it is not possible to determine whether this cartilage includes a canal for the dorsal aorta" in *Chondrenchelys problematica*. As such, *Chondrenchelys* is coded as "?". *Debeerius ellefseni* is also coded as "?" due to unknown anatomical information.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
