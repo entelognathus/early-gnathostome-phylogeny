@@ -711,7 +711,7 @@ New taxa and references added along with the research.
 > - Janvier, 1981
 
 [*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen)
-> upper Pridoli, XXX (maximum age), YYY (minimum age)
+> upper Pridoli, 421.1, 419.2
 
 > - [horizon and locality]
 > - Burrow and Rudkin, 2014
@@ -723,7 +723,7 @@ New taxa and references added along with the research.
 > - Janvier, 1981
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen)
-> Middle Devonian, XXX (maximum age), YYY (minimum age)
+> Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
 > - Woodward, 1941; Young, 2004
@@ -866,7 +866,7 @@ New taxa and references added along with the research.
 > - Lu et al., 2017
 
 [*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian to Givetian, 389.6, YYY (minimum age)
+> upper Eifelian to Givetian, 389.6, 382.7
 
 > - [horizon and locality]
 > - Maisey and Anderson, 2001
@@ -1092,7 +1092,7 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Zhao et al., 2002
 
-*Widjeaspis warrooensis*
+*Wijdeaspis warrooensis*
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
