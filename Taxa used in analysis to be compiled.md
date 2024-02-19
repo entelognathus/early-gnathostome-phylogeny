@@ -345,9 +345,9 @@ New taxa and references added along with the research.
 > - Ørvig, 1957; Sallan and Coates, 2010
 
 [*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 379.2
+> middle Frasnian, 379.2, 375.7
 
-> - [horizon and locality]
+> - Escuminac Fm; Quebec, Canada.
 > - Janvier et al., 2004
 
 [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen)
@@ -357,7 +357,7 @@ New taxa and references added along with the research.
 > - Liu, 1965; Zhu and Gai, 2007
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - Xichong Fm; Qujing, Yunnan, China.
 > - Liu, 1991
@@ -399,7 +399,7 @@ New taxa and references added along with the research.
 > - Gross, 1963
 
 [*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - [horizon and locality]
 > - Coates et al., 2018
@@ -495,7 +495,7 @@ New taxa and references added along with the research.
 > - Mutter et al., 2007; 2008
 
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - [horizon and locality]
 > - Long, 1988
@@ -878,7 +878,7 @@ New taxa and references added along with the research.
 > - Lu and Zhu, 2010; Lu et al., 2016
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen)
-> Givetian, XXX (maximum age), YYY (minimum age)
+> Givetian, 387.7, 382.7
 
 > - [horizon and locality]
 > - Liu, 1991
@@ -1085,11 +1085,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Zhao et al., 2002
 
-*Widjeaspis warrooensis*, Middle Devonian (Barker and Bone, 1995; Basden, 1999)
-> [geological range], XXX (maximum age), YYY (minimum age)
+*Widjeaspis warrooensis*
+> Middle Devonian, XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Barker and Bone, 1995; Basden, 1999
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen)
 > Emsian to Eifelian, XXX (maximum age), YYY (minimum age)
