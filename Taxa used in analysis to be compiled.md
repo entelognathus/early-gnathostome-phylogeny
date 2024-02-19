@@ -418,7 +418,7 @@ New taxa and references added along with the research.
 > - Hanke and Davis, 2008
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian to lower Givetian, 389.6, YYY (minimum age)
+> upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - [horizon and locality]
 > - Ahlberg, 1989; Jarvik, 1972
@@ -754,7 +754,7 @@ New taxa and references added along with the research.
 > - Taverne, 1997
 
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen)
-> lower Givetian, XXX (maximum age), YYY (minimum age)
+> lower Givetian, 387.7, 386.0
 
 > - [horizon and locality]
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
@@ -931,7 +931,7 @@ New taxa and references added along with the research.
 > - Burrow et al., 2000
 
 [*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen)
-> lower Givetian, XXX (maximum age), YYY (minimum age)
+> lower Givetian, 387.7, 386.0
 
 > - [horizon and locality]
 > - Long, 1997; Miles, 1967
@@ -973,7 +973,7 @@ New taxa and references added along with the research.
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen)
-> lower to middle Emsian, XXX (maximum age), YYY (minimum age)
+> lower to middle Emsian, 407.6, 397.9
 
 > - [horizon and locality]
 > - Zhao and Zhu, 2010
@@ -985,7 +985,7 @@ New taxa and references added along with the research.
 > - Choo et al., 2017
 
 [*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen)
-> Pliocene to present, XXX (maximum age), YYY (minimum age)
+> Pliocene to present, 5.33, 0
 
 > - [horizon and locality]
 > - Gans and Parsons, 1964
@@ -1003,7 +1003,7 @@ New taxa and references added along with the research.
 > - Vaškaninová and Ahlberg, 2017
 
 [*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen)
-> Upper Jurassic to Upper Cretaceous, XXX (maximum age), YYY (minimum age)
+> Upper Jurassic to Maastrichtian, 161.5, 66.0
 
 > - [horizon and locality]
 > - Maisey, 1985
@@ -1039,7 +1039,7 @@ New taxa and references added along with the research.
 > - Denison, 1947; 1951; Robertson, 1937; Robertson, 1938
 
 [*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen)
-> Albian, XXX (maximum age), YYY (minimum age)
+> Albian, 113.0, 100.5
 
 > - [horizon and locality]
 > - Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016
