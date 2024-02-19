@@ -12,7 +12,7 @@ New taxa and references added along with the research.
 > - **No data in deepbone**
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen)
->upper Wenlock to upper Ludlow, XXX (maximum age), YYY (minimum age)
+>upper Wenlock to upper Ludlow, 430.5, 423.0
 
 > - [horizon and locality]
 > - Ritchie, 1967; Turner and Turner, 1974
@@ -200,7 +200,7 @@ New taxa and references added along with the research.
 > - Miles, 1973a; Watson, 1937
 
 [*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen)
-> Sakmarian, XXX (maximum age), YYY (minimum age)
+> Sakmarian, 293.52, 290.1
 
 > - [horizon and locality]
 > - Ivanov, 2005
@@ -224,7 +224,7 @@ New taxa and references added along with the research.
 > - Ritchie, 2005; Carr *et al*., 2009
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, XXX (maximum age), YYY (minimum age)
+> Frasnian, 382.7, 372.2
 
 > - [horizon and locality]
 > - Long, 1983
@@ -636,7 +636,7 @@ New taxa and references added along with the research.
 > - Stensiö, 1925; 1963; 1969
 
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Long et al., 2008; Trinajstic et al., 2012
@@ -674,7 +674,7 @@ New taxa and references added along with the research.
 > - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Fm is middle Frasian.
 
 [*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014
@@ -694,7 +694,7 @@ New taxa and references added along with the research.
 > - Preserving partial skull-roof and braincase (anterior portion missing).
 
 [*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
 > - [horizon and locality]
 > - Gardiner, 1984
@@ -911,7 +911,7 @@ New taxa and references added along with the research.
 > - Pradel et al., 2009
 
 [*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, XXX (maximum age), YYY (minimum age)
+> Frasnian, 382.7, 372.2
 
 > - [horizon and locality]
 > - Giles et al., 2015b
