@@ -400,7 +400,7 @@ New taxa and references added along with the research.
 > - Dupret et al., 2009
 
 [*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen)
-> upper Pragian to lower Emsian, XXX (maximum age), YYY (minimum age)
+> upper Pragian to lower Emsian, 409.2, 400.45
 
 > - [horizon and locality]
 > - Gross, 1963
@@ -618,7 +618,7 @@ New taxa and references added along with the research.
 > - Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004
 
 [*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen)
-> upper Pragian to lower Emsian, XXX (maximum age), YYY (minimum age)
+> upper Pragian to lower Emsian, 409.2, 400.45
 
 > - [horizon and locality]
 > - Gross, 1961
@@ -772,7 +772,7 @@ New taxa and references added along with the research.
 > - [references]
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen)
-> lower Emsian, XXX (maximum age), YYY (minimum age)
+> lower Emsian, 407.6, 400.45
 
 > - Xujiachong Fm; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
