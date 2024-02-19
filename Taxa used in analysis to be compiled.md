@@ -282,7 +282,7 @@ New taxa and references added along with the research.
 > - The three species of *Diplacanthus* are distinguished from the other acanthodians by the presence of two dorsal fin spines and a heavily ossified shoulder girdle. The other two species are *Diplacanthus longispinus* Agassiz, 1845 and *Diplacanthus tenuistriatus* Traquair, 1894.
 
 [*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=4369&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Famennian, XXX (maximum age), YYY (minimum age)
+> Givetian to Famennian, 387.8, 358.9
 
 > - [horizon and locality]
 > - Forey, 1998
@@ -436,7 +436,7 @@ New taxa and references added along with the research.
 > - Ritchie, 1975; Young, 1989
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen)
-> lower to middle Givetian, 387.7, 384.1
+> lower to middle Givetian, 387.7, 384.4
 
 > - [horizon and locality]
 > - Ji and Pan, 1997
@@ -660,7 +660,7 @@ New taxa and references added along with the research.
 > - Miles, 1973a; Watson, 1937
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen)
-> middle Givetian, XXX (maximum age), YYY (minimum age)
+> middle Givetian, 386.0, 384.4
 
 > - [horizon and locality]
 > - Hemmings, 1978; Long et al., 2015
