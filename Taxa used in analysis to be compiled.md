@@ -21,6 +21,8 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
+> - Lochkovian is subdivided into lower and upper Lochkovian.
+
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
 > Anisian to Ladinian, XXX (maximum age), YYY (minimum age)
 
@@ -64,9 +66,9 @@ New taxa and references added along with the research.
 > - [references]
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Western Australia, Australia
 > - Long, 1997
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen)
@@ -118,9 +120,9 @@ New taxa and references added along with the research.
 > - Burrow and Turner, 1998; Long et al., 2014
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Western Australia, Australia
 > - Long, 1997
 
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen)
@@ -142,9 +144,9 @@ New taxa and references added along with the research.
 > - Giles et al., 2015a; Pearson and Westoll, 1979
 
 [*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> middle Frasnian, 379.2, 375.7
 
-> - [horizon and locality]
+> - Escuminac Fm; Quebec, Canada.
 > - Arratia and Cloutier, 1996; Pearson and Westoll, 1979
 
 [*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen)
@@ -337,7 +339,7 @@ New taxa and references added along with the research.
 > - Zhu et al., 2013
 
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, XXX (maximum age), YYY (minimum age)
+> upper Frasnian, 375.7, 372.2
 
 > - [horizon and locality]
 > - Ørvig, 1957; Sallan and Coates, 2010
@@ -361,9 +363,9 @@ New taxa and references added along with the research.
 > - Liu, 1991
 
 [*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 379.2
- 
-> - [horizon and locality]
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Fm; Quebec, Canada.
 > - Jarvik, 1980a; b
 
 [*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen)
@@ -655,10 +657,12 @@ New taxa and references added along with the research.
 > - Hemmings, 1978; Long et al., 2015
 
 [*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, XXX (maximum age), YYY (minimum age)
+> middle Frasnian, 379.2, 375.7
 
-> - [horizon and locality]
+> - Escuminac Fm; Quebec, Canada.
 > - Cloutier, 1996; Forey, 1998
+
+> - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Fm is middle Frasian.
 
 [*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, XXX (maximum age), YYY (minimum age)
