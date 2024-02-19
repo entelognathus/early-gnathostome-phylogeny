@@ -83,7 +83,7 @@ New taxa and references added along with the research.
 > - Janvier et al., 1993
 
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Janvier, 1985; Ørvig, 1957
@@ -101,7 +101,7 @@ New taxa and references added along with the research.
 > - Long and Trinajstic, 2010
 
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Watson, 1937
@@ -113,7 +113,7 @@ New taxa and references added along with the research.
 > - Young, 1980
 
 [*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Wilson, 2006
@@ -131,13 +131,13 @@ New taxa and references added along with the research.
 > - Long, 1997
 
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier and Wilson, 1996
 
 [*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Stensiö, 1932; White, 1958
@@ -193,7 +193,7 @@ New taxa and references added along with the research.
 > - Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981
 
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Miles, 1973a; Watson, 1937
@@ -375,7 +375,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1980a; b
 
 [*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Miles, 1973a; Newman et al., 2014; Watson, 1937
@@ -411,7 +411,7 @@ New taxa and references added along with the research.
 > - Coates et al., 2018
 
 [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Davis, 2008
@@ -519,7 +519,7 @@ New taxa and references added along with the research.
 > - Zangerl and Case, 1973
 
 [*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Miles, 1973a; Watson, 1937
@@ -531,7 +531,7 @@ New taxa and references added along with the research.
 > - Stensiö, 1969; Young, 1986
 
 [*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen)
-> middle Lockhovian, 416.4, 413.6
+> middle Lochkovian, 416.4, 413.6
 
 > - [horizon and locality]
 > - Giles et al., 2015c
@@ -545,7 +545,7 @@ New taxa and references added along with the research.
 > - Poplin, 1975
 
 [*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
@@ -569,13 +569,13 @@ New taxa and references added along with the research.
 > - Giles and Friedman, 2014; Rayner, 1951
 
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Mark-Kurik, 1973
 
 [*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Bystrow, 1956
@@ -587,7 +587,7 @@ New taxa and references added along with the research.
 > - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen)
-> upper Lockhovian to lower Pragian, XXX (maximum age), 409.2
+> upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - [horizon and locality]
 > - Dupret, 2010
@@ -623,7 +623,7 @@ New taxa and references added along with the research.
 > - Gross, 1961
 
 [*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006; Hanke and Davis, 2012
@@ -653,7 +653,7 @@ New taxa and references added along with the research.
 > - Choo et al. (2014); this study.
 
 [*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Miles, 1973a; Watson, 1937
@@ -729,7 +729,7 @@ New taxa and references added along with the research.
 > - Woodward, 1941; Young, 2004
 
 [*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006
@@ -783,13 +783,13 @@ New taxa and references added along with the research.
 > - White and Toombs, 1972; Young, 1979
 
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Zhang et al., 2001; Zhu et al., 2012
 
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke, 2002
@@ -801,7 +801,7 @@ New taxa and references added along with the research.
 > - Pan *et al*., 2015
 
 [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Liu, 1965; 1975
@@ -813,13 +813,13 @@ New taxa and references added along with the research.
 > - Denison, 1951
 
 [*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999
 
 [*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Burrow et al., 2013; Miles, 1973a; Watson, 1937
@@ -843,7 +843,7 @@ New taxa and references added along with the research.
 > - Jessen, 1980
 
 [*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke, 2008
@@ -855,7 +855,7 @@ New taxa and references added along with the research.
 > - Hemmings, 1978
 
 [*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Brazeau, 2012; Dineley, 1999
@@ -892,7 +892,7 @@ New taxa and references added along with the research.
 > - Liu, 1991
 
 [*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Vaškaninová and Ahlberg, 2017
@@ -936,7 +936,7 @@ New taxa and references added along with the research.
 > - Long, 1997; Miles, 1967
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Dupret et al., 2014; Ørvig, 1975
@@ -996,7 +996,7 @@ New taxa and references added along with the research.
 > - Friedman, 2007; Zhu and Yu, 2002
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Vaškaninová and Ahlberg, 2017
@@ -1014,19 +1014,19 @@ New taxa and references added along with the research.
 > - Schaeffer, 1981; Williams, 1998
 
 [*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
 
 [*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
 
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Vaškaninová and Ahlberg, 2017
@@ -1056,13 +1056,13 @@ New taxa and references added along with the research.
 > - Coates and Gess, 2007; Dick, 1978
 
 [*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Newman et al., 2012
 
 *Uraniacanthus probaton*
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Hanke and Davis, 2008; Newman *et al*., 2012
@@ -1076,13 +1076,13 @@ New taxa and references added along with the research.
 > - Denison, 1968
 
 [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Miles, 1973a
 
 [*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Janvier, 1985
@@ -1118,13 +1118,13 @@ New taxa and references added along with the research.
 > - Chang, 1982; 1991; Chang and Yu, 1981
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Zhang, 1980; Zhu, 1996
 
 [*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen)
-> Lockhovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Stensiö, 1932
