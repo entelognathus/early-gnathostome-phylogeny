@@ -108,7 +108,7 @@ New taxa and references added along with the research.
 > - Watson, 1937
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen)
-> lower Emsian to lower Eifelian, 407.6, YYY (minimum age)
+> lower Emsian to lower Eifelian, 407.6, 391.4
 
 > - [horizon and locality]
 > - Young, 1980
@@ -144,8 +144,7 @@ New taxa and references added along with the research.
 > - Stensiö, 1932; White, 1958
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian, XXX (maximum age), YYY (minimum age)
-
+> upper Eifelian, 389.6, 387.7
 > - [horizon and locality]
 > - Giles et al., 2015a; Pearson and Westoll, 1979
 
@@ -169,7 +168,7 @@ New taxa and references added along with the research.
 > - Didier, 1995
 
 [*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen)
-> Visean, XXX (maximum age), YYY (minimum age)
+> Visean, 346.7, 330.9
 
 > - [horizon and locality]
 > - Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935
@@ -207,7 +206,7 @@ New taxa and references added along with the research.
 > - Ivanov, 2005
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen)
-> Eifelian to Givetain, XXX (maximum age), YYY (minimum age)
+> Eifelian to Givetain, 393.3, 382.7
 
 > - [horizon and locality]
 > - Miles and Westoll, 1968
@@ -289,13 +288,13 @@ New taxa and references added along with the research.
 > - Forey, 1998
 
 [*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen)
-> Visean, XXX (maximum age), YYY (minimum age)
+> Visean, 346.7, 330.9
 
 > - [horizon and locality]
 > - Dick, 1981
 
 [*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen)
-> Eifelian to Givetian, XXX (maximum age), YYY (minimum age)
+> Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
 > - Ahlberg and Trewin, 1995; White, 1965
@@ -359,9 +358,9 @@ New taxa and references added along with the research.
 > - Janvier et al., 2004
 
 [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen)
-> lower Lochkovian, XXX (maximum age), YYY (minimum age)
+> lower Lochkovian, 419.2, 415.0
 
-> - [horizon and locality]
+> - Xishancun Fm; Qujing, YUnnan, China.
 > - Liu, 1965; Zhu and Gai, 2007
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen)
@@ -419,7 +418,7 @@ New taxa and references added along with the research.
 > - Hanke and Davis, 2008
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian to lower Givetian, XXX (maximum age), YYY (minimum age)
+> upper Eifelian to lower Givetian, 389.6, YYY (minimum age)
 
 > - [horizon and locality]
 > - Ahlberg, 1989; Jarvik, 1972
@@ -461,7 +460,7 @@ New taxa and references added along with the research.
 > - Burrow et al., 2012
 
 [*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen)
-> Gzhelian, XXX (maximum age), YYY (minimum age)
+> Gzhelian, 303.7, 298.9
 
 > - [horizon and locality]
 > - Maisey, 1989
@@ -479,7 +478,7 @@ New taxa and references added along with the research.
 > - Moy-Thomas, 1936
 
 [*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen)
-> Ludlow, XXX (maximum age), YYY (minimum age)
+> Ludlow, 427.4, 423.0
 
 > - [horizon and locality]
 > - Stensiö, 1932
@@ -515,7 +514,7 @@ New taxa and references added along with the research.
 > - Dennis and Miles, 1981; Giles et al., 2013
 
 [*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen)
-> Moscovian to Kasimovian, XXX (maximum age), YYY (minimum age)
+> Moscovian to Kasimovian, 315.2, 303.7
 
 > - [horizon and locality]
 > - Zangerl and Case, 1973
@@ -553,7 +552,7 @@ New taxa and references added along with the research.
 > - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
 
 [*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen)
-> Gzhelian, XXX (maximum age), YYY (minimum age)
+> Gzhelian, 303.7, 298.9
 
 > - [horizon and locality]
 > - Pradel et al., 2011
@@ -565,7 +564,7 @@ New taxa and references added along with the research.
 > - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
 
 [*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen)
-> upper Tournaisian or lower Visean, XXX (maximum age), YYY (minimum age)
+> upper Tournaisian or lower Visean, 350.8, 341.4
 
 > - [horizon and locality]
 > - Giles and Friedman, 2014; Rayner, 1951
@@ -583,7 +582,7 @@ New taxa and references added along with the research.
 > - Bystrow, 1956
 
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)
-> upper Lochkovian, XXX (maximum age), YYY (minimum age)
+> upper Lochkovian, 415.0, 410.8
 
 > - [horizon and locality]
 > - Denison, 1978; Gross, 1959
@@ -681,7 +680,7 @@ New taxa and references added along with the research.
 > - Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
-> lower Lochkovian, XXX (maximum age), YYY (minimum age)
+> lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm; Qujing, Yunnan, China.
 > - Zhu and Janvier, 1996
@@ -701,7 +700,7 @@ New taxa and references added along with the research.
 > - Gardiner, 1984
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen)
-> lower Eifelian, XXX (maximum age), YYY (minimum age)
+> lower Eifelian, 393.3, 391.4
 
 > - [horizon and locality]
 > - Janvier and Clément, 2005; Ritchie, 2004
@@ -743,7 +742,7 @@ New taxa and references added along with the research.
 > - Andrews et al., 2005
 
 [*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen)
-> middle Visean, XXX (maximum age), YYY (minimum age)
+> middle Visean, 341.4, 336.2
 
 > - [horizon and locality]
 > - Coates and Gess, 2007; Dick and Maisey, 1980
@@ -827,7 +826,7 @@ New taxa and references added along with the research.
 > - Burrow et al., 2013; Miles, 1973a; Watson, 1937
 
 [*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen)
-> lower Lochkovian, XXX (maximum age), YYY (minimum age)
+> lower Lochkovian, 419.2, 415.0
 
 > - [horizon and locality]
 > - Valiukevicius, 1992
@@ -839,7 +838,7 @@ New taxa and references added along with the research.
 > - Clément, 2004; Jarvik, 1972
 
 [*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Pragian, XXX (maximum age), YYY (minimum age)
+> upper Lochkovian to Pragian, 415.0, 407.6
 
 > - [horizon and locality]
 > - Jessen, 1980
@@ -851,7 +850,7 @@ New taxa and references added along with the research.
 > - Hanke, 2008
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian, XXX (maximum age), YYY (minimum age)
+> upper Eifelian, 389.6, 387.7
 
 > - [horizon and locality]
 > - Hemmings, 1978
@@ -869,7 +868,7 @@ New taxa and references added along with the research.
 > - Lu et al., 2017
 
 [*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen)
-> upper Eifelian to Givetian, XXX (maximum age), YYY (minimum age)
+> upper Eifelian to Givetian, 389.6, YYY (minimum age)
 
 > - [horizon and locality]
 > - Maisey and Anderson, 2001
