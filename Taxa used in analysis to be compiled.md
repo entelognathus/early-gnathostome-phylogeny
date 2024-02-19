@@ -316,7 +316,7 @@ New taxa and references added along with the research.
 > Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
 
 [*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen)
-> Kungurian, XXX (maximum age), YYY (minimum age)
+> Kungurian, 283.5, 273.0
 
 > - [horizon and locality]
 > - Coates et al., 2017
