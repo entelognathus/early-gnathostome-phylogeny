@@ -82,13 +82,13 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Gogo Fm; Western Australia, Australia
 > - Long, 1997
 
-[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen)
+[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
 
 > - Si Ka Fm; Bac Thai Province, northern Vietnam
-> - Janvier et al., 1993
+> - Janvier *et al*., 1993
 > - The age of the Si Ka Fm is revised as the Pragian (Gai *et al*., 2022).
-
+> - Cross-checked in deepbone.
 
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
