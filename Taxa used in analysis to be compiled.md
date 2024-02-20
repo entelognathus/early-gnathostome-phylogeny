@@ -90,11 +90,12 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - The age of the Si Ka Fm is revised as the Pragian (Gai *et al*., 2022).
 > - Cross-checked in deepbone.
 
-[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensio, 1927
+[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Janvier, 1985; Ørvig, 1957
+> - **In deepbone, errors exist with the specimen information, site position. check all 'svd' specimens in deepbone, wrong plate number, horizon (Lochkovian instead of Famennian), map.**
 
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen)
 > Pragian, 410.8, 407.6
