@@ -76,11 +76,12 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - **No data in deepbone**
 
-[*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen)
+[*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
-> - Long, 1997
+> - Miles and Young, 1977; Long, 1997
+> - **in deepbone map, one point (below) is incorrect.**
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
@@ -88,7 +89,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Si Ka Fm; Bac Thai Province, northern Vietnam
 > - Janvier *et al*., 1993
 > - The age of the Si Ka Fm is revised as the Pragian (Gai *et al*., 2022).
-> - Cross-checked in deepbone.
+> - **Cross-checked in deepbone.**
 
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
 > Lochkovian, 419.2, 410.8
