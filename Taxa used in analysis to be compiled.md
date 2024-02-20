@@ -18,8 +18,6 @@ New taxa and references added along with the research.
 > - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas 
 were lower Ludlovian in age and the evidence from this study supports this view."
 
-> - **This age is different from deepbone, Pridoli in deepbone** To be corrected in deepbone.
-
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
 
