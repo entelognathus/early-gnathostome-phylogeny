@@ -227,8 +227,9 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
 > upper Givetian, 384.4, 382.7
 
-> - Merriganowry Shale Mb; near Cowra, New South Wales, Australia.
+> - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
 > - Ritchie, 2005; Carr *et al*., 2009
+> - **In deepbone map, there are three points for this species. Only one is correct. The point near Canberra is obviously wrong. I cannot judge which one of the above two points is correct as the map is in Chinese. Cross-check the data in deepbone and revise those incorrect.**
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
