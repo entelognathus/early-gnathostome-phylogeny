@@ -2,7 +2,7 @@
 
 New taxa and references added along with the research.
 
-[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen)
+[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1833
 > Asselian to Sakmarian, 298.9, 290.1
 
 > - [horizon and locality]
@@ -10,7 +10,7 @@ New taxa and references added along with the research.
 
 > - **No data in deepbone**
 
-[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer
+[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
 
 > - Sundvollen Fm; Rudstangen, Ringerike, S. Norway.
@@ -18,15 +18,16 @@ New taxa and references added along with the research.
 > - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas 
 were lower Ludlovian in age and the evidence from this study supports this view."
 
-[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen)
+[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2004
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
+> - **In deepbone, there are four specimens and three points on the map. Two specimens are repetitive. 0ne age (lower jaw) is incorrect. Xiaoyue, correct them.**
 
-[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen)
+[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen) (Bassani, 1886)
 > Anisian to Ladinian, 247.2, 237.0
 
 > - Besano Fm, Grenzbitumenzone; Monte San Giorgio, Switzerland.
@@ -34,25 +35,25 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - **No data in deepbone**
 
-[*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen)
+[*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen) Coates and Sequeira, 2001
 > Serpukhovian, 330.9, 323.2
 
 > - Manse Burn Fm; Bearsden, Scotland.
 > - Coates and Sequeira, 1998; 2001; Coates et al., 1998; Sallan and Coates, 2010
 
-[*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen)
+[*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
 
 > - Gotland, Sweden.
-> - Chen et al., 2016a
+> - Gross, 1968; Chen et al., 2016a
 
-[*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen)
+[*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
 > Pridoli to Lochkovian, 423.0, 410.8
 
 > - Welsh Borders, UK, and the Artois-Ardenne regions of France and Belgium.
 > - Randle and Sansom, 2016
 
-[*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen)
+[*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
 > Pragian to lower Emsian, 410.8, 400.45
 
 > - Al Huj section, Al Qalibah area, Saudi Arabia.
@@ -60,13 +61,13 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Emsian is subdivided into lower and upper Emsian.
 
-[*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen)
+[*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
 > - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
 
-*Ateleaspis tessellata*
+*Ateleaspis tessellata* Traquair 1900
 > upper Wenlock to middle Ludlow, 430.5, 425.6
 
 > - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
@@ -96,7 +97,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Janvier, 1985; Ørvig, 1957
 > - **In deepbone, errors exist with the specimen information, site position. check all 'svd' specimens in deepbone, wrong plate number, horizon (Lochkovian instead of Famennian), map.**
 
-[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen)
+[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
@@ -108,60 +109,60 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - wide distribution.
 > - Long and Trinajstic, 2010
 
-[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen)
+[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Watson, 1937
 
-[*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen)
+[*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > lower Emsian to lower Eifelian, 407.6, 391.4
 
 > - [horizon and locality]
 > - Young, 1980
 
-[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen)
+[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen) Bernascek and Dineley, 1977
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Wilson, 2006
 
-[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen)
+[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Burrow and Turner, 1998; Long et al., 2014
 
-[*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen)
+[*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Long, 1997
 
-[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen)
+[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier and Wilson, 1996
 
-[*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen)
+[*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Stensiö, 1932; White, 1958
 
-[*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen)
+[*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
 > - [horizon and locality]
 > - Giles et al., 2015a; Pearson and Westoll, 1979
 
-[*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen)
+[*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Fm; Quebec, Canada.
 > - Arratia and Cloutier, 1996; Pearson and Westoll, 1979
 
-[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen)
+[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen) 
 > Eifelian to Givetian, 393.3, 382.7
 
 > - Orcadian Basin, Scotland
@@ -174,13 +175,13 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - [horizon and locality]
 > - Didier, 1995
 
-[*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen)
+[*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen) (Traquair, 1888)
 > Visean, 346.7, 330.9
 
 > - [horizon and locality]
 > - Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935
 
-[*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen)
+[*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > lower Pragian, 410.8, 409.2
 
 > - [horizon and locality]
