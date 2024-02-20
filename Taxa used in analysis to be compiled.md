@@ -83,10 +83,12 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Long, 1997
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen)
-> upper Lochkovian to lower Pragian, 415.0, 409.2
+> Pragian, 410.8, 407.6
 
-> - [horizon and locality]
+> - Si Ka Fm; Bac Thai Province, northern Vietnam
 > - Janvier et al., 1993
+> - The age of the Si Ka Fm is revised as the Pragian (Gai *et al*., 2022).
+
 
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
