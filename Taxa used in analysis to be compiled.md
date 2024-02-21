@@ -184,7 +184,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > lower Pragian, 410.8, 409.2
 
-> - [horizon and locality]
+> - Bac Bun Fm.; Lang Son , Bac Thai, Vietnam
 > - Tông-Dzuy and Janvier, 1990
 
 > - Pragian is subdivided into lower and upper Pragian.
@@ -794,8 +794,8 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Zhang et al., 2001; Zhu et al., 2012
+> - Xitun Fm, Qujing, Yunnan, China.
+> - Zhang et al., 2001; Zhu et al., 2012; Wang et al. 2020
 
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
@@ -977,7 +977,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
-> - [horizon and locality]
+> - Leigutai Fm.; Nanjing, Jiangsu, China
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen)
@@ -1127,7 +1127,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Chang, 1982; 1991; Chang and Yu, 1981
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+> Lochkovian, 419.2, 410.8 
 
 > - [horizon and locality]
 > - Zhang, 1980; Zhu, 1996
