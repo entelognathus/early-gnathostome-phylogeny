@@ -25,7 +25,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Zhu and Yu, 2004; 2009; Zhu et al., 2001
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
-> - **In deepbone, there are four specimens and three points on the map. Two specimens are repetitive. 0ne age (lower jaw) is incorrect. Xiaoyue, correct them.**
+> - **There is something wrong with the deepbone connection, I will try again tomorrow to link the modified specimen to *Achoania jarviki***
 
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen) (Bassani, 1886)
 > Anisian to Ladinian, 247.2, 237.0
