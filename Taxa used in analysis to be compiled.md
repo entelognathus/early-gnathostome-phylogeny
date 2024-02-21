@@ -93,7 +93,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Ben Nevis-Spitzburg
 > - Janvier, 1985; Ørvig, 1957
 > - **In deepbone, errors exist with the specimen information, site position. check all 'svd' specimens in deepbone, wrong plate number, horizon (Lochkovian instead of Famennian), map.**
 
@@ -112,13 +112,14 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Lower Old Red Sandstone, Farnell
 > - Watson, 1937
+> - **This age is different from deepbone**
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > lower Emsian to lower Eifelian, 407.6, 391.4
 
-> - [horizon and locality]
+> - New South Wales, Australia
 > - Young, 1980
 
 [*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen) Bernascek and Dineley, 1977
@@ -130,7 +131,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
+> - Buchan,Victoria and New South Wales
 > - Burrow and Turner, 1998; Long et al., 2014
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
