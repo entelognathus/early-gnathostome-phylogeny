@@ -231,7 +231,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
 > - Ritchie, 2005; Carr *et al*., 2009
-> - **In deepbone map, there are three points for this species. Only one is correct. The point near Canberra is obviously wrong. I cannot judge which one of the above two points is correct as the map is in Chinese. Cross-check the data in deepbone and revise those incorrect.**
+> - **In deepbone map, there are three points for this species. Only one is correct. The point near Canberra is obviously wrong. I cannot judge which one of the above two points is correct as the map is in Chinese. Cross-check the data in deepbone and revise those incorrect.**  Already revised in deepbone. 
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
@@ -278,7 +278,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Wood Bay Fm.; Gronhorgdalen, Spitsberge
 > - Goujet, 1975; Goujet, 1984
 
 *Diplacanthus crassisimus* Duff, 1842
@@ -442,7 +442,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
 
-> - [horizon and locality]
+> - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
 > - Ritchie, 1975; Young, 1989
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen)
@@ -600,7 +600,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian to lower Pragian, 415.0, 409.2
 
-> - [horizon and locality]
+> - Dnister Series; Podolia, Ukraine
 > - Dupret, 2010
 
 [*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen)
@@ -712,7 +712,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen)
 > lower Eifelian, 393.3, 391.4
 
-> - [horizon and locality]
+> - Merrimerriwa Fm.; Cobar, Wilcannia, Australia
 > - Janvier and Clément, 2005; Ritchie, 2004
 
 [*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen)
@@ -972,7 +972,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen)
 > lower Pragian, 410.8, 409.2
 
-> - [horizon and locality]
+> - Sigurdfjellet Fm.; Svalbard, Spitsbergen
 > - Goujet, 1973
 
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen)
@@ -1112,7 +1112,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen)
 > Emsian to Eifelian, 407.6, 387.7
 
-> - [horizon and locality]
+> - Mulga Downs Group; Wilcannia, Australia
 > - Ritchie, 1973
 
 [*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen)
