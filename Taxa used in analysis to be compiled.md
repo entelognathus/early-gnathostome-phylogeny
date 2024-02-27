@@ -26,6 +26,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
 > - **In deepbone, there are four specimens and three points on the map. Two specimens are repetitive. 0ne age (lower jaw) is incorrect. Xiaoyue, correct them.**
+> - **The specimens of lower jaw and gridle shoulder are linked to *Achoania*, not to *Achoania jarviki***
 
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen) (Bassani, 1886)
 > Anisian to Ladinian, 247.2, 237.0
@@ -242,14 +243,15 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian, 330.9, 323.2
 
-> - [horizon and locality]
+> -  Bear Gulch Limestone of Montana
 > - Lund, 1986; Lund and Grogan, 1997
 
 [*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen)
-> Gorstian, 427.4, 425.6
+> Gorstian to Pridoli, 427.4, 419.2
 
-> - [horizon and locality]
-> - Gross, 1968; Märss et al., 2015
+> - Paadla formation, Saaremaa, Estonia
+> - Gross, 1968; Märss et al., 2015; Afanassieva, 1995; Bremer et al., 2021
+> -LXY **In deepbone, GIT's specimen age is Homerian, but I can't find evidence in the references.**
 
 [*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen)
 > Bashkirian, 323.2, 315.2
