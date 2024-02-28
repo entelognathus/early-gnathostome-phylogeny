@@ -218,7 +218,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetain, 393.3, 382.7
 
-> - [horizon and locality]
+> - Caithness Flagstone Group, Scotland
 > - Miles and Westoll, 1968
 
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen)
@@ -347,7 +347,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.4, 382.7
 
-> - [horizon and locality]
+> - Bird Fiord Fm.; Arctic
 > - Castiello, 2018
 
 [*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen)
@@ -359,7 +359,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen)
 > upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]
+> - Bad Wildungen, Germany
 > - Ørvig, 1957; Sallan and Coates, 2010
 
 [*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
@@ -449,7 +449,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen)
 > lower to middle Givetian, 387.7, 384.4
 
-> - [horizon and locality]
+> - Tiaomajian Fm.; Bobai, Guangxi, China
 > - Ji and Pan, 1997
 
 [*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen)
@@ -497,7 +497,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm.; Gogo, Australia
 > - Bechard et al., 2014
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
@@ -631,7 +631,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen)
 > upper Pragian to lower Emsian, 409.2, 400.45
 
-> - [horizon and locality]
+> - Hunsrückschiefer Rheinische Schidcrgcbirge, Germany
 > - Gross, 1961
 
 [*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen)
@@ -737,7 +737,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
 
-> - [horizon and locality]
+> - New South Wales, Australia
 > - Woodward, 1941; Young, 2004
 
 [*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen)
@@ -788,9 +788,9 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Xujiachong Fm; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
 
-[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)
+[*Parabuchanosteus murrumbidgeensis*]([https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen))
 > Pragian to Emsian, 410.8, 393.3
-> - [horizon and locality]
+> - Murrumbidgee Group; Burrinjuck Dam
 > - White and Toombs, 1972; Young, 1979
 
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen)
@@ -899,7 +899,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
 
-> - [horizon and locality]
+> - Haikou Fm.; Kunming, Yunnan, China.
 > - Liu, 1991
 
 [*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen)
