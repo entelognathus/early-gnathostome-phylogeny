@@ -149,13 +149,14 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Glammis, Forfarshire and Lower Old Red Sandstone,Glamis,Angus,Scotland
 > - Stensiö, 1932; White, 1958
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
-> - [horizon and locality]
+> - Tynet Burn, Scotland
 > - Giles et al., 2015a; Pearson and Westoll, 1979
+> - **Eifelian or Givetian?**
 
 [*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
