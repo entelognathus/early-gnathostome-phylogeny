@@ -161,6 +161,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
 > - Giles et al., 2015a: "This material originates from the Tynet Burn and Gamrie localities of the lacustrine Achanarras Limestone, Scotland, which has been dated as late Eifelian (390.4–
 388.1 Ma; Gradstein et al. 2012) based on the presence of spores of *Dinsosporites devonicus* (Richardson and McGregor 1986)."
+> - **The age in deepbone should be revised from Givetian to late Eifelian following Giles et al. (2015).** Block ID should be 303, not 302 (Baltica).
 
 [*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
