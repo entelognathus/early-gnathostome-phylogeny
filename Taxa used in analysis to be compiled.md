@@ -791,7 +791,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xujiachong Fm; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
 
-[*Parabuchanosteus murrumbidgeensis*]([https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen))
+[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
 > - Murrumbidgee Group; Burrinjuck Dam
 > - White and Toombs, 1972; Young, 1979
