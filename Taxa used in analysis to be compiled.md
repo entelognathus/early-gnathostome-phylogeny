@@ -1078,7 +1078,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Davis, 2008; Newman *et al*., 2012
 
 > *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
