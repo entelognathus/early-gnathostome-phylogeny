@@ -157,9 +157,10 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
-> - Tynet Burn, Scotland
-> - Giles et al., 2015a; Pearson and Westoll, 1979
-> - **Eifelian or Givetian?**
+> - Tynet Burn and Gamrie, Scotland
+> - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); Pearson and Westoll, 1979
+> - Giles et al., 2015a: "This material originates from the Tynet Burn and Gamrie localities of the lacustrine Achanarras Limestone, Scotland, which has been dated as late Eifelian (390.4–
+388.1 Ma; Gradstein et al. 2012) based on the presence of spores of *Dinsosporites devonicus* (Richardson and McGregor 1986)."
 
 [*Cheirolepis canadensis*](https://deepbone.org/public/#/explor?s_id=2054&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
