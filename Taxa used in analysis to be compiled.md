@@ -313,10 +313,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Ahlberg and Trewin, 1995; White, 1965
 
-[*Dobunnacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=3641&functionId=Deepbone_header_searchResultOpen)
+[*Dobunnacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=3641&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Wayne Herbert Quarry, Herefordshire, UK.
 > - Dearden *et al*., 2021; Miles, 1973a
 
 > - Dearden *et al*. (2021) assigned [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen) to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
@@ -1089,11 +1089,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Denison, 1968
 
-[*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen)
+[*Vernicomacanthus uncinatus*](https://deepbone.org/public/#/explor?s_id=3640&functionId=Deepbone_header_searchResultOpen) (Powrie, 1864)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Miles, 1973a
+> - Tillywhandland (‘Turin Hill’) and Canterland Den (NHMUK PV P 6967, a pectoral fin spine) near Forfar, and Balruddery Den, near Dundee, all in Angus, UK. Lower Old Red Sandstone, Dundee Flagstone Fm, Arbuthnott–Garvock Gr. 
+> - Miles, 1973a;
+> - **This taxon needs to be coded.**
 
 [*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
