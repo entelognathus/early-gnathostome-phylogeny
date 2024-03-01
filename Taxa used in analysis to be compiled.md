@@ -8,8 +8,6 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Brazeau and Valerie, 2015; Coates, 1994; Davis et al., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937
 
-> - **No data in deepbone**
-
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
 
@@ -35,8 +33,6 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Besano Fm, Grenzbitumenzone; Monte San Giorgio, Switzerland.
 > - Maisey, 2011
-
-> - **No data in deepbone**
 
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen) Coates and Sequeira, 2001
 > Serpukhovian, 330.9, 323.2
@@ -661,7 +657,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xitun Fm, Qujing, Yunnan, China
 > - Zhu et al., 2006; 2010
 
-*Megamastax amblyodus*
+[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen)
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
@@ -699,7 +695,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xishancun Fm; Qujing, Yunnan, China.
 > - Zhu and Janvier, 1996
 
-*Minjinia turgenensis*
+[*Minjinia turgenensis*](https://deepbone.org/public/#/explor?s_id=74213&functionId=Deepbone_header_searchResultOpen)
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
@@ -779,7 +775,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Pradel et al., 2014
 
-*Palaeospondylus gunni* Traquair, 1890
+[*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen)  Traquair, 1890
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
@@ -1075,7 +1071,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Newman et al., 2012
 
-*Uraniacanthus probaton*
+[*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
@@ -1108,7 +1104,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Zhao et al., 2002
 
-*Wijdeaspis warrooensis*
+[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
