@@ -287,7 +287,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Wood Bay Fm.; Gronhorgdalen, Spitsberge
 > - Goujet, 1975; Goujet, 1984
 
-*Diplacanthus crassisimus* Duff, 1842
+[*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
 > Eifelian to Givetian, 393.3, 382.7
 
 > - Orcadian Basin, Scotland
