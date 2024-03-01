@@ -76,8 +76,6 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
 > - Ritchie, 1967
 
-> - **No data in deepbone**
-
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
 
