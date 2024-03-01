@@ -313,13 +313,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Ahlberg and Trewin, 1995; White, 1965
 
-*Dobunnacanthus waynensis*
+[*Dobunnacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=3641&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Dearden *et al*., 2021; Miles, 1973a
 
-> - Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
+> - Dearden *et al*. (2021) assigned [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen) to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
 [*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen) (Whiteaves, 1881)
 > lower Emsian, 407.6, 400.45
