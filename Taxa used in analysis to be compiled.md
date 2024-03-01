@@ -325,7 +325,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen)
 > lower Emsian, 407.6, 400.45
 
-> - Atholville beds, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
+> - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
 > - [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001)
 
 > Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
