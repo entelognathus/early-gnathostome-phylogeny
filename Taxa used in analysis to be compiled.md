@@ -234,7 +234,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > upper Givetian, 384.4, 382.7
 
 > - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
-> - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); Carr *et al*., 2009
+> - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); [Carr *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10719)
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
