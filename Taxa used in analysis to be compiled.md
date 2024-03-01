@@ -325,7 +325,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen)
 > lower Emsian, 407.6, 400.45
 
-> - [horizon and locality]
+> - New Brunswick,  Canada.
 > - Burrow *et al*., 2023a; Maisey *et al*., 2009; Miller *et al*., 2003
 
 > Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
