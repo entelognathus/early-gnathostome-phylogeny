@@ -326,7 +326,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > lower Emsian, 407.6, 400.45
 
 > - New Brunswick,  Canada.
-> - Burrow *et al*., 2023a; Maisey *et al*., 2009; Miller *et al*., 2003
+> - Burrow *et al*., 2023a; Maisey *et al*., 2009; [Miller *et al*., 2003](https://www.nature.com/articles/nature02001)
 
 > Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
 
