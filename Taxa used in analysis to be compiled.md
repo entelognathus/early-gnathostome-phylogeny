@@ -115,9 +115,10 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
 
-> - Lower Old Red Sandstone, Farnell
-> - Watson, 1937
-> - **This age is different from deepbone**
+> - Lower Old Red Sandstone, Farnell and Tealing, Midland Valley, Scotland.
+> - Watson, 1937; [Newman and Davidson, 2010](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Early+Devonian+fish+from+the+Midland+Valley+of+Scotland&btnG=)
+> - Newman and Davidson (2010): "*Brachyacanthus scutiger* is one of the smallest acanthodian species in the Midland Valley. It was first found at Farnell such as the specimen in Figure 15A (NMS
+G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B (NMS G.1891.92.214)."
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > lower Emsian to lower Eifelian, 407.6, 391.4
