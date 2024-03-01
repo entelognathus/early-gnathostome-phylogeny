@@ -18,11 +18,11 @@ New taxa and references added along with the research.
 > - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas 
 were lower Ludlovian in age and the evidence from this study supports this view."
 
-[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2004
+[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
-> - Zhu and Yu, 2004; 2009; Zhu et al., 2001
+> - Zhu and Yu, 2004; 2009; [Zhu *et al*., 2001](https://www.nature.com/articles/35065078)
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
 
@@ -322,7 +322,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
-[*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen)
+[*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen) (Whiteaves, 1881)
 > lower Emsian, 407.6, 400.45
 
 > - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
