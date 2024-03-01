@@ -322,7 +322,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 
 > - Dearden *et al*. (2021) assigned *Vernicomacanthus waynensis* to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
-*Doliodus latispinosus*
+[*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2012&functionId=Deepbone_header_searchResultOpen)
 > lower Emsian, 407.6, 400.45
 
 > - [horizon and locality]
