@@ -1109,7 +1109,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Zhao et al., 2002
 
-*Wijdeaspis warrooensis*
+[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
