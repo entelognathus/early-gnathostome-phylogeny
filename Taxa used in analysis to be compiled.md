@@ -1075,7 +1075,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Newman et al., 2012
 
-*Uraniacanthus probaton*
+[*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
