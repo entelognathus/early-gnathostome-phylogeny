@@ -702,6 +702,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Brazeau et al., 2020
 
 > - Preserving partial skull-roof and braincase (anterior portion missing).
+> - **to Zhaohui, the point in the deepbone map is wrong. Correct it.**
 
 [*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
