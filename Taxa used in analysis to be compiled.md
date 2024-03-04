@@ -628,11 +628,14 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968
 
-[*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen)
-> Gorstian, 427.4, 425.6
+[*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen) Pander, 1856
+> upper Pridoli, 421.1, 419.2
 
-> - [horizon and locality]
-> - Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004
+> -  Ohesaare cliff, Saaremaa (German: Ösel), Estonia.
+> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004
+> -  Type locality: *Ozarkodina remscheidensis remscheidensis* Conodont Subzone (Viira and Männik 1997), Ohesaare Regional Stage, upper Pridoli, Upper Silurian.
+> -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
+
 
 [*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen)
 > upper Pragian to lower Emsian, 409.2, 400.45
