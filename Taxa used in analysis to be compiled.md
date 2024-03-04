@@ -115,10 +115,10 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B (NMS G.1891.92.214)."
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
-> lower Emsian to lower Eifelian, 407.6, 391.4
+> Emsian, 407.6, 393.3
 
 > - New South Wales, Australia
-> - Young, 1980
+> - Young, 1980; [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
 
 [*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen) Bernascek and Dineley, 1977
 > Lochkovian, 419.2, 410.8
