@@ -104,7 +104,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > upper Emsian to Famennian, 400.45, 358.9
 
 > - wide distribution.
-> - Long and Trinajstic, 2010
+> - Long and Trinajstic, 2010; Béchard et al., 2014
 
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
@@ -495,11 +495,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Stensiö, 1932
 
-[*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen)
+[*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm.; Gogo, Australia
-> - Bechard et al., 2014
+> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
