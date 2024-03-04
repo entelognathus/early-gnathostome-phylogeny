@@ -551,8 +551,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen)
 > middle Lochkovian, 416.4, 413.6
 
-> - [horizon and locality]
-> - Giles et al., 2015c
+> - Lower member, Kureika Fm, Sida River, Kotui Basin, Siberia, Russia
+> - [Giles et al., 2015c](https://www.nature.com/articles/nature14065)
 
 > - Here Lochkovian is subdivided into lower, middle and upper Lochkovian. In the rest, it is subdivided into lower and upper Lochkovian.
 
@@ -671,7 +671,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
-> - Choo et al. (2014); this study.
+> - [Choo et al., 2014](https://www.nature.com/articles/srep05242); this study.
 
 [*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
@@ -697,7 +697,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
-> - Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014
+> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); Gardiner and Bartram, 1977; [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
 > lower Lochkovian, 419.2, 415.0
@@ -718,7 +718,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
-> - Gardiner, 1984
+> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365)
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen)
 > lower Eifelian, 393.3, 391.4
