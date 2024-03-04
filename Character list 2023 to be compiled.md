@@ -50,7 +50,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
-> Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Andreev *et al*. (2022), Character 4;Brazeau *et al*. (2023), Character 4.
+> Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Andreev *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 4.
 
 > - Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
 
@@ -2415,7 +2415,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 276. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 
-> Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Brazeau *et al*. (2023), Character 78.
+> Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Andreev *et al*. (2022), Character 113; Brazeau *et al*. (2023), Character 78.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -2423,7 +2423,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 277. Ascending process of parasphenoid: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Brazeau *et al*. (2023), Character 136.
+> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Andreev *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 136.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -2441,7 +2441,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 279. Parasphenoid denticulated field with multifid anterior margin: (0) absent; (1) present.
 
-> Friedman (2007, Character 167), Zhu *et al*. (2009, Character 69), and references therein; Zhu *et al*. (2013), Character 241; Giles *et al*. (2015), Character 112; Choo *et al*. (2017), Character 156; King *et al*. (2017), Character 134; Castiello (2018), Character 133; Zhu Y. *et al*. (2022), Character 283; Brazeau *et al*. (2023), Character 138.
+> Friedman (2007, Character 167), Zhu *et al*. (2009, Character 69), and references therein; Zhu *et al*. (2013), Character 241; Giles *et al*. (2015), Character 112; Choo *et al*. (2017), Character 156; King *et al*. (2017), Character 134; Castiello (2018), Character 133; Zhu Y. *et al*. (2022), Character 283; Andreev *et al*. (2022), Character 111; Brazeau *et al*. (2023), Character 138.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -3225,7 +3225,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 372. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 
-> Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376; Brazeau *et al*. (2023), Character 23.
+> Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376; Andreev *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 23.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
@@ -3241,7 +3241,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 374. Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit: (0) absent; (1) present.
 
-> Clement *et al*. (2018), Character 281; Zhu Y. *et al*. (2022), Character 378.
+> Clement *et al*. (2018), Character 281; Zhu Y. *et al*. (2022), Character 378; Andreev *et al*. (2022), Character 115 (states are reversed).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
