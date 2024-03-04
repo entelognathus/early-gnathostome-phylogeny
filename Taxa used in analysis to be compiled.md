@@ -191,11 +191,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Pragian is subdivided into lower and upper Pragian.
 
-[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen)
+[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen) (Jaekel, 1921)
 > upper Frasnian, 375.7, 372.2
 
 > - Wildungen Limestone, Wildungen, Germany
 > - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
+> - [Otto Jaekel](https://en.wikipedia.org/wiki/Otto_Jaekel) accepted a professor position at Sun Yat-sen University in Guangzhou in 1928. He died after a short and unexpected illness on March 6, 1929 in the German Hospital in Beijing.
 
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 363.3, 358.9
