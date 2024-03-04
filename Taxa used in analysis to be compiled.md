@@ -501,9 +501,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm.; Canning Basin，Carnarvon Basin，Gogo, Australia
-> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, K.,,1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
-
+> - Gogo Fm, Gogo, Canning Basin; Gneudna Fm, Carnarvon Basin，Western Australia.
+> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
+> - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
