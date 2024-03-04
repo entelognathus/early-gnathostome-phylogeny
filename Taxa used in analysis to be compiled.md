@@ -191,7 +191,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Pragian is subdivided into lower and upper Pragian.
 
-[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen) (Jaekel, 1921)
+[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921
 > upper Frasnian, 375.7, 372.2
 
 > - Wildungen Limestone, Wildungen, Germany
@@ -953,11 +953,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Long, 1997; Miles, 1967
 
-[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen)
+[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
-> - Dupret et al., 2014; Ørvig, 1975
+> - Dupret et al., 2014; [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
