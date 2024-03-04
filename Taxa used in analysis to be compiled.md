@@ -220,11 +220,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Caithness Flagstone Group, Scotland
 > - Miles and Westoll, 1968
 
-[*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen)
+[*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
-> - Gardiner and Miles, 1994
+> - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article/112/4/443/2646294)
+> - **one point in the deepbone map (Perth) is wrong. To be corrected.**
 
 [*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
 > upper Givetian, 384.4, 382.7
