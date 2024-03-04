@@ -658,7 +658,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
 > - Long et al., 2008; Trinajstic et al., 2012
 
 [*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen)
