@@ -833,16 +833,16 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Denison, 1951
 
-[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen) Yu, 1998
+> Ludlow to Lochkovian, 427.4, 410.8
 
-> - [horizon and locality]
-> - Yu, 1998; Zhu and Yu, 2004; 2009; Zhu et al., 1999
+> - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
+> - [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055);[Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784); [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam)
 
 [*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - [horizon and locality] 
 > - Burrow et al., 2013; Miles, 1973a; Watson, 1937
 
 [*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen)
