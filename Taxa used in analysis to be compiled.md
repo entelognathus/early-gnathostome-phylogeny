@@ -219,7 +219,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Eifelian to Givetain, 393.3, 382.7
 
 > - Caithness Flagstone Group, Scotland
-> - Miles and Westoll, 1968
+> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078)
 
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
 > lower Frasnian, 382.7, 379.2
@@ -269,7 +269,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm, Qujing, Yunnan, China
-> - Zhu, 1991
+> - [Zhu, 1991]
 
 [*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
@@ -336,10 +336,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia.
+> - Gogo Fm; Canning Basin, Australia.
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
-> - **The points in the deepbone map are all wrong, not in NSW, but in western Australia**
+
 
 [*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen)
 > Aptian, 121.4, 113.0
@@ -501,9 +501,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm.; Gogo, Australia
-> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)
-> - **five points in the deepbone map, only one is correct. The rest to be corrected.**
+> - Gogo Fm.; Canning Basin，Carnarvon Basin，Gogo, Australia
+> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, K.,,1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
+
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
@@ -527,7 +527,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
-> - Dennis and Miles, 1981; Giles et al., 2013
+> - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen)
 > Moscovian to Kasimovian, 315.2, 303.7
@@ -815,7 +815,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Emsian, 400.45, 393.3
 
 > - Chuandong Fm; Qujing, Yunnan, China.
-> - Pan *et al*., 2015
+> - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
