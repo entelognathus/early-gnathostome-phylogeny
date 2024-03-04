@@ -136,7 +136,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
-> - Long, 1997
+> -  Miles and Young, 1977; Long, 1997
+> -  **two points in the deepbone map are wrong. To be corrected.**
 
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
