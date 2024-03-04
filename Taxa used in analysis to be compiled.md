@@ -337,6 +337,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Fm; Western Australia, Australia.
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
+> - **The points in the deepbone map are all wrong, not in NSW, but in western Australia**
 
 [*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen)
 > Aptian, 121.4, 113.0
