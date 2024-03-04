@@ -331,11 +331,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Coates et al., 2017
 
-[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen)
+[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
-> - Dennis-Bryan, 1987
+> - Gogo Fm; Western Australia, Australia.
+> - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
+> - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
 [*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen)
 > Aptian, 121.4, 113.0
