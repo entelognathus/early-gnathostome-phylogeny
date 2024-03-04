@@ -192,10 +192,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Pragian is subdivided into lower and upper Pragian.
 
 [*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen)
-> upper Famennian, 363.3, 358.9
+> upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]
-> - Maisey, 2005
+> - Wildungen Limestone, Wildungen, Germany
+> - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
 
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 363.3, 358.9
