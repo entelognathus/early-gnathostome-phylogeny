@@ -500,6 +500,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Gogo Fm.; Gogo, Australia
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)
+> - **five points in the deepbone map, only one is correct. The rest to be corrected.**
 
 [*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
