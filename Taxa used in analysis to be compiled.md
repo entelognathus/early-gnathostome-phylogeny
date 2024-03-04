@@ -696,7 +696,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
 > - Gardiner, 1984; Gardiner and Bartram, 1977; Giles and Friedman, 2014
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
@@ -717,7 +717,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
 > - Gardiner, 1984
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen)
