@@ -461,7 +461,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
-> - Qiao and Zhu, 2010; Zhu et al., 2009
+> - [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Zhu et al., 2009](https://www.nature.com/articles/nature07855)
 
 [*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=4645&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
@@ -665,7 +665,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
-> - Zhu et al., 2006; 2010
+> - [Zhu et al., 2006](https://www.nature.com/articles/nature04563); [2010](https://www.researchgate.net/profile/Min-Zhu-36/publication/225038586_Meemannia_eos_a_basal_sarcopterygian_fish_from_the_Lower_Devonian_of_China_-expanded_description_and_significance/links/02e7e51a2e85ae0402000000/Meemannia-eos-a-basal-sarcopterygian-fish-from-the-Lower-Devonian-of-China-expanded-description-and-significance.pdf); [Lu et al., 2016](https://www.cell.com/current-biology/pdf/S0960-9822(16)30398-0.pdf)
 
 [*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen)
 > Ludfordian, 425.6, 423.0
