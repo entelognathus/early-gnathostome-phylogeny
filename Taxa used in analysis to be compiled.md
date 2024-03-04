@@ -437,11 +437,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Ahlberg, 1989; Jarvik, 1972
 
-[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen)
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
+> - **The point in the deepbone map is wrong. To be corrected. Not in Victoria.**
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
