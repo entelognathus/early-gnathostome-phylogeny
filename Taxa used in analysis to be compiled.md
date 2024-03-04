@@ -632,7 +632,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Pridoli, 421.1, 419.2
 
 > -  Ohesaare cliff, Saaremaa (German: Ösel), Estonia.
-> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); Burrow and Simpson, 1995; Pickett et al., 2000; Schultze and Märss, 2004
+> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); Burrow and Simpson, 1995; Pickett et al., 2000; [Schultze and Märss, 2004](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f99adfb847826be1f10d0bb85f87a59e6a8ab98a#page=57)
 > -  Type locality: *Ozarkodina remscheidensis remscheidensis* Conodont Subzone (Viira and Männik 1997), Ohesaare Regional Stage, upper Pridoli, Upper Silurian.
 > -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
 
