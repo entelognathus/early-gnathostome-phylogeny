@@ -2,11 +2,11 @@
 
 New taxa and references added along with the research.
 
-[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1833
+[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
 
-> - Lebach, Saar-Nahe basin, southwestern Germany.
-> - [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210); Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); Gross, 1935; Miles, 1973a; b; Watson, 1937
+> -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
+> - [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210); Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); Gross, 1935; Miles, 1973a; Miles, 1973b; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009)
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
