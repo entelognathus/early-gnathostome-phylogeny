@@ -135,7 +135,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
+> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > -  Miles and Young, 1977; Long, 1997
 > -  **two points in the deepbone map are wrong. To be corrected.**
 
@@ -224,7 +224,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
+> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article/112/4/443/2646294)
 > - **one point in the deepbone map (Perth) is wrong. To be corrected.**
 
@@ -440,7 +440,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
+> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
 > - **The point in the deepbone map is wrong. To be corrected. Not in Victoria.**
 
@@ -501,7 +501,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm, Gogo, Canning Basin; Gneudna Fm, Carnarvon Basin，Western Australia.
+> - Gogo Fm, Gogo, Canning Basin; Gneudna Fm, Carnarvon Basin，Western Australia. -17.75, 125.17
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
@@ -526,7 +526,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
+> - Gogo Fm; Western Australia, Australia。 -17.75, 125.17
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen)
@@ -755,7 +755,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia
+> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Andrews et al., 2005
 
 [*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen)
