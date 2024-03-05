@@ -219,7 +219,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article/112/4/443/2646294)
-> - **one point in the deepbone map (Perth) is wrong. To be corrected.**
 
 [*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
 > upper Givetian, 384.4, 382.7
