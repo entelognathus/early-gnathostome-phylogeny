@@ -129,9 +129,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
-> -  Miles and Young, 1977; Long, 1997
-> -  **two points in the deepbone map are wrong. To be corrected.**
+> - Gogo Fm; Western Australia, Australia.  -17.75, 125.17
+> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
