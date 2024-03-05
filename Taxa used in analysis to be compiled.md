@@ -433,7 +433,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
-> - **The point in the deepbone map is wrong. To be corrected. Not in Victoria.**
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen)
 > Givetian, 387.7, 382.7
