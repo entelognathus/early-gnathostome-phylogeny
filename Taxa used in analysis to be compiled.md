@@ -19,7 +19,7 @@ New taxa and references added along with the research.
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
-> - [Zhu *et al*., 2001](https://www.nature.com/articles/35065078); [Zhu and Yu,2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance)[Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
+> - [Zhu *et al*., 2001](https://www.nature.com/articles/35065078); [Zhu and Yu,2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
 
