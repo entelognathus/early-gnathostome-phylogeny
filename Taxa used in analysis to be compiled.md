@@ -13,8 +13,7 @@ New taxa and references added along with the research.
 
 > - Sundvollen Fm; Rudstangen, Ringerike, S. Norway.
 > - Heintz, 1939; Ritchie, 1967; Turner and Turner, 1974
-> - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas 
-were lower Ludlovian in age and the evidence from this study supports this view."
+> - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas were lower Ludlovian in age and the evidence from this study supports this view."
 
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
 > upper Lochkovian, 415.0, 410.8
@@ -72,7 +71,7 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia.  -17.75, 125.17
-> - Miles and Young, 1977; Long, 1997
+> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
