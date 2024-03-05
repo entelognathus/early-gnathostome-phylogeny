@@ -20,13 +20,9 @@ were lower Ludlovian in age and the evidence from this study supports this view.
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
-> - Zhu and Yu, 2004; 2009; [Zhu *et al*., 2001](https://www.nature.com/articles/35065078)
+> - [Zhu *et al*., 2001](https://www.nature.com/articles/35065078); [Zhu and Yu,2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance)[Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
 
 > - Lochkovian is subdivided into lower and upper Lochkovian.
-
-> - **In deepbone, there are four specimens and three points on the map. Two specimens are repetitive. 0ne age (lower jaw) is incorrect. Xiaoyue, correct them.**
-> - **The specimens of lower jaw and gridle shoulder are linked to *Achoania*, not to *Achoania jarviki***
-> - **There is something wrong with the deepbone connection, I will try again tomorrow to link the modified specimen to *Achoania jarviki***
 
 [*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen) (Bassani, 1886)
 > Anisian to Ladinian, 247.2, 237.0
