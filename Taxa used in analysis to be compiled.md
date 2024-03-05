@@ -342,7 +342,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Givetian, 384.4, 382.7
 
 > - Bird Fiord Fm.; Arctic
-> - Castiello, 2018
+> - [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
 [*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen)
 > Ludfordian, 425.6, 423.0
@@ -354,7 +354,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Frasnian, 375.7, 372.2
 
 > - Bad Wildungen, Germany
-> - Ørvig, 1957; Sallan and Coates, 2010
+> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
 > middle Frasnian, 379.2, 375.7
@@ -444,9 +444,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower to middle Givetian, 387.7, 384.4
 
 > - Tiaomajian Fm.; Bobai, Guangxi, China
-> - Ji and Pan, 1997
+> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen)
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) (Zhu, et al., 2009)
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
@@ -644,19 +644,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Stensiö, 1925; 1963; 1969
 
-[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen)
+[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) (Long, et al., 2008)
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
-> - Long et al., 2008; Trinajstic et al., 2012
+> - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
 
-[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen)
+[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) (Zhu et al., 2006)
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - [Zhu et al., 2006](https://www.nature.com/articles/nature04563); [2010](https://www.researchgate.net/profile/Min-Zhu-36/publication/225038586_Meemannia_eos_a_basal_sarcopterygian_fish_from_the_Lower_Devonian_of_China_-expanded_description_and_significance/links/02e7e51a2e85ae0402000000/Meemannia-eos-a-basal-sarcopterygian-fish-from-the-Lower-Devonian-of-China-expanded-description-and-significance.pdf); [Lu et al., 2016](https://www.cell.com/current-biology/pdf/S0960-9822(16)30398-0.pdf)
 
-[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen)
+[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen) (Choo et al., 2014)
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
@@ -682,11 +682,14 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Fm is middle Frasian.
 
-[*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen)
+[*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen) (Choo, 2012)
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
+
 > - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Gardiner and Bartram, 1977](https://cir.nii.ac.jp/crid/1573950399498017280); [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
+
+> Used to be *Mimia toombsi* (Gardiner and Bartram, 1977). Renamed by (Choo, 2012) due to the preoccupation of the former genus by the butterfly *Mimia* Evans, 1953.
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
 > lower Lochkovian, 419.2, 415.0
