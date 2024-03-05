@@ -537,7 +537,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Stensiö, 1969; Young, 1986
 
-[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen)
+[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) (Giles et al., 2015)
 > middle Lochkovian, 416.4, 413.6
 
 > - Lower member, Kureika Fm, Sida River, Kotui Basin, Siberia, Russia
@@ -849,11 +849,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Clément, 2004; Jarvik, 1972
 
-[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen)
+[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen) (Jessen, 1975)
 > upper Lochkovian to Pragian, 415.0, 407.6
 
-> - [horizon and locality]
-> - Jessen, 1980
+> - Drake Bay Fm, Drake Bay, west coast of Prince of Wales Island, Arctic Canada
+> - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
 
 [*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
@@ -873,11 +873,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Brazeau, 2012; Dineley, 1999
 
-[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen)
+[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) (Lu et al., 2017)
 > Pragian, 410.8, 407.6
 
 > - Posongchong Fm; Zhaotong, Yunnan, China.
-> - Lu et al., 2017
+> - [Lu et al., 2017](https://www.nature.com/articles/s41467-017-01801-z)
 
 [*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen)
 > upper Eifelian to Givetian, 389.6, 382.7
