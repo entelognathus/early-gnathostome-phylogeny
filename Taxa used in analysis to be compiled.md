@@ -79,7 +79,6 @@ New taxa and references added along with the research.
 > - Si Ka Fm; Bac Thai Province, northern Vietnam
 > - Janvier *et al*., 1993
 > - The age of the Si Ka Fm is revised as the Pragian (Gai *et al*., 2022).
-> - **Cross-checked in deepbone.**
 
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
 > Lochkovian, 419.2, 410.8
