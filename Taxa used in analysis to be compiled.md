@@ -686,7 +686,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
-> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); Gardiner and Bartram, 1977; [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
+> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Gardiner and Bartram, 1977](https://cir.nii.ac.jp/crid/1573950399498017280); [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
 > lower Lochkovian, 419.2, 415.0
