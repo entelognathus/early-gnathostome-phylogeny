@@ -1002,11 +1002,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Gans and Parsons, 1964
 
-[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen)
+[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
-> - Friedman, 2007; Zhu and Yu, 2002
+> - 
+> - [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052); [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871)
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
