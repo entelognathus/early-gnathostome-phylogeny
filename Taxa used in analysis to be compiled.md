@@ -611,11 +611,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Hamel and Poplin, 2008
 
-[*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen)
+[*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - Basden and Young, 2001; Basden et al., 2000; Burrow, 1994; Schultze, 1968
+> - Taemas, New South Wales, Australia
+> - [Basden and Young, 2001](https://www.jstor.org/stable/20062015); [Basden et al., 2000](https://www.nature.com/articles/35003183); [Burrow, 1994](https://www.researchgate.net/publication/283738609_Form_and_function_in_scales_of_Ligulalepis_toombsi_Schultze_a_palaeoniscoid_from_the_Early_Devonian_of_Australia); [Schultze, 1968](https://www.researchgate.net/publication/259483525_Palaeoniscoidea-Schuppen_aus_dem_Unterdevon_Australiens_und_Kanadas_und_aus_dem_Mitteldevon_Spitzbergens)
 
 [*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen) Pander, 1856
 > upper Pridoli, 421.1, 419.2
