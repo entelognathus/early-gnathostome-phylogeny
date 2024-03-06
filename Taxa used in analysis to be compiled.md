@@ -578,19 +578,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan
 > - Mark-Kurik, 1973
 
 [*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - river Taskan, Kolyma basin, north-east Siberia
 > - Bystrow, 1956
 
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)
 > upper Lochkovian, 415.0, 410.8
 
-> - [horizon and locality]
+> - Radotín Limestone
 > - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen)
@@ -641,7 +641,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen)
 > Eifelian, 393.3, 387.7
 
-> - [horizon and locality]
+> - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - Stensiö, 1925; 1963; 1969
 
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) (Long, et al., 2008)
@@ -945,8 +945,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen)
 > lower Givetian, 387.7, 386.0
 
-> - [horizon and locality]
-> - Long, 1997; Miles, 1967
+> - Edderton, Ross-shire, England
+> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > Lochkovian, 419.2, 410.8
@@ -957,8 +957,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - Castiello, 2018; Young, 1985
+> -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia
+> - [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345); Young, 1985
 
 [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen)
 > middle Telychian, 436.8, 435.1
