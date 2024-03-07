@@ -202,11 +202,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Miles, 1973a; Watson, 1937
 
-[*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen)
+[*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
 > Sakmarian, 293.52, 290.1
 
-> - [horizon and locality]
-> - Ivanov, 2005
+> - USA.
+> - Zergerl, 1973; Zergerl, 1976; Ivanov, 2005
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetain, 393.3, 382.7
