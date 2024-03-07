@@ -581,19 +581,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Giles and Friedman, 2014; Rayner, 1951
 
-[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen)
+[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > Lochkovian, 419.2, 410.8
 
-> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan
+> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
 > - Mark-Kurik, 1973
 
-[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen)
+[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
 > Lochkovian, 419.2, 410.8
 
-> - river Taskan, Kolyma basin, north-east Siberia
+> - river Taskan, Kolyma basin, north-east Siberia.
 > - Bystrow, 1956
 
-[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)
+[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
 > upper Lochkovian, 415.0, 410.8
 
 > - Radotín Limestone
@@ -917,7 +917,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotn
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
-[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
+[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
 > Pragian, 410.8, 407.6
 
 > - Praha Formation,Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry.
@@ -961,25 +961,25 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Prince of Wales Island
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
-[*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen)
+[*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
 
 > -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia
 > - [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345); Young, 1985
 
-[*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen)
+[*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
 > middle Telychian, 436.8, 435.1
 
 > - Huixingshao Fm; Xiushan, Chongqing, China.
 > - Zhu Y. *et al*., 2022
 
-[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen)
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) (Gai et al., 2011)
 > middle to upper Telychian, 436.8, 433.4
 
 > - [horizon and locality]
 > - Gai et al., 2011
 
-[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen)
+[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > lower Pragian, 410.8, 409.2
 
 > - Sigurdfjellet Fm.; Svalbard, Spitsbergen
@@ -991,7 +991,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Leigutai Fm.; Nanjing, Jiangsu, China
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
-[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen)
+[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > lower to middle Emsian, 407.6, 397.9
 
 > - [horizon and locality]
@@ -1022,16 +1022,16 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Lochkov Formation,Černarokle near Kosoř in Prague-Radotn.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
-[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen)
+[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen) Mackie, 1863
 > Upper Jurassic to Maastrichtian, 161.5, 66.0
 
 > - [horizon and locality]
 > - Maisey, 1985
 
-[*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+[*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
+> upper Famennian, 363.3, 358.9
 
-> - [horizon and locality]
+> - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
 > - Schaeffer, 1981; Williams, 1998
 
 [*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen)
