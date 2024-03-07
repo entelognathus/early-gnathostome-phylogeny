@@ -229,10 +229,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
 > - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); [Carr *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10719)
 
-[*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen)
+[*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > Frasnian, 382.7, 372.2
 
-> - [horizon and locality]
+> - Victoria, Australia.
 > - Long, 1983
 
 [*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen) Lund, 1986
@@ -259,19 +259,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xitun Fm, Qujing, Yunnan, China
 > - Chang, 1995; Chang and Yu, 1984.
 
-[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen)
+[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm, Qujing, Yunnan, China
 > - [Zhu, 1991]
 
-[*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen)
+[*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Schultze, 1968; Schultze and Cumbaa, 2001
 
-[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen)
+[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Lochkovian, 419.2, 410.8
 
 > - Wood Bay Fm.; Gronhorgdalen, Spitsberge
@@ -293,10 +293,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Forey, 1998
 
-[*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen)
+[*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen) Dick, 1981
 > Visean, 346.7, 330.9
 
-> - [horizon and locality]
+> - Midland Valley, Scotland.
 > - Dick, 1981
 
 [*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen)
@@ -476,19 +476,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Maisey, 1989
 
-[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen)
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > middle Telychian, 436.8, 435.1
 
 > - [horizon and locality]
 > - Zhu and Gai, 2007
 
-[*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen)
+[*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1838)
 > Moscovian, 315.2, 307.0
 
 > - [horizon and locality]
 > - Moy-Thomas, 1936
 
-[*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen)
+[*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen) (Egerton)
 > Ludlow, 427.4, 423.0
 
 > - [horizon and locality]
@@ -501,10 +501,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
 > - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
 
-[*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 379.2
+[*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen) (Whiteaves)
+> middle Frasnian, 379.2, 375.7
 
-> - [horizon and locality]
+> - Escuminac Fm; Quebec, Canada.
 > - Russell, 1951
 
 [*Homalodontus aplopagus*](https://deepbone.org/public/#/explor?s_id=5472&functionId=Deepbone_header_searchResultOpen)
@@ -513,13 +513,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Mutter et al., 2007; 2008
 
-[*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen)
+[*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
 > Givetian, 387.7, 382.7
 
 > - [horizon and locality]
 > - Long, 1988
 
-[*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen)
+[*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia。 -17.75, 125.17
@@ -531,19 +531,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Zangerl and Case, 1973
 
-[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen)
+[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861) 
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Midland Valley, Scotland.
 > - Miles, 1973a; Watson, 1937
 
-[*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen)
+[*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
 > upper Frasnian, 375.7, 372.2
 
 > - [horizon and locality]
 > - Stensiö, 1969; Young, 1986
 
-[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) (Giles et al., 2015)
+[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > middle Lochkovian, 416.4, 413.6
 
 > - Lower member, Kureika Fm, Sida River, Kotui Basin, Siberia, Russia
@@ -557,25 +557,25 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Poplin, 1975
 
-[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen)
+[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
 
-[*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen)
+[*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2011
 > Gzhelian, 303.7, 298.9
 
 > - [horizon and locality]
 > - Pradel et al., 2011
 
-[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang et Zhu, 1993
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
 > upper Emsian, 400.45, 393.3
 
 > - Chuandong Fm; Qujing, Yunnan, China.
 > - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
 
-[*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen)
+[*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) Rayner, 1951
 > upper Tournaisian or lower Visean, 350.8, 341.4
 
 > - [horizon and locality]
@@ -599,19 +599,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Radotín Limestone
 > - Denison, 1978; Gross, 1959
 
-[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen)
+[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
 > upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - Dnister Series; Podolia, Ukraine
 > - Dupret, 2010
 
-[*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen)
+[*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen) Schultze and Zidek, 1982
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Schultze and Zidek, 1982
 
-[*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen)
+[*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
 > upper Pennsylvanian, 307.0, 298.9
 
 > - [horizon and locality]
@@ -638,7 +638,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Hunsrückschiefer Rheinische Schidcrgcbirge, Germany
 > - Gross, 1961
 
-[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen)
+[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen) Bernacsek & Dineley, 1977
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
@@ -668,19 +668,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Kuanti Fm; Qujing, Yunnan, China.
 > - [Choo et al., 2014](https://www.nature.com/articles/srep05242); this study.
 
-[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen)
+[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Midland Valley, Scotland.
 > - Miles, 1973a; Watson, 1937
 
-[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen)
+[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > middle Givetian, 386.0, 384.4
 
 > - [horizon and locality]
 > - Hemmings, 1978; Long et al., 2015
 
-[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen)
+[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen) Schultze, 1973
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Fm; Quebec, Canada.
@@ -688,7 +688,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Fm is middle Frasian.
 
-[*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen) (Choo, 2012)
+[*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen) (Gardiner and Bartram, 1977)
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
@@ -697,13 +697,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > Used to be *Mimia toombsi* (Gardiner and Bartram, 1977). Renamed by (Choo, 2012) due to the preoccupation of the former genus by the butterfly *Mimia* Evans, 1953.
 
-[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen)
+[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm; Qujing, Yunnan, China.
 > - Zhu and Janvier, 1996
 
-[*Minjinia turgenensis*](https://deepbone.org/public/#/explor?s_id=74213&functionId=Deepbone_header_searchResultOpen)
+[*Minjinia turgenensis*](https://deepbone.org/public/#/explor?s_id=74213&functionId=Deepbone_header_searchResultOpen) Brazeau et al., 2020
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
@@ -712,13 +712,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Preserving partial skull-roof and braincase (anterior portion missing).
 > - **to Zhaohui, the point in the deepbone map is wrong. Correct it.**
 
-[*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen)
+[*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen) Gardiner and Bartram, 1977
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365)
 
-[*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen)
+[*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
 
 > - Merrimerriwa Fm.; Cobar, Wilcannia, Australia
@@ -730,13 +730,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Janvier, 1981
 
-[*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen)
+[*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen) Burrow, 2011
 > upper Pridoli, 421.1, 419.2
 
 > - [horizon and locality]
 > - Burrow and Rudkin, 2014
 
-[*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen)
+[*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen) Janvier, 1981
 > lower Pragian, 410.8, 409.2
 
 > - [horizon and locality]
@@ -749,84 +749,84 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Woodward, 1941; Young, 2004
 > - **the age?**
 
-[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen)
+[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen) Hanke and Wilson, 2004
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006
 
-[*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen)
+[*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen) Andrews et al., 2005
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Andrews et al., 2005
 
-[*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen)
+[*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
 > middle Visean, 341.4, 336.2
 
 > - [horizon and locality]
 > - Coates and Gess, 2007; Dick and Maisey, 1980
 
-[*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen)
+[*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
 > lower Famennian, 372.2, 367.7
 
 > - [horizon and locality]
 > - Taverne, 1997
 
-[*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen)
+[*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
 > lower Givetian, 387.7, 386.0
 
 > - [horizon and locality]
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
-[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen)
+[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2014
 > Serpukhovian, 330.9, 323.2
 
 > - [horizon and locality]
 > - Pradel et al., 2014
 
-[*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen)  Traquair, 1890
+[*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen) Traquair, 1890
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 
-[*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen)
+[*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > lower Emsian, 407.6, 400.45
 
 > - Xujiachong Fm; Qujing, Yunnan, China.
 > - Zhu, 2000; Zhu and Wang, 1996
 
-[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)
+[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)  (White, 1952)
 > Pragian to Emsian, 410.8, 393.3
 > - Murrumbidgee Group; Burrinjuck Dam
 > - White and Toombs, 1972; Young, 1979
 
-[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen)
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang et al., 2001
 > Lochkovian, 419.2, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China.
 > - Zhang et al., 2001; Zhu et al., 2012; Wang et al. 2020
 
-[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen)
+[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen) Hanke, 2002
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke, 2002
 
-[*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen)
+[*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
 
 > - Chuandong Fm; Qujing, Yunnan, China.
 > - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
-[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen)
+[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Liu, 1965; 1975
 
-[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen)
+[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen) (Robertson, 1939)
 > Wenlock to Ludlow, 433.4, 423.0
 
 > - [horizon and locality]
@@ -838,13 +838,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
 > - [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055);[Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784); [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam)
 
-[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen)
+[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality] 
 > - Burrow et al., 2013; Miles, 1973a; Watson, 1937
 
-[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen)
+[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen) Valiukevicius, 1992
 > lower Lochkovian, 419.2, 415.0
 
 > - [horizon and locality]
@@ -856,50 +856,50 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Clément, 2004; Jarvik, 1972
 
-[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen) (Jessen, 1975)
+[*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen) Jessen, 1975
 > upper Lochkovian to Pragian, 415.0, 407.6
 
 > - Drake Bay Fm, Drake Bay, west coast of Prince of Wales Island, Arctic Canada
 > - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
 
-[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen)
+[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke, 2008
 
-[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen)
+[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz)
 > upper Eifelian, 389.6, 387.7
 
 > - [horizon and locality]
 > - Hemmings, 1978
 
-[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen)
+[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Brazeau, 2012; Dineley, 1999
 
-[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) (Lu et al., 2017)
+[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) Lu et al., 2017
 > Pragian, 410.8, 407.6
 
 > - Posongchong Fm; Zhaotong, Yunnan, China.
 > - [Lu et al., 2017](https://www.nature.com/articles/s41467-017-01801-z)
 
-[*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen)
+[*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen) Janvier et al., 1986
 > upper Eifelian to Givetian, 389.6, 382.7
 
 > - [horizon and locality]
 > - Maisey and Anderson, 2001
 > - The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
-[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen)
+[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2016
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
 > - Zhu et al., 2016
 
-[*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen)
+[*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen) Lu and Zhu, 2010
 > upper Pragian, 409.2, 407.6
 
 > - Posongchong Fm; Zhaotong, Yunnan, China.
@@ -911,7 +911,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Haikou Fm.; Kunming, Yunnan, China.
 > - Liu, 1991
 
-[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen)
+[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen) Gross, 1950
 > Lochkovian, 419.2, 410.8
 
 > -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotn
@@ -929,7 +929,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Pradel et al., 2009
 
-[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen)
+[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > Frasnian, 382.7, 372.2
 
 > - [horizon and locality]
@@ -943,13 +943,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Andrews, 1978
 
-[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen)
+[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz)
 > Emsian, 407.6, 393.3
 
 > - [horizon and locality]
 > - Burrow et al., 2000
 
-[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen)
+[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson
 > lower Givetian, 387.7, 386.0
 
 > - Edderton, Ross-shire, England
@@ -985,13 +985,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Sigurdfjellet Fm.; Svalbard, Spitsbergen
 > - Goujet, 1973
 
-[*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen)
+[*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
 
 > - Leigutai Fm.; Nanjing, Jiangsu, China
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
-[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
+[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower to middle Emsian, 407.6, 397.9
 
 > - [horizon and locality]
@@ -1016,7 +1016,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - 
 > - [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052); [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871)
 
-[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen)
+[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
 > - Lochkov Formation,Černarokle near Kosoř in Prague-Radotn.
@@ -1034,31 +1034,31 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
 > - Schaeffer, 1981; Williams, 1998
 
-[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen)
+[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen) Gagnier et al., 1999
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
 
-[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen)
+[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen) Hanke et al., 2001
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
 
-[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen)
+[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
 > - Lochkov Formation, Černarokle near Kosoř in Prague-Radotn
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
-[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen)
+[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten
 > Gorstian, 427.4, 425.6
 
 > - [horizon and locality]
 > - Denison, 1947; 1951; Robertson, 1937; Robertson, 1938
 
-[*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen)
+[*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen) Brito and Ferreira, 1989 
 > Albian, 113.0, 100.5
 
 > - [horizon and locality]
@@ -1070,19 +1070,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
 
-[*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen)
+[*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1837)
 > lower Serpukhovian, 330.9, 328.3
 
 > - [horizon and locality]
 > - Coates and Gess, 2007; Dick, 1978
 
-[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen)
+[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen) (Powrie, 1870)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Middle Valley, Scotland.
 > - Newman et al., 2012
 
-[*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen)
+[*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen) (Bernacsek and Dineley, 1977)
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
@@ -1091,7 +1091,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
 > - **A point in the deepbone map should be revised.**
 
-[*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
+[*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen) Denison, 1968
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
@@ -1104,37 +1104,37 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Miles, 1973a;
 > - **This taxon needs to be coded.**
 
-[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen)
+[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen) (Wangsjo, 1952)
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
 > - Janvier, 1985
 
-[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen)
+[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
 > Pragian, 410.8, 407.6
 
 > - [horizon and locality]
 > - Zhao et al., 2002
 
-[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen)
+[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
 > - Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929
 
-[*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen)
+[*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie, 1973
 > Emsian to Eifelian, 407.6, 387.7
 
 > - Mulga Downs Group; Wilcannia, Australia
 > - Ritchie, 1973
 
-[*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen)
+[*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
 > middle Telychian, 436.8, 435.1
 
 > - Huixingshao Fm; Xiushan, Chongqing, China.
 > - Zhu Y. *et al*., 2022
 
-[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen)
+[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
@@ -1146,7 +1146,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Zhang, 1980; Zhu, 1996
 
-[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen)
+[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen) Egerton, 1857
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality]
