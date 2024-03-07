@@ -907,14 +907,14 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Vaškaninová and Ahlberg, 2017
+> -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotn
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
-> - Gross, 1958; Vaškaninová and Ahlberg, 2017
+> - Praha Formation,Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry.
+> - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
 [*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen)
 > Eifelian, 393.3, 387.7
@@ -951,8 +951,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Dupret et al., 2014; [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
+> - Prince of Wales Island
+> - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
@@ -1012,8 +1012,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Vaškaninová and Ahlberg, 2017
+> - Lochkov Formation,Černarokle near Kosoř in Prague-Radotn.
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen)
 > Upper Jurassic to Maastrichtian, 161.5, 66.0
@@ -1042,8 +1042,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Vaškaninová and Ahlberg, 2017
+> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotn
+> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen)
 > Gorstian, 427.4, 425.6
