@@ -343,11 +343,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Atherfield Clay of the Isle of Wight and near Bexhill on the Sussex coast in southern England.
 > - Maisey, 1983; Maisey 1987; Teng et al., 2019
 
-[*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen)
+[*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
 > upper Givetian, 384.4, 382.7
 
-> - Bird Fiord Fm.; Arctic
-> - [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
+> - Bird Fiord Fm, southwestern Ellesmereland, arctic Canada.
+> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
 [*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen)
 > Ludfordian, 425.6, 423.0
@@ -355,10 +355,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Kuanti Fm; Qujing, Yunnan, China.
 > - Zhu et al., 2013
 
-[*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen)
+[*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
 > upper Frasnian, 375.7, 372.2
 
-> - Bad Wildungen, Germany
+> -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
@@ -631,7 +631,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
 
 
-[*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen)
+[*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Broili, 1929
 > upper Pragian to lower Emsian, 409.2, 400.45
 
 > - Hunsrückschiefer Rheinische Schidcrgcbirge, Germany
@@ -643,7 +643,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006; Hanke and Davis, 2012
 
-[*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen)
+[*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
 > Eifelian, 393.3, 387.7
 
 > - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
@@ -741,11 +741,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Janvier, 1981
 
-[*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen)
+[*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Eifelian to Givetian, 393.3, 382.7
 
-> - New South Wales, Australia
+> - Murrumbidgee Gr, New South Wales, Australia
 > - Woodward, 1941; Young, 2004
+> - **the age?**
 
 [*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
@@ -903,7 +904,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Posongchong Fm; Zhaotong, Yunnan, China.
 > - Lu and Zhu, 2010; Lu et al., 2016
 
-[*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen)
+[*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Givetian, 387.7, 382.7
 
 > - Haikou Fm.; Kunming, Yunnan, China.
@@ -1118,7 +1119,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
-> - Barker and Bone, 1995; Basden, 1999
+> - Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen)
 > Emsian to Eifelian, 407.6, 387.7
