@@ -40,8 +40,8 @@ New taxa and references added along with the research.
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
 
-> - Gotland, Sweden.
-> - Gross, 1968; Chen et al., 2016a
+> - Gotland, Sweden; the Tabuska River, the Central Urals, Russia;  the northern Timan; the Novaya Zemlya Archipelago; the Severnaya Zemlya Archipelago; the Central Urals
+> - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812); [Botella *et ai*., 2007](https://www.nature.com/articles/nature05989); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655)
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
 > Pridoli to Lochkovian, 423.0, 410.8
@@ -997,11 +997,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Zhao and Zhu, 2010
 
-[*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen) Choo et al., 2017
+[*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen) Choo *et al*., 2017
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
-> - [Choo et al., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170929)
+> - [Choo *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170929)
 
 [*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen)
 > Pliocene to present, 5.33, 0
@@ -1013,7 +1013,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
-> - 
 > - [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052); [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871)
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
