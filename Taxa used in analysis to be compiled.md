@@ -319,11 +319,15 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
 
-[*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen)
+[*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen) Oelofsen 1986
 > Kungurian, 283.5, 273.0
 
-> - [horizon and locality]
-> - Coates et al., 2017
+> - base of the Prince Albert Fm, Ecca Gr, Karoo Supergroup; Cape Fold Belt mountains, South Africa.
+> - [Coates et al., 2017](https://www.nature.com/articles/nature20806)
+> - Early Permian dating estimates vary from the early Artinskian to the latest Kungurian stage.
+> - **No specimen data in deepbone.**
+> - Oelofsen, B. W. in Indo-Pacific Fish Biology: Proceedings of the SecondInternational Conference on Indo-Pacific Fishes (eds Uyeno, T., Arai, R., Taniuchi, T. & Matsuura, K.) 107–124 (Ichthyological Society of Japan, 1986).
+
 
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
