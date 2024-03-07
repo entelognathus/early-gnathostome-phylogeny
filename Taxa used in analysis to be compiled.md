@@ -193,8 +193,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 363.3, 358.9
 
-> - [horizon and locality]
-> - Bendix-Almgreen, 1975; Maisey, 2007; Schaeffer, 1981
+> - Cleveland Shale.
+> - Bendix-Almgreen, 1975; [Maisey, 2007](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2007/issue-307/0003-0090_2007_307_1_TBIPSA_2.0.CO_2/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-CLADOSELACHIAN-SHARKS/10.1206/0003-0090(2007)307[1:TBIPSA]2.0.CO;2.full); Schaeffer, 1981
+> - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
 
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8
