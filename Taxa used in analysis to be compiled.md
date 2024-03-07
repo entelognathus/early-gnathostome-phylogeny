@@ -2,6 +2,8 @@
 
 New taxa and references added along with the research.
 
+**命名人加括号，是因为最初的属名是其他属。属名未动，就不用加括号。**
+
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
 
@@ -649,19 +651,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - Stensiö, 1925; 1963; 1969
 
-[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) (Long, et al., 2008)
+[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm; Canning Basin, Australia. -17.75, 125.17
 > - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
 
-[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) (Zhu et al., 2006)
+[*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2006
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
 > - [Zhu et al., 2006](https://www.nature.com/articles/nature04563); [2010](https://www.researchgate.net/profile/Min-Zhu-36/publication/225038586_Meemannia_eos_a_basal_sarcopterygian_fish_from_the_Lower_Devonian_of_China_-expanded_description_and_significance/links/02e7e51a2e85ae0402000000/Meemannia-eos-a-basal-sarcopterygian-fish-from-the-Lower-Devonian-of-China-expanded-description-and-significance.pdf); [Lu et al., 2016](https://www.cell.com/current-biology/pdf/S0960-9822(16)30398-0.pdf)
 
-[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen) (Choo et al., 2014)
+[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen) Choo et al., 2014
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
