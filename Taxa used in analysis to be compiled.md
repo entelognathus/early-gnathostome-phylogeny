@@ -336,11 +336,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
 > - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
 
-[*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen)
+[*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen) (Egerton, 1845)
 > Aptian, 121.4, 113.0
 
-> - [horizon and locality]
-> - Teng et al., 2019
+> - Atherfield Clay of the Isle of Wight and near Bexhill on the Sussex coast in southern England.
+> - Maisey, 1983; Maisey 1987; Teng et al., 2019
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen)
 > upper Givetian, 384.4, 382.7
