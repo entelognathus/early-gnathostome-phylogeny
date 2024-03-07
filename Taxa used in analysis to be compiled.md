@@ -350,7 +350,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Bird Fiord Fm, southwestern Ellesmereland, arctic Canada.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
-[*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen)
+[*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2013
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
@@ -362,58 +362,58 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > -  Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
-[*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen)
+[*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen) Traquair, 1880
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Fm; Quebec, Canada.
 > - Janvier et al., 2004
 
-[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen)
+[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Fm; Qujing, YUnnan, China.
 > - Liu, 1965; Zhu and Gai, 2007
 
-[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen)
+[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
 
 > - Xichong Fm; Qujing, Yunnan, China.
 > - Liu, 1991
 
-[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen)
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Fm; Quebec, Canada.
 > - Jarvik, 1980a; b
 
-[*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen)
+[*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen) Powrie, 1864
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Midland Valley, Scotland.
 > - Miles, 1973a; Newman et al., 2014; Watson, 1937
 
-[*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen)
+[*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen)  (St. John and Worthen)
 > Serpukhovian, 330.9, 323.2
 
-> - [horizon and locality]
+> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - Lund, 1985
 
-[*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen)
+[*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen) Long, 1999
 > uppermost Givetian, 384.37, 382.7
 
 > - Avon River Gr; Mount Howitt, Victoria, Australia.
 > - Long, 1999
 
-[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen)
+[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
 > - Dupret et al., 2009
 
-[*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen)
+[*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
 > upper Pragian to lower Emsian, 409.2, 400.45
 
-> - [horizon and locality]
+> - Hunsrückschiefer; Rheinland, Germany.
 > - Gross, 1963
 
 [*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen)
