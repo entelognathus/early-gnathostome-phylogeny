@@ -416,19 +416,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Hunsrückschiefer; Rheinland, Germany.
 > - Gross, 1963
 
-[*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen)
+[*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen) Heidtke and Krätschmer, 2001
 > Givetian, 387.7, 382.7
 
-> - [horizon and locality]
+> - Rheinisches Schiefergebirge, Germany.
 > - Coates et al., 2018
 
-[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen)
+[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) Bernacsek and Dineley, 1977
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Fm; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Davis, 2008
 
-[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen)
+[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - [horizon and locality]
@@ -440,19 +440,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
 
-[*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen)
+[*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, 387.7, 382.7
 
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
 > - Ritchie, 1975; Young, 1989
 
-[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen)
+[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > lower to middle Givetian, 387.7, 384.4
 
 > - Tiaomajian Fm.; Bobai, Guangxi, China
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) (Zhu, et al., 2009)
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu, et al., 2009
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Fm; Qujing, Yunnan, China.
@@ -464,13 +464,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Warren et al., 2000
 
-[*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen)
+[*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen) Burrow et al., 2012
 > lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
+> - Gogo Fm; Western Australia, Australia. -17.75, 125.17
 > - Burrow et al., 2012
 
-[*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen)
+[*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen) Maisey, 1989
 > Gzhelian, 303.7, 298.9
 
 > - [horizon and locality]
