@@ -192,17 +192,17 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
 > - [Otto Jaekel](https://en.wikipedia.org/wiki/Otto_Jaekel) accepted a professor position at Sun Yat-sen University in Guangzhou in 1928. He died after a short and unexpected illness on March 6, 1929 in the German Hospital in Beijing.
 
-[*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen)
+[*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen) Newberry, 1889
 > upper Famennian, 363.3, 358.9
 
-> - Cleveland Shale.
+> - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
 > - Bendix-Almgreen, 1975; [Maisey, 2007](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2007/issue-307/0003-0090_2007_307_1_TBIPSA_2.0.CO_2/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-CLADOSELACHIAN-SHARKS/10.1206/0003-0090(2007)307[1:TBIPSA]2.0.CO;2.full); Schaeffer, 1981
 > - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
 
-[*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen)
+[*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Balruddery Den, Forfarshire, Scotland.
 > - Miles, 1973a; Watson, 1937
 
 [*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
@@ -211,7 +211,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - USA.
 > - Zergerl, 1973; Zergerl, 1976; Ivanov, 2005
 
-[*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen)
+[*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
 > Eifelian to Givetain, 393.3, 382.7
 
 > - Caithness Flagstone Group, Scotland
@@ -235,30 +235,29 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Long, 1983
 
-[*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen)
+[*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen) Lund, 1986
 > Serpukhovian, 330.9, 323.2
 
-> -  Bear Gulch Limestone of Montana
+> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - Lund, 1986; Lund and Grogan, 1997
 
-[*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen)
+[*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen) Patten, 1931
 > Gorstian to Pridoli, 427.4, 419.2
 
 > - Paadla formation, Saaremaa, Estonia
 > - Gross, 1968; Märss et al., 2015; Afanassieva, 1995; Bremer et al., 2021
-> -LXY **In deepbone, GIT's specimen age is Homerian, but I can't find evidence in the references.**
 
-[*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen)
+[*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen) Grogan and Lund, 2000
 > Bashkirian, 323.2, 315.2
 
-> - [horizon and locality]
+> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - Grogan and Lund, 2000
 
-[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen)
+[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm, Qujing, Yunnan, China
-> - Chang, 1995; Chang and Yu, 1984)
+> - Chang, 1995; Chang and Yu, 1984.
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen)
 > lower Lochkovian, 419.2, 415.0
