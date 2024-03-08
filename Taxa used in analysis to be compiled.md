@@ -81,15 +81,15 @@
 [*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
 > Lochkovian, 419.2, 410.8
 
-> - Ben Nevis-Spitzburg
-> - Janvier, 1985; Ørvig, 1957
+> - Ben Nevis Formation, Red Bay Group; Spitsbergen.
+> - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955); Ørvig, 1957.
 > - **In deepbone, errors exist with the specimen information, site position. check all 'svd' specimens in deepbone, wrong plate number, horizon (Lochkovian instead of Famennian), map.**
 
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
-> - Janvier, 1985
+> - Wood Bay Formation; Spitsbergen.
+> - [Wangsjo, 1952](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173537/Skrifter097A.pdf?sequence=1); [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955)
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
 > upper Emsian to Famennian, 400.45, 358.9
@@ -120,7 +120,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
-> - Buchan,Victoria and New South Wales
+> - Buchan, Victoria and New South Wales
 > - Burrow and Turner, 1998; Long et al., 2014
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
@@ -138,12 +138,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Lochkovian, 419.2, 410.8
 
-> - Glammis, Forfarshire and Lower Old Red Sandstone,Glamis,Angus,Scotland
+> - Glammis, Forfarshire and Lower Old Red Sandstone, Glamis, Angus, Scotland
 > - Stensiö, 1932; White, 1958
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
 > - Achanarras Limestone, Tynet Burn and Gamrie, Scotland
+
 > - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
 > - Giles et al., 2015a: "This material originates from the Tynet Burn and Gamrie localities of the lacustrine Achanarras Limestone, Scotland, which has been dated as late Eifelian (390.4–
 388.1 Ma; Gradstein et al. 2012) based on the presence of spores of *Dinsosporites devonicus* (Richardson and McGregor 1986)."
@@ -547,11 +548,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Here Lochkovian is subdivided into lower, middle and upper Lochkovian. In the rest, it is subdivided into lower and upper Lochkovian.
 
-[*Kansasiella eatoni*](https://deepbone.org/public/#/explor?s_id=3023&functionId=Deepbone_header_searchResultOpen)
-> upper Pennsylvanian, XXX (maximum age), YYY (minimum age)
+[*Kansasiella eatoni*](https://deepbone.org/public/#/explor?s_id=3023&functionId=Deepbone_header_searchResultOpen) (Poplin, 1975)
+> upper Pennsylvanian, 307.0, 298.9
 
-> - [horizon and locality]
-> - Poplin, 1975
+> - Kansas, USA.
+> - Poplin, 1974; 1975
 
 [*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
@@ -592,7 +593,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
 > upper Lochkovian, 415.0, 410.8
 
-> - Radotín Limestone
+> - Radotín Limestone.
 > - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
@@ -610,8 +611,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
 > upper Pennsylvanian, 307.0, 298.9
 
-> - [horizon and locality]
-> - Hamel and Poplin, 2008
+> - Doug1as Group, Lawrence Formation, Haskel1 Limestone Member; Doug1as County near Lawrence, Kansas, USA.
+> - Poplin, 1984; Hamel and Poplin, 2008
 
 [*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
