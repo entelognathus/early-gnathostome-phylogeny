@@ -1138,13 +1138,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
-> - [horizon and locality]
+> - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
 
 [*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen) Egerton, 1857
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Podolia, Ukraine.
 > - Stensiö, 1932
 
 **New taxa under study**
