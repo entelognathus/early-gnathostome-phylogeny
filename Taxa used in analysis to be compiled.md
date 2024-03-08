@@ -735,7 +735,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen) Janvier, 1981
 > lower Pragian, 410.8, 409.2
 
-> - [horizon and locality]
+> - Sigurdfjellet Member, Wood Bay Formation; Spitzbergen.
 > - Janvier, 1981
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
