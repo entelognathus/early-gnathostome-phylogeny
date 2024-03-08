@@ -1,8 +1,4 @@
-**List of taxa, geological range (Ma), horizon and locality, and references in Zhu *et al*. (2022)**
-
-New taxa and references added along with the research.
-
-**命名人加括号，是因为最初的属名是其他属。属名未动，就不用加括号。**
+**List of taxa, geological range (Ma), horizon and locality, and references**
 
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
