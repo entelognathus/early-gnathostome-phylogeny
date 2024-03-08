@@ -1089,7 +1089,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen) Denison, 1968
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
+> - Beartooth Butte Formation; Wyoming, USA.
 > - Denison, 1968
 
 [*Vernicomacanthus uncinatus*](https://deepbone.org/public/#/explor?s_id=3640&functionId=Deepbone_header_searchResultOpen) (Powrie, 1864)
