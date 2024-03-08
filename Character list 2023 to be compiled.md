@@ -3205,7 +3205,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
 
-> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
+> - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is 1.
 
