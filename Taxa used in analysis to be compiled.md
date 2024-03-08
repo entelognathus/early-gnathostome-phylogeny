@@ -36,7 +36,7 @@
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
 
-> - Gotland, Sweden; the Tabuska River, the Central Urals, Russia;  the northern Timan; the Novaya Zemlya Archipelago; the Severnaya Zemlya Archipelago; the Central Urals
+> - Gotland, Sweden; Tabuska River, Central Urals; northern Timan; Novaya Zemlya Archipelago; Severnaya Zemlya Archipelago, Russia.
 > - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812); [Botella *et ai*., 2007](https://www.nature.com/articles/nature05989); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655)
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
