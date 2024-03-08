@@ -910,13 +910,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen) Gross, 1950
 > Lochkovian, 419.2, 410.8
 
-> -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotin.
+> -  Lochkov Formation; Černarokle quarries near Kosoř in Prague-Radotin, Prague Basin, Czech Republic
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
 > Pragian, 410.8, 407.6
 
-> - Praha Formation,Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry.
+> - Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
 > - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
 [*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2009
@@ -1044,7 +1044,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
-> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotn
+> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin; Prague Basin, Czech Republic.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten, 1931
