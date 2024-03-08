@@ -270,7 +270,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Lochkovian, 419.2, 410.8
 
-> - Wood Bay Formation.; Gronhorgdalen, Spitsberge
+> - Wood Bay Formation; Gronhorgdalen, Spitsberge
 > - Goujet, 1975; Goujet, 1984
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
@@ -1102,20 +1102,20 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen) (Wangsjo, 1952)
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
+> - Fraenkelryggen Formation, Red Bay Group; Spitsbergen.
 > - Janvier, 1985
 
 [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
+> - Posongchong Formation; Wenshan, Yunnan, China.
 > - Zhao et al., 2002
 
 [*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
-> Eifelian to Givetian, 393.3, 382.7
+> Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929
+> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
+> - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
 
 [*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie, 1973
 > Emsian to Eifelian, 407.6, 387.7
