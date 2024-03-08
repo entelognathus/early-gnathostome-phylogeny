@@ -1047,7 +1047,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Lochkov Formation, Černarokle near Kosoř in Prague-Radotn
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
-[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten
+[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten, 1931
 > Gorstian, 427.4, 425.6
 
 > - [horizon and locality]
@@ -1062,7 +1062,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen) Woodward, 1889
 > Bashkirian to Changhsingian, 323.2, 251.9
 
-> - [horizon and locality]
+> - USA.
 > - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
 
 [*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1837)
