@@ -404,7 +404,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Fm; Qujing, Yunnan, China.
-> - Dupret et al., 2009
+> - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
 
 [*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
 > upper Pragian to lower Emsian, 409.2, 400.45
@@ -440,7 +440,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Givetian, 387.7, 382.7
 
 > - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
-> - Ritchie, 1975; Young, 1989
+> - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
 
 [*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
 > lower to middle Givetian, 387.7, 384.4
@@ -599,7 +599,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - Dnister Series; Podolia, Ukraine
-> - Dupret, 2010
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 [*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen) Schultze and Zidek, 1982
 > Pragian, 410.8, 407.6
