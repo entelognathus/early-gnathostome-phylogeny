@@ -592,7 +592,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
 > upper Lochkovian, 415.0, 410.8
 
-> - Radotín Limestone.
+> - Radotín Limestone; Prague Basin, Czech Republic.
 > - Denison, 1978; Gross, 1959
 
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
@@ -610,7 +610,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
 > upper Pennsylvanian, 307.0, 298.9
 
-> - Doug1as Group, Lawrence Formation, Haskel1 Limestone Member; Doug1as County near Lawrence, Kansas, USA.
+> - Douglas Group, Lawrence Formation, Haskell Limestone Member; Douglas County near Lawrence, Kansas, USA.
 > - Poplin, 1984; Hamel and Poplin, 2008
 
 [*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
@@ -954,13 +954,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > Lochkovian, 419.2, 410.8
 
-> - Prince of Wales Island
+> - Prince of Wales Island, Canada.
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
 
-> -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia
+> -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
 > - [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345); Young, 1985
 
 [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
@@ -978,7 +978,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > lower Pragian, 410.8, 409.2
 
-> - Sigurdfjellet Formation.; Svalbard, Spitsbergen
+> - Sigurdfjellet Formation; Svalbard, Spitsbergen.
 > - Goujet, 1973
 
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
@@ -1014,7 +1014,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
-> - Lochkov Formation,Černarokle near Kosoř in Prague-Radotn.
+> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen) Mackie, 1863
@@ -1044,7 +1044,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
 
-> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin; Prague Basin, Czech Republic.
+> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten, 1931
