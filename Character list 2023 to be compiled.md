@@ -2425,6 +2425,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Andreev *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 136.
 
+Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa (2001), Character 52; Zhu and Schultze (2001), Character 125; Cloutier and Arratia (2004), Character 123; Zhu et al. (2006), Character 70.
+
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Achoania jarviki* is changed from ? to 0.
