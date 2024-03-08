@@ -270,7 +270,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Lochkovian, 419.2, 410.8
 
-> - Wood Bay Formation; Gronhorgdalen, Spitsberge
+> - Wood Bay Formation; Gronhorgdalen, Spitsbergen.
 > - Goujet, 1975; Goujet, 1984
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
@@ -720,11 +720,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
 > - Janvier and Clément, 2005; Ritchie, 2004
 
-[*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen)
+[*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
-> - Janvier, 1981
+> - Keltiefjellet Division (Lykta Fauna), Wood Bay Formation; Spitzbergen.
+> - Wangsjo, 1952; Janvier, 1981
 
 [*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen) Burrow, 2011
 > upper Pridoli, 421.1, 419.2
@@ -735,7 +735,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen) Janvier, 1981
 > lower Pragian, 410.8, 409.2
 
-> - Sigurdfjellet Member, Wood Bay Formation; Spitzbergen.
+> - Sigurdfjellet Division, Wood Bay Formation; Spitzbergen.
 > - Janvier, 1981
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
