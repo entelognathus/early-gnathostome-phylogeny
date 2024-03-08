@@ -83,7 +83,6 @@
 
 > - Ben Nevis Formation, Red Bay Group; Spitsbergen.
 > - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955); Ørvig, 1957.
-> - **In deepbone, errors exist with the specimen information, site position. check all 'svd' specimens in deepbone, wrong plate number, horizon (Lochkovian instead of Famennian), map.**
 
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Pragian, 410.8, 407.6
@@ -911,7 +910,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen) Gross, 1950
 > Lochkovian, 419.2, 410.8
 
-> -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotn
+> -  Lochkov Formation，Černarokle quarries near Kosoř in Prague-Radotin.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
 [*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
@@ -985,13 +984,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
 
-> - Leigutai Formation.; Nanjing, Jiangsu, China
+> - Wutung Formation; Nanjing, Jiangsu, China
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
 > lower to middle Emsian, 407.6, 397.9
 
-> - [horizon and locality]
+> - Guiyang, Guizhou, China.
 > - Zhao and Zhu, 2010
 
 [*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen) Choo *et al*., 2017
@@ -1003,7 +1002,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen)
 > Pliocene to present, 5.33, 0
 
-> - [horizon and locality]
+> - wide distribution.
 > - Gans and Parsons, 1964
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
