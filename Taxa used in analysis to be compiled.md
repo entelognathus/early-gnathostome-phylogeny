@@ -1059,7 +1059,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [horizon and locality]
 > - Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016
 
-[*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen)
+[*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen) Woodward, 1889
 > Bashkirian to Changhsingian, 323.2, 251.9
 
 > - [horizon and locality]
