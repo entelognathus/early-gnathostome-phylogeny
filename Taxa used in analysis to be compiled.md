@@ -1050,7 +1050,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten, 1931
 > Gorstian, 427.4, 425.6
 
-> - [horizon and locality]
+> - Himmiste beds; Saaremaa, Estonia.
 > - Denison, 1947; 1951; Robertson, 1937; Robertson, 1938
 
 [*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen) Brito and Ferreira, 1989 
