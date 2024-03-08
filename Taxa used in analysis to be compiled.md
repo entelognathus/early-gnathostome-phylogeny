@@ -923,17 +923,17 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Praha Formation,Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry.
 > - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
 
-[*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen)
+[*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2009
 > Eifelian, 393.3, 387.7
 
-> - [horizon and locality]
-> - Pradel et al., 2009
+> - Icla Formation, Department of Cochabamba, Bolivia.
+> - [Pradel et al., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00350.x)
 
 [*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > Frasnian, 382.7, 372.2
 
-> - [horizon and locality]
-> - Giles et al., 2015b
+> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry(now flooded), Pas-de-Calas, France.
+> - [Giles et al., 2015b](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1485)
 
 > - single articulated specimen　comprises　a near-complete dermal cranium, braincase and mandibular，hyoid and gill arches
 
@@ -973,11 +973,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Huixingshao Fm; Xiushan, Chongqing, China.
 > - Zhu Y. *et al*., 2022
 
-[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) (Gai et al., 2011)
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
 > middle to upper Telychian, 436.8, 433.4
 
-> - [horizon and locality]
-> - Gai et al., 2011
+> - lower part of Maoshan Formation, Changxing District, Zhejiang Province, China.
+> - [Gai *et al*., 2011](https://www.nature.com/articles/nature10276)
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > lower Pragian, 410.8, 409.2
