@@ -6219,21 +6219,21 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 > **Added characters**
 
-> A1. The structure of parasphenoid: (0) multiple bones; (1) single bone.
+> A1(712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
-> A2. Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
+> A2(713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
 
 > Andreev *et al.* (2022), Character 285.
 
-> A3. Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
+> A3(714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
 
 > Andreev *et al.* (2022), Character 286.
 
-> A4. Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
+> A4(715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
 
 > Andreev *et al.* (2022), Character 290.
 
-> A5. Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
+> A5(716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 
 > Andreev *et al.* (2022), Character 292.
 
