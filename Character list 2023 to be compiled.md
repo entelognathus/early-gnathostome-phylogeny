@@ -5706,7 +5706,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 669. Pelvic fin spine: (0) absent; (1) present.
 
-> Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Andreev *et al*. (2022), Character 213; Brazeau *et al*. (2023), Character 439.
+> Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Andreev *et al*. (2022), Character 275; Brazeau *et al*. (2023), Character 439.
 
 > - The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
 
@@ -5820,7 +5820,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
 
-> Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688; Brazeau *et al*. (2023), Character 479.
+> Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688;  Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 479.
 
 > - This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*. (Giles *et al*., 2015)
 
@@ -5830,7 +5830,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
-> Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Brazeau *et al*. (2023), Character 480.
+> Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Andreev *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 480.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
