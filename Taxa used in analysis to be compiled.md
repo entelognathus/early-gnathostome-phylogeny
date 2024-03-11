@@ -529,10 +529,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Formation; Western Australia, Australia。 -17.75, 125.17
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
-[*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen)
+[*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen) Zangerl and Case, 1973
 > Moscovian to Kasimovian, 315.2, 303.7
 
-> - [horizon and locality]
+> - Logan Quarry shale, Lower Wiley cyclothem (Staunton formation), Reserve Township, Parke County, Indiana, USA.
 > - Zangerl and Case, 1973
 
 [*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861) 
