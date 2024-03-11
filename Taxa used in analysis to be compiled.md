@@ -811,6 +811,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xitun Formation, Qujing, Yunnan, China.
 > - Zhang et al., 2001; Zhu et al., 2012; Wang et al. 2020
 
+[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
+> Lochkovian, 419.2, 410.8
+
+> - [horizon and locality] 
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow et al., 2013; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
+
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen) Hanke, 2002
 > Lochkovian, 419.2, 410.8
 
@@ -829,29 +835,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xishancun and Xitun formations, Qujing, Yunnan, China; northern Vietnam.
 > - Liu, 1965; 1975
 
-[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen) (Robertson, 1939)
-> Wenlock to Ludlow, 433.4, 423.0
-
-> - [horizon and locality]
-> - Denison, 1951
-
-[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen) Yu, 1998
-> Ludlow to Lochkovian, 427.4, 410.8
-
-> - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
-> - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
-
-[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
-> Lochkovian, 419.2, 410.8
-
-> - [horizon and locality] 
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow et al., 2013; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
-
 [*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen) Valiukevicius, 1992
 > lower Lochkovian, 419.2, 415.0
 
-> - [horizon and locality]
+> - Severnaya Zemlya Formation; October Revolution Island, Severnaya Zemlya Archipelago, Russia.
 > - Valiukevicius, 1992
+> - Also cited as *Zemlyacanthus (Poracanthodes) menneri* (Valiukevicius, 1992).
 
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=166837&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
@@ -865,11 +854,24 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Drake Bay Formation, Drake Bay, west coast of Prince of Wales Island, Arctic Canada
 > - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
 
+[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen) (Robertson, 1939)
+> Wenlock to Ludlow, 433.4, 423.0
+
+> - [horizon and locality]
+> - Denison, 1951
+
 [*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke, 2008
+
+[*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen) Yu, 1998
+> Ludlow to Lochkovian, 427.4, 410.8
+
+> - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
+> - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
+
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz)
 > upper Eifelian, 389.6, 387.7
