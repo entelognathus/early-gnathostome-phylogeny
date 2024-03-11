@@ -178,8 +178,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen) (Traquair, 1888)
 > Visean, 346.7, 330.9
 
-> - [horizon and locality]
-> - Finarelli and Coates, 2011; 2014; Moy-Thomas, 1935
+> - Glencartholm fish beds (Holkerian), Scotland.
+> -  Moy-Thomas, 1935; [Finarelli and Coates, 2011](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2011.1107); [Finarelli and Coates, 2014](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/chondrenchelys-problematica-traquair-1888-redescribed-a-lower-carboniferous-eellike-holocephalan-from-scotland/88BFED87BFB557EAA7A7EEE40E38FC87).
 
 [*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > lower Pragian, 410.8, 409.2
