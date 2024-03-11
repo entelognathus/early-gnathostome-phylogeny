@@ -471,8 +471,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen) Maisey, 1989
 > Gzhelian, 303.7, 298.9
 
-> - [horizon and locality]
-> - Maisey, 1989
+> - Middle Virgilian, Upper Shawnee Group or Wabaunsee Group, Hartford Limestone, Hamilton Quarry, Sec. 8, T24S, RI 2E, Greenwood County, Kansas, USA.
+> - [Maisey, 1989](https://digitallibrary.amnh.org/items/32cc5279-0c3b-4ce0-87c3-45216f3bcd40).
 
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > middle Telychian, 436.8, 435.1
