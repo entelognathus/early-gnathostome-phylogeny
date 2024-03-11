@@ -741,11 +741,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Janvier, 1981
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
-> Eifelian to Givetian, 393.3, 382.7
+> Emsian, 407.6, 393.3
 
-> - Murrumbidgee Gr, New South Wales, Australia
+> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
 > - Woodward, 1941; Young, 2004
-> - **the age?**
 
 [*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen) Hanke and Wilson, 2004
 > Lochkovian, 419.2, 410.8
