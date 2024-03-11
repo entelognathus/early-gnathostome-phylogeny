@@ -744,7 +744,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
-> - Woodward, 1941; Young, 2004
+> - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
 
 [*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen) Hanke and Wilson, 2004
 > Lochkovian, 419.2, 410.8
