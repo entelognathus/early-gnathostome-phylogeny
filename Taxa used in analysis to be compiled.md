@@ -236,7 +236,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > Frasnian, 382.7, 372.2
 
-> - Victoria, Australia.
+> - Mt Howitt, Victoria, Australia.
 > - Long, 1983
 
 [*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen) Lund, 1986
@@ -511,10 +511,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Russell, 1951
 
 [*Homalodontus aplopagus*](https://deepbone.org/public/#/explor?s_id=5472&functionId=Deepbone_header_searchResultOpen)
-> Lower Triassic, XXX (maximum age), YYY (minimum age)
+> Olenekian, 251.2, 247.2
 
-> - [horizon and locality]
-> - Mutter et al., 2007; 2008
+> - Vega-Phroso Siltstone Member, Sulphur Mountain Formation; Wapiti Lake, British Columbia, Canada.
+> - [Mutter et al., 2007](https://doi.org/10.1111/j.1096-3642.2007.00244.x); [Mutter et al., 2008](https://doi.org/10.1111/j.1096-3642.2008.00488.x).
 
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
 > lower Frasnian, 382.7, 379.2
