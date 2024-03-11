@@ -810,7 +810,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke, 2002
+> - [Hanke, 2002](https://cdnsciencepub.com/doi/abs/10.1139/e02-023)
 
 [*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
 > upper Emsian, 400.45, 393.3
@@ -834,7 +834,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Ludlow to Lochkovian, 427.4, 410.8
 
 > - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
-> - [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055);[Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784); [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam)
+> - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
 
 [*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
 > Lochkovian, 419.2, 410.8
@@ -993,7 +993,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower to middle Emsian, 407.6, 397.9
 
 > - Guiyang, Guizhou, China.
-> - Zhao and Zhu, 2010
+> - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
 
 [*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen) Choo *et al*., 2017
 > Ludfordian, 425.6, 423.0
@@ -1011,7 +1011,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
-> - [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052); [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871)
+> - [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871); [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052)
 
 [*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
 > Lochkovian, 419.2, 410.8
@@ -1129,7 +1129,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > middle Telychian, 436.8, 435.1
 
 > - Huixingshao Formation; Xiushan, Chongqing, China.
-> - Zhu Y. *et al*., 2022
+> - [Zhu Y. *et al*., 2022](https://www.nature.com/articles/s41586-022-05136-8)
 
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
 > upper Lochkovian, 415.0, 410.8
