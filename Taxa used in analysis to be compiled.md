@@ -292,8 +292,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen) Dick, 1981
 > Visean, 346.7, 330.9
 
-> - Midland Valley, Scotland.
-> - Dick, 1981
+> - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
+> - [Dick, 1981](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/diplodoselache-woodi-gen-et-sp-nov-an-early-carboniferous-shark-from-the-midland-valley-of-scotland/92D4573C48B4D626AD8BD89BA14196B3).
 
 [*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
@@ -760,7 +760,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
 > middle Visean, 341.4, 336.2
 
-> - Wardie Shales (Holkerian Substage), Glencartholm, Dumfries District (Dumfries and Galloway Region), Scotland.
+> - Wardie Shales (Holkerian Substage), Glencartholm, Dumfries District (Dumfries and Galloway Region), Scotland.
 > - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Dick and Maisey, 1980](https://www.palass.org/sites/default/files/media/publications/palaeontology/volume_23/vol23_part2_pp363-374.pdf); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x).
 
 [*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
