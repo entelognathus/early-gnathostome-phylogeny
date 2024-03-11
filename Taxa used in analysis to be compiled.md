@@ -1,5 +1,7 @@
 **List of taxa, geological range (Ma), horizon and locality, and references**
 
+**每个属种下的参考文献按年份排列，大家编辑时随手调整。**
+
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
 
@@ -164,7 +166,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian to present, 330.9, 0
 
-> - [horizon and locality]
+> - wide distribution.
 > - Didier, 1995
 
 [*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen) (Traquair, 1888)
@@ -475,7 +477,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > middle Telychian, 436.8, 435.1
 
-> - [horizon and locality]
+> - Wuhan, Hebei, China.
 > - Zhu and Gai, 2007
 
 [*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1838)
@@ -936,7 +938,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=17978&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
-> - [horizon and locality]
+> - wide distribution.
 > - Andrews, 1978
 
 [*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz)
