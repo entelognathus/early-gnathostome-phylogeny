@@ -261,7 +261,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
-> - Chang, 1995; Chang and Yu, 1984.
+> - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
 [*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Lochkovian, 419.2, 415.0
@@ -902,13 +902,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
-> - Zhu et al., 2016
+> - [Zhu et al., 2016](https://www.science.org/doi/10.1126/science.aah3764)
 
 [*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen) Lu and Zhu, 2010
 > upper Pragian, 409.2, 407.6
 
 > - Posongchong Formation; Zhaotong, Yunnan, China.
-> - Lu and Zhu, 2010; Lu et al., 2016
+> - [Lu and Zhu, 2010](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.0708); [Lu et al., 2016](https://www.science.org/doi/10.1126/sciadv.1600154)
 
 [*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Givetian, 387.7, 382.7
