@@ -12,7 +12,7 @@
 > Asselian to Sakmarian, 298.9, 290.1
 
 > -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
-> - [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210); Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); Gross, 1935; Miles, 1973a; Miles, 1973b; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009)
+> - Gross, 1935;[Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
@@ -207,7 +207,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Balruddery Den, Forfarshire, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Miles, 1973a.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
 
 [*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
 > Sakmarian, 293.52, 290.1
@@ -285,7 +285,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Eifelian to Givetian, 393.3, 382.7
 
 > - Orcadian Basin, Scotland
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow *et al*., 2016; Miles, 1973a; Newman, 2010
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow *et al*., 2016; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman, 2010
 
 > - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
 > - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
@@ -313,7 +313,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Wayne Herbert Quarry, Herefordshire, UK.
-> - Dearden *et al*., 2021; Miles, 1973a
+> - Dearden *et al*., 2021; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf)
 
 > - Dearden *et al*. (2021) assigned [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen) to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
@@ -394,7 +394,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Miles, 1973a; Newman et al., 2014.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman et al., 2014.
 
 [*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen)  (St. John and Worthen)
 > Serpukhovian, 330.9, 323.2
@@ -539,7 +539,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Miles, 1973a.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
 > upper Frasnian, 375.7, 372.2
@@ -676,7 +676,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Miles, 1973a.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009);[Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > middle Givetian, 386.0, 384.4
@@ -845,7 +845,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - [horizon and locality] 
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow et al., 2013; Miles, 1973a.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow et al., 2013; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
 
 [*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen) Valiukevicius, 1992
 > lower Lochkovian, 419.2, 415.0
@@ -1103,7 +1103,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Tillywhandland (‘Turin Hill’) and Canterland Den (NHMUK PV P 6967, a pectoral fin spine) near Forfar, and Balruddery Den, near Dundee, all in Angus, UK. Lower Old Red Sandstone, Dundee Flagstone Formation, Arbuthnott–Garvock Gr. 
-> - Miles, 1973a;
+> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf)
 > - **This taxon needs to be coded.**
 
 [*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen) (Wangsjo, 1952)
