@@ -334,7 +334,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - **No specimen data in deepbone.**
 > - Oelofsen, B. W. in Indo-Pacific Fish Biology: Proceedings of the SecondInternational Conference on Indo-Pacific Fishes (eds Uyeno, T., Arai, R., Taniuchi, T. & Matsuura, K.) 107–124 (Ichthyological Society of Japan, 1986).
 
-
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
 
@@ -435,14 +434,14 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
 
-> - [horizon and locality]
-> - Ahlberg, 1989; Jarvik, 1972
+> - Canning Land, East Greenland.
+> - Jarvik, 1972; Ahlberg, 1989;
 
 [*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Holland, 2013; 2014; Long, 1985; Long et al., 1997; 2006
+> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
 
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, 387.7, 382.7
@@ -518,10 +517,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Mutter et al., 2007; 2008
 
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
-> Givetian, 387.7, 382.7
+> lower Frasnian, 382.7, 379.2
 
-> - [horizon and locality]
-> - Long, 1988
+> - Mt Howitt, central Victoria, Australia.
+> - [Long, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632197).
+> - The age of the Taggerty-Howitt fauna is regarded as early Frasnian (Young, 1993). 
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
