@@ -761,7 +761,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > middle Visean, 341.4, 336.2
 
 > - Wardie Shales (Holkerian Substage), Glencartholm, Dumfries District (Dumfries and Galloway Region), Scotland.
-> - [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x); Dick and Maisey, 1980
+> - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Dick and Maisey, 1980](); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x).
 
 [*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
 > lower Famennian, 372.2, 367.7
@@ -1069,7 +1069,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Serpukhovian, 330.9, 328.3
 
 > - [horizon and locality]
-> - [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x); Dick, 1978
+> - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x). 
 
 [*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen) (Powrie, 1870)
 > Lochkovian, 419.2, 410.8
