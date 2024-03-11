@@ -2,6 +2,12 @@
 
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
+[Taxon name with Deepbone link] Author(s), Date
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
 
