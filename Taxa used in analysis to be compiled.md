@@ -47,7 +47,7 @@
 > - Gotland, Sweden; Tabuska River, Central Urals; northern Timan; Novaya Zemlya Archipelago; Severnaya Zemlya Archipelago, Russia.
 > - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812); [Botella *et ai*., 2007](https://www.nature.com/articles/nature05989); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655)
 
-[*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
+[*![image](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/31069739/877c2e64-0133-421d-a47a-73babe64d3ba)*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
 > Pridoli to Lochkovian, 423.0, 410.8
 
 > - Welsh Borders, UK, and the Artois-Ardenne regions of France and Belgium.
@@ -348,7 +348,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Maisey, 1983; Maisey 1987; Teng et al., 2019
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
-> upper Givetian, 384.4, 382.7
+> latest Emsian or Eifelian, 397.8, 388.3
 
 > - Bird Fiord Formation, southwestern Ellesmereland, arctic Canada.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
