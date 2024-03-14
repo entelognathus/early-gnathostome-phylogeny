@@ -741,8 +741,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen) Burrow, 2011
 > upper Pridoli, 421.1, 419.2
 
-> - [horizon and locality]
-> - Burrow and Rudkin, 2014
+> - New Brunswick, Canada (Ludlow or Pridoli); Williamsville Member, Bertie Formation; near Stevenville, Ontario, Canada
+> - [Burrow and Rudkin, 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104171).
 
 [*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen) Janvier, 1981
 > lower Pragian, 410.8, 409.2
