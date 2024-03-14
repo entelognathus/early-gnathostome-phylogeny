@@ -581,7 +581,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Emsian, 400.45, 393.3
 
 > - Chuandong Formation; Qujing, Yunnan, China.
-> - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
+> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
 [*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) (Eastman, 1908)
 > upper Tournaisian or lower Visean, 350.8, 341.4
