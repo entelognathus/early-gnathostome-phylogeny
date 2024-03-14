@@ -886,8 +886,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - Brazeau, 2012; Dineley, 1999
+> - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
+> - Miles, 1973a; Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
 
 [*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) Lu et al., 2017
 > Pragian, 410.8, 407.6
