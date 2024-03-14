@@ -818,8 +818,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
 > Lochkovian, 419.2, 410.8
 
-> - [horizon and locality] 
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow et al., 2013; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
+> - Upper part of the Arbuthnott Group; Midland Valley, Scotland.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2013](http://dx.doi.org/10.1080/03115518.2013.765656).
 
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen) Hanke, 2002
 > Lochkovian, 419.2, 410.8
