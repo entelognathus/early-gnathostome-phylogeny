@@ -495,10 +495,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Moy-Thomas, 1936](https://www.cambridge.org/core/journals/geological-magazine/article/abs/on-the-structure-and-affinities-of-the-carboniferous-cochliodont-helodus-simplex/27FD58E632E3D0EA03CF68CB10E53903).
 
 [*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen) (Egerton, 1857)
-> Ludlow, 427.4, 423.0
+> Pridoli, 423.0, 419.2
 
-> - [horizon and locality]
+> - Downton Castle Sandstone Formation?, Lower Old Red Sandstone, Downtonian (=Pridoli), Anglo-Welsh Basin, UK.
 > - Stensiö, 1932
+> - Dittonian (roughly = Lochkovian, Gedinnian).
 
 [*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
 > lower Frasnian, 382.7, 379.2
