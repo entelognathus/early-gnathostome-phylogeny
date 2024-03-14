@@ -896,9 +896,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Lu et al., 2017](https://www.nature.com/articles/s41467-017-01801-z)
 
 [*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen) Janvier et al., 1986
-> upper Eifelian to Givetian, 389.6, 382.7
+> Emsian, 407.6, 393.3
 
-> - [horizon and locality]
+> - La Paz region (Belén Formation), and Cochabamba - Sucre areas (Icla Formation), Bolivia.
 > - Maisey and Anderson, 2001
 > - The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
