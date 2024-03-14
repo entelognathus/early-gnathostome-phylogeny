@@ -300,7 +300,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen) Dick, 1981
 > Visean, 346.7, 330.9
 
-> - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
+> - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
 > - [Dick, 1981](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/diplodoselache-woodi-gen-et-sp-nov-an-early-carboniferous-shark-from-the-midland-valley-of-scotland/92D4573C48B4D626AD8BD89BA14196B3).
 
 [*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen)
