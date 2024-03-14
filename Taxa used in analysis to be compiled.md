@@ -952,11 +952,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - wide distribution.
 > - Andrews, 1978
 
-[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz)
-> Emsian, 407.6, 393.3
+[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
+> Eifelian to Givetian, 393.3, 382.7
 
-> - [horizon and locality]
-> - Burrow et al., 2000
+> - Orcadian Basin, Scotland.
+> - [Burrow et al., 2016](https://palaeo-electronica.org/content/2016/1398-scottishdiplacanthid-fishes).
 
 [*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson
 > lower Givetian, 387.7, 386.0
@@ -974,7 +974,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
-> - [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345); Young, 1985
+> - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
 > middle Telychian, 436.8, 435.1
@@ -986,7 +986,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > middle to upper Telychian, 436.8, 433.4
 
 > - lower part of Maoshan Formation, Changxing District, Zhejiang Province, China.
-> - [Gai *et al*., 2011](https://www.nature.com/articles/nature10276)
+> - [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > lower Pragian, 410.8, 409.2
