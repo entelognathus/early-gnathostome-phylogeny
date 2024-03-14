@@ -294,8 +294,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=2899&functionId=Deepbone_header_searchResultOpen)
 > Givetian to Famennian, 387.8, 358.9
 
-> - [horizon and locality]
+> - Frasnian of Germany. 
 > - Forey, 1998
+> - Type species, *D. kayseri* (v. Koenen 1895) from the Frasnian of Germany. *D. heiligenstockiensis* (Jessen, 1966) from the Frasnian of Bergish-Gladbach, Germany. *D. jaekeli* Stensio 1922 from the Frasnian of Ense, Wildungen, Germany.
+> - **other ages to be checked**
 
 [*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen) Dick, 1981
 > Visean, 346.7, 330.9
