@@ -777,8 +777,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
 > lower Famennian, 372.2, 367.7
 
-> - [horizon and locality]
-> - Taverne, 1997
+> - Famenne Formation; Massive of Philippeville, Belgium.
+> - [Taverne, 1997](https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences-earth-sciences/67-1997/irscnb_p4087_00eebfp_67_bulletin-4-red.pdf).
 
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
 > lower Givetian, 387.7, 386.0
