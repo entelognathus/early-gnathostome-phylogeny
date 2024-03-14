@@ -1069,8 +1069,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen) Brito and Ferreira, 1989 
 > Albian, 113.0, 100.5
 
-> - [horizon and locality]
-> - Lane, 2010; Lane and Maisey, 2009; 2012; Maisey and Denton, 2016
+> - Upper (Romualdo) Member, Santana Formation; northeastern Brazil.
+> - [Lane and Maisey, 2009](https://www.tandfonline.com/doi/abs/10.1080/02724634.2009.10010359); [Lane, 2010](http://www.bioone.org/doi/full/10.1206/681.1); [Lane and Maisey, 2012](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/visceral-skeleton-and-jaw-suspension-in-the-durophagous-hybodontid-shark-tribodus-limae-from-the-lower-cretaceous-of-brazil/5FB57E72FCE3993A631B48F0DCD12651); Maisey and Denton, 2016
 
 [*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen) Woodward, 1889
 > Bashkirian to Changhsingian, 323.2, 251.9
