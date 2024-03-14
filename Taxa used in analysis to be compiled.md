@@ -575,8 +575,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2011
 > Gzhelian, 303.7, 298.9
 
-> - [horizon and locality]
-> - Pradel et al., 2011
+> - Douglas Group; Kansas, UsA.
+> - [Pradel et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024938).
 
 [*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
 > upper Emsian, 400.45, 393.3
