@@ -786,11 +786,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Scotland, England
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
-[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2014
+[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel *et al*., 2014
 > Serpukhovian, 330.9, 323.2
 
-> - [horizon and locality]
-> - Pradel et al., 2014
+> - Lower Shale Member, Fayetteville Formation, Chesterian, Upper Mississippian; near Leslie, Searcy County, Arkansas, USA.
+> - [Pradel *et al*., 2014](https://www.nature.com/articles/nature13195).
 
 [*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen) Traquair, 1890
 > [geological range], XXX (maximum age), YYY (minimum age)
