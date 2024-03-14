@@ -583,11 +583,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Chuandong Formation; Qujing, Yunnan, China.
 > - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
 
-[*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) Rayner, 1951
+[*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) (Eastman, 1908)
 > upper Tournaisian or lower Visean, 350.8, 341.4
 
-> - [horizon and locality]
-> - Giles and Friedman, 2014; Rayner, 1951
+> - New Providence Shale Member, Stockdale Formation; Kentucky, USA.
+> - Rayner, 1951; [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A). 
 
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > Lochkovian, 419.2, 410.8
