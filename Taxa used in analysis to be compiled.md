@@ -2,9 +2,6 @@
 
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
-**To Pan Zhaohui: spp. for all species under a genus, link the genus, not sp.**
-
-
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -294,7 +291,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
 > - The three species of *Diplacanthus* are distinguished from the other acanthodians by the presence of two dorsal fin spines and a heavily ossified shoulder girdle. The other two species are *Diplacanthus longispinus* Agassiz, 1845 and *Diplacanthus tenuistriatus* Traquair, 1894.
 
-[*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=4369&functionId=Deepbone_header_searchResultOpen)
+[*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=2899&functionId=Deepbone_header_searchResultOpen)
 > Givetian to Famennian, 387.8, 358.9
 
 > - [horizon and locality]
@@ -306,7 +303,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
 > - [Dick, 1981](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/diplodoselache-woodi-gen-et-sp-nov-an-early-carboniferous-shark-from-the-midland-valley-of-scotland/92D4573C48B4D626AD8BD89BA14196B3).
 
-[*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=4251&functionId=Deepbone_header_searchResultOpen)
+[*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=2900&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
@@ -464,7 +461,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Zhu et al., 2009](https://www.nature.com/articles/nature07855); [Cui et al., 2019](https://www.nature.com/articles/s41598-019-40845-7)
 
-[*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=4645&functionId=Deepbone_header_searchResultOpen)
+[*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=2800&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
 > - [horizon and locality]
@@ -846,7 +843,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Valiukevicius, 1992
 > - Also cited as *Zemlyacanthus (Poracanthodes) menneri* (Valiukevicius, 1992).
 
-[*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=166837&functionId=Deepbone_header_searchResultOpen)
+[*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
 
 > - [horizon and locality]
@@ -946,7 +943,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - single articulated specimen　comprises　a near-complete dermal cranium, braincase and mandibular，hyoid and gill arches
 
-[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=17978&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
 > - wide distribution.
@@ -1012,7 +1009,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Choo *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170929)
 
-[*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=16391&functionId=Deepbone_header_searchResultOpen)
+[*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=2773&functionId=Deepbone_header_searchResultOpen)
 > Pliocene to present, 5.33, 0
 
 > - wide distribution.
@@ -1147,7 +1144,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xitun Formation, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
 
-[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=3295&functionId=Deepbone_header_searchResultOpen)
+[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
 > - South China and northern Vietnam.
