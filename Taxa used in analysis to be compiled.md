@@ -617,7 +617,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen) Schultze and Zidek, 1982
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
+> -  a drilling core at Ventspils, Latvia.
 > - Schultze and Zidek, 1982
 
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
