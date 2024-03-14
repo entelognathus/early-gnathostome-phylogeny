@@ -762,7 +762,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Andrews et al., 2005
+> - [Andrews et al., 2005](https://www.researchgate.net/publication/213769142_The_structure_of_the_sarcopterygian_Onychodus_jandemarrai_n_sp_from_Gogo_Western_Australia_with_a_functional_interpretation_of_the_skeleton)
 
 [*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
 > middle Visean, 341.4, 336.2
@@ -779,7 +779,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
 > lower Givetian, 387.7, 386.0
 
-> - [horizon and locality]
+> - Scotland, England
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
 [*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2014
