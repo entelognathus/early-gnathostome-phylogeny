@@ -68,7 +68,7 @@
 > - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
 
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
-> upper Wenlock to middle Ludlow, 430.5, 425.6
+> upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
 
 > - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
 > - Ritchie, 1967
