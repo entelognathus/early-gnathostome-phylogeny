@@ -1030,11 +1030,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
 > - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
 
-[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen) Mackie, 1863
+[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen) (Mackie, 1863)
 > Upper Jurassic to Maastrichtian, 161.5, 66.0
 
-> - [horizon and locality]
-> - Maisey, 1985
+> - Lower Chalk, Dover, England.
+> - [Maisey, 1985](https://digitallibrary.amnh.org/items/f703fca3-f17d-4211-9604-df4e9aeaa420).
 
 [*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
 > upper Famennian, 363.3, 358.9
