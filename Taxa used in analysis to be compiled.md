@@ -51,7 +51,7 @@
 > Pridoli to Lochkovian, 423.0, 410.8
 
 > - Welsh Borders, UK, and the Artois-Ardenne regions of France and Belgium.
-> - Randle and Sansom, 2016
+> - [Randle and Sansom, 2016](https://www.tandfonline.com/doi/full/10.1080/14772019.2016.1208293).
 
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
 > Pragian to lower Emsian, 410.8, 400.45
