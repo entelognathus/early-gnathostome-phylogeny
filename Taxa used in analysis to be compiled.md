@@ -2,6 +2,9 @@
 
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
+**To Pan Zhaohui: spp. for all species under a genus, link the genus, not sp.**
+
+
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
