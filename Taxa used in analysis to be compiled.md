@@ -547,8 +547,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
 > upper Frasnian, 375.7, 372.2
 
-> - [horizon and locality]
+> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Stensiö, 1969; Young, 1986
+> - **data of one specimen in Deepbone incorrect. not in Gogo.** 
 
 [*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > middle Lochkovian, 416.4, 413.6
