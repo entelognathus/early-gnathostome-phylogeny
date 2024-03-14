@@ -33,7 +33,7 @@
 > Anisian to Ladinian, 247.2, 237.0
 
 > - Besano Formation, Grenzbitumenzone; Monte San Giorgio, Switzerland.
-> - Maisey, 2011
+> - [Maisey, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2011.01035.x).
 
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen) Coates and Sequeira, 2001
 > Serpukhovian, 330.9, 323.2
