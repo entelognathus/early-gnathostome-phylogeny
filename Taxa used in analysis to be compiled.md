@@ -222,7 +222,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Eifelian to Givetain, 393.3, 382.7
 
 > - Caithness Flagstone Group, Scotland
-> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078)
+> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
 > lower Frasnian, 382.7, 379.2
@@ -685,7 +685,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > middle Givetian, 386.0, 384.4
 
-> - [horizon and locality]
+> - Middle Old Red Sandstone of Caithness (John O'Groats Sandstone), Orkney (Eday Flags) and Shetland (Brindister Flags), Scotland.
 > - Hemmings, 1978; Long et al., 2015
 
 [*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen) Schultze, 1973
@@ -877,10 +877,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
 
 
-[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz)
+[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
 > upper Eifelian, 389.6, 387.7
 
-> - [horizon and locality]
+> - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
 > - Hemmings, 1978
 
 [*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
