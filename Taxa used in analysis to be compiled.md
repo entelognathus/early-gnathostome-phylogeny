@@ -56,8 +56,8 @@
 [*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
 > Pragian to lower Emsian, 410.8, 400.45
 
-> - Al Huj section, Al Qalibah area, Saudi Arabia.
-> - Olive et al., 2011; 2014
+> - Qasr Limestone Member, Jauf Formation; Al Huj section, Al Qalibah area, Saudi Arabia.
+> - [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
 
 > - Emsian is subdivided into lower and upper Emsian.
 
