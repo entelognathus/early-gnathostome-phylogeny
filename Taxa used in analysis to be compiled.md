@@ -886,7 +886,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
-> - Miles, 1973a; Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
+> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
 
 [*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) Lu et al., 2017
 > Pragian, 410.8, 407.6
