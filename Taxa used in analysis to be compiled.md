@@ -715,11 +715,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Minjinia turgenensis*](https://deepbone.org/public/#/explor?s_id=74213&functionId=Deepbone_header_searchResultOpen) Brazeau et al., 2020
 > Pragian, 410.8, 407.6
 
-> - [horizon and locality]
-> - Brazeau et al., 2020
-
-> - Preserving partial skull-roof and braincase (anterior portion missing).
-> - **to Zhaohui, the point in the deepbone map is wrong. Correct it.**
+> - Upper part of Tsagaan-Salaa Gol Formation; Turgen Strictly Protected Area, Uvs province, western Mongolia.
+> - [Brazeau et al., 2020](https://www.nature.com/articles/s41559-020-01290-2).
 
 [*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen) Gardiner and Bartram, 1977
 > lower Frasnian, 382.7, 379.2
