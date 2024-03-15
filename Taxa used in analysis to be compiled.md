@@ -12,13 +12,13 @@
 > Asselian to Sakmarian, 298.9, 290.1
 
 > -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
-> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
+> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
 
 > - Sundvollen Formation; Rudstangen, Ringerike, S. Norway.
-> - Heintz, 1939; [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215); Turner and Turner, 1974
+> - Heintz, 1939; [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215); [Turner and Turner, 1974](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_54_2_183-192.pdf).
 > - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas were lower Ludlovian in age and the evidence from this study supports this view."
 
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
@@ -39,7 +39,7 @@
 > Serpukhovian, 330.9, 323.2
 
 > - Manse Burn Formation; Bearsden, Scotland.
-> - Coates and Sequeira, 1998; 2001; Coates et al., 1998; [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
+> - [Coates and Sequeira, 1998](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/braincase-of-a-primitive-shark/E11D5DAAAFE25E9196D17BC1C4CCBD9C); [Coates and Sequeira, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021[0438:ANSCFT]2.0.CO;2); [Coates et al., 1998](https://www.nature.com/articles/25467); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
