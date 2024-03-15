@@ -272,7 +272,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
 
-> - [horizon and locality]
+> - Anderson River, about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories, Canada.
 > - Schultze, 1968; Schultze and Cumbaa, 2001
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
@@ -466,7 +466,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=2800&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
-> - [horizon and locality]
+> - wide distribution.
 > - Warren et al., 2000
 
 [*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen) Burrow et al., 2012
@@ -847,7 +847,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
 
-> - [horizon and locality]
+> - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 
 [*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen) Jessen, 1975
