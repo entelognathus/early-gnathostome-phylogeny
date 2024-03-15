@@ -859,10 +859,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
 
 [*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen) (Robertson, 1939)
-> Wenlock to Ludlow, 433.4, 423.0
+> Ludlow, 427.4, 423.0
 
-> - [horizon and locality]
-> - Denison, 1951
+> - Paadla Formation, Oesel, Saaremaa Island, Estonia.
+> - [Denison, 1951](https://agris.fao.org/search/en/providers/122376/records/647472d32d5d435c424edc0c).
 
 [*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
 > Lochkovian, 419.2, 410.8
