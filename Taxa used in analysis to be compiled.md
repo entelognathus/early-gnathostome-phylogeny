@@ -457,7 +457,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Tiaomajian Formation.; Bobai, Guangxi, China
 > - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
 
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu, et al., 2009
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2009
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
@@ -791,10 +791,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Pradel *et al*., 2014](https://www.nature.com/articles/nature13195).
 
 [*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen) Traquair, 1890
-> [geological range], XXX (maximum age), YYY (minimum age)
+> upper Eifelian, 389.6, 387.7
 
-> - [horizon and locality]
+> - Achanarras Quarry, Scotland.
 > - [references]
+> - **The age in Deepbone is incorrect.**
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > lower Emsian, 407.6, 400.45
@@ -939,10 +940,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > Frasnian, 382.7, 372.2
 
-> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry(now flooded), Pas-de-Calas, France.
+> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry (now flooded), Pas-de-Calas, France.
 > - [Giles et al., 2015b](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1485)
-
-> - single articulated specimen　comprises　a near-complete dermal cranium, braincase and mandibular，hyoid and gill arches
 
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
