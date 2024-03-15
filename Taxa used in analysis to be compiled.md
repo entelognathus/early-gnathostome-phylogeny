@@ -734,7 +734,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > - Keltiefjellet Division (Lykta Fauna), Wood Bay Formation; Spitzbergen.
-> - Wangsjo, 1952; Janvier, 1981
+> - Wangsjo, 1952; [Janvier, 1981](https://palaeovertebrata.com/Articles/view/89).
 
 [*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen) Burrow, 2011
 > upper Pridoli, 421.1, 419.2
@@ -746,7 +746,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Pragian, 410.8, 409.2
 
 > - Sigurdfjellet Division, Wood Bay Formation; Spitzbergen.
-> - Janvier, 1981
+> - [Janvier, 1981](https://palaeovertebrata.com/Articles/view/89).
 
 [*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
 > Emsian, 407.6, 393.3
