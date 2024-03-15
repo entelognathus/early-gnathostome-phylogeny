@@ -796,6 +796,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Achanarras Quarry, Scotland.
 > - [references]
 > - **The age in Deepbone is incorrect.**
+> - **This taxon is not in the character matrix.**
 
 [*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
 > lower Emsian, 407.6, 400.45
@@ -1106,13 +1107,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Tillywhandland (‘Turin Hill’) and Canterland Den (NHMUK PV P 6967, a pectoral fin spine) near Forfar, and Balruddery Den, near Dundee, all in Angus, UK. Lower Old Red Sandstone, Dundee Flagstone Formation, Arbuthnott–Garvock Gr. 
 > - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf)
-> - **This taxon needs to be coded.**
+> - **This taxon is not in the character matrix.**
 
 [*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen) (Wangsjo, 1952)
 > Lochkovian, 419.2, 410.8
 
 > - Fraenkelryggen Formation, Red Bay Group; Spitsbergen.
-> - Janvier, 1985
+> - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955).
 
 [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
 > Pragian, 410.8, 407.6
