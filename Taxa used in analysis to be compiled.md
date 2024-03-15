@@ -18,7 +18,7 @@
 > Gorstian, 427.4, 425.6
 
 > - Sundvollen Formation; Rudstangen, Ringerike, S. Norway.
-> - Heintz, 1939; Ritchie, 1967; Turner and Turner, 1974
+> - Heintz, 1939; [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215); Turner and Turner, 1974
 > - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas were lower Ludlovian in age and the evidence from this study supports this view."
 
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
@@ -71,7 +71,7 @@
 > upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
 
 > - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
-> - Ritchie, 1967
+> - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
 
 [*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
@@ -325,7 +325,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
 > - [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001)
 
-> Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
+> - Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
 
 [*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen) Oelofsen 1986
 > Kungurian, 283.5, 273.0
@@ -334,7 +334,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Coates et al., 2017](https://www.nature.com/articles/nature20806)
 > - Early Permian dating estimates vary from the early Artinskian to the latest Kungurian stage.
 > - **No specimen data in deepbone.**
-> - Oelofsen, B. W. in Indo-Pacific Fish Biology: Proceedings of the SecondInternational Conference on Indo-Pacific Fishes (eds Uyeno, T., Arai, R., Taniuchi, T. & Matsuura, K.) 107–124 (Ichthyological Society of Japan, 1986).
 
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
@@ -617,7 +616,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen) Schultze and Zidek, 1982
 > Pragian, 410.8, 407.6
 
-> -  a drilling core at Ventspils, Latvia.
+> - a drilling core at Ventspils, Latvia.
 > - Schultze and Zidek, 1982
 
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
@@ -639,7 +638,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); Burrow and Simpson, 1995; Pickett et al., 2000; [Schultze and Märss, 2004](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f99adfb847826be1f10d0bb85f87a59e6a8ab98a#page=57); [Jerve *et al*., 2016](https://peerj.com/articles/2521/).
 > -  Type locality: *Ozarkodina remscheidensis remscheidensis* Conodont Subzone (Viira and Männik 1997), Ohesaare Regional Stage, upper Pridoli, Upper Silurian.
 > -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
-
 
 [*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Broili, 1929
 > upper Pragian to lower Emsian, 409.2, 400.45
@@ -728,7 +726,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Eifelian, 393.3, 391.4
 
 > - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
-> - Janvier and Clément, 2005; Ritchie, 2004
+> - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Emsian, 407.6, 393.3
@@ -1416,8 +1414,6 @@ Janvier, P., 1985. Les Céphalaspides du Spitsberg: anatomie, phylogénie et sys
 
 Janvier, P., Arsenault, M. and Desbiens, S., 2004. Calcified cartilage in the paired fins of the osteostracan *Escuminaspis laticeps* (Traquair 1880), from the Late Devonian of Miguasha (Québec, Canada), with a consideration of the early evolution of the pectoral fin endoskeleton in vertebrates. *J. Vertebr. Paleontol.* **24**: 773–779.
 
-Janvier, P. and Clément, G., 2005. A new groenlandaspidid arthrodire (Vertebrata: Placodermi) from the Famennian of Belgium. *Geol. Belg.* **8**: 51–67.
-
 Janvier, P., Tông-Dzuy, T. and Ta-Hoa, P., 1993. A new Early Devonian galeaspid from Bac Thai Province, Vietnam. *Palaeontology* **36**: 297–309.
 
 Jarvik, E., 1972. Middle and Upper Devonian Porolepiformes from East Greenland with special reference to *Glyptolepis groenlandica* n. sp. and a discussion on the structure of the head in the Porolepiformes. *Meddel. Grønland* **187**: 1–307.
@@ -1539,6 +1535,8 @@ Mutter, R. J., Neuman, A. G. and De Blanger, K., 2008. *Homalodontus* nom. nov.,
 Newman, M. J., Burrow, C. J., Den Blaauwen, J. L. and Davidson, R. G., 2014. The Early Devonian acanthodian *Euthacanthus macnicoli* Powrie, 1864 from the Midland Valley of Scotland. *Geodiversitas* **36**: 321–348.
 
 Newman, M. J., Davidson, R. G., Blaauwen, J. L. D. and Burrow, C. J., 2012. The Early Devonian acanthodian *Uraniacanthus curtus* (Powrie, 1870) n. comb. from the Midland Valley of Scotland. *Geodiversitas* **34**: 739–759.
+
+Oelofsen, B. W. in Indo-Pacific Fish Biology: Proceedings of the SecondInternational Conference on Indo-Pacific Fishes (eds Uyeno, T., Arai, R., Taniuchi, T. & Matsuura, K.) 107–124 (Ichthyological Society of Japan, 1986).
 
 Olive, S., Goujet, D., Lelièvre, H. and Janjou, D., 2011. A new placoderm fish (Acanthothoraci) from the Early Devonian Jauf Formation (Saudi Arabia). *Geodiversitas* **33**: 393–409.
 
