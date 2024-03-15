@@ -948,7 +948,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Famennian, 372.2, 358.9
 
 > - wide distribution.
-> - Andrews, 1978
+> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 [*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
 > Eifelian to Givetian, 393.3, 382.7
