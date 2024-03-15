@@ -543,6 +543,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Lower part of the Arbuthnott Group, Midland Valley (the Strathmore region), Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2018](https://bibliotekanauki.pl/articles/139010.pdf).
+> - Burrow et al., 2018: "The Lochkovian Man on the Hill (MOTH) locality in the Northwest Territories, Canada, is also known to have several ischnacanthiform taxa, originally all assigned by Bernacsek and Dineley (1977) to *Ischnacanthus gracilis*, but now all referred to other genera (Blais et al. 2015), or as yet undetermined." **The MOTH point in the deepbone should be updated.***
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
 > upper Frasnian, 375.7, 372.2
