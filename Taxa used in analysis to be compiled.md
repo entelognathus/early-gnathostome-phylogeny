@@ -12,7 +12,7 @@
 > Asselian to Sakmarian, 298.9, 290.1
 
 > -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
-> - Gross, 1935;[Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
+> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  Coates, 1994; [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
@@ -39,7 +39,7 @@
 > Serpukhovian, 330.9, 323.2
 
 > - Manse Burn Formation; Bearsden, Scotland.
-> - Coates and Sequeira, 1998; 2001; Coates et al., 1998; Sallan and Coates, 2010
+> - Coates and Sequeira, 1998; 2001; Coates et al., 1998; [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
@@ -65,7 +65,7 @@
 > upper Givetian, 384.4, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
-> - Lukševičs, 2001; Upeniece, 2001; Vaskaninova, 2009
+> - [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
 
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
 > upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
@@ -102,7 +102,7 @@
 > upper Emsian to Famennian, 400.45, 358.9
 
 > - wide distribution.
-> - Long and Trinajstic, 2010; Béchard et al., 2014
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
@@ -122,13 +122,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke and Wilson, 2006
+> - [Hanke and Wilson, 2006](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2006)26[526:AOTEDA]2.0.CO;2)
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
 
 > - Buchan, Victoria and New South Wales
-> - Burrow and Turner, 1998; Long et al., 2014
+> - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
 
 [*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
 > lower Frasnian, 382.7, 379.2
