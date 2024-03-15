@@ -1084,13 +1084,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Middle Valley, Scotland.
-> - Newman et al., 2012
+> - [Newman *et al*., 2012](https://bioone.org/journals/Geodiversitas/volume-34/issue-4/g2012n4a2/The-Early-Devonian-Acanthodian-iUraniacanthus-curtus-i-Powrie-1870-n/10.5252/g2012n4a2.full).
 
 [*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen) (Bernacsek and Dineley, 1977)
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke and Davis, 2008; Newman *et al*., 2012
+> - Hanke and Davis, 2008; [Newman *et al*., 2012](https://bioone.org/journals/Geodiversitas/volume-34/issue-4/g2012n4a2/The-Early-Devonian-Acanthodian-iUraniacanthus-curtus-i-Powrie-1870-n/10.5252/g2012n4a2.full).
 
 > - *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
 
@@ -1098,7 +1098,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation; Wyoming, USA.
-> - Denison, 1968
+> - [Denison, 1968](https://agris.fao.org/search/en/providers/122376/records/647472ae425ec3c088f2eeb7).
 
 [*Vernicomacanthus uncinatus*](https://deepbone.org/public/#/explor?s_id=3640&functionId=Deepbone_header_searchResultOpen) (Powrie, 1864)
 > Lochkovian, 419.2, 410.8
@@ -1153,7 +1153,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - Podolia, Ukraine.
-> - Stensiö, 1932
+> - [Stensiö, 1932](https://agris.fao.org/search/en/providers/122376/records/6474729ba4e07c0bc4bfd2b6).
 
 **New taxa under study**
 New placoderm close to the crown gnathostome node
