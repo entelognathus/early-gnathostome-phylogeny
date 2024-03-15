@@ -116,7 +116,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > - New South Wales, Australia
-> - Young, 1980; [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
+> - [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
 
 [*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen) Bernascek and Dineley, 1977
 > Lochkovian, 419.2, 410.8
@@ -140,7 +140,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier and Wilson, 1996
+> - Gagnier and Wilson, 1996.
 
 [*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Lochkovian, 419.2, 410.8
