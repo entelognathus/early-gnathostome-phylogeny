@@ -490,7 +490,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1838)
 > Moscovian, 315.2, 307.0
 
-> - [horizon and locality]
+> - Staffordshire, England and Lanarkshire, Scotland
 > - [Moy-Thomas, 1936](https://www.cambridge.org/core/journals/geological-magazine/article/abs/on-the-structure-and-affinities-of-the-carboniferous-cochliodont-helodus-simplex/27FD58E632E3D0EA03CF68CB10E53903).
 
 [*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen) (Egerton, 1857)
