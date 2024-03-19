@@ -879,7 +879,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Eifelian, 389.6, 387.7
 
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
-> - Hemmings, 1978
+> Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
 
 [*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > Lochkovian, 419.2, 410.8
