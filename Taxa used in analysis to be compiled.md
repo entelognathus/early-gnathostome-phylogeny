@@ -65,7 +65,7 @@
 > upper Givetian, 384.4, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
-> - [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
+> - Nilsson, 1941; Upeniece and Upenieks, 1992; Hemmings, 1978; [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
 
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
 > upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
