@@ -1035,7 +1035,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
 > upper Famennian, 363.3, 358.9
 
-> - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
+> - Cleveland Shale Member, Ohio Shale Formation, Cleveland, Ohio, USA.
 > - Schaeffer, 1981; Williams, 1998
 
 [*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen) Gagnier et al., 1999
