@@ -95,7 +95,7 @@
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Pragian, 410.8, 407.6
 
-> - Wood Bay Formation; Spitsbergen.
+> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
 > - [Wangsjo, 1952](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173537/Skrifter097A.pdf?sequence=1); [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955)
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
@@ -277,9 +277,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Schultze, 1968; Schultze and Cumbaa, 2001
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
-> Lochkovian, 419.2, 410.8
+> Pragian, 410.8, 407.6
 
-> - Wood Bay Formation; Gronhorgdalen, Spitsbergen.
+> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
 > - Goujet, 1975; Goujet, 1984
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
