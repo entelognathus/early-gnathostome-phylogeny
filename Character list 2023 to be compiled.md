@@ -18,6 +18,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Andreev *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2.
@@ -27,6 +29,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
@@ -38,6 +42,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Andreev *et al*. (2022), Character 3; Brazeau *et al*. (2023), Character 3.
@@ -48,6 +54,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0.
+
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
 > Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Andreev *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 4.
@@ -57,6 +65,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is 1.
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
@@ -70,6 +80,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
 > Donoghue *et al*. (2000), Character 67; King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10.
@@ -78,6 +90,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 11.
@@ -85,6 +99,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
@@ -96,6 +112,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 10. Dentinous tissue: (0) absent; (1) present.
 
 > Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10; Andreev *et al*. (2022), Character 9;Brazeau *et al*. (2023), Character 13.
@@ -103,6 +121,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
 
@@ -113,6 +133,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. 
+
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
 > Zhu  *et al*. (2009, Character 152), and references therein; Zhu *et al*. (2013), Character 141; Giles *et al*. (2015), Character 86; Choo *et al*. (2017), Character 137; King *et al*. (2017), Character 343; Castiello (2018), Character 335; Zhu Y. *et al*. (2022), Character 12; Andreev *et al*. (2022), Character 86; Brazeau *et al*. (2023), Character 348.
@@ -121,6 +143,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13; Andreev *et al*. (2022), Character 5; Brazeau *et al*. (2023), Character 18.
@@ -128,6 +152,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
@@ -139,6 +165,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -.
+
 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 
 > Giles *et al*. (2015), Character 7; Choo *et al*. (2017), Character 256; King *et al*. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. *et al*. (2022), Character 15; Andreev *et al*. (2022), Character 7;Brazeau *et al*. (2023), Character 20.
@@ -146,6 +174,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is -.
 
 16. Enamel(oid) on teeth: (0) absent; (1) present.
 
@@ -155,6 +185,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 151), Friedman & Brazeau (2010, Character 46), and references therein; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Choo *et al*. (2017), Character 136; King *et al*. (2017), Character 342; Castiello (2018), Character 334; Zhu Y. *et al*. (2021), Character 78; Zhu Y. *et al*. (2022), Character 17; Andreev *et al*. (2022), Character 80; Brazeau *et al*. (2023), Character 347.
@@ -162,6 +194,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 18. Galeaspidin: (0) absent; (1) present.
 
@@ -172,6 +206,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0.
+
 19. Extensive pore canal network: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 8; Choo *et al*. (2017), Character 257; King *et al*. (2017), Character 5; Castiello (2018), Character 5; Zhu Y. *et al*. (2022), Character 19; Andreev *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 5.
@@ -179,6 +215,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0, judging from lack of pores or pore-like texture on the surface of the dermal skeleton. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 20. Resorption and redeposition of odontodes of dermal plates: (0) lacking or partially developed; (1) developed.
 
@@ -189,6 +227,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 21. Generations of odontodes of dermal plates: (0) buried; (1) areally growing; (2) resorbed.
 
@@ -204,6 +244,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 22. Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal, (2) enamel lines completely the pore canal.
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22; Andreev *et al*. (2022), Character 235.
@@ -214,6 +256,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 23. Relative size of cosmine pores: (0) small; (1) large.
 
 > King *et al*. (2017), Character 270; Castiello (2018), Character 264; Zhu Y. *et al*. (2022), Character 23; Brazeau *et al*. (2023), Character 275.
@@ -222,6 +266,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. 
+
 24. Rostral tubuli: (0) absent; (1) present.
 
 > Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Andreev *et al*. (2022), Character 258; Brazeau *et al*. (2023), Character 71.
@@ -229,6 +275,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
 
@@ -244,6 +292,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 26. Main dentinous tissue forming fin spine: (0) osteodentine; (1) orthodentine.
 
 > Burrow & Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Choo *et al*. (2017), Character 260; King *et al*. (2017), Character 13; Castiello (2018), Character 13; Zhu Y. *et al*. (2022), Character 26; Andreev *et al*. (2022), Character 12; Brazeau *et al*. (2023), Character 16.
@@ -251,6 +301,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 ## Squamation & related structures
 
@@ -264,6 +316,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 28. Differentiated lepidotrichia: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 14; Choo *et al*. (2017), Character 261; King *et al*. (2017), Character 469; Castiello (2018), Character 458; Zhu Y. *et al*. (2022), Character 28; Andreev *et al*. (2022), Character 14; Brazeau *et al*. (2023), Character 474.
@@ -274,6 +328,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 29. Epichordal lepidotrichia in caudal fin: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 142), and references therein; Zhu *et al*. (2013), Character 146; Giles *et al*. (2015), Character 236; Choo *et al*. (2017), Character 140; King *et al*. (2017), Character 470; Castiello (2018), Character 459; Zhu Y. *et al*. (2022), Character 29; Andreev *et al*. (2022), Character 234; Brazeau *et al*. (2023), Character 475.
@@ -282,6 +338,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 30. Barbed lepidotrichial segments: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 263; Zhu Y. *et al*. (2022), Character 30; Andreev *et al*. (2022), Character 267.
@@ -289,6 +347,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 31. Fringing fulcra: (0) absent; (1) present.
 
@@ -302,6 +362,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 32. Scute-like ridge scales (basal fulcra): (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 27; Choo *et al*. (2017), Character 264; King *et al*. (2017), Character 471; Castiello (2018), Character 460; Zhu Y. *et al*. (2022), Character 32; Andreev *et al*. (2022), Character 27; Brazeau *et al*. (2023), Character 476.
@@ -312,6 +374,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 33. Flank scale alignment: (0) vertical rows; (1) oblique rows or hexagonal/rhombic packing; (2) disorganised.
 
 > Davis *et al*. (2012), Character 14; Choo *et al*. (2017), Character 13; King *et al*. (2017), Character 491; Castiello (2018), Character 481; Zhu Y. *et al*. (2022), Character 33; Andreev *et al*. (2022), Character 26; Brazeau *et al*. (2023), Character 496.
@@ -321,6 +385,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Styloichthys* is 1. *Youngolepis* 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 34. Body scale growth pattern: (0) monodontode (monocuspid); (1) polyodontode (multicuspid).
 
@@ -333,6 +399,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1 with joined odontodes forming linear ornament. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 35. Body scale growth concentric: (0) absent; (1) present.
 
@@ -348,6 +416,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 36. Body scales with peg-and-socket articulation: (0) absent; (1) present.
 
 > Gardiner (1984); Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 10; Choo *et al*. (2017), Character 9; King *et al*. (2017), Character 487; Castiello (2018), Character 476; Zhu Y. *et al*. (2022), Character 37; Andreev *et al*. (2022), Character 18; Brazeau *et al*. (2023), Character 492.
@@ -357,6 +427,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the detail of the scale morphology is obscure. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 37. Peg on rhomboid scale: (0) longer than wide (narrow); (1) wider than long (broad).
 
@@ -368,6 +440,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 38. Body scale profile: (0) distinct crown and base demarcated by a constriction (neck); (1) flattened.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 11; Choo *et al*. (2017), Character 10; King *et al*. (2017), Character 488; Castiello (2018), Character 478; Zhu Y. *et al*. (2022), Character 39; Andreev *et al*. (2022), Character 21; Brazeau *et al*. (2023), Character 493.
@@ -375,6 +449,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 39. Body scales with bulging base: (0) absent; (1) present.
 
@@ -386,6 +462,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 40. Body scales with flattened base: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 13; Choo *et al*. (2017), Character 12; King *et al*. (2017), Character 490; Castiello (2018), Character 480; Zhu Y. *et al*. (2022), Character 41; Andreev *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 495.
@@ -395,6 +473,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 41. Relationship of crown and base of isolated trunk scale: (0) crown fully covering the base; (1) crown sitting on the bony base, with an exposed depressed field overlapped by adjacent scale in articulation.
 
@@ -416,6 +496,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 263; Coates *et al*. (2018), Character 15; King *et al*. (2017), Character 495; Castiello (2018), Character 484; Zhu Y. *et al*. (2022), Character 44; Andreev *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 500.
@@ -425,6 +507,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Styloichthys* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 44. Neck canal: (0) absent; (1) present.
 
@@ -438,6 +522,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 45. Keel of scale: (0) absent; (1) present.
 
 > Cui *et al*. (2019), Character 343; Zhu Y. *et al*. (2022), Character 46.
@@ -447,6 +533,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Styloichthys* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 46. Posterior ledge (or secondary keel) of scale: (0) absent; (1) weak; (2) developed.
 
@@ -460,6 +548,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 47. Anteroventral process of scale: (0) absent; (1) present.
 
 > Cui *et al*. (2019), Character 345; Zhu Y. *et al*. (2022), Character 48.
@@ -467,6 +557,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Eosteus* is ?. 
 
 48. Ventral process of scale: (0) present; (1) absent.
 
@@ -477,6 +569,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 49. Anterodorsal process on scale: (0) absent; (1) present.
 
@@ -490,6 +584,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 50. Anterodorsal process and peg: (0) separated; (1) confluent.
 
 > Cui *et al*. (2019), Character 346; Zhu Y. *et al*. (2022), Character 51.
@@ -497,6 +593,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 51. Sensory line canal of body: (0) passes between or beneath scales; (1) passes over scales and/or is partially enclosed or surrounded by scales; (2) perforates and passes through scales.
 
@@ -508,6 +606,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 52. Sensory line canal of head: (0) passes between or beneath scales; (1) passes over scales and/or is partially enclosed or surrounded by scales; (2) perforates and passes through scales.
 
 > Choo *et al*. (2017), Character 14; Coates *et al*. (2018), Character 17; Dearden *et al*. (2019), Character 18; Zhu Y. *et al*. (2022), Character 53.
@@ -516,6 +616,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 53. Sensory line scales/plates on head: (0) unspecialized; (1) apposed growth; (2) paralleling canal; (3) semicylindrical C-shaped ring scales.
 
 > Zhu Y. *et al*. (2021), Character 59; Zhu Y. *et al*. (2022), Character 55; Andreev *et al*. (2022), Character 61.
@@ -523,6 +625,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
  
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 ## Cranial dermal skeleton
 
@@ -534,6 +638,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 3.
 
+> - The coding of *Yipetalichthys* is 3.
+
 55. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
 > Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288.
@@ -542,6 +648,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
 > Giles *et al*. (2015), Character 31; Choo *et al*. (2017), Character 266; King *et al*. (2017), Character 301; Castiello (2018), Character 292; Zhu Y. *et al*. (2022), Character 58; Andreev *et al*. (2022), Character 31; Brazeau *et al*. (2023), Character 306.
@@ -549,6 +657,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
@@ -560,6 +670,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 58. Tesserae morphology: (0) large interlocking polygonal plates: (1)  microsquamose, not larger than body tesserae.
 
 > Davis *et al*. (2012), Character 19; Choo *et al*. (2017), Character 18; King *et al*. (2017), Character 152; Castiello (2018), Character 151; Zhu Y. *et al*. (2022), Character 60; Andreev *et al*. (2022), Character 35; Brazeau *et al*. (2023), Character 156.
@@ -567,6 +679,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is -. 
 
 59. Extent of dermatocranial cover: (0) complete; (1) incomplete (scale-free and elsewhere).
 
@@ -576,6 +690,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki* should be revised from 0 to ?. 
+
 60. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 
 > Castiello (2018), Character 189; Zhu Y. *et al*. (2022), Character 62.
@@ -583,6 +699,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. 
 
 61. Median rostral extension of the head shield: (0) absent; (1) present.
 
@@ -592,6 +710,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 62. Lateral fields: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 219; Castiello (2018), Character 218; Zhu Y. *et al*. (2022), Character 64; Brazeau *et al*. (2023), Character 224.
@@ -599,6 +719,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 63. Division of lateral fields: (0) absent; (1) divided once; (2)divided twice.
 
@@ -608,6 +730,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -. 
+
 64. Lateral fields extend posterior to pectoral sinus: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 221; Castiello (2018), Character 220; Zhu Y. *et al*. (2022), Character 66; Brazeau *et al*. (2023), Character 226.
@@ -615,6 +739,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is -. 
 
 65. Lateral fields extend onto cornua: (0) absent; (1) present;
 
@@ -624,6 +750,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -. 
+
 66. Median fields: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 223; Castiello (2018), Character 222; Zhu Y. *et al*. (2022), Character 68; Brazeau *et al*. (2023), Character 228.
@@ -631,6 +759,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 67. Median field separation from pineal plate or foramen: (0) absent; (1) present.
 
@@ -640,6 +770,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -. 
+
 68. Median dorsal opening: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 226; Castiello (2018), Character 225; Zhu Y. *et al*. (2022), Character 70; Brazeau *et al*. (2023), Character 231.
@@ -647,6 +779,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 69. Cornual extensions: (0) absent; (1) present.
 
@@ -660,6 +794,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 70. Corners: (0) absent; (1) present.
 
 > Castiello (2018), Character 229; Zhu Y. *et al*. (2022), Character 72.
@@ -667,6 +803,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 71. Fused scale rows on posterior of headshield: (0) absent; (1) present.
 
@@ -676,6 +814,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 72. Dorsal spinal process of headshield: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 231; Castiello (2018), Character 231; Zhu Y. *et al*. (2022), Character 74; Brazeau *et al*. (2023), Character 236.
@@ -683,6 +823,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 73. Oralobranchial covering: (0) minute scales; (1) tesserae (2); dermal plates; (3) one or two massive dermal plates.
 
@@ -692,6 +834,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 74. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like (2); slender longitudinal oval.
 
 > King *et al*. (2017), Character 233; Castiello (2018), Character 234; Zhu Y. *et al*. (2022), Character 76; Brazeau *et al*. (2023), Character 238.
@@ -699,6 +843,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is -. 
 
 75. Spines on corners: (0) absent; (1) present.
 
@@ -708,6 +854,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 76. Headshield enclosed posteriorly behind oralobranchial chamber: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 235; Castiello (2018), Character 235; Zhu Y. *et al*. (2022), Character 78; Brazeau *et al*. (2023), Character 240.
@@ -715,6 +863,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 77. Enlarged tubercles form symmetrical pattern on posterior part of head shield: (0) absent; (1) present.
 
@@ -724,6 +874,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 78. T-shaped rostral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 237; Castiello (2018), Character 237; Zhu Y. *et al*. (2022), Character 80; Brazeau *et al*. (2023), Character 242.
@@ -731,6 +883,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
@@ -742,6 +896,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 80. Postnuchal plates: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 239; Castiello (2018), Character 239; Zhu Y. *et al*. (2022), Character 82; Brazeau *et al*. (2023), Character 244.
@@ -752,6 +908,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?.
+
 81. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245.
@@ -759,6 +917,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 82. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
 
@@ -768,6 +928,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 83. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. *et al*. (2022), Character 85; Brazeau *et al*. (2023), Character 247.
@@ -775,6 +937,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 84. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 
@@ -784,6 +948,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 85. Rostrocaudal groove on the inner surface of the premedian plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 245; Castiello (2018), Character 244; Zhu Y. *et al*. (2022), Character 87; Brazeau *et al*. (2023), Character 250.
@@ -792,6 +958,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 86. Preorbital depression: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 246; Castiello (2018), Character 245; Zhu Y. *et al*. (2022), Character 88; Brazeau *et al*. (2023), Character 251.
@@ -799,6 +967,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is -. 
 
 87. Preorbital recess: (0) absent; (1) present.
 
@@ -810,6 +980,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is -. 
+
 88. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
 
 > King *et al*. (2017), Character 248; Castiello (2018), Character 247; Zhu Y. *et al*. (2022), Character 90; Brazeau *et al*. (2023), Character 253.
@@ -817,6 +989,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is -.
 
 89. Submarginal articulation: (0) absent; (1) present.
 
@@ -826,6 +1000,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 90. Prelateral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 251; Castiello (2018), Character 250; Zhu Y. *et al*. (2022), Character 92; Brazeau *et al*. (2023), Character 256.
@@ -833,6 +1009,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 91. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
@@ -842,6 +1020,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 92. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 259.
@@ -849,6 +1029,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 
@@ -858,6 +1040,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 94. Lacrimal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 257; Castiello (2018), Character 254; Zhu Y. *et al*. (2022), Character 96; Brazeau *et al*. (2023), Character 262.
@@ -865,6 +1049,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 95. Pineal and rostral: (0) contact; (1) separated.
 
@@ -874,6 +1060,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 96. Snout region fragmented into mosaic of small plates: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 259; Castiello (2018), Character 256; Zhu Y. *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 264.
@@ -882,6 +1070,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 97. B-bone: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 261; Castiello (2018), Character 258; Zhu Y. *et al*. (2022), Character 99; Brazeau *et al*. (2023), Character 266.
@@ -889,6 +1079,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
 
@@ -904,6 +1096,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 99. Pore clusters: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 272.
@@ -911,6 +1105,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 100. Prerostral plate: (0) absent; (1) present.
 
@@ -920,6 +1116,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 101. Interparietal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 276.
@@ -927,6 +1125,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
 
@@ -938,6 +1138,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279.
@@ -945,6 +1147,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 104. Quadratojugal: (0) present; (1) absent.
 
@@ -956,6 +1160,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 105. Accessory operculum: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 278; Castiello (2018), Character 272; Zhu Y. *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 283.
@@ -965,6 +1171,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 106. Dermal bone (sarcopterygian postorbital) between jugal (placoderm suborbital) and intertemporal (placoderm postorbital): (0) absent; (1) present.
 
@@ -976,6 +1184,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 107. Lacrimal notch: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 280; Castiello (2018), Character 274; Zhu Y. *et al*. (2022), Character 109; Brazeau *et al*. (2023), Character 285.
@@ -983,6 +1193,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 108. Orbital process of maxilla: (0) absent; (1) present.
 
@@ -992,6 +1204,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 109. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Andreev *et al*. (2022), Character 46; Brazeau *et al*. (2023), Character 174.
@@ -999,6 +1213,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
@@ -1008,6 +1224,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 111. Posterior nostril: (0) external; (1) palatal.
 
 > Choo *et al*. (2017), Character 332; Lu *et al*. (2017), Character 262; Zhu Y. *et al*. (2022), Character 113; Andreev *et al*. (2022), Character 260.
@@ -1015,6 +1233,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 112. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
 
@@ -1024,6 +1244,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 113. Choana: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 260; Castiello (2018), Character 257; Zhu Y. *et al*. (2022), Character 115; Brazeau *et al*. (2023), Character 265.
@@ -1031,6 +1253,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 114. Lacrimal posteriorly enclosing posterior nostril: (0) absent; (1) present.
 
@@ -1040,6 +1264,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 115. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117; Brazeau *et al*. (2023), Character 277.
@@ -1047,6 +1273,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 116. Position of anterior nostril: (0) facial; (1) at oral margin.
 
@@ -1056,6 +1284,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 117. Number of nasals: (0) many; (1) one or two.
 
 > Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119; Brazeau *et al*. (2023), Character 184.
@@ -1063,6 +1293,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 118. Mesial margin of nasal: (0) not notched; (1) notched.
 
@@ -1074,6 +1306,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 119. Dermintermedial process: (0) absent; (1) present. 
 
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 186.
@@ -1083,6 +1317,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, due to lack of nostril detail. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
@@ -1094,6 +1330,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
 > Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33.
@@ -1104,6 +1342,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
 > Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33.
@@ -1111,6 +1351,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
@@ -1120,6 +1362,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 124. Number of supraorbitals: (0) one; (1) two; (2) many.
 
 > King *et al*. (2017), Character 262; Castiello (2018), Character 259; Zhu Y. *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 267.
@@ -1127,6 +1371,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
@@ -1136,6 +1382,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 126. Tectal (sensu Cloutier and Ahlberg 1996, not counting the posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 190.
@@ -1143,6 +1391,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 127. Pineal opening in braincase: (0) absent; (1) present.
 
@@ -1152,6 +1402,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?.
+
 128. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Andreev *et al*. (2022), Character 42; Brazeau *et al*. (2023), Character 162.
@@ -1159,6 +1411,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 129. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 
@@ -1168,6 +1422,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 130. Location of pineal foramen/eminence: (0) level with posterior margin of orbits; (1) well posterior of orbits.
 
 > Zhu  *et al*. (2009, Character 19), and references therein; Zhu *et al*. (2013), Character 158; Choo *et al*. (2017), Character 168; King *et al*. (2017), Character 186; Castiello (2018), Character 183; Zhu Y. *et al*. (2022), Character 132; Brazeau *et al*. (2023), Character 192.
@@ -1176,6 +1432,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?.
+
 131. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133; Andreev *et al*. (2022), Character 239; Brazeau *et al*. (2023), Character 194.
@@ -1183,6 +1441,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 132. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones.
 
@@ -1196,6 +1456,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 133. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
 > Dennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Andreev *et al*. (2022), Character 44; Brazeau *et al*. (2023), Character 214.
@@ -1206,6 +1468,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 134. Parietals (preorbitals of placoderms): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 169; Clement *et al*. (2018), Character 279; Zhu Y. *et al*. (2022), Character 136; Andreev *et al*. (2022), Character 279.
@@ -1213,6 +1477,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 135. Condition of parietals/preorbitals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
@@ -1222,6 +1488,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 2.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 187; Castiello (2018), Character 184; Zhu Y. *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 193.
@@ -1229,6 +1497,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, due to lack of identification of pineal opening. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?.
 
 137. Postparietals (centrals of placoderms): (0) absent; (1) present.
 
@@ -1238,6 +1508,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 2.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
+
 138. Condition of postparietals/centrals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140; Andreev *et al*. (2022), Character 278.
@@ -1245,6 +1517,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 2.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 139. Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal.
 
@@ -1254,6 +1528,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 140. Large unpaired median skull roofing bone anterior to the level of nasal capsules (premedian plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142; Brazeau *et al*. (2023), Character 183.
@@ -1261,6 +1537,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 141. Position of premedian plate: (0) dorsal; (1) ventral.
 
@@ -1270,6 +1548,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 142. Postnasal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 341; Zhu Y. *et al*. (2021), Character 310; Zhu Y. *et al*. (2022), Character 144.
@@ -1278,6 +1558,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 143. Obstantic margin of skull roof: (0) long; (1) short.
 
 > Zhu *et al*. (2016), Character 347; Zhu Y. *et al*. (2021), Character 314; Zhu Y. *et al*. (2022), Character 146.
@@ -1285,6 +1567,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 144. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
 
@@ -1296,6 +1580,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254.
@@ -1303,6 +1589,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 1. 
 
 146. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
@@ -1312,6 +1600,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Andreev *et al*. (2022), Character 51; Brazeau *et al*. (2023), Character 217.
@@ -1319,6 +1609,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
@@ -1328,6 +1620,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised 1 to ?, because there is no preserved anterior part of the skull roof.
+
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
 > Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
@@ -1335,6 +1629,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is 1. 
 
 150. Lateral plate: (0) absent; (1) present.
 
@@ -1346,6 +1642,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 151. Paranuchal number: (0) one pair; (1) two pairs.
 
 > Zhu *et al*. (2013), Character 162; Choo *et al*. (2017), Character 171; King *et al*. (2017), Character 189; Castiello (2018), Character 187; Zhu Y. *et al*. (2022), Character 154; Brazeau *et al*. (2023), Character 195.
@@ -1353,6 +1651,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the extrascapulars are not seen. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is 1.
 
 152. Median paranuchal plate: (0) absent; (1) present.
 
@@ -1364,6 +1664,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 153. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 165; Choo *et al*. (2017), Character 174; Zhu Y. *et al*. (2022), Character 156.
@@ -1371,6 +1673,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 154. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: (0) absent; (1) present; (2) paranuchals precluded from nuchal by central or median paranuchal.
 
@@ -1380,6 +1684,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 155. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. *et al*. (2022), Character 158.
@@ -1387,6 +1693,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 156. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
@@ -1398,6 +1706,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 157. Westoll-lines: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Andreev *et al*. (2022), Character 241; Brazeau *et al*. (2023), Character 273.
@@ -1405,6 +1715,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is -.
 
 158. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
@@ -1414,6 +1726,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 159. Anterior pit line of dermal skull roof: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Andreev *et al*. (2022), Character 34; Brazeau *et al*. (2023), Character 307.
@@ -1421,6 +1735,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0.
 
 160. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
@@ -1430,6 +1746,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -.
+
 161. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
 > Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
@@ -1437,6 +1755,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?.
 
 162. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
@@ -1446,6 +1766,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?.
+
 163. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
 > Zhu *et al*. (2013), Character 166; Choo *et al*. (2017), Character 175; Zhu Y. *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 290.
@@ -1453,6 +1775,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?.
 
 164. Ethmoid commissure: (0) absent; (1) present.
 
@@ -1464,6 +1788,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?.
+
 165. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169.
@@ -1473,6 +1799,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Achoania* is changed from ? to 0.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?.
 
 166. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
@@ -1486,6 +1814,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?.
+
 167. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301.
@@ -1498,6 +1828,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 168. Postmarginal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 320.
@@ -1505,6 +1837,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 169. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
@@ -1514,6 +1848,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 170. Central sensory line: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 350; Zhu Y. *et al*. (2021), Character 316; King *et al*. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. *et al*. (2022), Character 174; Brazeau *et al*. (2023), Character 317.
@@ -1521,6 +1857,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 171. Supraorbital sensory canals: (0) absent; (1) present.
 
@@ -1534,6 +1872,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 172. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
 > Zhu  *et al*. (2009, Character 109), and references therein; Zhu *et al*. (2013), Character 187; Choo *et al*. (2017), Character 192; King *et al*. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 295.
@@ -1541,6 +1881,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to be identified. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 173. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
@@ -1554,6 +1896,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
 > Zhu  *et al*. (2009, Character 111), and references therein; Zhu *et al*. (2013), Character 189; Choo *et al*. (2017), Character 194; Zhu Y. *et al*. (2022), Character 178; Brazeau *et al*. (2023), Character 297.
@@ -1562,6 +1906,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. 
+
 175. Posteriorly converging supraorbital canals: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 179.
@@ -1569,6 +1915,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0, as in *Janusiscus*. Note that the charater definition only when the posterior ends meet in the midline the coding is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 1.
 
 176. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
@@ -1580,6 +1928,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 177. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
 > Zhu  *et al*. (2009, Character 112), and references therein; Zhu *et al*. (2013), Character 190; Choo *et al*. (2017), Character 195; King *et al*. (2017), Character 293; Castiello (2018), Character 284; Zhu Y. *et al*. (2022), Character 181; Brazeau *et al*. (2023), Character 298.
@@ -1587,6 +1937,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. Although the otic canal is not observed, the course of supraorbital canals suggest it is unlikely to touch the otic canal. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 178. Contact of supraorbital and infraorbital canals: (0) in contact rostrally; (1) not in contact rostrally.
 
@@ -1601,6 +1953,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 > - The coding of *Cheirolepis trailli* , *Howqualepis rostridens*, *Mimipiscis toombsi* and *Moythomasia durgaringa* is changed from 1 to 0 (Mickle, 2012)(Choo et al, 2009).
 
+> - The coding of *Yipetalichthys* is ?. 
+
 179. Otic canal: (0) runs through skull roof; (1) follows edge of skull roof.
 
 > Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300.
@@ -1608,6 +1962,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 180. Otic canal extends through postparietals (central): (0) absent; (1) present.
 
@@ -1617,6 +1973,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 181. Jugal portion of infraorbital canal joins supramaxillary canal: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Andreev *et al*. (2022), Character 32; Brazeau *et al*. (2023), Character 289.
@@ -1624,6 +1982,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 182. Infra-orbital sensory line: (0) crosses lateral field; (1) does not cross lateral field.
 
@@ -1633,6 +1993,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -. 
+
 183. Festooned pattern of sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 305; Castiello (2018), Character 296; Zhu Y. *et al*. (2022), Character 187; Brazeau *et al*. (2023), Character 310.
@@ -1640,6 +2002,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 184. Median transverse canals: (0) two or more; (1) one; (2) absent.
 
@@ -1651,6 +2015,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 2. 
+
 185. Multiply branched sensory canal system associated with the posterior end of the supraorbital canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 306; Castiello (2018), Character 298; Zhu Y. *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 311.
@@ -1660,6 +2026,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 186. Branching end of lateral transverse canals: (0) absent; (1) present.
 
@@ -1681,6 +2049,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?.
+
 188. Infraorbital and otic sensory line grooves run along mesial margin of marginal plate: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 311; Castiello (2018), Character 302; Zhu Y. *et al*. (2022), Character 192.
@@ -1688,6 +2058,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 189. Semicircular pit line: (0) absent; (1) present.
 
@@ -1699,6 +2071,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. The other taxa with skull roof presevered should be 0, not ?.
+
 190. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 319.
@@ -1706,6 +2080,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 191. Preopercular canal: (0) absent; (1) present.
 
@@ -1715,6 +2091,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 192. Preopercular canal meets otic canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 317; Castiello (2018), Character 308; Zhu Y. *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 322.
@@ -1722,6 +2100,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?, as the detail of the otic canal is difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 193. Supraoral canal: (0) absent; (1) present.
 
@@ -1731,6 +2111,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 194. Extension of otic canal beyond infraorbital canal (\"P\" canal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 319; Castiello (2018), Character 310; Zhu Y. *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 324.
@@ -1738,6 +2120,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 195. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 
@@ -1749,6 +2133,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 196. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
 > King *et al*. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. *et al*. (2022), Character 200; Brazeau *et al*. (2023), Character 327.
@@ -1756,6 +2142,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 197. Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
@@ -1765,6 +2153,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.  
+
 198. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 116), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 199; King *et al*. (2017), Character 297; Castiello (2018), Character 288; Zhu Y. *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 302.
@@ -1772,6 +2162,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
@@ -1781,6 +2173,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 0. The coding of *Eurycaraspis incilis* shoud be revised from 1 to 0. The coding of *Quasipetalichthys haikouensis* shoud be revised from 0 to 1.
+
 200. External endolymphatic duct openings' location in relation to median field: (0) internal; (1) external.
 
 > Castiello (2018), Character 224; Zhu Y. *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 230.
@@ -1788,6 +2182,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is -. 
 
 201. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 
@@ -1797,6 +2193,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 202. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): (0) within median bone; (1) on bones flanking the median bone (e.g. paranuchals).
 
 > Giles *et al*. (2015), Character 40; Choo *et al*. (2017), Character 269; King *et al*. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. *et al*. (2022), Character 206; Andreev *et al*. (2022), Character 41; Brazeau *et al*. (2023), Character 212.
@@ -1804,6 +2202,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.  The coding of *Eurycaraspis incilis* shoud be revised from - to ?. The coding of *Quasipetalichthys haikouensis* shoud be revised from ? to -.
 
 203. Sclerotic ring: (0) absent; (1) present.
 
@@ -1813,6 +2213,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 204. Number of sclerotic plates: (0) four or less; (1) more than four.
 
 > Zhu  *et al*. (2009, Character 57), and references therein; Zhu *et al*. (2013), Character 170; Choo *et al*. (2017), Character 241; King *et al*. (2017), Character 204; Castiello (2018), Character 203; Zhu Y. *et al*. (2022), Character 208; Brazeau *et al*. (2023), Character 209.
@@ -1820,6 +2222,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 205. Number of extrascapulars: (0) uneven; (1) paired.
 
@@ -1829,6 +2233,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 206. Number of paired extrascapulars: (0) one pair; (1) two pairs.
 
 > King *et al*. (2017), Character 277; Castiello (2018), Character 271; Zhu Y. *et al*. (2022), Character 210; Brazeau *et al*. (2023), Character 282.
@@ -1836,6 +2242,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?.
 
 207. Consolidated cheek plates: (0) absent; (1) present.
 
@@ -1845,6 +2253,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 208. Foramina (similar to infradentary foramina) on cheek bones: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
@@ -1852,6 +2262,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 209. Most posterior major bone of cheek bearing preopercular canal (preopercular) extending forward, close to orbit: (0) absent; (1) present.
 
@@ -1861,6 +2273,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 210. Number of cheek bones bearing preopercular canal posterior to jugal: (0) one; (1) two.
 
 > Zhu  *et al*. (2009, Character 60), and references therein; Zhu *et al*. (2013), Character 174; Choo *et al*. (2017), Character 181; King *et al*. (2017), Character 196; Castiello (2018), Character 195; Zhu Y. *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 201.
@@ -1868,6 +2282,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 211. Bone bearing both quadratojugal pit-line and preopercular canal: (0) absent; (1) present.
 
@@ -1877,6 +2293,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 212. Anterior portion of preopercular canal: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 118), and references therein; Zhu *et al*. (2013), Character 195; Choo *et al*. (2017), Character 200; Zhu Y. *et al*. (2022), Character 216.
@@ -1885,6 +2303,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 213. Vertical canal associated with preopercular/suborbital canal: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 57; Choo *et al*. (2017), Character 258; Zhu Y. *et al*. (2022), Character 217; Andreev *et al*. (2022), Character 57.
@@ -1892,6 +2312,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. *Guiyu* changed from "?" to 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 214. Cheek plate: (0) undivided; (1) divided (i.e., squamosal and preopercular).
 
@@ -1903,6 +2325,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 215. Subsquamosals in taxa with divided cheek: (0) absent; (1) present.
 
 > Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48; Zhu & Yu (2002), Character 48; Friedman (2007), Character 43; Giles *et al*. (2015), Character 55; Choo *et al*. (2017), Character 279; King *et al*. (2017), Character 215; Castiello (2018), Character 214; Zhu Y. *et al*. (2021), Character 53; Zhu Y. *et al*. (2022), Character 219; Andreev *et al*. (2022), Character 55; Brazeau *et al*. (2023), Character 220.
@@ -1910,6 +2334,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 216. Preopercular shape: (0) rhombic; (1) bar-shaped.
 
@@ -1921,6 +2347,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 217. Preoperculosubmandibular: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 328; Lu *et al*. (2017), Character 244; Zhu Y. *et al*. (2022), Character 221; Andreev *et al*. (2022), Character 242.
@@ -1928,6 +2356,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 218. Dermohyal: (0) absent; (1) present.
 
@@ -1939,6 +2369,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?.
+
 219. Enlarged postorbital tesserae separated from orbital series: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 26; Choo *et al*. (2017), Character 25; King *et al*. (2017), Character 159; Castiello (2018), Character 157; Zhu Y. *et al*. (2022), Character 223; Andreev *et al*. (2022), Character 58; Brazeau *et al*. (2023), Character 163.
@@ -1946,6 +2378,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 220. Bony hyoidean gill-cover series (branchiostegals): (0) absent; (1) present.
 
@@ -1957,6 +2391,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 221. Branchiostegal plate series along ventral margin of lower jaw: (0) absent; (1) present.
 
 > Davis (2002); Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 28; Choo *et al*. (2017), Character 27; King *et al*. (2017), Character 161; Castiello (2018), Character 159; Zhu Y. *et al*. (2022), Character 225; Andreev *et al*. (2022), Character 63; Brazeau *et al*. (2023), Character 165.
@@ -1964,6 +2400,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 222. Branchiostegal ossifications: (0) plate-like; (1) narrow and ribbon-like.
 
@@ -1973,6 +2411,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 223. Branchiostegal ossifications: (0) ornamented; (1) unornamented.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 30; Choo *et al*. (2017), Character 29; King *et al*. (2017), Character 163; Castiello (2018), Character 161; Zhu Y. *et al*. (2022), Character 227; Andreev *et al*. (2022), Character 65; Brazeau *et al*. (2023), Character 167.
@@ -1981,6 +2421,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 224. Imbricated branchiostegal ossifications: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 31; Choo *et al*. (2017), Character 30; King *et al*. (2017), Character 164; Castiello (2018), Character 162; Zhu Y. *et al*. (2022), Character 228; Andreev *et al*. (2022), Character 66; Brazeau *et al*. (2023), Character 168.
@@ -1988,6 +2430,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 225. Opercular flap/gill slits: (0) complete or partial; (1) separate gill covers and gill slits.
 
@@ -1999,6 +2443,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 226. Opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 33; Choo *et al*. (2017), Character 32; Zhu Y. *et al*. (2022), Character 230; Andreev *et al*. (2022), Character 69.
@@ -2008,6 +2454,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Styloichthys* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 227. Shape of opercular (submarginal) ossification: (0) broad plate that tapers towards its proximal end; (1) narrow, rod-shaped.
 
@@ -2019,6 +2467,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 228. Ventral lamina of opercular (submarginal) ossification: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 355; Zhu Y. *et al*. (2021), Character 317; Zhu Y. *et al*. (2022), Character 232.
@@ -2029,6 +2479,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 229. Ventral lamina of suborbital (jugal): (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 356) Zhu Y. *et al*. (2021), Character 318; Zhu Y. *et al*. (2022), Character 233.
@@ -2037,6 +2489,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 230. Notch in anterior margin of jugal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 275; Castiello (2018), Character 269; Zhu Y. *et al*. (2022), Character 234; Brazeau *et al*. (2023), Character 280.
@@ -2044,6 +2498,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 231. Anterodorsal process of opercular (submarginal) ossification attaching onto skull: (0) absent; (1) present.
 
@@ -2055,6 +2511,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 232. Subopercular ossification: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 58; Zhu Y. *et al*. (2022), Character 236.
@@ -2062,6 +2520,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 233. Lateral gular plates: (0) absent; (1) present.
 
@@ -2071,6 +2531,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 234. Size of lateral gular plates: (0) extending most of length of the lower jaw; (1) restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals.
 
 > Coates (1999); Brazeau (2009); Davis *et al*. (2012), Character 36; Choo *et al*. (2017), Character 35; King *et al*. (2017), Character 168; Castiello (2018), Character 166; Zhu Y. *et al*. (2022), Character 238; Andreev *et al*. (2022), Character 71; Brazeau *et al*. (2023), Character 172.
@@ -2079,6 +2541,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 235. Median gular: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 102), and references therein; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Choo *et al*. (2017), Character 135; King *et al*. (2017), Character 169; Castiello (2018), Character 167; Zhu Y. *et al*. (2022), Character 239; Andreev *et al*. (2022), Character 67; Brazeau *et al*. (2023), Character 173.
@@ -2086,6 +2550,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 ## Dentition, dermal jaw & tooth-bearing bones
 
@@ -2097,6 +2563,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 237. Oral dermal tubercles patterned in organised rows (teeth): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 76; Zhu Y. *et al*. (2022), Character 241; Andreev *et al*. (2022), Character 78.
@@ -2104,6 +2572,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 238. Teeth ankylosed to dermal bones: (0) absent; (1) present.
 
@@ -2115,6 +2585,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 239. Dermal jaw plates on biting surface of jaw cartilages: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 44; Choo *et al*. (2017), Character 43; King *et al*. (2017), Character 332; Castiello (2018), Character 324; Zhu Y. *et al*. (2022), Character 243; Andreev *et al*. (2022), Character 87; Brazeau *et al*. (2023), Character 337.
@@ -2122,6 +2594,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 240. Large dermal plates forming outer dental arcade: (0) only with denticles; (1) with large monolinear tooth row.
 
@@ -2131,6 +2605,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 241. Dermal plates on mesial (lingual) surfaces of Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 213; Choo *et al*. (2017), Character 215; King *et al*. (2017), Character 358; Castiello (2018), Character 350; Zhu Y. *et al*. (2022), Character 245; Brazeau *et al*. (2023), Character 363.
@@ -2138,6 +2614,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 242. Gnathal plates mesial to and/or above (or below) jaw cartilage: (0) absent; (1) present.
 
@@ -2147,6 +2625,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 243. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
 
 > Long *et al*. (2015), Character 257; Choo *et al*. (2017), Character 249; Castiello (2018), Character 354. King *et al*. (2017), Character 364; Zhu Y. *et al*. (2022), Character 247; Brazeau *et al*. (2023), Character 369.
@@ -2154,6 +2634,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 244. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
 
@@ -2163,6 +2645,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 245. Strongly curved infragnathals with wide flat non-biting region: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 374; Castiello (2018), Character 363; Zhu Y. *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 379.
@@ -2170,6 +2654,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 246. Number of fang pairs on ectopterygoid: (0) none; (1) one; (2) two.
 
@@ -2179,6 +2665,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 247. Enlarged anterior tooth on premaxilla: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 379; Castiello (2018), Character 368; Zhu Y. *et al*. (2022), Character 251; Brazeau *et al*. (2023), Character 384.
@@ -2186,6 +2674,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 248. Number of tooth rows on outer dental arcade: (0) single row; (1) two rows, with large teeth lingually and small teeth labially.
 
@@ -2195,6 +2685,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 249. Number of infradentaries: (0) one; (1) two; (2) more than 2.
 
 > King *et al*. (2017), Character 381; Castiello (2018), Character 370; Zhu Y. *et al*. (2022), Character 253; Brazeau *et al*. (2023), Character 386.
@@ -2202,6 +2694,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 250. Number of fang pairs on posterior coronoid: (0) none; (1) one; (2) two.
 
@@ -2211,6 +2705,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 251. Teeth radial rows on prearticular: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 384; Castiello (2018), Character 373; Zhu Y. *et al*. (2022), Character 255; Brazeau *et al*. (2023), Character 389.
@@ -2218,6 +2714,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 252. 'Symplectic' articulation: (0) absent; (1) present.
 
@@ -2227,6 +2725,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 253. Processus ascendens of palatoquadrate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 389; Castiello (2018), Character 377; Zhu Y. *et al*. (2022), Character 257; Brazeau *et al*. (2023), Character 394.
@@ -2234,6 +2734,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 254. Grooved, curved upper toothplates attached to median labial element: (0) absent; (1) present.
 
@@ -2243,6 +2745,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 255. Two divergent processes extending from anterior of palatoquadrate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 391; Castiello (2018), Character 379; Zhu Y. *et al*. (2022), Character 259; Brazeau *et al*. (2023), Character 396.
@@ -2250,6 +2754,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 256. Extramandibular dentition: (0) absent; (1) present.
 
@@ -2259,6 +2765,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 257. Bilateral series of labial cartilages: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 393; Castiello (2018), Character 381; Zhu Y. *et al*. (2022), Character 261; Brazeau *et al*. (2023), Character 398.
@@ -2267,6 +2775,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 258. Maxilla and premaxilla *sensu lato* (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 92; Zhu Y. *et al*. (2022), Character 262.
@@ -2274,6 +2784,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1.The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 259. Maxilla *sensu stricto* (posterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
@@ -2285,6 +2797,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 260. Tooth-bearing median rostral: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351.
@@ -2292,6 +2806,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 261. Premaxillae with inturned symphysial processes: (0) absent; (1) present.
 
@@ -2301,6 +2817,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
+
 262. Premaxilla forming part of orbit: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 77), and references therein; Zhu *et al*. (2013), Character 178; Choo *et al*. (2017), Character 185; King *et al*. (2017), Character 200; Castiello (2018), Character 199; Zhu Y. *et al*. (2022), Character 266; Brazeau *et al*. (2023), Character 205.
@@ -2308,6 +2826,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 
 263. Premaxilla: (0) extends under orbit; (1) restricted anterior to orbit.
 
@@ -2317,6 +2837,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Eosteus* is ?.
+
 264. Preorbital process of premaxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 78), and references therein; Zhu *et al*. (2013), Character 179; Choo *et al*. (2017), Character 186; Zhu Y. *et al*. (2022), Character 268.
@@ -2324,6 +2846,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 
 265. Ventral margin of maxilla: (0) straight; (1) curved.
 
@@ -2333,6 +2857,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
+
 266. Posterior expansion of maxilla (maxilla cleaver-shaped): (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Andreev *et al*. (2022), Character 90 (states is slightly different); Brazeau *et al*. (2023), Character 181.
@@ -2340,6 +2866,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 267. Contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.
 
@@ -2349,6 +2877,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
+
 268. Dentary marginal bone of mouth: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 91. Zhu Y. *et al*. (2021), Character 354; Zhu Y. *et al*. (2022), Character 272.
@@ -2356,6 +2886,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 269. Teeth of dentary: (0) reaching anterior end of dentary; (1) not reaching anterior end.
 
@@ -2365,6 +2897,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 270. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 91; Choo *et al*. (2017), Character 287; King *et al*. (2017), Character 367; Castiello (2018), Character 357; Zhu Y. *et al*. (2022), Character 274; Andreev *et al*. (2022), Character 91; Brazeau *et al*. (2023), Character 372.
@@ -2372,6 +2906,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 271. Fused anterior supragnathals: (0) absent; (1) present.
 
@@ -2381,6 +2917,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 272. Vomerine fangs: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Andreev *et al*. (2022), Character 255; Brazeau *et al*. (2023), Character 365.
@@ -2388,6 +2926,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 273. Vomeral area with grooves and raised areas: (0) absent; (1) present.
 
@@ -2397,6 +2937,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?, because of no preserved vomeral area.
+
 274. Posterior process of vomers: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 375; Castiello (2018), Character 364; Zhu Y. *et al*. (2022), Character 278.
@@ -2404,6 +2946,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 275. Median dermal bone of palate (parasphenoid): (0) absent; (1) present.
 
@@ -2413,6 +2957,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 276. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 
 > Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Andreev *et al*. (2022), Character 113; Brazeau *et al*. (2023), Character 78.
@@ -2420,6 +2966,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 277. Ascending process of parasphenoid: (0) absent; (1) present.
 
@@ -2433,6 +2981,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 278. Shape of parasphenoid denticulated field: (0) broad rhomboid or lozenge-shaped; (1) broad, splint-shaped; (2) slender, splint-shaped.
 
 > Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Andreev *et al*. (2022), Character 278; Brazeau *et al*. (2023), Character 137.
@@ -2440,6 +2990,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 279. Parasphenoid denticulated field with multifid anterior margin: (0) absent; (1) present.
 
@@ -2449,6 +3001,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 280. Parasphenoid: (0) protruding forward into ethmoid region of endocranium; (1) behind ethmoid region.
 
 > Zhu  *et al*. (2009, Character 65), and references therein; Zhu *et al*. (2013), Character 237; Choo *et al*. (2017), Character 227; King *et al*. (2017), Character 135; Castiello (2018), Character 134; Zhu Y. *et al*. (2022), Character 284; Brazeau *et al*. (2023), Character 139.
@@ -2456,6 +3010,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 281. Posterior of parasphenoid: (0) restricted to ethmosphenoid region; (1) extends to otic region.
 
@@ -2465,6 +3021,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 282. Denticulated field of parasphenoid: (0) without spiracular groove; (1) with spiracular groove.
 
 > Friedman (2007, Character 82), Zhu *et al*. (2009, Character 66), and references therein; Zhu *et al*. (2013), Character 238; Choo *et al*. (2017), Character 228; King *et al*. (2017), Character 136; Castiello (2018), Character 135; Zhu Y. *et al*. (2022), Character 286; Brazeau *et al*. (2023), Character 140.
@@ -2472,6 +3030,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 283. Parasphenoid denticle field with anteriorly divergent lateral margins: (0) absent; (1) present.
 
@@ -2481,6 +3041,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 284. Parasphenoid denticle field: (0) terminates at or anterior to level of foramina for internal carotid arteries; (1) extends posterior to foramina for internal carotid arteries.
 
 > Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141.
@@ -2488,6 +3050,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 285. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
 
@@ -2503,6 +3067,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 286. Coronoids (sensu lato): (0) present, (1) absent.
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290; Brazeau *et al*. (2023), Character 387.
@@ -2513,6 +3079,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 287. Number of coronoids (*sensu lato*): (0) more than three; (1) three.
 
 > Lu  *et al*. (2012), Character 145; Zhu *et al*. (2013), Character 201; Giles *et al*. (2015), Character 106; Choo *et al*. (2017), Character 147; King *et al*. (2017), Character 344; Castiello (2018), Character 336; Zhu Y. *et al*. (2022), Character 291; Andreev *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 349.
@@ -2521,6 +3089,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 288. Fangs of coronoids (*sensu lato*): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Andreev *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 350.
@@ -2528,6 +3098,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 289. Dentition on coronoids (*sensu lato*): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
@@ -2539,6 +3111,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 290. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
 > Zhu Y. *et al*. (2021), Character 247; Zhu Y. *et al*. (2022), Character 294; Andreev *et al*. (2022), Character 251.
@@ -2546,6 +3120,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 291. Infradentary: (0) absent; (1) present.
 
@@ -2555,6 +3131,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?, because of no preserved Infradentary.
+
 292. Extent of infradentaries: (0) along much of ventral margin of dentary; (1) restricted to posterior half of dentary.
 
 > Giles *et al*. (2015), Character 93; Choo *et al*. (2017), Character 288; King *et al*. (2017), Character 368; Castiello (2018), Character 358; Zhu Y. *et al*. (2022), Character 296; Andreev *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 373.
@@ -2562,6 +3140,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
 
 293. Infradentary foramen and groove: (0) present; (1) absent.
 
@@ -2571,6 +3151,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
+
 294. Large ventromesially directed flange of symphysial region of mandible: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 83), and references therein; Zhu *et al*. (2013), Character 206; Choo *et al*. (2017), Character 208; King *et al*. (2017), Character 351; Castiello (2018), Character 343; Zhu Y. *et al*. (2022), Character 298; Brazeau *et al*. (2023), Character 356.
@@ -2578,6 +3160,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved mandible.
 
 295. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: (0) absent; (1) present.
 
@@ -2587,6 +3171,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Meckelian.
+
 296. Strong ascending flexion of symphysial region of mandible: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 82), and references therein; Zhu *et al*. (2013), Character 208; Choo *et al*. (2017), Character 210; King *et al*. (2017), Character 353; Castiello (2018), Character 345; Zhu Y. *et al*. (2022), Character 300; Brazeau *et al*. (2023), Character 358.
@@ -2594,6 +3180,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 297. Parasymphysial plate: (0) detachable tooth whorl; (1) long with posterior corner, sutured to coronoid, denticulated or with tooth row; (2) absent.
 
@@ -2611,6 +3199,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 299. Prearticular - dentary contact: (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 98), and references therein; Zhu *et al*. (2013), Character 211; Choo *et al*. (2017), Character 213; King *et al*. (2017), Character 356; Castiello (2018), Character 348; Zhu Y. *et al*. (2022), Character 303; Brazeau *et al*. (2023), Character 361.
@@ -2618,6 +3208,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 300. Number of dermopalatines: (0) one; (1) two; (2) more than 2.
 
@@ -2627,6 +3219,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 301. Entopterygoids: (0) separated; (1) contact along midline.
 
 > Zhu Y. *et al*. (2021), Character 253; Zhu Y. *et al*. (2022), Character 305; Andreev *et al*. (2022), Character 257.
@@ -2634,6 +3228,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 302. Proportions of entopterygoid: (0) anterior end level with processus ascendens; (1) anterior end considerably anterior to processus ascendens.
 
@@ -2643,6 +3239,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 303. Course of mandibular canal: (0) passing through dentary; (1) not passing through dentary.
 
 > Zhu  *et al*. (2009, Character 120), and references therein; Zhu *et al*. (2013), Character 218; Choo *et al*. (2017), Character 218; Coates *et al*. (2018), Character 94; King *et al*. (2017), Character 299; Castiello (2018), Character 290; Zhu Y. *et al*. (2022), Character 307; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 304.
@@ -2650,6 +3248,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 304. Pharyngeal teeth or denticles: (0) absent; (1) present.
 
@@ -2659,6 +3259,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 305. Lingual torus: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 81; Zhu Y. *et al*. (2022), Character 309.
@@ -2666,6 +3268,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 306. Basolabial shelf: (0) absent; (1) present.
 
@@ -2675,6 +3279,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 307. Tooth whorls: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 40; Choo *et al*. (2017), Character 39; King *et al*. (2017), Character 328; Castiello (2018), Character 320; Zhu Y. *et al*. (2022), Character 311; Andreev *et al*. (2022), Character 81; Brazeau *et al*. (2023), Character 333.
@@ -2682,6 +3288,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 308. Distribution of tooth whorls: (0) upper and lower jaws; (1) lower jaws only; (2) upper jaws only.
 
@@ -2691,6 +3299,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 309. Bases of tooth whorls: (0) single, continuous plate; (1) some or all whorls consist of separate tooth units.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 41; Choo *et al*. (2017), Character 40; King *et al*. (2017), Character 329; Castiello (2018), Character 321; Zhu Y. *et al*. (2022), Character 313; Andreev *et al*. (2022), Character 82; Brazeau *et al*. (2023), Character 334.
@@ -2698,6 +3308,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 310. Enlarged adsymphysial tooth whorl: (0) absent; (1) present.
 
@@ -2707,6 +3319,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 311. Tooth families/whorls: (0) restricted to symphysial region; (1) distributed along jaw margin.
 
 > Coates *et al*. (2018), Character 83; Zhu Y. *et al*. (2022), Character 315; Andreev *et al*. (2022), Character 83 (**states are reversed**).
@@ -2714,6 +3328,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 312. Number of tooth families/whorls per jaw ramus: (0) 15 or fewer; (1) 20 or more.
 
@@ -2723,6 +3339,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 313. Tooth families/whorls: (0) continuous; (1) discontinuous.
 
 > Zhu Y. *et al*. (2022), Character 317.
@@ -2730,6 +3348,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 314. Toothplates consolidated into one to three large posterior plates, and one to three smaller anterior tooth plates, occupying each quadrant of the jaw: (0) absent; (1) present.
 
@@ -2741,6 +3361,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 315. Toothplate complement restricted to two pairs in the upper jaw and a single pair in the lower jaw: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 87; Zhu Y. *et al*. (2022), Character 319.
@@ -2751,6 +3373,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 316. Length of dentary: (0) constitutes a majority of jaw length; (1) half the length of jaw or less.
 
 > Zhu Y. *et al*. (2021), Character 242; Zhu Y. *et al*. (2022), Character 320; Andreev *et al*. (2022), Character 246.
@@ -2758,6 +3382,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 317. Labial pit: (0) absent; (1) present.
 
@@ -2767,6 +3393,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 318. Prearticular symphysis: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 244; Zhu Y. *et al*. (2022), Character 322; Andreev *et al*. (2022), Character 248.
@@ -2775,6 +3403,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 319. Retroarticular process: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 248; King *et al*. (2017), Character 386; Castiello (2018), Character 375; Zhu Y. *et al*. (2022), Character 323; Andreev *et al*. (2022), Character 252; Brazeau *et al*. (2023), Character 391.
@@ -2782,6 +3412,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 ## Mandibular arch
 
@@ -2793,6 +3425,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Quasipetalichthys haikouensis*,  *Pauropetalichthys magnoculus*,*Quasipetalichthys haikouensis*, *Ellopetalichthys scheii* , *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Qilinyu rostrata* should be revised from ? to 1.
+
 321. Position of mandibular arch articulations: (0) terminal; (1) subterminal.
 
 > Zhu Y. *et al*. (2021), Character 93; Zhu Y. *et al*. (2022), Character 325; Andreev *et al*. (2022), Character 96.
@@ -2800,6 +3434,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 322. Palatoquadrate relationship to dermal cheek bones: (0) articulation narrow and restricted; (1) broad articulation.
 
@@ -2809,6 +3445,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 323. Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 144; Zhu Y. *et al*. (2022), Character 327.
@@ -2816,6 +3454,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 324. Articulation surface of the palatoquadrate with the postorbital (suprapteryoid) process: (0) directed anteriorly; (1) laterally; (2) dorsally.
 
@@ -2825,6 +3465,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 325. Large otic process of the palatoquadrate: (0) absent; (1) present.
 
 > Coates & Sequeira (2001a); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 46; Choo *et al*. (2017), Character 45; King *et al*. (2017), Character 334; Castiello (2018), Character 326; Zhu Y. *et al*. (2022), Character 329; Andreev *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 339.
@@ -2832,6 +3474,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 326. Laterally extending palatoquadrate: (0) absent; (1) present.
 
@@ -2841,6 +3485,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 327. Insertion area for jaw adductor muscles on palatoquadrate: (0) ventral; (1) lateral.
 
 > Janvier (1996); Brazeau (2009); Davis *et al*. (2012), Character 47; Choo *et al*. (2017), Character 46; King *et al*. (2017), Character 335; Castiello (2018), Character 327; Zhu Y. *et al*. (2022), Character 331; Andreev *et al*. (2022), Character 99; Brazeau *et al*. (2023), Character 340.
@@ -2848,6 +3494,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 328. Oblique ridge or groove along medial face of palatoquadrate: (0) absent; (1) present.
 
@@ -2857,6 +3505,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 329. Fenestration of palatoquadrate at basipterygoid articulation: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 49; Choo *et al*. (2017), Character 48; King *et al*. (2017), Character 337; Castiello (2018), Character 329; Zhu Y. *et al*. (2022), Character 333; Andreev *et al*. (2022), Character 102; Brazeau *et al*. (2023), Character 342.
@@ -2864,6 +3514,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 330. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: (0) absent; (1) present.
 
@@ -2873,6 +3525,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 331. Metapterygoid with developed medial ventral protrusion: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 216; Choo *et al*. (2017), Character 244; King *et al*. (2017), Character 362; Castiello (2018), Character 353; Zhu Y. *et al*. (2022), Character 335; Brazeau *et al*. (2023), Character 367.
@@ -2880,6 +3534,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 332. Autopalatine and quadrate: (0) comineralized; (1) separate mineralizations.
 
@@ -2889,6 +3545,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 333. Palatoquadrate fused with neurocranium: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 101; Choo *et al*. (2017), Character 291; King *et al*. (2017), Character 371; Castiello (2018), Character 360; Zhu Y. *et al*. (2022), Character 337; Andreev *et al*. (2022), Character 100; Brazeau *et al*. (2023), Character 376.
@@ -2897,6 +3555,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 334. Contact between palatoquadrate and dermal cheek bones: (0) continuous contact of metapterygoid and autopalatine; (1) metapterygoid and autopalatine contacts separated by gap between commissural lamina of palatoquadrate and cheek bones.
 
 > Zhu *et al*. (2013), Character 215; Choo *et al*. (2017), Character 243; Zhu Y. *et al*. (2022), Character 338; Brazeau *et al*. (2023), Character 366.
@@ -2904,6 +3564,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 335. Position of upper mandibular arch cartilage (and associated cheek plate where present): (0) entirely suborbital; (1) with a postorbital extension.
 
@@ -2915,6 +3577,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 336. Scalloped oral margin on Meckel's cartilage and palatoquadrate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 113; Zhu Y. *et al*. (2022), Character 340.
@@ -2922,6 +3586,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 337. Mandibular symphysis fused: (0) absent; (1) present.
 
@@ -2931,6 +3597,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0.
+
 338. Pronounced dorsal process on Meckelian bone or cartilage: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 51; Choo *et al*. (2017), Character 50; King *et al*. (2017), Character 339; Castiello (2018), Character 331; Zhu Y. *et al*. (2022), Character 342; Andreev *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 344.
@@ -2938,6 +3606,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 339. Meckelian bone exposed immediately anterior to first coronoid: (0) yes; (1) no.
 
@@ -2947,6 +3617,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 340. Preglenoid process: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 52; Choo *et al*. (2017), Character 51; King *et al*. (2017), Character 340; Castiello (2018), Character 332; Zhu Y. *et al*. (2022), Character 344; Andreev *et al*. (2022), Character 106; Brazeau *et al*. (2023), Character 345.
@@ -2954,6 +3626,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 341. Biconcave glenoid on lower jaw: (0) absent; (1) present.
 
@@ -2963,6 +3637,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 342. Jaw articulation located on rearmost extremity of mandible: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 53; Choo *et al*. (2017), Character 52; King *et al*. (2017), Character 341; Castiello (2018), Character 333; Zhu Y. *et al*. (2022), Character 346; Andreev *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 346.
@@ -2970,6 +3646,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
  
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
  ## Hyoid and gill arches
 
@@ -2981,6 +3659,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 344. Interhyal: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348; Andreev *et al*. (2022), Character 74; Brazeau *et al*. (2023), Character 145.
@@ -2988,6 +3668,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 345. Hypohyal: (0) absent; (1) present.
 
@@ -2997,6 +3679,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 346. Disposition of the interbranchial ridges of the oralobranchial chamber roof: (0) oligobranchiate; (1) orthobranchiate; (2) nectaspidoform.
 
 > King *et al*. (2017), Character 146; Castiello (2018), Character 145; Zhu Y. *et al*. (2022), Character 350; Brazeau *et al*. (2023), Character 150.
@@ -3004,6 +3688,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 347. Number of branchial fossae: (0) 5-7; (1) 9-17; (2) more than 20.
 
@@ -3013,6 +3699,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 348. Basibranchial elements: (0) unpaired; (1) paired.
 
 > King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352; Brazeau *et al*. (2023), Character 152.
@@ -3020,6 +3708,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 349. Sublingual rod: (0) absent; (1) present.
 
@@ -3029,6 +3719,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 350. Dense array of hyoid arch rays covers gill area: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 150; Castiello (2018), Character 149; Zhu Y. *et al*. (2022), Character 354; Brazeau *et al*. (2023), Character 154.
@@ -3036,6 +3728,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 351. Endoskeletal urohyal: (0) absent; (1) present.
 
@@ -3045,6 +3739,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 352. Urohyal shape (vertical plate): (0) absent; (1) present. The coding of *Megamastax amblyodus* is ?.
 
 > Choo *et al*. (2017), Character 329; Lu *et al*. (2017), Character 246; Zhu Y. *et al*. (2022), Character 356; Andreev *et al*. (2022), Character 244.
@@ -3052,6 +3748,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 353. Basihyal: (0) absent; (1) present.
 
@@ -3071,6 +3769,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358.
@@ -3078,6 +3778,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 355. Anterior most unpaired element of branchial skeleton contacted by: (0) one branchial arch only; (1) two or more branchial arches.
 
@@ -3089,6 +3791,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 356. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 
 > Dearden *et al*. (2019), Character 74; Zhu Y. *et al*. (2022), Character 360.
@@ -3096,6 +3800,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 357. Posterior two ventral branchial arches:0 separate; (1) articulate ventrally.
 
@@ -3105,6 +3811,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 358. Posterior two dorsal branchial arches: (0) separate; (1) articulate dorsally.
 
 > Dearden *et al*. (2019), Character 81; Zhu Y. *et al*. (2022), Character 362.
@@ -3112,6 +3820,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 359. Gill arches: (0) largely restricted to region under braincase; (1) extend far posterior to braincase.
 
@@ -3121,6 +3831,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of Petalichthyida should be revised frome ? to 0, because of the horizental direction of N.X. 
+
 360. Gill skeleton extends posteriorly beyond occiput: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 66. Dearden *et al*. (2019), Character 67; Zhu Y. *et al*. (2022), Character 364.
@@ -3128,6 +3840,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 361. First branchial arch meets neurocranium: (0) ventral to otic region; (1) posterior to otic region.
 
@@ -3137,6 +3851,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 362. Separate supra- and infra-pharyngobranchials: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 72; Zhu Y. *et al*. (2022), Character 366.
@@ -3144,6 +3860,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 363. Pharyngobranchial orientation: (0) directed anteriorly; (1) posteriorly.
 
@@ -3153,6 +3871,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 364. Posteriormost branchial arch bears epibranchial unit: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 74; Zhu Y. *et al*. (2022), Character 368.
@@ -3160,6 +3880,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 365. Epibranchials bear posterior flange: (0) absent; (1) present.
 
@@ -3169,6 +3891,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 366. Hypobranchial orientation: (0) directed anteriorly; (1) hypobranchials of second and more posterior gill arches directed posteriorly.
 
 > Coates *et al*. (2018), Character 76; Zhu Y. *et al*. (2022), Character 370.
@@ -3176,6 +3900,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
  ## Neurocranium
 
@@ -3187,6 +3913,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 368. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal (optic fissure): (0) absent; (1) present.
 
 > DUPRET255; Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372; Andreev *et al*. (2022), Character 120; Brazeau *et al*. (2023), Character 77.
@@ -3196,6 +3924,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
 369. Ventral cranial fissure: (0) absent; (1) present.
 
@@ -3209,6 +3939,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
+
 370. Metotic (otico-occipital) fissure: (0) absent; (1) present.
 
 > Schaeffer (1981); Janvier (1996); Coates & Sequeira (1998); Maisey (2001); Davis (2002); Brazeau (2009) ), Character 93; Davis *et al*. (2012), Character 97; Choo *et al*. (2017), Character 93. King *et al*. (2017), Character 55; Castiello (2018), Character 56; Zhu Y. *et al*. (2022), Character 374; Andreev *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 59.
@@ -3216,6 +3948,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 371. External nasal opening: (0) single median; (1) paired.
 
@@ -3225,6 +3959,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*， *Quasipetalichthys haikouensis*， *Eurycaraspis incilis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki*, *Bothriolepis spp* should be revised from ? to 1.
+
 372. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 
 > Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376; Andreev *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 23.
@@ -3232,6 +3968,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 373. Nasohypophyseal opening shape: (0) unconstructed; (1) constriction between nasal and hypophysial divisions; (2) split into nasal and hypophysial divisions.
 
@@ -3241,6 +3979,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is -. 
+
 374. Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit: (0) absent; (1) present.
 
 > Clement *et al*. (2018), Character 281; Zhu Y. *et al*. (2022), Character 378; Andreev *et al*. (2022), Character 115.
@@ -3248,6 +3988,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 375. Orbitonasal lamina dorsoventrally deep: (0) absent; (1) present.
 
@@ -3259,6 +4001,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 376. Size of profundus canal in postnasal wall: (0) small; (1) large.
 
 > Choo *et al*. (2017), Character 333; Lu *et al*. (2017), Character 265; Zhu Y. *et al*. (2022), Character 380; Andreev *et al*. (2022), Character 263.
@@ -3266,6 +4010,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 377. Three large pores (in addition to nostrils) associated with each side of ethmoid: (0) absent; (1) present.
 
@@ -3275,6 +4021,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 378. Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
 
 > Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2021), Character 258; Zhu Y. *et al*. (2022), Character 382; Andreev *et al*. (2022), Character 262.
@@ -3282,6 +4030,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 379. Fenestra ventrolateralis: (0) absent; (1) present; (2) common ventral fenestra for anterior and posterior nostrils.
 
@@ -3291,6 +4041,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 380. Precerebral fontanelle: (0) absent; (1) present.
 
 > Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Andreev *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 22.
@@ -3298,6 +4050,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 381. Olfactory tracts: (0) short, with olfactory capsules situated close to telencephalon cavity; (1) elongate and tubular (much longer than wide).
 
@@ -3308,6 +4062,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Achoania jarviki* is changed from 0 to 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 382. Olfactory tracts: (0) parallel or near-parallel; (1) significantly diverged.
 
@@ -3321,6 +4077,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 383. Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 58; Choo *et al*. (2017), Character 57; Zhu Y. *et al*. (2022), Character 387; Andreev *et al*. (2022), Character 117.
@@ -3330,6 +4088,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*，*Pauropetalichthys magnoculus* should be revised from ? to 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 384. Ethmoid region elongate with dorsoventrally deep lateral walls: (0) absent; (1) present.
 
@@ -3341,6 +4101,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 385. Ethmoid articulation for palatoquadrate: (0) placed on postnasal wall; (1) extends posteriorly to the level of N.II.
 
 > Zhu  *et al*. (2009, Character 35), and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389; Brazeau *et al*. (2023), Character 76.
@@ -3348,6 +4110,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 386. Internasal vacuities or pits: (0) absent; (1) present.
 
@@ -3357,6 +4121,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 387. Morphology of internasal vacuities: (0) undifferentiated or anterior palatal fossa; (1) shallow, paired pits with strong midline ridge; (2) deep, peer-shaped pits.
 
 > Zhu  *et al*. (2009, Character 33), and references therein; Zhu *et al*. (2013), Character 219; Lu *et al*. (2016), Character 49; Choo *et al*. (2017), Character 245; Zhu Y. *et al*. (2022), Character 391.
@@ -3364,6 +4130,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is 2.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to -.
 
 388. Basicranial morphology: (0) platybasic; (1) tropibasic.
 
@@ -3373,6 +4141,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to 0.
+
 389. Narrow interorbital septum: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 68; Choo *et al*. (2017), Character 67. King *et al*. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. *et al*. (2022), Character 393; Andreev *et al*. (2022), Character 135; Brazeau *et al*. (2023), Character 35.
@@ -3380,6 +4150,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 390. Optic lobes: (0) narrower than cerebellum; (1) same width or wider than cerebellum.
 
@@ -3389,6 +4161,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0.  The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis*, *Ellopetalichthys scheii* should be revised from ? to 0.
+
 391. Space for forebrain and (at least) proximal portion of olfactory tracts narrow and elongate, extending between orbits: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 118. Zhu Y. *et al*. (2021), Character 347; Zhu Y. *et al*. (2022), Character 395.
@@ -3396,6 +4170,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. he coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 392. Rostral bar: (0) absent; (1) present.
 
@@ -3405,6 +4181,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 393. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
 
 > Zhu *et al*. (2016), Character 326; Coates *et al*. (2018), Character 123; Zhu Y. *et al*. (2021), Character 307; Zhu Y. *et al*. (2022), Character 397.
@@ -3412,6 +4190,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 394. Palatobasal (or orbital) articulation: (0) posterior to the optic foramen; (1) anterior to the optic foramen, grooved, and overlapped by process or flange of palatoquadrate; (2) anterior to optic foramen, smooth, and overlaps or flanks articular surface on palatoquadrate.
 
@@ -3421,6 +4201,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 395. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 328; Zhu Y. *et al*. (2021), Character 309; Zhu Y. *et al*. (2022), Character 399.
@@ -3428,6 +4210,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Eurycaraspis incilis* should be revised from 0 to ?.
 
 396. Trochlear nerve foramen anterior to optic nerve foramen: (0) absent; (1) present.
 
@@ -3437,6 +4221,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 397. Pronounced sub-ethmoidal keel: (0) absent; (1) present.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 59; Choo *et al*. (2017), Character 58; King *et al*. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. *et al*. (2022), Character 401; Andreev *et al*. (2022), Character 118; Brazeau *et al*. (2023), Character 26.
@@ -3444,6 +4230,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 398. Eye stalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
 
@@ -3453,6 +4241,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
+
 399. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 
 > Castiello (2018), Character 64; Zhu Y. *et al*. (2022), Character 403.
@@ -3461,6 +4251,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 400. Position of myodome for superior oblique eye muscles: (0) posterior and dorsal to foramen for nerve II; (1) anterior and dorsal to foramen.
 
 > Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404; Andreev *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 27.
@@ -3468,6 +4260,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 401. Orbit directed mostly laterally and free of flanking endocranial cartilage or bone: (0) absent; (1) present.
 
@@ -3479,6 +4273,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 402. Orbit larger than otic capsule: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 142; Zhu Y. *et al*. (2022), Character 407.
@@ -3486,6 +4282,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 403. Paired pineal and parapineal tracts: (0) absent; (1) present.
 
@@ -3499,6 +4297,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 404. Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal.
 
 > Choo *et al*. (2017), Character 335; Lu *et al*. (2017), Character 268; Zhu Y. *et al*. (2022), Character 409; Andreev *et al*. (2022), Character 266.
@@ -3506,6 +4306,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 405. Developed postorbital cavity: (0) absent; (1) present.
 
@@ -3515,6 +4317,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 406. Unconstricted cranial notochord: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 40), and references therein; Zhu *et al*. (2013), Character 225; Choo *et al*. (2017), Character 221; King *et al*. (2017), Character 68; Castiello (2018), Character 70; Zhu Y. *et al*. (2022), Character 411; Brazeau *et al*. (2023), Character 72.
@@ -3522,6 +4326,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 407. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): (0) absent; (1) present.
 
@@ -3531,6 +4337,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 408. Opercular suspension on braincase: (0) absent; (1) present.
 
 > Brazeau (2009, Character 91); Zhu *et al*. (2013), Character 229; Choo *et al*. (2017), Character 224; King *et al*. (2017), Character 70; Castiello (2018), Character 72; Zhu Y. *et al*. (2022), Character 413; Brazeau *et al*. (2023), Character 74.
@@ -3539,6 +4347,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 409. Ophthalmic foramen in anterodorsal extremity of orbit communicates with cranial interior: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 132; Zhu Y. *et al*. (2022), Character 414.
@@ -3546,6 +4356,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 410. Internal carotids: (0) entering single or paired openings in the basicranium from a posterolateral angle; (1) entering basicranial opening(s) head-on from an extreme, lateral angle; (2) absent.
 
@@ -3557,6 +4369,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 411. Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 78; Choo *et al*. (2017), Character 78; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2022), Character 416; Andreev *et al*. (2022), Character 143; Brazeau *et al*. (2023), Character 44.
@@ -3564,6 +4378,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 412. Postorbital process: (0) absent; (1) present.
 
@@ -3575,6 +4391,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 1.
+
 413. Elongated distance between postorbital process and the articulation for hyomandibular: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 418.
@@ -3585,6 +4403,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 414. Postorbital process articulates with palatoquadrate: (0) absent; (1) present.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Maisey (2001a); Davis *et al*. (2012), Character 81; Choo *et al*. (2017), Character 80; King *et al*. (2017), Character 43; Castiello (2018), Character 43; Zhu Y. *et al*. (2022), Character 419; Brazeau *et al*. (2023), Character 46.
@@ -3592,6 +4412,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 415. Postorbital process and arcade: (0) short and deep - width not more than maximum braincase width (excluding arcade); (1) process and arcade wide - width exceeds maximum width of braincase, and anteroposteriorly narrow; (2) process and arcade massive; (3) arcade forms postorbital pillar.
 
@@ -3601,6 +4423,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 416. Postorbital process downturned, with anhedral angle relative to basicranium: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 145; Zhu Y. *et al*. (2022), Character 421.
@@ -3608,6 +4432,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
 417. Canal for jugular in postorbital process: (0) absent; (1) present.
 
@@ -3617,6 +4443,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 418. Jugular canal diameter: (0) small; (1) large; (2) canal absent.
 
 > Coates *et al*. (2018), Character 146; Zhu Y. *et al*. (2022), Character 423.
@@ -3624,6 +4452,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?.
 
 419. Jugular canal: (0) long (invested in otic region along length of skeletal labyrinth); (1) short (restricted to region anterior of skeletal labyrinth); (2) absent (jugular vein uninvested in otic region).
 
@@ -3635,6 +4465,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 420. Canal, likely for trigeminal nerve (V) mandibular ramus, passes through the postorbital process from proximal dorsal entry to distal and ventral exit: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 147; Zhu Y. *et al*. (2022), Character 425.
@@ -3642,6 +4474,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 421. Postorbital process expanded anteroposteriorly: (0) absent; (1) present.
 
@@ -3651,6 +4485,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 422. C-bout notch separates postorbital process from supraotic shelf: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 152; Zhu Y. *et al*. (2022), Character 427.
@@ -3658,6 +4494,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 423. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: (0) absent; (1) present.
 
@@ -3669,6 +4507,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. The coding of MPauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to -.
+
 424. Spiracular groove on basicranial surface: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 62; Choo *et al*. (2017), Character 61; King *et al*. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. *et al*. (2022), Character 429; Andreev *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 29.
@@ -3676,6 +4516,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
 425. Spiracular groove on lateral commissure: (0) absent; (1) present.
 
@@ -3685,6 +4527,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?.
+
 426. Subpituitary fenestra: (0) absent; (1) present.
 
 > Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 64; Choo *et al*. (2017), Character 63; King *et al*. (2017), Character 28; Castiello (2018), Character 94; Zhu Y. *et al*. (2022), Character 431; Andreev *et al*. (2022), Character 127; Brazeau *et al*. (2023), Character 31.
@@ -3692,6 +4536,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
 427. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present
 
@@ -3701,6 +4547,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 428. Nerve VIII bifurcates before entering the labyrinth cavity: (0) bifurcates; (1) does not bifurcate.
 
 > Zhu Y. *et al*. (2021), Character 341; Zhu Y. *et al*. (2022), Character 433.
@@ -3708,6 +4556,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
 
 429. Prehypophysial diencephalon: (0) the prehypophysial ventral "step" is absent or insignificantly captured by endocast, the ventral aspect of telencephalon is continuous with the anterior boundary of the hypophysial recess; (1) significant prehypophysial diencephalon, indicated by a "step" between the optic nerve canal marking the start of the diencephalon, and the anterior boundary of the hypophysial recess.
 
@@ -3717,6 +4567,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 430. Otic or pre-vagus section of myelencephalon: (0) long, longer than metencephalon; (1) short, shorter than metencephalon.
 
 > Zhu Y. *et al*. (2021), Character 344; Zhu Y. *et al*. (2022), Character 435.
@@ -3725,12 +4577,16 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 431. Extended prehypophysial portion of sphenoid: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 67; Choo *et al*. (2017), Character 66. King *et al*. (2017), Character 31; Castiello (2018), Character 31; Zhu Y. *et al*. (2022), Character 436; Andreev *et al*. (2022), Character 134; Brazeau *et al*. (2023), Character 34.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 432. Main trunk of facial nerve (N. VII): (0) elongate and passes anterolaterally through orbital floor; (1) stout and divides within otic capsule at the level of the postorbital process.
 
@@ -3740,6 +4596,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 433. Hyoid ramus of facial nerve exits through posterior jugular opening: (0) absent; (1) present.
 
 > Friedman (2007); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 70; Choo *et al*. (2017), Character 69; King *et al*. (2017), Character 33; Castiello (2018), Character 33; Zhu Y. *et al*. (2022), Character 438; Brazeau *et al*. (2023), Character 36.
@@ -3748,6 +4606,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 434. Ascending basisphenoid pillar pierced by common internal carotid: (0) absent; (1) present.
 
 > Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 75; Choo *et al*. (2017), Character 74; King *et al*. (2017), Character 38; Castiello (2018), Character 38; Zhu Y. *et al*. (2022), Character 439; Andreev *et al*. (2022), Character 141; Brazeau *et al*. (2023), Character 41.
@@ -3755,6 +4615,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 435. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 
@@ -3766,6 +4628,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 436. Position of basal/basipterygoid articulation: (0) same anteroposterior level as hypophysial opening; (1) anterior to hypophysial opening.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 80; Choo *et al*. (2017), Character 79; King *et al*. (2017), Character 42; Castiello (2018), Character 42; Zhu Y. *et al*. (2022), Character 441; Andreev *et al*. (2022), Character 145; Brazeau *et al*. (2023), Character 45.
@@ -3773,6 +4637,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 437. Basipterygoid process (basal articulation) with vertically oriented component: (0) absent; (1) present.
 
@@ -3782,6 +4648,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 438. Expanded articular area anterior to basipterygoid process: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 103; Castiello (2018), Character 104; Zhu Y. *et al*. (2022), Character 443; Brazeau *et al*. (2023), Character 107.
@@ -3790,6 +4658,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 439. Pituitary vein canal: (0) dorsal to level of basipterygoid process; (1) flanked posteriorly by basipterygoid process.
 
 > Davis *et al*. (2012), Character 84; Choo *et al*. (2017), Character 83; King *et al*. (2017), Character 46; Castiello (2018), Character 46; Zhu Y. *et al*. (2022), Character 444; Andreev *et al*. (2022), Character 149; Andreev *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 49.
@@ -3797,6 +4667,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 440. Pituitary vein canal: (0) discontinuous, enters the cranial cavity; (1) discontinuous, enters hypophysial recess; (2) continuous transverse vein.
 
@@ -3808,6 +4680,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 441. Pituitary vein in a transverse canal connecting the orbit: (0) absent; (1) present.
 
 > Castiello (2018), Character 93; Zhu Y. *et al*. (2022), Character 446.
@@ -3815,6 +4689,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 442. Short otico-occipital region of braincase: (0) absent; (1) present.
 
@@ -3828,6 +4704,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0.
+
 443. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 
 > Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 95; Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2021), Character 157; Zhu Y. *et al*. (2022), Character 448; Andreev *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 374.
@@ -3840,6 +4718,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?.
+
 444. Articulation facet with hyomandibular: (0) single-headed; (1) double-headed.
 
 > Zhu  *et al*. (2009, Character 44) and references therein; Zhu *et al*. (2013), Character 227; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 150; King *et al*. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. *et al*. (2022), Character 449; Andreev *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 67.
@@ -3847,6 +4727,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 445. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
      
@@ -3856,6 +4738,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 446. Hyomandibula articulates with neurocranium beneath otic shelf: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 162; Zhu Y. *et al*. (2022), Character 452.
@@ -3863,6 +4747,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 447. Hyoid arch articulation: (0) on lateral commissure; (1) on otic capsule wall.
 
@@ -3872,6 +4758,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 448. Relative position of jugular groove and hyomandibular articulation: (0) hyomandibula dorsal or same level (i.e. on bridge); (1) jugular vein passing dorsal or lateral to hyomandibula.
 
 > Choo *et al*. (2017), Character 324; Zhu Y. *et al*. (2022), Character 454; Brazeau *et al*. (2023), Character 93; Andreev *et al*. (2022), Character 268 (**the states are slightly different**).
@@ -3879,6 +4767,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 449. Hyomandibular facets where they straddle the jugular vein: (0) narrowly separated; (1) widely separated.
 
@@ -3888,6 +4778,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 450. Hypophyseal chamber: (0) projects posteroventrally; (1) projects ventrally or anteroventrally.
 
 > Zhu Y. *et al*. (2021), Character 266; Zhu Y. *et al*. (2022), Character 456; Andreev *et al*. (2022), Character 270.
@@ -3895,6 +4787,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 451. Cucullaris fossa (trapezius fossa): (0) open posteriorly; (1) constrained posteriorly.
 
@@ -3904,6 +4798,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0. 
+
 452. Cranial cavity and labyrinth: (0) widely spaced; (1) closely spaced.
 
 > Lu *et al*. (2017), Character 273; Zhu Y. *et al*. (2022), Character 458.
@@ -3911,6 +4807,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 453. Labyrinth cavity: (0) separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall; (1) skeletal capsular wall absent.
 
@@ -3920,6 +4818,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 454. External (horizontal) semicircular canal: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 85; Choo *et al*. (2017), Character 84; King *et al*. (2017), Character 47; Castiello (2018), Character 47; Zhu Y. *et al*. (2022), Character 460; Andreev *et al*. (2022), Character 150; Brazeau *et al*. (2023), Character 50.
@@ -3928,6 +4828,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
+
 455. External (horizontal) semicircular canal: (0) joins the vestibular region dorsal to posterior ampulla; (1) joins level with posterior ampulla.
 
 > Davis *et al*. (2012), Character 87; Choo *et al*. (2017), Character 86; King *et al*. (2017), Character 49; Castiello (2018), Character 49; Zhu Y. *et al*. (2022), Character 461; Andreev *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 53.
@@ -3935,6 +4837,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 456. Horizontal semicircular canal in dorsal view: (0) medial to path of jugular vein; (1) dorsal to jugular vein.
 
@@ -3946,6 +4850,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 457. Crus commune connecting anterior and posterior semicircular canals: (0) present; (1) absent.
 
 > Coates *et al*. (2018), Character 180; Zhu Y. *et al*. (2021), Character 279; Zhu Y. *et al*. (2022), Character 463; Brazeau *et al*. (2023), Character 52.
@@ -3953,6 +4859,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised fromr ? to 1.
 
 458. Crus commune of anterior and posterior semicircular canals: (0) dorsal to endocranial roof; (1) ventral to endocranial roof.
 
@@ -3962,6 +4870,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised fromr ? to -. The coding of *Shearsbyaspis oepiki* should be revised fromr 0 to -.
+
 459. Angle of external semicircular canal: in lateral view, straight line projected through canal intersects anterior ampulla, external ampullae, and base of foramen magnum: (0) absent; (1) present.
 
 > Coates *et al*. (2017; Character 101); Coates *et al*. (2018), Character 177; Zhu Y. *et al*. (2021), Character 350; Zhu Y. *et al*. (2022), Character 465.
@@ -3969,6 +4879,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 460. Left and right external semicircular canals approach or meet the posterodorsal midine of the hindbrain roof: (0) absent; (1) present.
 
@@ -3978,6 +4890,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0.
+
 461. Preampullary portion of posterior semicircular canal: (0) absent; (1) present.
 
 > Maisey (2001), Character 17; Coates *et al*. (2018), Character 179; Zhu Y. *et al*. (2021), Character 332; Zhu Y. *et al*. (2022), Character 467.
@@ -3985,6 +4899,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 462. Sinus superior: (0) absent or indistinguishable from union of anterior and posterior canals with saccular chamber; (1) present.
 
@@ -3994,6 +4910,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 463. Supraotic cavity: (0) absent; (1) present.
 
 > Lu *et al*. (2017), Character 275; Zhu Y. *et al*. (2022), Character 469; Andreev *et al*. (2022), Character 273.
@@ -4001,6 +4919,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 464. Lateral cranial canal: (0) absent; (1) present.
 
@@ -4010,6 +4930,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 465. Subcircular endolymphatic foramen: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 185; Zhu Y. *et al*. (2022), Character 471.
@@ -4017,6 +4939,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. This Character is not from Coates *et al*. (2018), Character 185.
 
 466. External opening for endolymphatic ducts anterior to crus commune: (0) absent; (1) present.
 
@@ -4026,6 +4950,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 467. Endolymphatic ducts: (0) posteriodorsally angled tubes; (1) tubes oriented vertically through median endolymphatic fossa.
 
 > Schaeffer (1981); Coates & Sequeira (1998, 2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 92; Choo *et al*. (2017), Character 91; Zhu Y. *et al*. (2022), Character 473; Andreev *et al*. (2022), Character 160; Brazeau *et al*. (2023), Character 57.
@@ -4033,6 +4959,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 468. Ampullary ends of anterior semicircular canal and external semicircular canal: (0) separated by the bulbous utricular chamber; (1) join before entering utricular chamber.
 
@@ -4042,6 +4970,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 469. Orientation of saccular cavity in anterior view: (0) flat inclined; (1) steeply inclined or vertical.
 
 > Zhu Y. *et al*. (2021), Character 334; Zhu Y. *et al*. (2022), Character 475.
@@ -4049,6 +4979,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 470. Sacculus position: (0) restricted ventral to external semicircular canal; (1) extends dorsal to semicircular canal.
 
@@ -4058,6 +4990,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
+
 471. Vestibular cavity of the bony labyrinth shape: (0) drum-shaped; (1) irregularly shaped.
 
 > Zhu Y. *et al*. (2021), Character 336; Zhu Y. *et al*. (2022), Character 477.
@@ -4065,6 +4999,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 472. Endolymphatic complex shape: (0) simple and tube-like; (1) differentiated into distinctive sections.
 
@@ -4074,6 +5010,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 473. Endolymphatic complex position: (0) lateral to the otic cartilaginous wall, close to inner ear; (1) mesial to the cartilaginous wall, close to brain cavity.
 
 > Zhu Y. *et al*. (2021), Character 338; Zhu Y. *et al*. (2022), Character 479.
@@ -4081,6 +5019,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 474. Endolymphatic duct distal direction in lateral view: (0) posteriorly directed; (1) vertically directed.
 
@@ -4090,6 +5030,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 475. Endolymphatic duct distal direction in coronal view: (0) parallelled directed; (1) mesially directed; (2) laterally directed.
 
 > Zhu Y. *et al*. (2021), Character 340; Zhu Y. *et al*. (2022), Character 481.
@@ -4097,6 +5039,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 2.
 
 476. Endolymphatic fossa: (0) absent; (1) present.
 
@@ -4106,6 +5050,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
+
 477. Endolymphatic sacs: (0) absent; (1) present; (2) medially oriented endolymphatic fossae; (3) laterally oriented endolymphatic fossae.
 
 > Castiello (2018), Character 54; Zhu Y. *et al*. (2022), Character 483.
@@ -4113,6 +5059,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 478. Endolymphatic fossa elongate (slot-shaped), dividing dorsal otic ridge along midline: (0) absent; (1) present.
 
@@ -4122,6 +5070,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 479. Perilymphatic fenestra within the endolymphatic fossa: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 192; King *et al*. (2017), Character 119; Castiello (2018), Character 121; Zhu Y. *et al*. (2021), Character 353; Zhu Y. *et al*. (2022), Character 485; Brazeau *et al*. (2023), Character 123.
@@ -4129,6 +5079,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 480. Trigemino-facial recess: (0) absent; (1) present.
 
@@ -4138,6 +5090,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 481. Posterior dorsal fontanelle: (0) absent; (1) present.
 
 > Schaeffer (1981); Coates & Sequeira (1998); Davis *et al*. (2012), Character 89; Choo *et al*. (2017), Character 88; King *et al*. (2017), Character 50; Castiello (2018), Character 50; Zhu Y. *et al*. (2022), Character 487; Andreev *et al*. (2022), Character 155; Brazeau *et al*. (2023), Character 54.
@@ -4145,6 +5099,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 482. Shape of posterior dorsal fontanelle: (0) approximately as long as broad; (1) much longer than wide, slot-shaped.
 
@@ -4154,6 +5110,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 483. Posterior dorsal fontanelle: (0) connected to persistent otico-occipital fissure; (1) separated from the fissure by posterior tectum.
 
 > Coates *et al*. (2018), Character 184; Zhu Y. *et al*. (2022), Character 489.
@@ -4161,6 +5119,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 484. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal: (0) traverses jugular canal, with separate exit in otic region; (1) intersects jugular canal, with exit through posterior jugular foramen.
 
@@ -4170,6 +5130,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 485. Relationship of cranial endocavity to basisphenoid: (0) endocavity occupies full depth of sphenoid; (1) enodcavity dorsally restricted.
 
 > King *et al*. (2017), Character 37; Castiello (2018), Character 37; Zhu Y. *et al*. (2021), Character 137; Zhu Y. *et al*. (2022), Character 491; Andreev *et al*. (2022), Character 139; Brazeau *et al*. (2023), Character 40.
@@ -4177,6 +5139,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 486. Supraotic shelf broad: (0) absent; (1) present.
 
@@ -4186,6 +5150,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 487. Dorsal otic ridge: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 91; Choo *et al*. (2017), Character 90; King *et al*. (2017), Character 52; Castiello (2018), Character 52; Zhu Y. *et al*. (2021), Character 155; Zhu Y. *et al*. (2022), Character 493.
@@ -4193,6 +5159,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 488. Dorsal otic ridge forms a crest posteriorly: (0) absent; (1) present.
 
@@ -4202,6 +5170,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
+
 489. Vestibular fontanelle: (0) absent; (1) present.
 
 > Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Zhu Y. *et al*. (2022), Character 495; Andreev *et al*. (2022), Character 169; Brazeau *et al*. (2023), Character 60.
@@ -4209,6 +5179,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 490. Hypotic lamina (and dorsally directed glossopharyngeal canal): (0) absent; (1) present.
 
@@ -4218,6 +5190,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 491. Basicranial fenestra: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 52), and references therein; Zhu *et al*. (2013), Character 231; Choo *et al*. (2017), Character 151; King *et al*. (2017), Character 64; Castiello (2018), Character 66; Zhu Y. *et al*. (2022), Character 497. Giles *et al*. (2015), Character 169; Andreev *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 68.
@@ -4225,6 +5199,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 492. Channel for dorsal aorta and/or lateral dorsal aortae: (0) passes through basicranium: (1) external to basicranium.
 
@@ -4242,6 +5218,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 493. Dorsal aorta divides into lateral dorsal aortae: (0) posterior to occipital level; (1) anterior to level of the occiput.
 
 > Zhu *et al*. (2013), Character 234; Giles *et al*. (2015), Character 179; Coates *et al*. (2018), Character 202; Choo *et al*. (2017), Character 153; King *et al*. (2017), Character 66; Castiello (2018), Character 68; Zhu Y. *et al*. (2022), Character 499; Brazeau *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 70.
@@ -4251,6 +5229,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 494. Transverse otic process: (0) present; (1) absent.
 
@@ -4262,6 +5242,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, should be revised from ? to 0.
+
 495. Subcranial ridges: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 141; Choo *et al*. (2017), Character 298; King *et al*. (2017), Character 80; Castiello (2018), Character 82; Zhu Y. *et al*. (2022), Character 501; Andreev *et al*. (2022), Character 140; Brazeau *et al*. (2023), Character 84.
@@ -4272,6 +5254,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 496. Synotic tectum: (0) absent; (1) present.
 
 > Coates & Sequeira (1998), Character 9; Giles *et al*. (2015), Character 159; Choo *et al*. (2017), Character 300; King *et al*. (2017), Character 82; Castiello (2018), Character 84; Zhu Y. *et al*. (2022), Character 502; Andreev *et al*. (2022), Character 157; Brazeau *et al*. (2023), Character 86.
@@ -4279,6 +5263,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 497. Shape of median dorsal ridge anterior to endolymphatic fossa: (0) developed as a squared-off ridge or otherwise ungrooved; (1) bears a midline groove.
 
@@ -4288,6 +5274,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?.
+
 498. Medial recess of the posteroventral mydome: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 89; Castiello (2018), Character 91; Zhu Y. *et al*. (2022), Character 504; Brazeau *et al*. (2023), Character 94.
@@ -4295,6 +5283,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 499. Abducens, trigeminal nerves and pituitary vein: (0) opening via different foramina on the orbital wall; (1) sharing the same foramen on the orbital wall.
 
@@ -4304,6 +5294,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 500. Number of ‘sel’ canals: (0) five; (1) less than 5.
 
 > King *et al*. (2017), Character 91; Castiello (2018), Character 95; Zhu Y. *et al*. (2022), Character 506; Brazeau *et al*. (2023), Character 95.
@@ -4311,6 +5303,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 501. 'sel' 1 canal bifurcation: (0) between orbit and field; (1) adjacent to lateral field; (2) adjacent to orbit.
 
@@ -4320,6 +5314,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
+
 502. Marginal vein: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 92; Castiello (2018), Character 97; Zhu Y. *et al*. (2022), Character 508; Brazeau *et al*. (2023), Character 97.
@@ -4327,6 +5323,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 503. Profundus nerve: (0) emerges from the cranial cavity separately from the trigeminal nerve; (1) emerges together with the trigeminal nerve.
 
@@ -4338,6 +5336,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 504. Transverse otic process: (0) not extending in front of orbits; (1) extending in front of orbits.
 
 > King *et al*. (2017), Character 95; Castiello (2018), Character 99; Zhu Y. *et al*. (2022), Character 510; Brazeau *et al*. (2023), Character 99.
@@ -4345,6 +5345,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis* should be revised from ? to 0.
 
 505. Nasal capsules in anterolateral corners of orbit: (0) no; (1) yes.
 
@@ -4354,6 +5356,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. 
+
 506. Vagal process: (0) forked; (1) unforked.
 
 > King *et al*. (2017), Character 97; Castiello (2018), Character 101; Zhu Y. *et al*. (2022), Character 512; Brazeau *et al*. (2023), Character 101.
@@ -4361,6 +5365,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0.
 
 507. Rostral processes: (0) absent; (1) present.
 
@@ -4370,6 +5376,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 508. Median rostral dorsal process of the braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 100; Castiello (2018), Character 103; Zhu Y. *et al*. (2022), Character 514; Brazeau *et al*. (2023), Character 105.
@@ -4377,6 +5385,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
 509. Posttemporal fossae: (0) absent; (1) present.
 
@@ -4388,6 +5398,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
+
 510. Rostral organ: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111.
@@ -4395,6 +5407,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
 511. Prespiracular dental plate: (0) absent; (1) present.
 
@@ -4404,6 +5418,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 512. Suprapterygoid process: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 109; Castiello (2018), Character 109; Zhu Y. *et al*. (2022), Character 518; Brazeau *et al*. (2023), Character 113.
@@ -4412,11 +5428,15 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 513. Processus supraorbitalis lateralis: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 110; Castiello (2018), Character 110; Zhu Y. *et al*. (2022), Character 519; Brazeau *et al*. (2023), Character 114.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 514. Anterolateral fenestra in roof of otoccipital: (0) absent; (1) present.
 
@@ -4426,6 +5446,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 515. Ventral cranial fissure connects with vestibular fontanelles: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 112; Castiello (2018), Character 112; Zhu Y. *et al*. (2022), Character 521; Brazeau *et al*. (2023), Character 116.
@@ -4434,6 +5456,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 516. Bar across spiracular groove: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 113; Castiello (2018), Character 113; Zhu Y. *et al*. (2022), Character 522; Brazeau *et al*. (2023), Character 117.
@@ -4441,6 +5465,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 517. Hypophysial opening in braincase: (0) absent; (1) present.
 
@@ -4456,6 +5482,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?.
+
 518. Hypophysial organ projection: (0) anterior (1) anteroventral (2) posteroventral
 
 > Castiello (2018), Character 115; Zhu Y. *et al*. (2022), Character 524.
@@ -4468,6 +5496,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Megamastax amblyodus* is ?.
+
 519. Ventral rounded processes on preotic part of braincase: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 116; Castiello (2018), Character 118; Zhu Y. *et al*. (2022), Character 525; Brazeau *et al*. (2023), Character 120.
@@ -4475,6 +5505,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 520. Notochord short, ending at the occipital cotylus: (0) absent; (1) present.
 
@@ -4484,6 +5516,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 521. Accessory processes extend from ventral surface of nasal capsule: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 124; Castiello (2018), Character 123; Zhu Y. *et al*. (2022), Character 527; Brazeau *et al*. (2023), Character 128.
@@ -4491,6 +5525,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 522. Internal carotid meets efferent pseudobranchial in orbit: (0) absent; (1) present.
 
@@ -4500,6 +5536,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 523. Jugular vein passes through cranioquadrate passage: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 126; Castiello (2018), Character 125; Zhu Y. *et al*. (2022), Character 529; Brazeau *et al*. (2023), Character 130.
@@ -4507,6 +5545,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 524. Anterior margin of ventral fissure: (0) straight; (1) sinusoidal.
 
@@ -4516,6 +5556,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?.
+
 525. Bulbous otic and auxiliary condyles for palatoquadrate articulation: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 128; Castiello (2018), Character 127; Zhu Y. *et al*. (2022), Character 531; Brazeau *et al*. (2023), Character 132.
@@ -4523,6 +5565,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 526. Basal fenestra opening into floor of orbit: (0) absent; (1) present.
 
@@ -4532,6 +5576,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is ?.
+
 527. Nasal sacs: (0) unpaired; (1) paired.
 
 > King *et al*. (2017), Character 130; Castiello (2018), Character 129; Zhu Y. *et al*. (2022), Character 533; Brazeau *et al*. (2023), Character 134.
@@ -4539,6 +5585,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis* should be revised from ? to 1.
 
 528. 4 carotid foramina in parasphenoid: (0) absent; (1) present.
 
@@ -4548,6 +5596,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 529. Parotic dental plates: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 139; Castiello (2018), Character 138; Zhu Y. *et al*. (2022), Character 535; Brazeau *et al*. (2023), Character 143.
@@ -4555,6 +5605,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 530. Branchial ridges: (0) present; (1) reduced to vagal process; (2) absent (articulation made with bare cranial wall).
 
@@ -4566,6 +5618,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 531. Periotic process: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 156; King *et al*. (2017), Character 117; Castiello (2018), Character 119; Zhu Y. *et al*. (2022), Character 537; Brazeau *et al*. (2023), Character 121.
@@ -4573,6 +5627,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 532. Sub-otic occipital fossa: (0) absent; (1) present.
 
@@ -4582,6 +5638,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 533. Postotic process: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 165; Zhu Y. *et al*. (2022), Character 539.
@@ -4589,6 +5647,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 534. Otic capsule extends posterolaterally relative to occipital arch: (0) absent; (1) present.
 
@@ -4598,6 +5658,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 535. Otic capsules: (0) widely separated; (1) approaching dorsal midline.
 
 > Coates *et al*. (2018), Character 167; Zhu Y. *et al*. (2022), Character 541.
@@ -4605,6 +5667,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 536. Otic capsules project anteriorly between postorbital processes: (0) absent; (1) present.
 
@@ -4616,6 +5680,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 537. Endocranial roof anterior to otic capsules domelike, smoothly convex dorsally and anteriorly: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 169; Zhu Y. *et al*. (2022), Character 543.
@@ -4623,6 +5689,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 538. Roof of skeletal cavity for cerebellum and mesencephalon significantly higher than dorsal-most level of semicircular canals: (0) absent; (1) present.
 
@@ -4632,6 +5700,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
+
 539. Roof of the endocranial space for telencephalon and olfactory tracts offset ventrally relative to level of mesencephalon: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 171. Zhu Y. *et al*. (2021), Character 348; Zhu Y. *et al*. (2022), Character 545.
@@ -4639,6 +5709,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 540. Double octaval nerve foramina in chondrified mesial wall of otic capsule: (0) absent; (1) present.
 
@@ -4648,6 +5720,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 541. Glossopharyngeal nerve (N. IX) exit: (0) foramen situated posteroventral to otic capsule and anterior to metotic fissure; (1) through metotic fissure.
 
 > Schaeffer (1981); Coates &Sequeira (1998, 2001); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547; Andreev *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 37.
@@ -4655,6 +5729,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is -. The coding of *Eurycaraspis incilis* *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to -.
 
 542. Glossopharyngeal and vagus nerves share common exit from neurocranium: (0) absent; (1) present.
 
@@ -4664,6 +5740,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+
 543. Ventral portion of occipital arch wedged between rear of otic capsules: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 203; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 549; Andreev *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 61.
@@ -4672,6 +5750,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 544. Dorsal portion of occipital arch wedged between otic capsules: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 95; Coates *et al*. (2018), Character 204; King *et al*. (2017), Character 57; Castiello (2018), Character 58; Zhu Y. *et al*. (2022), Character 550; Andreev *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 61.
@@ -4679,6 +5759,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
 545. Craniospinal process (\"supravagal process\" in Stensiö): (0) absent; (1) present.
 
@@ -4692,6 +5774,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis* should be revised from ? to 1.
+
 546. Parachordal shape: (0) forming a broad, flat surface as wide as the otic capsules; (1) mediolaterally constricted relative to the otic capsules.
 
 > Brazeau (2009), Character 98; Davis *et al*. (2012), Character 102; Choo *et al*. (2017), Character 98; King *et al*. (2017), Character 60; Castiello (2018), Character 61; Zhu Y. *et al*. (2022), Character 552; Andreev *et al*. (2022), Character 173; Brazeau *et al*. (2023), Character 64.
@@ -4700,6 +5784,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 547. Ventral notch between parachordals: (0) absent; (1) present or entirely unfused.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 101; Choo *et al*. (2017), Character 97; King *et al*. (2017), Character 59; Castiello (2018), Character 60; Zhu Y. *et al*. (2022), Character 553; Andreev *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 63.
@@ -4707,6 +5793,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 1.
+
+> - The coding of *Yipetalichthys* is ?.
 
 548. Stalk-shaped parachordal/occipital region: (0) absent; (1) present.
 
@@ -4718,6 +5806,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis* should be revised from ? to 1. The feature is euqal to an elongated occipital region; in Petalichthyida, the presence of two paranuchal plates certainly indicates the existence of an elongated occipital region.
+
 549. Size of aperture to notochordal canal: (0) much smaller than foramen magnum; (1) as large, or larger, than foramen magnum.
 
 > Giles *et al*. (2015), Character 178; Choo *et al*. (2017), Character 306; King *et al*. (2017), Character 88; Castiello (2018), Character 90; Zhu Y. *et al*. (2022), Character 555; Andreev *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 92.
@@ -4725,6 +5815,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 550. Spino-occipital nerve foramina: (0) two or more, aligned horizontally; (1) one or two, dorsoventrally offset.
 
@@ -4734,6 +5826,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 1.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 551. Occipital crest anteroposteriorly elongate, and extends from the roof of the posterior tectum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 205; Zhu Y. *et al*. (2022), Character 557.
@@ -4742,6 +5836,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 552. Paired occipital condyles: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 305; Coates *et al*. (2018), Character 206; King *et al*. (2017), Character 87; Castiello (2018), Character 89; Andreev *et al*. (2022), Character 175; Zhu Y. *et al*. (2022), Character 558.
@@ -4749,6 +5845,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 ## Axial and appendicular skeleton
 
@@ -4760,6 +5858,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis*,*Shearsbyaspis oepiki* should be revised from ? to 0.
+
 554. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
 > Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177.
@@ -4767,6 +5867,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is 0.
+
+> - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Widjeaspis warrooensis*, should be revised from ? to 1.
 
 555. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
@@ -4776,6 +5878,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
 556. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562.
@@ -4783,6 +5887,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 557. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 
@@ -4792,6 +5898,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 558. Rotatory contact of the articulation: (0) absent; (1) present.
 
 > Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564.
@@ -4799,6 +5907,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is -.
+
+> - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
 
 559. Lateral ridges on skull roof laterally defining the articulation: (0) absent; (1) present.
 
@@ -4810,6 +5920,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is -.
 
+> - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1. I not sure the coding of arthrodires which Zhu mentioned above, but I agree the Para-articular process of dermal neck joint is shared by petalichthyids and arthrodires. See Figure 9 in Castiello et al (2020).
+
 560. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 105; Choo *et al*. (2017), Character 101; King *et al*. (2017), Character 422; Castiello (2018), Character 411; Zhu Y. *et al*. (2022), Character 566; Andreev *et al*. (2022), Character 180; Brazeau *et al*. (2023), Character 427.
@@ -4817,6 +5929,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 561. Dermal shoulder girdle forming a complete ring around the trunk: (0) present; (1) absent.
 
@@ -4826,6 +5940,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 562. Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 107; Choo *et al*. (2017), Character 103; King *et al*. (2017), Character 424; Castiello (2018), Character 413; Zhu Y. *et al*. (2022), Character 568; Andreev *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 429.
@@ -4833,6 +5949,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 563. Median dorsal plate: (0) absent; (1) present.
 
@@ -4842,6 +5960,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
+
 564. Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 109; Choo *et al*. (2017), Character 105; King *et al*. (2017), Character 426; Castiello (2018), Character 415; Zhu Y. *et al*. (2022), Character 570; Andreev *et al*. (2022), Character 186; Brazeau *et al*. (2023), Character 431.
@@ -4849,6 +5969,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 565. Anterior median dorsal plate: (0) absent; (1) present.
 
@@ -4858,6 +5980,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 566. Anterior margin of unpaired anterior median dorsal plate: (0) broad; (1) pointed.
 
 > Zhu *et al*. (2016), Character 362; Zhu Y. *et al*. (2021), Character 322; Zhu Y. *et al*. (2022), Character 572.
@@ -4865,6 +5989,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0，as in *Guiyu*. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 567. Anterior median dorsal plate (MD1) relative to posterior median dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1 longer than MD2.
 
@@ -4874,6 +6000,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 568. Anterior lateral plate: (0) absent; (1) present. 
 
 > Zhu *et al*. (2016), Character 363; Zhu Y. *et al*. (2021), Character 323; Zhu Y. *et al*. (2022), Character 574.
@@ -4881,6 +6009,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 569. Postbranchial lamina of trunk armour: (0) lateral; (1) internal.
 
@@ -4890,6 +6020,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 570. Crista internalis of dermal shoulder girdle: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 183; Zhu Y. *et al*. (2022), Character 576; Andreev *et al*. (2022), Character 187.
@@ -4897,6 +6029,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 571. Anteroventral plate: (0) absent; (1) present.
 
@@ -4906,6 +6040,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
+
 572. Number of median ventral plates: (0) two; (1) one.
 
 > Zhu *et al*. (2016), Character 366; Zhu Y. *et al*. (2021), Character 326; Zhu Y. *et al*. (2022), Character 578.
@@ -4913,6 +6049,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 573. Interolateral plate: (0) paired; (1) fused (unpaired semilunar plate).
 
@@ -4922,6 +6060,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 574. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated.
 
 > Zhu *et al*. (2016), Character 368; Zhu Y. *et al*. (2021), Character 328; Zhu Y. *et al*. (2022), Character 580.
@@ -4929,6 +6069,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 575. Brachial process: (0) absent; (1) present.
 
@@ -4938,6 +6080,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 576. Presupracleithrum: (0) absent; (1) present.
 
 > Zhu *et al*. (2009, Character 121), and references therein; Zhu *et al*. (2013), Character 244; Choo *et al*. (2017), Character 231; King *et al*. (2017), Character 203; Castiello (2018), Character 202; Zhu Y. *et al*. (2022), Character 582; Brazeau *et al*. (2023), Character 208.
@@ -4945,6 +6089,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 577. Anocleithrum: (0) element developed as postcleithrum; (1) element developed as anocleithrum sensu stricto.
 
@@ -4954,6 +6100,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
+
 578. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused.
 
 > Zhu *et al*. (2009, Character 122), and references therein; Zhu *et al*. (2013), Character 246; Choo *et al*. (2017), Character 234; King *et al*. (2017), Character 431; Castiello (2018), Character 420; Zhu Y. *et al*. (2022), Character 584; Brazeau *et al*. (2023), Character 436.
@@ -4961,6 +6109,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 579. Shape of dorsal blade of dermal shoulder girdle: (0) spatulate; (1) pointed.
 
@@ -4970,6 +6120,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 580. Posterior dorsolateral plate or equivalent: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441.
@@ -4977,6 +6129,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 581. Relationship of clavicle to cleithrum: (0) ascending process of clavicle overlapping cleithrum laterally; (1) ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially.
 
@@ -4986,6 +6140,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 582. Paired fins relation to cephalic shield: (0) continuous;(1) delimited at pectoral sinus.
 
 > Castiello (2018), Character 383; Zhu Y. *et al*. (2022), Character 588.
@@ -4993,6 +6149,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 583. Intromittent organ for internal fertilization ('claspers'): (0) absent; (1) present.
 
@@ -5002,6 +6160,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 584. Entepicondyle on humerus: (0) present; (1) absent.
 
 > King *et al*. (2017), Character 418; Castiello (2018), Character 407; Zhu Y. *et al*. (2022), Character 590; Brazeau *et al*. (2023), Character 423.
@@ -5009,6 +6169,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 585. PL and PDL overlap: (0) simple; (1) insertion.
 
@@ -5018,6 +6180,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 586. Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 438; Castiello (2018), Character 427; Zhu Y. *et al*. (2022), Character 592; Brazeau *et al*. (2023), Character 443.
@@ -5025,6 +6189,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 587. PDL plate visible externally: (0) present; (1) absent.
 
@@ -5036,6 +6202,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 588. Posteriorly produced spine on MD plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 440; Castiello (2018), Character 429; Zhu Y. *et al*. (2022), Character 594; Brazeau *et al*. (2023), Character 445.
@@ -5043,6 +6211,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 589. Joint in macromeric armoured pectoral fin: (0) absent; (1) present.
 
@@ -5052,6 +6222,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 590. Cd1 (first dorsal central) and Cd2 (second dorsal central) plates: (0) in contact; (1) separated.
 
 > King *et al*. (2017), Character 442; Castiello (2018), Character 431; Zhu Y. *et al*. (2022), Character 596; Brazeau *et al*. (2023), Character 447.
@@ -5059,6 +6231,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 591. Clavicles/interolateral plates: (0) large plates, comparable in size to cleithrum; (1) paired small semilunar plates; (2) unpaired semilunar plates.
 
@@ -5070,6 +6244,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 592. Chang's apparatus: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 444; Castiello (2018), Character 433; Zhu Y. *et al*. (2022), Character 598; Brazeau *et al*. (2023), Character 449.
@@ -5077,6 +6253,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Diandongpetalichthys liaojiaoshanensis* should be revised from ? to 0.
 
 593. Number of median dorsal plates: (0) one; (1) two; (2) three.
 
@@ -5086,6 +6264,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 594. Anocleithrum sensu stricto: (0) exposed; (1) subdermal.
 
 > King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451.
@@ -5093,6 +6273,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 595. Median ventral trunk plates: (0) absent; (1) present.
 
@@ -5102,6 +6284,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
+
 596. Extracleithrum: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 448; Castiello (2018), Character 437; Zhu Y. *et al*. (2022), Character 602; Brazeau *et al*. (2023), Character 453.
@@ -5110,6 +6294,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 597. Pectoral fin spine small (bivalve-like): (0) absent; (1) present.
 
 > Castiello (2018), Character 438. King *et al*. (2017), Character 449; Zhu Y. *et al*. (2022), Character 603; Brazeau *et al*. (2023), Character 454.
@@ -5117,6 +6303,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 598. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
 
@@ -5128,6 +6316,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
+
 599. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 326; Castiello (2018), Character 318; Zhu Y. *et al*. (2022), Character 605; Brazeau *et al*. (2023), Character 331.
@@ -5135,6 +6325,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 600. Horizontal caudal lobe: (0) absent; (1) present.
 
@@ -5144,6 +6336,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 601. Triphycercal tail: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 4521; Castiello (2018), Character 441; Zhu Y. *et al*. (2022), Character 607; Brazeau *et al*. (2023), Character 457.
@@ -5151,6 +6345,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 602. Spine-brush complex: (0) absent; (1) present.
 
@@ -5160,6 +6356,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 603. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. *et al*. (2022), Character 609; Brazeau *et al*. (2023), Character 485.
@@ -5167,6 +6365,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 604. Intermediate spines with finlets: (0) absent; (1) present.
 
@@ -5176,6 +6376,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 605. Median ventral prepectoral spine: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 482; Castiello (2018), Character 471; Zhu Y. *et al*. (2022), Character 611; Andreev *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 487.
@@ -5183,6 +6385,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
 606. Prepectoral spines form "necklace": (0) absent; (1) present.
 
@@ -5192,6 +6396,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
+
 607. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 484; Castiello (2018), Character 473; Zhu Y. *et al*. (2022), Character 613; Brazeau *et al*. (2023), Character 489.
@@ -5199,6 +6405,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. Note that in the current dataset, the scutes are only present in *Lupopsyrus pygmaeus*. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 608. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
 
@@ -5208,6 +6416,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 609. Triradiate scapulocoracoid: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415.
@@ -5215,6 +6425,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
@@ -5224,6 +6436,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. *et al*. (2022), Character 617; Brazeau *et al*. (2023), Character 424.
@@ -5231,6 +6445,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 612. Subscapular foramen: (0) absent; (1) present.
 
@@ -5240,6 +6456,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Andreev *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 403.
@@ -5248,6 +6466,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Andreev *et al*. (2022), Character 193; Zhu Y. *et al*. (2022), Character 620.
@@ -5255,6 +6475,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 615. Scapular infundibulum: (0) absent; (1) present.
 
@@ -5266,6 +6488,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
+
 616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Andreev *et al*. (2022), Character 190; Brazeau *et al*. (2023), Character 404.
@@ -5273,6 +6497,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
@@ -5282,6 +6508,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Andreev *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 408.
@@ -5289,6 +6517,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
 
@@ -5298,6 +6528,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 620. Coracoid process: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Andreev *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 410.
@@ -5305,6 +6537,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 621. Procoracoid mineralisation: (0) absent; (1) present.
 
@@ -5314,6 +6548,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 622. Paired (pectoral) fins: (0) absent; (1) present.
 
 > Castiello (2018), Character 382; Zhu Y. *et al*. (2022), Character 628.
@@ -5321,6 +6557,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 1. The coding of petalichthyids should be revised from ? to 1.
 
 623. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 
@@ -5330,6 +6568,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 624. Armoured pectoral appendage: (0) unjointed; (1) jointed.
 
 > Zhu *et al*. (2016), Character 371; Zhu Y. *et al*. (2021), Character 330; Zhu Y. *et al*. (2022), Character 630.
@@ -5337,6 +6577,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 625. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
 
@@ -5346,6 +6588,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, should be revised from ? to 0.
+
 626. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
 
 > Choo *et al*. (2017), Character 310; King *et al*. (2017), Character 414; Coates *et al*. (2018), Character 227; Castiello (2018), Character 403; Zhu Y. *et al*. (2022), Character 632; Andreev *et al*. (2022), Characters 199 and 200; Brazeau *et al*. (2023), Character 419.
@@ -5353,6 +6597,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 627. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 
@@ -5362,6 +6608,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
 > Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Andreev *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 420.
@@ -5369,6 +6617,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 629. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
 
@@ -5378,6 +6628,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 630. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 207; Choo *et al*. (2017), Character 313; King *et al*. (2017), Character 417; Castiello (2018), Character 406; Zhu Y. *et al*. (2022), Character 636; Andreev *et al*. (2022), Character 205; Brazeau *et al*. (2023), Character 422
@@ -5385,6 +6637,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 631. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
 
@@ -5394,6 +6648,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 632. Metapterygial whip: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 229; Zhu Y. *et al*. (2022), Character 638.
@@ -5401,6 +6657,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 633. Pectoral propterygium: (0) absent; (1) present.
 
@@ -5410,6 +6668,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 634. Perforate propterygium: (0) absent; (1) present.
 
 > Rosen  *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640; Andreev *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 413.
@@ -5417,6 +6677,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 635. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
 
@@ -5426,6 +6688,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 636. Pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 121; Choo *et al*. (2017), Character 117; King *et al*. (2017), Character 394; Castiello (2018), Character 384; Zhu Y. *et al*. (2022), Character 642; Andreev *et al*. (2022), Character 206; Brazeau *et al*. (2023), Character 399.
@@ -5433,6 +6697,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 
@@ -5442,6 +6708,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 638. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 123; Choo *et al*. (2017), Character 119; King *et al*. (2017), Character 396; Castiello (2018), Character 386; Andreev *et al*. (2022), Character 208; Zhu Y. *et al*. (2022), Character 644.
@@ -5449,6 +6717,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 639. Pelvic fin: (0) monobasal; (1) polybasal.
 
@@ -5458,6 +6728,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 640. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 122; Choo *et al*. (2017), Character 118; Zhu Y. *et al*. (2022), Character 646; Brazeau *et al*. (2023), Character 400.
@@ -5465,6 +6737,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 641. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
 
@@ -5474,6 +6748,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402.
@@ -5481,6 +6757,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
@@ -5490,6 +6768,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 234; Zhu Y. *et al*. (2022), Character 650.
@@ -5498,6 +6778,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 236; Zhu Y. *et al*. (2022), Character 651.
@@ -5505,6 +6787,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 646. Number of dorsal fins, if present: (0) one; (1) two.
 
@@ -5515,6 +6799,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
@@ -5530,6 +6816,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 648. Basal plate in dorsal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 230; Choo *et al*. (2017), Character 321; King *et al*. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. *et al*. (2022), Character 654; Andreev *et al*. (2022), Character 228; Brazeau *et al*. (2023), Character 482.
@@ -5537,6 +6825,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
 
@@ -5546,6 +6836,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 650. Branching radials in paired fins: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 197; Zhu Y. *et al*. (2022), Character 656; Andreev *et al*. (2022), Character 200.
@@ -5554,6 +6846,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 241; Zhu Y. *et al*. (2022), Character 657.
@@ -5561,6 +6855,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?
 
 652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
@@ -5572,6 +6868,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 653. Anal fin: (0) absent; (1) present.
 
 > Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659.
@@ -5579,6 +6877,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 654. Basal plate in anal fin: (0) absent; (1) present.
 
@@ -5588,6 +6888,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661.
@@ -5595,6 +6897,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0.
 
 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
 
@@ -5604,6 +6908,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 657. Series of thoracic supraneurals: (0) absent; (1) present.
 
 > Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Andreev *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 460.
@@ -5611,6 +6917,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
 
@@ -5620,6 +6928,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
 
 > Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665.
@@ -5627,6 +6937,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 660. Synarcual: (0) absent; (1) present.
 
@@ -5636,6 +6948,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 661. Calcified vertebral centra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 207; Zhu Y. *et al*. (2022), Character 667.
@@ -5643,6 +6957,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. 
 
 662. Chordacentra: (0) absent; (1) present.
 
@@ -5652,6 +6968,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 209; Zhu Y. *et al*. (2022), Character 669.
@@ -5660,6 +6978,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 240; Zhu Y. *et al*. (2022), Character 670.
@@ -5667,6 +6987,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 ## Spines: fins, cranial and elsewhere
 
@@ -5678,6 +7000,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672.
@@ -5685,6 +7009,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 667. Anal fin spine: (0) absent; (1) present.
 
@@ -5696,6 +7022,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 668. Pectoral fin spine: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674; Andreev *et al*. (2022), Character 213.
@@ -5703,6 +7031,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 669. Pelvic fin spine: (0) absent; (1) present.
 
@@ -5714,6 +7044,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Andreev *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 464.
@@ -5721,6 +7053,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from - to ?.
 
 671. Intermediate (prepelvic) fin spines: (0) absent; (1) present.
 
@@ -5732,6 +7066,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from - to ?.
+
 672. Intermediate (prepelvic) spines when present: (0) one pair; (1) multiple pairs.
 
 > Giles *et al*. (2015), Character 219; Choo *et al*. (2017), Character 316; King *et al*. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. *et al*. (2022), Character 678; Andreev *et al*. (2022), Character 217; Brazeau *et al*. (2023), Character 478.
@@ -5742,6 +7078,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 673. Prepectoral fin spines: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Andreev *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 466.
@@ -5749,6 +7087,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
 
@@ -5760,6 +7100,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 675. Cephalic spines: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681.
@@ -5767,6 +7109,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0.
 
 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
 
@@ -5776,6 +7120,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 677. Fin spines with ridges: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Andreev *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 467.
@@ -5783,6 +7129,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 678. Fin spines with nodes: (0) absent; (1) present.
 
@@ -5792,6 +7140,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 134; Choo *et al*. (2017), Character 130; King *et al*. (2017), Character 464; Castiello (2018), Character 453; Zhu Y. *et al*. (2022), Character 685; Andreev *et al*. (2022), Character 221; Brazeau *et al*. (2023), Character 469.
@@ -5800,6 +7150,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
 
 > Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686.
@@ -5807,6 +7159,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
 
@@ -5818,6 +7172,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688;  Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 479.
@@ -5828,6 +7184,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
 > Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Andreev *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 480.
@@ -5835,6 +7193,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
 
@@ -5844,6 +7204,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691.
@@ -5851,6 +7213,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 ## Newly-added characters
 
@@ -5864,6 +7228,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 692.
@@ -5873,6 +7239,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Styloichthys* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
@@ -5884,6 +7252,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 694.
@@ -5893,6 +7263,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Styloichthys* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
@@ -5904,6 +7276,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
 > - New character, see comments on Character 286.
@@ -5911,6 +7285,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
 
@@ -5922,6 +7298,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
 
 > - New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
@@ -5929,6 +7307,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 
@@ -5940,6 +7320,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 695. Buried odontodes of body scales: (0) absent, (1) present.
 
 > Andreev *et al*. (2022), Character 17;
@@ -5950,6 +7332,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
@@ -5957,6 +7341,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 ## Included in Brazeau et al. (2023)
 697. Laminar basal layer: (0) absent; (1) present.
@@ -5973,6 +7359,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 698. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8.
@@ -5985,6 +7373,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 699. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9.
@@ -5995,6 +7385,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
@@ -6002,6 +7394,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is 0. 
 
 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
@@ -6013,6 +7407,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Andreev *et al*. (2022), **Characters 36 and 37**; Brazeau *et al*. (2023), Character 211.
@@ -6022,6 +7418,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is -. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to -.
 
 703. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
@@ -6035,6 +7433,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* should be revised from ? to 0.
+
 704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 263.
@@ -6042,6 +7442,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. Since the coding of *Diandongpetalichthys liaojiaoshanensis* is 1, does this charater means the size of the Rostral plate? Why the coding of *Eurycaraspis incilis* Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* is ?.
 
 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
 
@@ -6051,6 +7453,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?.
+
 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
@@ -6058,6 +7462,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?.
 
 707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
@@ -6067,6 +7473,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is ?. he coding of *Macropetalichthys rapheidolabis* should be revised from - to ?.
+
 708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316.
@@ -6074,6 +7482,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
 > - The coding of *Meemannia*_like fish is ?.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
@@ -6085,15 +7495,22 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
+> - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
+
+
 **Arguablly useful characters**
 
 P1. Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax amblyodus* is 0.
 
+> - The coding of *Yipetalichthys* is ?. 
+
 P2. Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
+
+> - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis* should be revised from 0 to ? accoding to no presered Mandible.
 
 P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent; (1) present.
 
@@ -6101,9 +7518,17 @@ P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent
 
 > - The relationship with the dermal intracranial joint should be considered.
 
+> - The coding of *Yipetalichthys* is 0.
+
 P4. Boundary between the parietals and postparietals: 0) roughly straight across; (1) zigzag or wedged in each other.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
+
+> - The coding of *Yipetalichthys* is -.
+
+P5. para-articular processe ridge angles: 0) Nearly parallel to the midline of the head shield ; 1) from the anterior end toward the midline
+
+> - the pr.pa ridge angles from the anterior end toward the midline is the synapomorphy of Quasipetalichthyidae.
 
 **Deleted characters**
 
