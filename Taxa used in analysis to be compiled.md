@@ -45,7 +45,7 @@
 > Ludlow and Pridoli, 427.4, 419.2
 
 > - Gotland, Sweden; Tabuska River, Central Urals; northern Timan; Novaya Zemlya Archipelago; Severnaya Zemlya Archipelago, Russia.
-> - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812); [Botella *et al*., 2007](https://www.nature.com/articles/nature05989); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655)
+> - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Botella *et al*., 2007](https://www.nature.com/articles/nature05989); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812)
 
 [*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
 > Pridoli to Lochkovian, 423.0, 410.8
@@ -635,7 +635,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Pridoli, 421.1, 419.2
 
 > -  Ohesaare cliff, Saaremaa (German: Ösel), Estonia.
-> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); Burrow and Simpson, 1995; Pickett et al., 2000; [Schultze and Märss, 2004](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f99adfb847826be1f10d0bb85f87a59e6a8ab98a#page=57); [Jerve *et al*., 2016](https://peerj.com/articles/2521/).
+> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); [Gross, 1971](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1971.tb01285.x); Burrow and Simpson, 1995; Pickett *et al*., 2000; [Schultze and Märss, 2004](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f99adfb847826be1f10d0bb85f87a59e6a8ab98a#page=57); [Botella *et al*., 2007](https://www.nature.com/articles/nature05989); [Jerve *et al*., 2016](https://peerj.com/articles/2521/); [Chen *et al*., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rsos.161084); [Chen *et al*., 2020](https://elifesciences.org/articles/60985)
 > -  Type locality: *Ozarkodina remscheidensis remscheidensis* Conodont Subzone (Viira and Männik 1997), Ohesaare Regional Stage, upper Pridoli, Upper Silurian.
 > -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
 
@@ -1188,6 +1188,8 @@ Bechard, I., Arsenault, F., Cloutier, R. and Kerr, J., 2014. The Devonian placod
 
 Bendix-Almgreen, S. E., 1975. The paired fins and shoulder girdle in *Cladoselache*, their morphology and phyletic significance. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris, pp. 111–123.
 
+Botella, H., Blom, H., Dorka, M., Ahlberg, P.E. and Janvier, P., 2007. Jaws and teeth of the earliest bony fishes. *Nature* **448**: 583–586.
+
 Brazeau, M. D., 2009. The braincase and jaws of a Devonian ‘acanthodian’ and modern gnathostome origins. *Nature* **457**: 305–308.
 
 Brazeau, M. D., 2012. A revision of the anatomy of the Early Devonian jawed vertebrate *Ptomacanthus anglicus* Miles. *Palaeontology* **55**: 355–367.
@@ -1247,6 +1249,10 @@ Chang, M.-M. and Yu, X.-B., 1984. Structure and phylogenetic significance of *Di
 Chang, M.-M. and Zhu, M., 1993. A new Middle Devonian osteolepidid from Qujing, Yunnan. *Mem. Assoc. Australas. Palaeontol.* **15**: 183–198.
 
 Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P. and Ahlberg, P. E., 2016. The stem osteichthyan Andreolepis and the origin of tooth replacement. *Nature* **539**: 237–241.
+
+Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P., Märss, T. and Ahlberg, P. E., 2017. Development of cyclic shedding teeth from semi-shedding teeth: the inner dental arcade of the stem osteichthyan Lophosteus. *Royal Society Open Science* **4**：161084.
+
+Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P., Märss, T. and Ahlberg, P. E., 2020. The developmental relationship between teeth and dermal odontodes in the most primitive bony fish Lophosteus. *Elife* **9**: e60985.
 
 Chen, X. and Rong, J.-Y., 1996. Telychian (Llandovery) of the Yangtze region and its correlation with British Isles. Science Press, Beijing, 1–162 pp.
 
@@ -1375,6 +1381,8 @@ Gross, W., 1961. *Lunaspis broilii* und *Lunaspis heroldi* aus dem Hunsrückschi
 Gross, W., 1963. *Gemuendina stuertzi* Traquair. Neuuntersuchung. *Notizbl. hess. Landesami. Bodenforsch.* **91**: 36–73.
 
 Gross, W., 1968. Beobachtungen mit dem Elektronenraster-Auflichtmikroskop an den Siebplatten und dem Isopedin von Dartmuthia (Osteostraci). *Palaontol. Z* **42**: 73–82.
+
+Gross, W., 1971. *Lophosteus superbus* Pander: Zähne, Zahnknochen und besondere schuppenformen. *Lethaia* **4**: 131–152.
 
 Hamel, M.-H. and Poplin, C., 2008. The braincase anatomy of *Lawrenciella* *schaefferi*, actinopterygian from the Upper Carboniferous of Kansas (USA). *J. Vertebr. Paleontol.* **28**: 989–1006.
 
