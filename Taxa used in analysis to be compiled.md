@@ -234,9 +234,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); [Carr *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10719)
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
-> Frasnian, 382.7, 372.2
+> uppermost Givetian, 384.37, 382.7
 
-> - Mt Howitt, Victoria, Australia.
+> - Avon River Group; Mount Howitt, Victoria, Australia.
 > - Long, 1983
 
 [*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen) Lund, 1986
@@ -405,7 +405,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen) Long, 1999
 > uppermost Givetian, 384.37, 382.7
 
-> - Avon River Gr; Mount Howitt, Victoria, Australia.
+> - Avon River Group; Mount Howitt, Victoria, Australia.
 > - Long, 1999
 
 [*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
@@ -519,11 +519,12 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Mutter et al., 2007](https://doi.org/10.1111/j.1096-3642.2007.00244.x); [Mutter et al., 2008](https://doi.org/10.1111/j.1096-3642.2008.00488.x).
 
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
-> lower Frasnian, 382.7, 379.2
+> uppermost Givetian, 384.37, 382.7
 
-> - Mt Howitt, central Victoria, Australia.
+> - Avon River Group; Mount Howitt, Victoria, Australia.
 > - [Long, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632197).
-> - The age of the Taggerty-Howitt fauna is regarded as early Frasnian (Young, 1993). 
+> - Used to be of early Frasnian, Late Devonian age (Young, 1983, 1993). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
+
 
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
