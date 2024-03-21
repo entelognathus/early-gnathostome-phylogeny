@@ -150,7 +150,8 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
-> - Achanarras Limestone, Tynet Burn and Gamrie, Scotland
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
 > - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
 > - Giles et al., 2015a: "This material originates from the Tynet Burn and Gamrie localities of the lacustrine Achanarras Limestone, Scotland, which has been dated as late Eifelian (390.4–
@@ -163,9 +164,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Arratia and Cloutier, 1996; [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
 
 [*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen) 
-> Eifelian to Givetian, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Orcadian Basin, Scotland
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - Burrow et al., 2020
 > - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
 
@@ -282,9 +283,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Goujet, 1975; Goujet, 1984
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
-> Eifelian to Givetian, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Orcadian Basin, Scotland
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow *et al*., 2016; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman, 2010
 
 > - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
@@ -778,9 +779,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Taverne, 1997](https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences-earth-sciences/67-1997/irscnb_p4087_00eebfp_67_bulletin-4-red.pdf).
 
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
-> lower Givetian, 387.7, 386.0
+> upper Eifelian, 389.6, 387.7
 
-> - Scotland, England
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
 [*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel *et al*., 2014
@@ -950,15 +951,15 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 [*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
-> Eifelian to Givetian, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Orcadian Basin, Scotland.
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Burrow et al., 2016](https://palaeo-electronica.org/content/2016/1398-scottishdiplacanthid-fishes).
 
 [*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson
-> lower Givetian, 387.7, 386.0
+> upper Eifelian, 389.6, 387.7
 
-> - Edderton, Ross-shire, England
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
