@@ -731,7 +731,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
-> Emsian, 407.6, 393.3
+> early Emsian, 407.6, 393.3
 
 > - Keltiefjellet Division (Lykta Fauna), Wood Bay Formation; Spitzbergen.
 > - Wangsjo, 1952; [Janvier, 1981](https://palaeovertebrata.com/Articles/view/89).
@@ -806,7 +806,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 [*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)  (White, 1952)
 > Pragian to Emsian, 410.8, 393.3
-> - Murrumbidgee Group; Burrinjuck Dam
+> - Murrumbidgee Group; Burrinjuck Dam, NSW, Australia.
 > - White and Toombs, 1972; Young, 1979
 
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang et al., 2001
@@ -853,7 +853,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Clément, 2004; Jarvik, 1972
 
 [*Powichthys thorsteinssoni*](https://deepbone.org/public/#/explor?s_id=6077&functionId=Deepbone_header_searchResultOpen) Jessen, 1975
-> upper Lochkovian to Pragian, 415.0, 407.6
+> upper Lochkovian, 415.0, 410.8
 
 > - Drake Bay Formation, Drake Bay, west coast of Prince of Wales Island, Arctic Canada
 > - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
@@ -880,8 +880,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
 > upper Eifelian, 389.6, 387.7
 
-> - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
-> Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
+> - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland.
+> - This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
+> - Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
 
 [*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > Lochkovian, 419.2, 410.8
@@ -963,7 +964,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
-> Lochkovian, 419.2, 410.8
+> upper Lochkovian, 415.0, 410.8
 
 > - Prince of Wales Island, Canada.
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
