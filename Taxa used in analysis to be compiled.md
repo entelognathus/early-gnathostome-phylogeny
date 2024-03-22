@@ -207,7 +207,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Lochkovian, 419.2, 410.8
 
-> - Balruddery Den, Forfarshire, Scotland.
+> - Lower Old Red Sandstone; Balruddery Den, Forfarshire, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
 
 [*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
