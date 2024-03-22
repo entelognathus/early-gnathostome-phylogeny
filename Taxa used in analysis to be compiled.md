@@ -217,9 +217,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Zergerl, 1973; Zergerl, 1976; Ivanov, 2005
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
-> Eifelian to Givetain, 393.3, 382.7
+> upper Eifelian, 389.6, 387.7
 
-> - Caithness Flagstone Group, Scotland
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
 
 [*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
