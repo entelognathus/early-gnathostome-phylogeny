@@ -122,7 +122,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is 0. 
+> - The coding of *Yipetalichthys* is 0. **Pan, how can you know the absence in Yipetalichthys? The presence is normal. Here the coding should be unknown.**
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
 
@@ -131,9 +131,10 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Andreev *et al*. (2022) modified this character by introducing an extra state to account for the atubular dentine (lamellin) possessed by *Fanjingshania*. 
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
+
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is -. 
+> - The coding of *Yipetalichthys* is -. **see above**
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
