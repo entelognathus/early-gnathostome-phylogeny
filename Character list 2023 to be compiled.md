@@ -36,7 +36,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3.
 
-> By extensive, the character aims to capture all of those taxa in which the neurocranium, jaws, hyoid and gill arches, as well as parts of the axial and appendicular skeleton are mineralized in the absence of perichondral bone (Coates et al., 2018).
+> - By extensive, the character aims to capture all of those taxa in which the neurocranium, jaws, hyoid and gill arches, as well as parts of the axial and appendicular skeleton are mineralized in the absence of perichondral bone (Coates et al., 2018).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
