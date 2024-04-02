@@ -530,7 +530,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation; Western Australia, Australia。 -17.75, 125.17
+> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
 > - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
 
 [*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen) Zangerl and Case, 1973
