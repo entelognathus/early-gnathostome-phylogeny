@@ -274,7 +274,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > - Anderson River, about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories, Canada.
-> - Schultze, 1968; Schultze and Cumbaa, 2001
+> - Schultze, 1968; [Schultze and Cumbaa, 2001](https://www.taylorfrancis.com/chapters/edit/10.1201/b12434-21/dialipina-characters-basal-actinopterygians-hans-peter-schultze-stephen-cumbaa)
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Pragian, 410.8, 407.6
@@ -286,7 +286,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); Burrow *et al*., 2016; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman, 2010
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Newman, 2010](https://www.academia.edu/4717315/Middle_Devonian_fish_from_the_Orcadian_Basin_of_Scotland_IPC3_pre_conference_field_trip_guide); [Burrow *et al*., 2016](https://www.researchgate.net/publication/299452946_The_diplacanthid_fishes_Acanthodii_Diplacanthiformes_Diplacanthidae_from_the_Middle_Devonian_of_Scotlan)
 
 > - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
 > - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
@@ -310,13 +310,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Eifelian to Givetian, 393.3, 382.7
 
 > - [horizon and locality]
-> - Ahlberg and Trewin, 1995; White, 1965
+> - White, 1965; Ahlberg and Trewin, 1995
 
 [*Dobunnacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=3641&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
 > Lochkovian, 419.2, 410.8
 
 > - Wayne Herbert Quarry, Herefordshire, UK.
-> - Dearden *et al*., 2021; [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf)
+> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Dearden *et al*., 2021](https://onlinelibrary.wiley.com/doi/10.1002/spp2.1369)
 
 > - Dearden *et al*. (2021) assigned [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen) to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
 
