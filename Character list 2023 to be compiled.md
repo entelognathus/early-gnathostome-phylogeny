@@ -122,7 +122,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is 0. **Pan, how can you know the absence in Yipetalichthys? The presence is normal. Here the coding should be unknown.**
+> - The coding of *Yipetalichthys* is ?.  
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
 
@@ -134,7 +134,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is -. **see above**
+> - The coding of *Yipetalichthys* is ?. 
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
