@@ -352,7 +352,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
 > upper Givetian, 384.4, 382.7
 
-> - Bird Fiord Formation, southwestern Ellesmereland, arctic Canada.
+> - Bird Fiord Formation, southwestern Ellesmereland, Arctic Canada.
 > - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
 
 [*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2013
@@ -972,7 +972,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 [*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
 > Emsian, 407.6, 393.3
 
-> -  Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
+> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
 > - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
 
 [*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
@@ -1000,7 +1000,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
 [*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
-> lower to middle Emsian, 407.6, 397.9
+> lower Emsian, 407.6, 400.45
 
 > - Guiyang, Guizhou, China.
 > - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
