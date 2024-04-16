@@ -834,10 +834,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
 
 [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
-> Lochkovian, 419.2, 410.8
+> Lochkovian to Pragian, 419.2, 407.6
 
-> - Xishancun and Xitun formations, Qujing, Yunnan, China; northern Vietnam.
-> - Liu, 1965; 1975
+> - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
+> - Fang et al., 1985; Liu, 1965; 1975; Tông-Dzuy et al., 1995; Tông-Dzuy and Janvier, 1987
 
 [*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen) Valiukevicius, 1992
 > lower Lochkovian, 419.2, 415.0
