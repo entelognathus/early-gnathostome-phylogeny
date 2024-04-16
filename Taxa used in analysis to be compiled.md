@@ -377,7 +377,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing, YUnnan, China.
-> - Liu, 1965; Zhu and Gai, 2007
+> - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
 [*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
 > Givetian, 387.7, 382.7
@@ -482,10 +482,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Maisey, 1989](https://digitallibrary.amnh.org/items/32cc5279-0c3b-4ce0-87c3-45216f3bcd40).
 
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
-> middle Telychian, 436.8, 435.1
+> lower to middle Telychian, 438.5, 433.4 
 
-> - Wuhan, Hebei, China.
-> - Zhu and Gai, 2007
+> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+> - Pan and Liu, 1975; Shan et al., 2023   
 
 [*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1838)
 > Moscovian, 315.2, 307.0
@@ -982,10 +982,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Zhu Y. *et al*., 2022
 
 [*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
-> middle to upper Telychian, 436.8, 433.4
+> lower Telychian, 438.5, 436.8 
 
-> - lower part of Maoshan Formation, Changxing District, Zhejiang Province, China.
-> - [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
+> - Kangshan Formation; Changxing County, Zhejiang Province, China
+> - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
 
 [*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
 > lower Pragian, 410.8, 409.2
