@@ -7508,7 +7508,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
-
+710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present. Gardiner (1989) Node A character 18 
+> - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
 **Arguablly useful characters**
 
