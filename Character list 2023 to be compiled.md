@@ -7509,6 +7509,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
+710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
+> - The coding of *Eosteus* is 1.
 
 **Arguablly useful characters**
 
