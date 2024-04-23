@@ -7508,8 +7508,12 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
-710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present. Gardiner (1989) Node A character 18 
+
+710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
+> Gardiner (1989) Node A character 18 
+
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
+
 
 **Arguablly useful characters**
 
@@ -7526,7 +7530,7 @@ P2. Mandible obviously longer than the skull roof or the neurocranium if the sku
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis* should be revised from 0 to ? accoding to no presered Mandible.
 
 
-**The following feature is not included in the Early gnathostome phylogeny 20240525.nex**
+**The following characters are not included in the Early gnathostome phylogeny 20240525.nex**
 
 P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent; (1) present.
 
@@ -7545,6 +7549,7 @@ P4. Boundary between the parietals and postparietals: 0) roughly straight across
 P5. para-articular processe ridge angles: 0) Nearly parallel to the midline of the head shield ; 1) from the anterior end toward the midline
 
 > - the pr.pa ridge angles from the anterior end toward the midline is the synapomorphy of Quasipetalichthyidae.
+
 
 **Deleted characters**
 
@@ -7657,6 +7662,8 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
+
+
 
 > **Added characters**
 
