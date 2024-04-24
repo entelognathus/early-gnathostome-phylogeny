@@ -90,7 +90,7 @@
 > Lochkovian, 419.2, 410.8
 
 > - Ben Nevis Formation, Red Bay Group; Spitsbergen.
-> - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955); Ørvig, 1957.
+> - Ørvig, 1957; [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955)
 
 [*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
 > Pragian, 410.8, 407.6
@@ -214,7 +214,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Sakmarian, 293.52, 290.1
 
 > - USA.
-> - Zergerl, 1973; Zergerl, 1976; Ivanov, 2005
+> - Zergerl, 1973; Zergerl, 1976; [Ivanov, 2005](https://d1wqtxts1xzle7.cloudfront.net/67400674/Ivanov2005RevBraz-libre.pdf?1621724896=&response-content-disposition=inline%3B+filename%3DIvanov2005Rev_Braz.pdf&Expires=1713858553&Signature=BUS9Y8QQCo8MdDPK2jOHs2aLrRPSEEv7tv7LexcE8v2~VTuUJSFagFJereOKX~VEtXR7fr52bZHs8pZVH9uLz~NGioKqQaYu41ejKq2yhRdGfg4lKcZ9NZyiwBcf1KCFIlOuFHzpYv9oUt6ATCfJKCplGtyuHoaxPx~wOUNXPBsbq431PYTgPIn9mx4yn9p6jQ~dr-VgzjT5IASWDLSjRcJ4E0-NoZ05OdUl2x0vZWC0mdx~Y2NA2pzrRbrqXqF4XelFmJWpz8uBRE7En4~Jw8tI0bA-2WbmPzSTe6FN6dSnGtwkURWItmofeqo3ctTkixRvt7nxUCkCxURAuiKURA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
 > upper Eifelian, 389.6, 387.7
@@ -244,19 +244,19 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Serpukhovian, 330.9, 323.2
 
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - Lund, 1986; Lund and Grogan, 1997
+> - Lund, 1986; [Lund and Grogan, 1997](https://link.springer.com/article/10.1023/A:1018471324332)
 
 [*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen) Patten, 1931
 > Gorstian to Pridoli, 427.4, 419.2
 
 > - Paadla formation, Saaremaa, Estonia
-> - Gross, 1968; Märss et al., 2015; Afanassieva, 1995; Bremer et al., 2021
+> - [Wängsjö, 1946](https://paleoarchive.com/literature/Wangsjo1945-DartmuthiaPattenMinuteStructureExoskeleton.pdf); [Gross, 1968](https://link.springer.com/article/10.1007/BF02987129); [Afanassieva, 1995](https://www.sciencedirect.com/science/article/abs/pii/S0016699595800794); [Märss et al., 2015](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/biodiversity-of-the-silurian-osteostracans-of-the-east-baltic/6278716710AFB26BEC0FBDECF29D4DBA); [Bremer et al., 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.21359)
 
 [*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen) Grogan and Lund, 2000
 > Bashkirian, 323.2, 315.2
 
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - Grogan and Lund, 2000
+> - [Grogan and Lund, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4687(200003)243:3%3C219::AID-JMOR1%3E3.0.CO;2-1)
 
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
 > upper Lochkovian, 415.0, 410.8
@@ -274,13 +274,13 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Emsian, 407.6, 393.3
 
 > - Anderson River, about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories, Canada.
-> - Schultze, 1968; [Schultze and Cumbaa, 2001](https://www.taylorfrancis.com/chapters/edit/10.1201/b12434-21/dialipina-characters-basal-actinopterygians-hans-peter-schultze-stephen-cumbaa)
+> - [Schultze, 1968](https://cir.nii.ac.jp/crid/1130282271226515072); [Schultze and Cumbaa, 2001](https://www.taylorfrancis.com/chapters/edit/10.1201/b12434-21/dialipina-characters-basal-actinopterygians-hans-peter-schultze-stephen-cumbaa)
 
 [*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
 > Pragian, 410.8, 407.6
 
 > - Austfjorden Member, Wood Bay Formation; Spitsbergen.
-> - Goujet, 1975; Goujet, 1984
+> - [Goujet, 1975](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7620252250); Goujet, 1984
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
 > upper Eifelian, 389.6, 387.7
@@ -359,7 +359,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
-> - Zhu et al., 2013
+> - [Zhu et al., 2013](https://www.nature.com/articles/nature12617); [Cui et al., 2023](https://www.nature.com/articles/s41467-023-43557-9)
 
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
 > upper Frasnian, 375.7, 372.2
@@ -1290,6 +1290,8 @@ Coates, M. I. and Sequeira, S. E. K., 2001. A new stethacanthid chondrichthyan f
 Coates, M. I., Sequeira, S. E. K., Sansom, I. J. and Smith, M. M., 1998. Spines and tissues of ancient sharks. *Nature* **396**: 729–730.
 
 Collette, J. H. and Plotnick, R. E., 2020. Redescription, paleogeography, and experimental paleoecology of the Silurian phyllocarid *Gonatocaris*. *J. Paleontol.* **94**: 906–921.
+
+Cui, X., Friedman, M., Yu, Y., Zhu, Y.A. and Zhu, M., 2023. Bony-fish-like scales in a Silurian maxillate placoderm. *Nature Communications* **14**: 7622.
 
 Davis, S. P., Finarelli, J. A. and Coates, M. I., 2012. *Acanthodes* and shark-like conditions in the last common ancestor of modern gnathostomes. *Nature* **486**: 247–250.
 
