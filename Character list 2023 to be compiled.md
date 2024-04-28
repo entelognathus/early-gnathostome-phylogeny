@@ -5926,7 +5926,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
 
-> - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present. The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires."
+> - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present." The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
