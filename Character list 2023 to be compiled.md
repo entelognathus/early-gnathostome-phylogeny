@@ -5932,7 +5932,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is -.
 
-> - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1. I am not sure the coding of arthrodires which Zhu mentioned above, but I agree the Para-articular process of dermal neck joint is shared by petalichthyids and arthrodires. See Figure 9 in Castiello et al (2020).
+> - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
 560. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
 
