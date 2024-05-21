@@ -7509,11 +7509,11 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
-710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
+**710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.**
 > Gardiner (1989) Node A character 18 
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
-
+> - __This character is not in 202303311.nex.__
 
 **Arguablly useful characters**
 
@@ -7546,7 +7546,7 @@ P4. Boundary between the parietals and postparietals: 0) roughly straight across
 
 > - The coding of *Yipetalichthys* is -.
 
-P5. para-articular processe ridge angles: 0) Nearly parallel to the midline of the head shield ; 1) from the anterior end toward the midline
+P5. Para-articular processe ridge angles: 0) Nearly parallel to the midline of the head shield ; 1) from the anterior end toward the midline
 
 > - the pr.pa ridge angles from the anterior end toward the midline is the synapomorphy of Quasipetalichthyidae.
 
@@ -7667,25 +7667,25 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 > **Added characters**
 
-> A1(712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
+> A1 (712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
 
-> A2(713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
+> A2 (713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
 
 > Andreev *et al.* (2022), Character 285.
 
 
-> A3(714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
+> A3 (714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
 
 > Andreev *et al.* (2022), Character 286.
 
 
-> A4(715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
+> A4 (715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
 
 > Andreev *et al.* (2022), Character 290.
 
 
-> A5(716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
+> A5 (716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 
 > Andreev *et al.* (2022), Character 292.
 
