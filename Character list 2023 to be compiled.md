@@ -7517,13 +7517,13 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 **Arguablly useful characters**
 
-P1. Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
+P1 (710). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-P2. Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
+P2 (711). Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
