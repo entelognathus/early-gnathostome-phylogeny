@@ -605,11 +605,17 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - New Providence Shale Member, Stockdale Formation; Kentucky, USA.
 > - Rayner, 1951; [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A). 
 
+
+
 [*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
 > Lochkovian, 419.2, 410.8
 
 > - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
 > - Mark-Kurik, 1973
+
+*Kimbryanodus williamburyensis* Trinajstic and Long, 2009
+> Frasnian, transitans to punctata conodont Zones
+> - type section of the Gneudna Formation (23◦58 10 S, 115◦12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
 
 [*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
 > Lochkovian, 419.2, 410.8
@@ -978,11 +984,17 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Burrow et al., 2016](https://palaeo-electronica.org/content/2016/1398-scottishdiplacanthid-fishes).
 
-[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson
+[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson, 1938
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
+
+*Rhamphodopsis trispinatus* Watson, 1938
+
+*Rhynchodus tetrodon* Newberry, 1873
+> Frasnian
+> - Kellwasserkalk, Germany
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > upper Lochkovian, 415.0, 410.8
