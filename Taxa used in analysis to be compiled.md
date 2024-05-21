@@ -270,6 +270,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - [Grogan and Lund, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4687(200003)243:3%3C219::AID-JMOR1%3E3.0.CO;2-1)
 
+*Denisonodus plutonensis* Johnson & Elliott, 1996
+
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
 > upper Lochkovian, 415.0, 410.8
 
@@ -677,6 +679,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
 
+> - [Trinajstic and Long, 2009] "Holotype (WAM 07.12.1), a complete articulated specimen including the tail and with a single embryo inside the abdominal region."
+
 [*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2006
 > upper Lochkovian, 415.0, 410.8
 
@@ -901,6 +905,11 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
 > - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
+
+*Ptyctodopsis menzeli* Denison, 1985
+> upper Givetian
+
+> - Cedar Valley Limestone, USA
 
 [*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) Lu et al., 2017
 > Pragian, 410.8, 407.6
