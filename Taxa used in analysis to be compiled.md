@@ -687,6 +687,12 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - [Trinajstic and Long, 2009] "Holotype (WAM 07.12.1), a complete articulated specimen including the tail and with a single embryo inside the abdominal region."
 
+*Meeksiella pskovensis* (Obruchev 1947)
+> lower Frasnian, 382.7, 379.2
+
+> - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
+> - Trinajstic et al., 2019
+
 [*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2006
 > upper Lochkovian, 415.0, 410.8
 
