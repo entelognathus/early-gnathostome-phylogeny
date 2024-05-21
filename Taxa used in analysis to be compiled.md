@@ -78,6 +78,7 @@
 
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
+> - [Trinajstic and Long, 2009] "A single well-preserved and articulated specimen held in the Western Australian Museum WAM 86.9.662. The specimen, due to its delicate nature, is embedded in resin as part and counterpart. The holotype WAM 70.4.253 is incomplete. The remaining specimens are held in the Natural History Museum, London (NHM P50906, NHM P50908, NHM P50910, NHM P57654, NHM P57655)."
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
@@ -136,6 +137,9 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
+> - [Trinajstic and Long, 2009] "Three specimens held in the Western Australian Museum, one an almost complete individual (WAM 86.9.672), the holotype, which comprises an incomplete head shield (WAM 70.4.252) and a set of isolated
+tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single incomplete specimen (NHM P50907)."
+
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
 
@@ -169,6 +173,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - Burrow et al., 2020
 > - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
+
+*Chelyophorus verneuili* Agassiz, 1844
+> Famennian, 372.2, 358.9
+> - Dankov–Lebedyan beds, Russia.
 
 [Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian to present, 330.9, 0
@@ -233,6 +241,10 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
 > - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); [Carr *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10719)
+
+*Ctenurella gladbachensis* Ørvig, 1960
+> upper Givetian/lower Frasnian
+> - Oberer Plattenkalk, Germany
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > uppermost Givetian, 384.37, 382.7
