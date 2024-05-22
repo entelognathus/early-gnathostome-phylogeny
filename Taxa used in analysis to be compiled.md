@@ -245,6 +245,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 *Ctenurella gladbachensis* Ørvig, 1960
 > upper Givetian/lower Frasnian
 > - Oberer Plattenkalk, Germany
+> - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872)
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > uppermost Givetian, 384.37, 382.7
@@ -615,7 +616,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 *Kimbryanodus williamburyensis* Trinajstic and Long, 2009
 > Frasnian, transitans to punctata conodont Zones
-> - type section of the Gneudna Formation (23◦58 10 S, 115◦12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
+> - type section of the Gneudna Formation (23°58 10 S, 115°12 30 E), Williambury Station, Carnarvon Basin, NW Western Australia
+> - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899)
 
 [*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
 > Lochkovian, 419.2, 410.8
@@ -691,7 +693,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > lower Frasnian, 382.7, 379.2
 
 > - Snetnya Gora Beds, Pļaviņas Regional Stage; Piskovichi site, Velikaya River, Pskov, Russia
-> - Trinajstic et al., 2019
+> - [Trinajstic et al., 2019](https://researchnow.flinders.edu.au/en/publications/a-new-genus-of-ptyctodont-placodermi-from-the-late-devonian-of-ba)
 
 [*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2006
 > upper Lochkovian, 415.0, 410.8
@@ -920,6 +922,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 *Ptyctodopsis menzeli* Denison, 1985
 > upper Givetian
+> - [Denison, 1985](https://www.jstor.org/stable/1304971)
 
 > - Cedar Valley Limestone, USA
 
