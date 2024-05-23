@@ -7529,10 +7529,7 @@ P2 (711). Mandible obviously longer than the skull roof or the neurocranium if t
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis* should be revised from 0 to ? accoding to no presered Mandible.
 
-
-**The following characters are not included in the Early gnathostome phylogeny 20240525.nex**
-
-P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent; (1) present.
+P3. Skull roof clearly divided into parietal and postparietal shields: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
 
@@ -7540,13 +7537,13 @@ P3. Skull roof clearly divided into parietal and postparietal shields: 0) absent
 
 > - The coding of *Yipetalichthys* is 0.
 
-P4. Boundary between the parietals and postparietals: 0) roughly straight across; (1) zigzag or wedged in each other.
+P4. Boundary between the parietals and postparietals: (0) roughly straight across; (1) zigzag or wedged in each other.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0. Note that placoderm condition is considered inapplicable.
 
 > - The coding of *Yipetalichthys* is -.
 
-P5. Para-articular processe ridge angles: 0) Nearly parallel to the midline of the head shield ; 1) from the anterior end toward the midline
+P5. Para-articular processe ridge angles: (0) Nearly parallel to the midline of the head shield ; (1) from the anterior end toward the midline
 
 > - the pr.pa ridge angles from the anterior end toward the midline is the synapomorphy of Quasipetalichthyidae.
 
@@ -7661,63 +7658,51 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 > Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Andreev *et al*. (2022), Character 129; Zhu Y. *et al*. (2022), Character 406.
 
 
-> Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
+**Added characters**
+
+A1 (712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
 
-
-> **Added characters**
-
-> A1 (712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
-
-
-> A2 (713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
-
+A2 (713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
 > Andreev *et al.* (2022), Character 285.
 
 
-> A3 (714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
-
+A3 (714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
 > Andreev *et al.* (2022), Character 286.
 
-
-> A4 (715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
-
+A4 (715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
 > Andreev *et al.* (2022), Character 290.
 
-
-> A5 (716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
-
+A5 (716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 > Andreev *et al.* (2022), Character 292.
 
 > - Andreev *et al.* (2022):"Pinnal plates are distinguished from the dermal plates of jawed stem gnathostomes ('placoderms') and osteichthyans due to developmental differences. The latter form as a single unit through areal growth unlike the pinnals where independent dermal scales are integrated into discrete elements fused together by a basal plate (see also this study). On this basis, and in accordance with previous research, we code for presence/absence of pinnal plates independently of the pectoral ventral plate pairs of 'placoderms' (ventrolateral plates) and osteichthyans (clavicles).
 
-
-> A6 (717). Lateral canals form an X pattern on visceral surface of the nuchal plate: (0) absent; (1) present.
-
+A6 (717). Lateral line canals form an X pattern on visceral surface of the nuchal plate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 1.
-> It is of the same meaning to character 176 above.
 
+> - It is of the same meaning to character 176 above.
+> - Take a close look. Not exactly same. "X pattern" denotes that the long posterior pitline extends obliquely to the midline of the headshield. This is a synapomorphy of ptyctodonts. In petalichthyids, the long posterior pitline extends horizontally. To avoid the overlap with the previous characters (sensory line in canal, convergence of soc and ppl), this character should be reformulated.    
 
-> A7 (718). Sensory-line canal expresssed on the dermal surface of bones as pores: (0) absent; (1) present.
-
+A7 (718). Sensory-line canal expresssed on the dermal surface of bones as pores: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 2.
-> It is kind of similar with character 55 above.
+
+> - Same as character 55 above.
 
 > - Trinajstic *et al*. (2019): "in *Chelyophorus* pore holes are visible within external grooves."
 
-> A8 (719). Median dorsal plate: (0) multiple; (1) one plate.
-
+A8 (719). Median dorsal plate: (0) multiple; (1) one plate.
 > Trinajstic *et al*. (2019), character 3.
-> It is similar to character 593 above.
 
+> - It is similar to character 593 above.
 
-> A9 (720). Ganthal plates are flat plates with ornament or cusps: (0) present; (1) absent, laterally compressed as a crushing plate.
+A9 (720). Ganthal plates are flat plates with ornament or cusps: (0) present; (1) absent, laterally compressed as a crushing plate.
 
 > Trinajstic *et al*. (2019), character 6.
-> It seems that this character can be splitted into characters 243, 244 and 245 above.
 
+> - It seems that this character can be splitted into characters 243, 244 and 245 above.
 
-> A10 (721). Central plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
+A10 (721). Central plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 
 > Trinajstic *et al*. (2019), character 7. 
 
@@ -7743,3 +7728,9 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 > Trinajstic *et al*. (2019), character 13.
 > It seems to be similar with character 668 above.
+
+
+
+**References**
+
+> Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
