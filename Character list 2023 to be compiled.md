@@ -7662,10 +7662,8 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 A1 (712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
-
 A2 (713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
 > Andreev *et al.* (2022), Character 285.
-
 
 A3 (714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
 > Andreev *et al.* (2022), Character 286.
@@ -7697,38 +7695,33 @@ A8 (719). Median dorsal plate: (0) multiple; (1) one plate.
 > - It is similar to character 593 above.
 
 A9 (720). Ganthal plates are flat plates with ornament or cusps: (0) present; (1) absent, laterally compressed as a crushing plate.
-
 > Trinajstic *et al*. (2019), character 6.
 
 > - It seems that this character can be splitted into characters 243, 244 and 245 above.
 
-A10 (721). Central plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
-
+A10 (721). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
 
-
-> A11 (722). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
-
+A11 (722). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
 > Trinajstic *et al*. (2019), character 9.
-> It seems to have similar meaning with character 132 above.
 
+> - It seems to have similar meaning with character 132 above.
+> - Not the similar.
 
-> A12 (723). Upper tooth plates have an anterior dorsal process: (0) absent; (1) present short and thick; (2) present high (the dorsal process is more than twice the height of the median hight of the tooth plate).
-
+A12 (723). Upper tooth plates have an anterior dorsal process: (0) absent; (1) present short and thick; (2) present high (the dorsal process is more than twice the height of the median hight of the tooth plate).
 > Trinajstic *et al*. (2019), character 10.
 
-
-> A13 (724). Tritorial lower tooth plates: (0) present; (1) absent.
-
+A13 (724). Tritorial lower tooth plates: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 11.
-> It seems that "Tritorial" should be "Tritural"? And this character seems to be similar with character 243 above.
 
+> - It seems that "Tritorial" should be "Tritural"? And this character seems to be similar with character 243 above.
+> - Character 243 is for the supragnathal. The present character is for the infragnathal.
 
-> A14 (725). Spinal plate: (0) present, large; (1) present, small; (2) absent.
-
+A14 (725). Spinal plate: (0) present, large; (1) present, small; (2) absent.
 > Trinajstic *et al*. (2019), character 13.
-> It seems to be similar with character 668 above.
 
+> - It seems to be similar with character 668 above.
+> - To avoid the overlap, we reformulate the character as “Spinal plate where present: (0) large; (1) small".
 
 
 **References**
