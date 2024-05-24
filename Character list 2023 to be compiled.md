@@ -7697,7 +7697,7 @@ A8 (719). Median dorsal plate: (0) multiple; (1) one plate.
 A9 (720). Ganthal plates are flat plates with ornament or cusps: (0) present; (1) absent, laterally compressed as a crushing plate.
 > Trinajstic *et al*. (2019), character 6.
 
-> - It seems that this character can be splitted into characters 243, 244 and 245 above.
+> - It seems that this character can be split into characters 243, 244 and 245 above.
 
 A10 (721). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
@@ -7723,7 +7723,36 @@ A14 (725). Spinal plate: (0) present, large; (1) present, small; (2) absent.
 > - It seems to be similar with character 668 above.
 > - To avoid the overlap, we reformulate the character as “Spinal plate where present: (0) large; (1) small".
 
+A15(726). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
+> Trinajstic *et al*. (2019), character 14.
+
+A16(727). Elongated anterior median ventral plate: (0) present; (1) absent.
+> Trinajstic *et al*. (2019), character 15.
+
+A17(728). Ginglymoid neck joint: (0) present; (1) absent.
+> Trinajstic *et al*. (2019), character 16.
+
+> This character is split into 9 characters in Zhu, Y., Lu, J. *et* Zhu (2019). They are listed as follows:
+> 
+> (1) Dermal head-trunk boundary: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 371.
+> 
+> (2) Dermal neck joint: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 372.
+> 
+> (3) Dorsal articular lamina on the trunk shield "reverse ginglymoid": (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 373. Same as character 555 above.
+> 
+> (4) Dentral articular lamina to form articular fossa on the skullroof: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 374. Same as character 556 above.
+> 
+> (5) Distinctive articular lamina or condyles on the trunk armour: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 375. Same as character 557 above.
+> 
+> (6) Character 558 above.
+> 
+> (7) Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 377.
+> 
+> (8) Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 378. Same as character 558 above.
+> 
+> (9) Obstantic grooves: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 379.
 
 **References**
 
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
+> Trinajstic, K., Long, J.A., Ivanov, A.O. and Mark-Kurik, E. 2019. 'A new genus of ptyctodont (Placodermi) from the Late Devonian of Baltic area', Palaeontol. Electronica, 22: 1-19.
