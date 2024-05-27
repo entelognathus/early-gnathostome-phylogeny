@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/8deae991-e303-481d-b87a-239fcb7e587c)![老师电子签名处理后](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/52927955-4735-47df-a3f2-27339dab4297)## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
+## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
