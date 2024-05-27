@@ -1,4 +1,4 @@
-## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
+![image](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/8deae991-e303-481d-b87a-239fcb7e587c)![老师电子签名处理后](https://github.com/entelognathus/early-gnathostome-phylogeny/assets/149466561/52927955-4735-47df-a3f2-27339dab4297)## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
@@ -7723,13 +7723,13 @@ A14 (725). Spinal plate: (0) present, large; (1) present, small; (2) absent.
 > - It seems to be similar with character 668 above.
 > - To avoid the overlap, we reformulate the character as “Spinal plate where present: (0) large; (1) small".
 
-A15(726). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
+A15 (726). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
 > Trinajstic *et al*. (2019), character 14.
 
-A16(727). Elongated anterior median ventral plate: (0) present; (1) absent.
+A16 (727). Elongated anterior median ventral plate: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 15.
 
-A17(728). Ginglymoid neck joint: (0) present; (1) absent.
+A17 (728). Ginglymoid neck joint: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 16.
 
 > This character is split into 9 characters in Zhu, Y., Lu, J. *et* Zhu (2019). They are listed as follows:
@@ -7752,7 +7752,59 @@ A17(728). Ginglymoid neck joint: (0) present; (1) absent.
 > 
 > (9) Obstantic grooves: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 379.
 
+A18 (729). Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
+> Trinajstic *et al*. (2019), character 17.
+
+A19 (730). Preorbital plates longer than central plates: (0) present; (1) absent.
+> Trinajstic *et al*. (2019), character 18.
+
+A20 (731). Anterior margin of the nuchal plate: (0) square; (1) pointed.
+> Trinajstic *et al*. (2019), character 19.
+
+A21 (732). The point at which the postorbital, central and paranuchal plates meet: (0) anterior to the posterior margin of the nuchal plate; (1) posterior to or level with the posterior margin of the nuchal plate.
+> Trinajstic *et al*. (2019), character 20.
+
+A22 (733). Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
+> Trinajstic *et al*. (2019), character 21.
+
+A23 (734). Nuchal plate shape: (0) elongate being more than twice as long as wide; (1) short, relatively broad.
+> Trinajstic *et al*. (2019), character 22.
+
+A24 (735). Nuchal plate with a median groove: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 23.
+
+A25 (736). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character in unique to *P. menzeli*.
+> Trinajstic *et al*. (2019), character 24.
+>
+> Maybe "in unique to" should be "is unique to"?
+
+A26 (737). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
+> Trinajstic *et al*. (2019), character 25.
+
+A27 (738). Ventral process present on the marginal plate: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 26.
+
+A28 (739). Ventral process on the lower toothplate: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 27.
+
+A29 (740). Dermal pelvic girdle: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 28.
+> Similar to character 637 above.
+
+A30 (741). Median dorsal crest: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 29.
+
+A31 (742). Postorbital fenestra: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 30.
+
+A32 (743). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
+> Trinajstic *et al*. (2019), character 31.
+
+A33 (744). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+> Trinajstic *et al*. (2019), character 32.
+
 **References**
 
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
+
 > Trinajstic, K., Long, J.A., Ivanov, A.O. and Mark-Kurik, E. 2019. 'A new genus of ptyctodont (Placodermi) from the Late Devonian of Baltic area', Palaeontol. Electronica, 22: 1-19.
