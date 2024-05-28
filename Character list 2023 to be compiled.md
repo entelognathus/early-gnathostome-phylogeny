@@ -647,7 +647,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 55. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
-> Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288. Cui *et al*. (2023), Character 57.
+> Davis *et al*. (2012), Character 16; Choo *et al*. (2017), Character 15; King *et al*. (2017), Character 283; Castiello (2018), Character 276; Zhu Y. *et al*. (2022), Character 57; Andreev *et al*. (2022), Character 30; Brazeau *et al*. (2023), Character 288; Cui *et al*. (2023), Character 57; Trinajstic *et al*. (2019), character 2.
+
+> - Trinajstic *et al*. (2019): "in *Chelyophorus* pore holes are visible within external grooves."
 
 > - The coding of *Eosteus* is 1. However, note that the preopercular canal is preserved as open grooves in both *Eosteus* and an undescribed specimen. The coding of *Megamastax amblyodus* is 1.
 
@@ -2636,7 +2638,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 243. Deep, high supragnathal bone with durophagous occlusal surface: (0) absent; (1) present.
 
-> Long *et al*. (2015), Character 257; Choo *et al*. (2017), Character 249; Castiello (2018), Character 354. King *et al*. (2017), Character 364; Zhu Y. *et al*. (2022), Character 247; Brazeau *et al*. (2023), Character 369. Cui *et al*. (2023), Character 247.
+> Long *et al*. (2015), Character 257; Choo *et al*. (2017), Character 249; Castiello (2018), Character 354. King *et al*. (2017), Character 364; Zhu Y. *et al*. (2022), Character 247; Brazeau *et al*. (2023), Character 369; Cui *et al*. (2023), Character 247; Trinajstic *et al*. (2019), character 6.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -2646,7 +2648,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 244. Posterior supragnathal with vertical pipe-like ridges: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 373; Castiello (2018), Character 362; Zhu Y. *et al*. (2022), Character 248; Brazeau *et al*. (2023), Character 378. Cui *et al*. (2023), Character 248.
+> King *et al*. (2017), Character 373; Castiello (2018), Character 362; Zhu Y. *et al*. (2022), Character 248; Brazeau *et al*. (2023), Character 378; Cui *et al*. (2023), Character 248; Trinajstic *et al*. (2019), character 6.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -2656,7 +2658,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 245. Strongly curved infragnathals with wide flat non-biting region: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 374; Castiello (2018), Character 363; Zhu Y. *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 379. Cui *et al*. (2023), Character 249.
+> King *et al*. (2017), Character 374; Castiello (2018), Character 363; Zhu Y. *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 379; Cui *et al*. (2023), Character 249; Trinajstic *et al*. (2019), character 6.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -5884,7 +5886,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 555. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561. Cui *et al*. (2023), Character 560.
+> Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561; Cui *et al*. (2023), Character 560; Zhu Y. *et al*. (2019), Character 373; Trinajstic *et al*. (2019), Character 16.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -5894,7 +5896,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 556. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562. Cui *et al*. (2023), Character 561.
+> Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -5904,7 +5906,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 557. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 
-> Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563. Cui *et al*. (2023), Character 562.
+> Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -5914,7 +5916,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 558. Rotatory contact of the articulation: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564. Cui *et al*. (2023), Character 563.
+> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -6270,7 +6272,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 593. Number of median dorsal plates: (0) one; (1) two; (2) three.
 
-> King *et al*. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. *et al*. (2022), Character 599; Brazeau *et al*. (2023), Character 450. Cui *et al*. (2023), Character 598.
+> King *et al*. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. *et al*. (2022), Character 599; Brazeau *et al*. (2023), Character 450; Cui *et al*. (2023), Character 598; Trinajstic *et al*. (2019), character 3.
 
 > - The coding of *Eosteus* is 2. However, *Eosteus* has four median dorsals, the character formulation should be revised. The coding of *Megamastax amblyodus* is ?.
 
@@ -7682,125 +7684,92 @@ A6 (717). Lateral line canals form an X pattern on visceral surface of the nucha
 > - It is of the same meaning to character 176 above.
 > - Take a close look. Not exactly same. "X pattern" denotes that the long posterior pitline extends obliquely to the midline of the headshield. This is a synapomorphy of ptyctodonts. In petalichthyids, the long posterior pitline extends horizontally. To avoid the overlap with the previous characters (sensory line in canal, convergence of soc and ppl), this character should be reformulated.    
 
-A7 (718). Sensory-line canal expresssed on the dermal surface of bones as pores: (0) absent; (1) present.
-> Trinajstic *et al*. (2019), character 2.
-
-> - Same as character 55 above.
-
-> - Trinajstic *et al*. (2019): "in *Chelyophorus* pore holes are visible within external grooves."
-
-A8 (719). Median dorsal plate: (0) multiple; (1) one plate.
-> Trinajstic *et al*. (2019), character 3.
-
-> - It is similar to character 593 above.
-
-A9 (720). Ganthal plates are flat plates with ornament or cusps: (0) present; (1) absent, laterally compressed as a crushing plate.
-> Trinajstic *et al*. (2019), character 6.
-
-> - It seems that this character can be split into characters 243, 244 and 245 above.
-
-A10 (721). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
+A7 (718). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
 
-A11 (722). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
+A8 (719). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
 > Trinajstic *et al*. (2019), character 9.
 
-> - It seems to have similar meaning with character 132 above.
-> - Not the similar.
-
-A12 (723). Upper tooth plates have an anterior dorsal process: (0) absent; (1) present short and thick; (2) present high (the dorsal process is more than twice the height of the median hight of the tooth plate).
+A9 (720). Upper tooth plates have an anterior dorsal process: (0) absent; (1) present short and thick; (2) present high (the dorsal process is more than twice the height of the median hight of the tooth plate).
 > Trinajstic *et al*. (2019), character 10.
 
-A13 (724). Tritorial lower tooth plates: (0) present; (1) absent.
+A10 (721). Tritural lower tooth plates: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 11.
 
-> - It seems that "Tritorial" should be "Tritural"? And this character seems to be similar with character 243 above.
-> - Character 243 is for the supragnathal. The present character is for the infragnathal.
+A11 (722). Spinal plate where present: (0) large; (1) small.
 
-A14 (725). Spinal plate: (0) present, large; (1) present, small; (2) absent.
-> Trinajstic *et al*. (2019), character 13.
+>  reformulated from Trinajstic *et al*. (2019), character 13.
 
-> - It seems to be similar with character 668 above.
-> - To avoid the overlap, we reformulate the character as “Spinal plate where present: (0) large; (1) small".
-
-A15 (726). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
+A12 (723). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
 > Trinajstic *et al*. (2019), character 14.
 
-A16 (727). Elongated anterior median ventral plate: (0) present; (1) absent.
+A13 (724). Elongated anterior median ventral plate: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 15.
 
-A17 (728). Ginglymoid neck joint: (0) present; (1) absent.
-> Trinajstic *et al*. (2019), character 16.
+A14 (725). Dermal head-trunk boundary: (0) absent; (1) present.
+> Zhu, Y. *et al* (2019), character 371.
 
-> This character is split into 9 characters in Zhu, Y., Lu, J. *et* Zhu (2019). They are listed as follows:
-> 
-> (1) Dermal head-trunk boundary: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 371.
-> 
-> (2) Dermal neck joint: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 372.
-> 
-> (3) Dorsal articular lamina on the trunk shield "reverse ginglymoid": (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 373. Same as character 555 above.
-> 
-> (4) Dentral articular lamina to form articular fossa on the skullroof: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 374. Same as character 556 above.
-> 
-> (5) Distinctive articular lamina or condyles on the trunk armour: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 375. Same as character 557 above.
-> 
-> (6) Character 558 above.
-> 
-> (7) Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 377.
-> 
-> (8) Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 378. Same as character 558 above.
-> 
-> (9) Obstantic grooves: (0) absent; (1) present. Zhu, Y., Lu, J. et Zhu (2019), character 379.
+A15 (726). Dermal neck joint: (0) absent; (1) present.
+> Zhu, Y. *et al*. (2019), character 372.
 
-A18 (729). Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
+A16 (727). Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
+> Zhu, Y. *et al*. (2019), character 377.
+
+A17 (728). Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present.
+> Zhu, Y. *et al*. (2019), character 378.
+
+A18 (729). Obstanic grooves: (0) absent; (1) present.
+> Zhu, Y. *et al*. (2019), character 379.
+
+A19 (730). Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
+
 > Trinajstic *et al*. (2019), character 17.
 
-A19 (730). Preorbital plates longer than central plates: (0) present; (1) absent.
+A20 (731). Preorbital plates longer than central plates: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 18.
 
-A20 (731). Anterior margin of the nuchal plate: (0) square; (1) pointed.
+A21 (732). Anterior margin of the nuchal plate: (0) square; (1) pointed.
 > Trinajstic *et al*. (2019), character 19.
 
-A21 (732). The point at which the postorbital, central and paranuchal plates meet: (0) anterior to the posterior margin of the nuchal plate; (1) posterior to or level with the posterior margin of the nuchal plate.
+A22 (733). The point at which the postorbital, central and paranuchal plates meet: (0) anterior to the posterior margin of the nuchal plate; (1) posterior to or level with the posterior margin of the nuchal plate.
+
 > Trinajstic *et al*. (2019), character 20.
 
-A22 (733). Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
+A23 (734). Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
 > Trinajstic *et al*. (2019), character 21.
 
-A23 (734). Nuchal plate shape: (0) elongate being more than twice as long as wide; (1) short, relatively broad.
+A24 (735). Nuchal plate shape: (0) elongate being more than twice as long as wide; (1) short, relatively broad.
 > Trinajstic *et al*. (2019), character 22.
 
-A24 (735). Nuchal plate with a median groove: (0) absent; (1) present.
+A25 (736). Nuchal plate with a median groove: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 23.
 
-A25 (736). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character in unique to *P. menzeli*.
+A26 (737). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character is unique to *P. menzeli*.
 > Trinajstic *et al*. (2019), character 24.
->
-> Maybe "in unique to" should be "is unique to"?
 
-A26 (737). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
+A27 (738). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
 > Trinajstic *et al*. (2019), character 25.
 
-A27 (738). Ventral process present on the marginal plate: (0) absent; (1) present.
+A28 (739). Ventral process present on the marginal plate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 26.
 
-A28 (739). Ventral process on the lower toothplate: (0) absent; (1) present.
+A29 (740). Ventral process on the lower toothplate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 27.
 
-A29 (740). Dermal pelvic girdle: (0) absent; (1) present.
+A30 (741). Dermal pelvic girdle: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 28.
-> Similar to character 637 above.
+> **Similar to character 637 above?**
 
-A30 (741). Median dorsal crest: (0) absent; (1) present.
+A31 (742). Median dorsal crest: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 29.
 
-A31 (742). Postorbital fenestra: (0) absent; (1) present.
+A32 (743). Postorbital fenestra: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 30.
 
-A32 (743). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
+A33 (744). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
 > Trinajstic *et al*. (2019), character 31.
 
-A33 (744). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+A34 (745). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic *et al*. (2019), character 32.
 
 **References**
