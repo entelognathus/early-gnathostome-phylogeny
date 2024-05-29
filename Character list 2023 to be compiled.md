@@ -7678,11 +7678,8 @@ A5 (717). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 
 > - Andreev *et al.* (2022):"Pinnal plates are distinguished from the dermal plates of jawed stem gnathostomes ('placoderms') and osteichthyans due to developmental differences. The latter form as a single unit through areal growth unlike the pinnals where independent dermal scales are integrated into discrete elements fused together by a basal plate (see also this study). On this basis, and in accordance with previous research, we code for presence/absence of pinnal plates independently of the pectoral ventral plate pairs of 'placoderms' (ventrolateral plates) and osteichthyans (clavicles).
 
-A6 (717). Lateral line canals form an X pattern on visceral surface of the nuchal plate: (0) absent; (1) present.
-> Trinajstic *et al*. (2019), character 1.
-
-> - It is of the same meaning to character 176 above.
-> - Take a close look. Not exactly same. "X pattern" denotes that the long posterior pitline extends obliquely to the midline of the headshield. This is a synapomorphy of ptyctodonts. In petalichthyids, the long posterior pitline extends horizontally. To avoid the overlap with the previous characters (sensory line in canal, convergence of soc and ppl), this character should be reformulated.    
+A6 (717). Orientation of the posterior pitline when supraorbital canals and posterior pitlines converge: (0) posterior pitline extends horizontally; (1) posterior pitline extends obliquely to the midline of the headshield.
+> Reformulated from Trinajstic *et al*. (2019), character 1. 
 
 A7 (718). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
@@ -7709,71 +7706,61 @@ A13 (724). Elongated anterior median ventral plate: (0) present; (1) absent.
 A14 (725). Dermal head-trunk boundary: (0) absent; (1) present.
 > Zhu, Y. *et al* (2019), character 371.
 
-~~A15 (726). Dermal neck joint: (0) absent; (1) present.~~
-> Zhu, Y. *et al*. (2019), character 372.
-
-> - **repetition of character 554**
-
-A16 (727). Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
+A15 (726).Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
 > Zhu, Y. *et al*. (2019), character 377.
 
-~~A17 (728). Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present.~~
-> Zhu, Y. *et al*. (2019), character 378.
-
-> - **repetition of character 559**
-
-A18 (729). Obstanic grooves: (0) absent; (1) present.
+A16 (727). Obstanic grooves: (0) absent; (1) present.
 > Zhu, Y. *et al*. (2019), character 379.
 
-A19 (730). Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
-
+A17 (728).Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
 > Trinajstic *et al*. (2019), character 17.
 
-A20 (731). Preorbital plates longer than central plates: (0) present; (1) absent.
+A18 (729). Preorbital plates longer than central plates: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 18.
 
-A21 (732). Anterior margin of the nuchal plate: (0) square; (1) pointed.
+A19 (730). Anterior margin of the nuchal plate: (0) square; (1) pointed.
 > Trinajstic *et al*. (2019), character 19.
 
-A22 (733). The point at which the postorbital, central and paranuchal plates meet: (0) anterior to the posterior margin of the nuchal plate; (1) posterior to or level with the posterior margin of the nuchal plate.
-
+A20 (731). The point at which the postorbital, central and paranuchal plates meet: (0) anterior to the posterior margin of the nuchal plate; (1) posterior to or level with the posterior margin of the nuchal plate.
 > Trinajstic *et al*. (2019), character 20.
 
-A23 (734). Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
+A21 (732). Relative size of the posterior division of the marginal plate: (0) larger than the orbital division; (1) smaller than the orbital division (marginal plate crescent-shaped).
 > Trinajstic *et al*. (2019), character 21.
 
-A24 (735). Nuchal plate shape: (0) elongate being more than twice as long as wide; (1) short, relatively broad.
+A22 (733). Nuchal plate shape: (0) elongate being more than twice as long as wide; (1) short, relatively broad.
 > Trinajstic *et al*. (2019), character 22.
 
-A25 (736). Nuchal plate with a median groove: (0) absent; (1) present.
+A23 (734). Nuchal plate with a median groove: (0) absent; (1) present.
+> Trinajstic *et al*. (2019), character 23.Nuchal plate with a median groove: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 23.
 
-A26 (737). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character is unique to *P. menzeli*.
+A24 (735). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character is unique to *P. menzeli*.
 > Trinajstic *et al*. (2019), character 24.
 
-A27 (738). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
+A25 (736). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
 > Trinajstic *et al*. (2019), character 25.
 
-A28 (739). Ventral process present on the marginal plate: (0) absent; (1) present.
+A26 (737). Ventral process present on the marginal plate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 26.
 
-A29 (740). Ventral process on the lower toothplate: (0) absent; (1) present.
+A27 (738). Ventral process on the lower toothplate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 27.
 
-A30 (741). Dermal pelvic girdle: (0) absent; (1) present.
+A28 (739). Dermal pelvic girdle: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 28.
+
 > **Similar to character 637 above?**
 
-A31 (742). Median dorsal crest: (0) absent; (1) present.
+A29 (740). Median dorsal crest: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 29.
 
-A32 (743). Postorbital fenestra: (0) absent; (1) present.
+A30 (741). Postorbital fenestra: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 30.
 
-A33 (744). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
+A31 (742). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
 > Trinajstic *et al*. (2019), character 31.
 
-A34 (745). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+A32 (743). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic *et al*. (2019), character 32.
 
 **References**
@@ -7781,3 +7768,5 @@ A34 (745). Sensory lines of the nuchal plate: (0) extend to the posterior margin
 > Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
 
 > Trinajstic, K., Long, J.A., Ivanov, A.O. and Mark-Kurik, E. 2019. 'A new genus of ptyctodont (Placodermi) from the Late Devonian of Baltic area', Palaeontol. Electronica, 22: 1-19.
+
+> Zhu, Y. A., Lu, J. and Zhu, M. 2019. 'Reappraisal of the Silurian placoderm *Silurolepis* and insighths into thr dermal neck joint evolution', R. Soc. open sci., 6: 191181.
