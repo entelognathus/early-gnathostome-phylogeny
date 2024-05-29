@@ -5876,7 +5876,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 554. Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle: (0) absent; (1) present.
 
-> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177. Cui *et al*. (2023), Character 559.
+> Young (2010, Character 15); Zhu *et al*. (2013), Character 168; Choo *et al*. (2017), Character 177; King *et al*. (2017), Character 192; Castiello (2018), Character 191; Zhu Y. *et al*. (2019b), character 372; Zhu Y. *et al*. (2022), Character 560; Brazeau *et al*. (2023), Character 177. Cui *et al*. (2023), Character 559.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
@@ -5924,9 +5924,11 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
 
-559. Lateral ridges on skull roof laterally defining the articulation: (0) absent; (1) present.
+559. Para-articular process of dermal neck joint: (0) absent; (1) present.
 
 > Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564.
+
+> - Various formulations have been used to define the character, such as "lateral processes flank the articular fossas medially on the visceral surface of the skull roof" (Zhu Y. et al., 2019b, character 378), "lateral ridges on skull roof laterally defining the articulation". Here we use the original term 'para-articular process of dermal neck joint' (Young, 1978), which denotes the ventral process or ridge flanking the laminar articulation medially on the ventral surface of skull roof, as in petalichthyids. 
 
 > - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present." The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires.
 
@@ -7709,14 +7711,18 @@ A13 (724). Elongated anterior median ventral plate: (0) present; (1) absent.
 A14 (725). Dermal head-trunk boundary: (0) absent; (1) present.
 > Zhu, Y. *et al* (2019), character 371.
 
-A15 (726). Dermal neck joint: (0) absent; (1) present.
+~~A15 (726). Dermal neck joint: (0) absent; (1) present.~~
 > Zhu, Y. *et al*. (2019), character 372.
+
+> - **repetition of character 554**
 
 A16 (727). Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
 > Zhu, Y. *et al*. (2019), character 377.
 
-A17 (728). Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present.
+~~A17 (728). Lateral processes flank the articular fossas medially on the visceral surface of the skull roof: (0) absent; (1) present.~~
 > Zhu, Y. *et al*. (2019), character 378.
+
+> - **repetition of character 559**
 
 A18 (729). Obstanic grooves: (0) absent; (1) present.
 > Zhu, Y. *et al*. (2019), character 379.
