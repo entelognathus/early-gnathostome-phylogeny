@@ -7513,21 +7513,20 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
-**710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.**
+710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
 > Gardiner (1989) Node A character 18 
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
-> - __This character is not in 202303311.nex.__
 
 **Arguablly useful characters**
 
-P1 (710). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
+P1 (711). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-P2 (711). Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
+P2 (712). Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
@@ -7547,10 +7546,9 @@ P4. Boundary between the parietals and postparietals: (0) roughly straight acros
 
 > - The coding of *Yipetalichthys* is -.
 
-P5. Para-articular processe ridge angles: (0) Nearly parallel to the midline of the head shield ; (1) from the anterior end toward the midline
+P5. Para-articular process extension angle: (0) nearly parallel to the midline of the head shield ; (1) anterolaterally extending.
 
-> - the pr.pa ridge angles from the anterior end toward the midline is the synapomorphy of Quasipetalichthyidae.
-
+> - A synapomorphy defining Quasipetalichthyidae.
 
 **Deleted characters**
 
@@ -7664,18 +7662,18 @@ D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
 
 **Added characters**
 
-A1 (712). The structure of parasphenoid: (0) multiple bones; (1) single bone.
+A1 (713). The structure of parasphenoid: (0) multiple bones; (1) single bone.
 
-A2 (713). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
+A2 (714). Scale odontodes added in a linear sequence within rows (linear odontocomplexes): absent (0), present (1).
 > Andreev *et al.* (2022), Character 285.
 
-A3 (714). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
+A3 (715). Number of linear odontocomplexes in scale crowns: one (0); more than one (1).
 > Andreev *et al.* (2022), Character 286.
 
-A4 (715). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
+A4 (716). Direction of tooth addition within tooth families relative to the jaw ramus: lingual (0), mesial (1); distal (2).
 > Andreev *et al.* (2022), Character 290.
 
-A5 (716). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
+A5 (717). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 > Andreev *et al.* (2022), Character 292.
 
 > - Andreev *et al.* (2022):"Pinnal plates are distinguished from the dermal plates of jawed stem gnathostomes ('placoderms') and osteichthyans due to developmental differences. The latter form as a single unit through areal growth unlike the pinnals where independent dermal scales are integrated into discrete elements fused together by a basal plate (see also this study). On this basis, and in accordance with previous research, we code for presence/absence of pinnal plates independently of the pectoral ventral plate pairs of 'placoderms' (ventrolateral plates) and osteichthyans (clavicles).
