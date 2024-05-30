@@ -6718,7 +6718,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 
-> Zhu  *et al*. (2012b); Zhu *et al*. (2013), Character 252; Choo *et al*. (2017), Character 239; King *et al*. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. *et al*. (2022), Character 643; Andreev *et al*. (2022), Character 274; Brazeau *et al*. (2023), Character 438. Cui *et al*. (2023), Character 642.
+> Zhu  *et al*. (2012b); Zhu *et al*. (2013), Character 252; Choo *et al*. (2017), Character 239; King *et al*. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. *et al*. (2022), Character 643; Andreev *et al*. (2022), Character 274; Brazeau *et al*. (2023), Character 438. Cui *et al*. (2023), Character 642. Trinajstic *et al*. (2019), character 28.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
@@ -7684,6 +7684,8 @@ A6 (717). Orientation of the posterior pitline when supraorbital canals and post
 A7 (718). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
 
+> - Present in some ptyctodonts.
+
 A8 (719). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
 > Trinajstic *et al*. (2019), character 9.
 
@@ -7704,15 +7706,15 @@ A13 (724). Elongated anterior median ventral plate: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 15.
 
 A14 (725). Dermal head-trunk boundary: (0) absent; (1) present.
-> Zhu, Y. *et al* (2019), character 371.
+> Zhu Y. *et al* (2019), character 371.
 
 A15 (726).Skull roof posteriroly bears a significant overlap area: (0) absent; (1) present.
-> Zhu, Y. *et al*. (2019), character 377.
+> Zhu Y. *et al*. (2019), character 377.
 
 A16 (727). Obstanic grooves: (0) absent; (1) present.
-> Zhu, Y. *et al*. (2019), character 379.
+> Zhu Y. *et al*. (2019), character 379.
 
-A17 (728).Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
+A17 (728). Median dorsal plate has a straight or concave anterior margin: (0) present; (1) absent, has a median point.
 > Trinajstic *et al*. (2019), character 17.
 
 A18 (729). Preorbital plates longer than central plates: (0) present; (1) absent.
@@ -7734,8 +7736,10 @@ A23 (734). Nuchal plate with a median groove: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 23.Nuchal plate with a median groove: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 23.
 
-A24 (735). Postorbital plate is irregular in outline: (0) postorbital plate is triangular in outline; (1) this character is unique to *P. menzeli*.
+A24 (735). Postorbital plate: (0) irregular in outline: (1) triangular in outline.
 > Trinajstic *et al*. (2019), character 24.
+
+> - This character is unique to *P. menzeli*.
 
 A25 (736). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
 > Trinajstic *et al*. (2019), character 25.
@@ -7746,7 +7750,7 @@ A26 (737). Ventral process present on the marginal plate: (0) absent; (1) presen
 A27 (738). Ventral process on the lower toothplate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 27.
 
-A28 (739). Dermal pelvic girdle: (0) absent; (1) present.
+~~A28 (739). Dermal pelvic girdle: (0) absent; (1) present.~~
 > Trinajstic *et al*. (2019), character 28.
 
 > **Similar to character 637 above?**
