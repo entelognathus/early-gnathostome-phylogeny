@@ -7733,7 +7733,6 @@ A22 (733). Nuchal plate shape: (0) elongate being more than twice as long as wid
 > Trinajstic *et al*. (2019), character 22.
 
 A23 (734). Nuchal plate with a median groove: (0) absent; (1) present.
-> Trinajstic *et al*. (2019), character 23.Nuchal plate with a median groove: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 23.
 
 A24 (735). Postorbital plate: (0) irregular in outline: (1) triangular in outline.
@@ -7750,22 +7749,18 @@ A26 (737). Ventral process present on the marginal plate: (0) absent; (1) presen
 A27 (738). Ventral process on the lower toothplate: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 27.
 
-~~A28 (739). Dermal pelvic girdle: (0) absent; (1) present.~~
-> Trinajstic *et al*. (2019), character 28.
-
-> **Similar to character 637 above?**
-
-A29 (740). Median dorsal crest: (0) absent; (1) present.
+A28 (739). Median dorsal crest: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 29.
 
-A30 (741). Postorbital fenestra: (0) absent; (1) present.
+A29 (740). Postorbital fenestra: (0) absent; (1) present.
 > Trinajstic *et al*. (2019), character 30.
 
-A31 (742). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
+A30 (741). Size of the postorbital plate relative to the paranuchal plate: (0) paranuchal plate small; (1) postorbital and postorbital plates equal; (2) postorbital plate larger than the paranuchal plate.
 > Trinajstic *et al*. (2019), character 31.
 
-A32 (743). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
+A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic *et al*. (2019), character 32.
+
 
 **References**
 
