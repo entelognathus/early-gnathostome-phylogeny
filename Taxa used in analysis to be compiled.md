@@ -193,8 +193,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 [*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > lower Pragian, 410.8, 409.2
 
-> - Bac Bun Formation.; Lang Son , Bac Thai, Vietnam
-> - Tông-Dzuy and Janvier, 1990
+> - Sika Formation, Trang Xa, Bac Thai; Dông Mo, Lang Son, northern Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/24236/reference_id_24236_20201031142711722.pdf)
 
 > - Pragian is subdivided into lower and upper Pragian.
 
