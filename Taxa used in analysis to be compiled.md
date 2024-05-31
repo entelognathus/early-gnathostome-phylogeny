@@ -177,6 +177,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 *Chelyophorus verneuili* Agassiz, 1844
 > Famennian, 372.2, 358.9
 > - Dankov–Lebedyan beds, Russia.
+> - [Agassiz, 1844](https://books.google.co.jp/books?hl=en&lr=&id=CT1OAAAAcAAJ&oi=fnd&pg=PR5&dq=Monographie+des+poisons+fossiles+du+vieux+Gr%C3%A8s+rouge,+ou+Syst%C3%A8me+d%C3%A9vonien+des+%C3%8Eles+Britanniques+et+de+Russie&ots=XLOLrHQAOz&sig=avVzFiG8asbbibExonbXWDfe3oU&redir_esc=y#v=onepage&q=Monographie%20des%20poisons%20fossiles%20du%20vieux%20Gr%C3%A8s%20rouge%2C%20ou%20Syst%C3%A8me%20d%C3%A9vonien%20des%20%C3%8Eles%20Britanniques%20et%20de%20Russie&f=false).
 
 [Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen)
 > Serpukhovian to present, 330.9, 0
@@ -245,7 +246,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 *Ctenurella gladbachensis* Ørvig, 1960
 > upper Givetian/lower Frasnian
 > - Oberer Plattenkalk, Germany
-> - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872)
+> - [Ørvig, 1960](https://link.springer.com/article/10.1007/BF02986872); [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Forey and Gardiner, 1986](https://academic.oup.com/zoolinnean/article-abstract/86/1/43/2648673); [John, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf).
 
 [*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > uppermost Givetian, 384.37, 382.7
@@ -1004,6 +1005,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 *Rhynchodus tetrodon* Newberry, 1873
 > Frasnian
 > - Kellwasserkalk, Germany
+> - Newberry, 1873.
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > upper Lochkovian, 415.0, 410.8
