@@ -18,7 +18,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is 0.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Rhynchodus* is 0.
+> - The coding of *Meeksiella* is 0.
+> - The coding of *Ptyctodopsis* is 0.
+> - The coding of *Chelyophorus* is 0.
+> - The coding of *Kimbryanodus* is 0.
+> - The coding of *Ctenurella* is 0.
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
@@ -32,6 +39,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Rhynchodus* is -.
+> - The coding of *Meeksiella* is -.
+> - The coding of *Ptyctodopsis* is -.
+> - The coding of *Chelyophorus* is -.
+> - The coding of *Kimbryanodus* is -.
+> - The coding of *Ctenurella* is -.
+
 3.  Extensive calcified cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3; Cui *et al*. (2023), Character 3.
@@ -43,6 +57,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
+
+> - The coding of *Rhynchodus* is 0.
+> - The coding of *Meeksiella* is 0.
+> - The coding of *Ptyctodopsis* is 0.
+> - The coding of *Chelyophorus* is 0.
+> - The coding of *Kimbryanodus* is 0.
+> - The coding of *Ctenurella* is 0.
 
 4.  Perichondral bone: (0) present; (1) absent.
 
@@ -56,6 +77,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0.
 
+> - The coding of *Rhynchodus* is 0.
+> - The coding of *Meeksiella* is 0.
+> - The coding of *Ptyctodopsis* is 0.
+> - The coding of *Chelyophorus* is 0.
+> - The coding of *Kimbryanodus* is 0.
+> - The coding of *Ctenurella* is 0.
+
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
 > Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Andreev *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 4; Cui *et al*. (2023), Character 5.
@@ -67,6 +95,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is 1.
+
+> - The coding of *Rhynchodus* is 0.
+> - The coding of *Meeksiella* is 0.
+> - The coding of *Ptyctodopsis* is 0.
+> - The coding of *Chelyophorus* is 0.
+> - The coding of *Kimbryanodus* is 0.
+> - The coding of *Ctenurella* is 0.
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
