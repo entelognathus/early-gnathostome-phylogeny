@@ -117,6 +117,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
+
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
 > Donoghue *et al*. (2000), Character 67; King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10; Cui *et al*. (2023), Character 7.
@@ -126,6 +133,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
@@ -137,6 +151,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
+
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21; Cui *et al*. (2023), Character 9.
@@ -147,7 +168,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is 0. 
+> - The coding of *Yipetalichthys* is 0.
+
+> - The coding of *Rhynchodus* is 0.
+> - The coding of *Meeksiella* is 0.
+> - The coding of *Ptyctodopsis* is 0.
+> - The coding of *Chelyophorus* is 0.
+> - The coding of *Kimbryanodus* is 0.
+> - The coding of *Ctenurella* is 0.
 
 10. Dentinous tissue: (0) absent; (1) present.
 
@@ -157,7 +185,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?.  
+> - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
 
@@ -169,7 +204,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
@@ -181,6 +223,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Rhynchodus* is ?.
+> - The coding of *Meeksiella* is ?.
+> - The coding of *Ptyctodopsis* is ?.
+> - The coding of *Chelyophorus* is ?.
+> - The coding of *Kimbryanodus* is ?.
+> - The coding of *Ctenurella* is ?.
+
 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13; Andreev *et al*. (2022), Character 5; Brazeau *et al*. (2023), Character 18. Cui *et al*. (2023), Character 13.
@@ -189,7 +238,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is 0. 
+> - The coding of *Yipetalichthys* is 0.
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
