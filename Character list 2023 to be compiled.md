@@ -729,7 +729,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 3.
 
->- The coding of *Meeksiella* is 3.
+> - The coding of *Meeksiella* is 3.
 
 55. Sensory line network: (0) preserved as open grooves; (1) pass through canals enclosed within dermal bones.
 
@@ -743,7 +743,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1.
 
->- The coding of *Meeksiella* is 1.
+> - The coding of *Meeksiella* is 1.
 
 56. Sensory canals/grooves: (0) contained within the thickness of dermal bones; (1) contained in prominent ridges on visceral surface of bone.
 
@@ -755,7 +755,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is 1.
+> - The coding of *Meeksiella* is 1.
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
@@ -769,7 +769,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 58. Tesserae morphology: (0) large interlocking polygonal plates: (1)  microsquamose, not larger than body tesserae.
 
@@ -781,7 +781,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 59. Extent of dermatocranial cover: (0) complete; (1) incomplete (scale-free and elsewhere).
 
@@ -793,7 +793,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki* should be revised from 0 to ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 60. Unpaired median skull roofing bone in contact with unpaired plate bearing pineal eminence or foramen: (0) absent; (1) present.
 
@@ -805,7 +805,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 61. Median rostral extension of the head shield: (0) absent; (1) present.
 
@@ -817,7 +817,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 62. Lateral fields: (0) absent; (1) present.
 
@@ -829,7 +829,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 63. Division of lateral fields: (0) absent; (1) divided once; (2)divided twice.
 
@@ -841,7 +841,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 64. Lateral fields extend posterior to pectoral sinus: (0) absent; (1) present.
 
@@ -853,7 +853,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 65. Lateral fields extend onto cornua: (0) absent; (1) present;
 
@@ -865,7 +865,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 66. Median fields: (0) absent; (1) present.
 
@@ -877,7 +877,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 67. Median field separation from pineal plate or foramen: (0) absent; (1) present.
 
@@ -889,7 +889,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 68. Median dorsal opening: (0) absent; (1) present.
 
@@ -901,7 +901,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 69. Cornual extensions: (0) absent; (1) present.
 
@@ -917,7 +917,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 70. Corners: (0) absent; (1) present.
 
@@ -929,7 +929,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 71. Fused scale rows on posterior of headshield: (0) absent; (1) present.
 
@@ -941,7 +941,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 72. Dorsal spinal process of headshield: (0) absent; (1) present.
 
@@ -953,7 +953,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 73. Oralobranchial covering: (0) minute scales; (1) tesserae (2); dermal plates; (3) one or two massive dermal plates.
 
@@ -965,7 +965,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 74. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like (2); slender longitudinal oval.
 
@@ -977,7 +977,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 75. Spines on corners: (0) absent; (1) present.
 
@@ -989,7 +989,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 76. Headshield enclosed posteriorly behind oralobranchial chamber: (0) no; (1) yes.
 
@@ -1001,7 +1001,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 77. Enlarged tubercles form symmetrical pattern on posterior part of head shield: (0) absent; (1) present.
 
@@ -1013,7 +1013,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 78. T-shaped rostral plate: (0) absent; (1) present.
 
@@ -1025,7 +1025,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
@@ -1039,7 +1039,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 80. Postnuchal plates: (0) absent; (1) present.
 
@@ -1053,7 +1053,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 81. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
@@ -1065,7 +1065,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 82. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
 
@@ -1077,7 +1077,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 83. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 
@@ -1089,7 +1089,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 84. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 
@@ -1101,7 +1101,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 85. Rostrocaudal groove on the inner surface of the premedian plate: (0) absent; (1) present.
 
@@ -1113,7 +1113,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is ?.
+> - The coding of *Meeksiella* is ?.
 
 86. Preorbital depression: (0) absent; (1) present.
 
@@ -1125,7 +1125,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 87. Preorbital recess: (0) absent; (1) present.
 
@@ -1139,7 +1139,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 88. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
 
@@ -1151,7 +1151,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -.
 
->- The coding of *Meeksiella* is -.
+> - The coding of *Meeksiella* is -.
 
 89. Submarginal articulation: (0) absent; (1) present.
 
@@ -1163,7 +1163,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 90. Prelateral plate: (0) absent; (1) present.
 
@@ -1175,7 +1175,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
->- The coding of *Meeksiella* is 0.
+> - The coding of *Meeksiella* is 0.
 
 91. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
@@ -1187,6 +1187,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 0.
+
 92. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 259. Cui *et al*. (2023), Character 94.
@@ -1196,6 +1198,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 1.
 
 93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 
@@ -1207,6 +1211,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 1.
+
 94. Lacrimal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 257; Castiello (2018), Character 254; Zhu Y. *et al*. (2022), Character 96; Brazeau *et al*. (2023), Character 262. Cui *et al*. (2023), Character 96.
@@ -1216,6 +1222,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 95. Pineal and rostral: (0) contact; (1) separated.
 
@@ -1227,6 +1235,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 1.
+
 96. Snout region fragmented into mosaic of small plates: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 259; Castiello (2018), Character 256; Zhu Y. *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 264. Cui *et al*. (2023), Character 98.
@@ -1237,6 +1247,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 97. B-bone: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 261; Castiello (2018), Character 258; Zhu Y. *et al*. (2022), Character 99; Brazeau *et al*. (2023), Character 266. Cui *et al*. (2023), Character 99.
@@ -1246,6 +1258,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
+
+> - The coding of *Meeksiella* is 0.
 
 98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
 
@@ -1263,6 +1277,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 99. Pore clusters: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 272. Cui *et al*. (2023), Character 101.
@@ -1272,6 +1288,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 100. Prerostral plate: (0) absent; (1) present.
 
@@ -1283,6 +1301,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
+> - The coding of *Meeksiella* is 0.
+
 101. Interparietal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 276. Cui *et al*. (2023), Character 103.
@@ -1292,6 +1312,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
 
@@ -1305,6 +1327,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 0.
+
 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279. Cui *et al*. (2023), Character 105.
@@ -1314,6 +1338,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 104. Quadratojugal: (0) present; (1) absent.
 
@@ -1327,6 +1353,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is 1.
+
 105. Accessory operculum: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 278; Castiello (2018), Character 272; Zhu Y. *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 283. Cui *et al*. (2023), Character 107.
@@ -1338,6 +1366,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 106. Dermal bone (sarcopterygian postorbital) between jugal (placoderm suborbital) and intertemporal (placoderm postorbital): (0) absent; (1) present.
 
@@ -1351,6 +1381,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is 0.
+
 107. Lacrimal notch: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 280; Castiello (2018), Character 274; Zhu Y. *et al*. (2022), Character 109; Brazeau *et al*. (2023), Character 285. Cui *et al*. (2023), Character 109.
@@ -1360,6 +1392,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 108. Orbital process of maxilla: (0) absent; (1) present.
 
@@ -1371,6 +1405,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 109. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Andreev *et al*. (2022), Character 46; Brazeau *et al*. (2023), Character 174. Cui *et al*. (2023), Character 111.
@@ -1380,6 +1416,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
@@ -1391,6 +1429,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 111. Posterior nostril: (0) external; (1) palatal.
 
 > Choo *et al*. (2017), Character 332; Lu *et al*. (2017), Character 262; Zhu Y. *et al*. (2022), Character 113; Andreev *et al*. (2022), Character 260. Cui *et al*. (2023), Character 113.
@@ -1400,6 +1440,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 112. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
 
@@ -1411,6 +1453,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 113. Choana: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 260; Castiello (2018), Character 257; Zhu Y. *et al*. (2022), Character 115; Brazeau *et al*. (2023), Character 265. Cui *et al*. (2023), Character 115.
@@ -1420,6 +1464,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 114. Lacrimal posteriorly enclosing posterior nostril: (0) absent; (1) present.
 
@@ -1431,6 +1477,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 115. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117; Brazeau *et al*. (2023), Character 277. Cui *et al*. (2023), Character 117.
@@ -1440,6 +1488,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 116. Position of anterior nostril: (0) facial; (1) at oral margin.
 
@@ -1451,6 +1501,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 117. Number of nasals: (0) many; (1) one or two.
 
 > Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119; Brazeau *et al*. (2023), Character 184. Cui *et al*. (2023), Character 119.
@@ -1460,6 +1512,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 118. Mesial margin of nasal: (0) not notched; (1) notched.
 
@@ -1473,6 +1527,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 119. Dermintermedial process: (0) absent; (1) present. 
 
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 186. Cui *et al*. (2023), Character 121.
@@ -1484,6 +1540,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
@@ -1497,6 +1555,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
+> - The coding of *Meeksiella* is 0.
+
 121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
 > Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33. Cui *et al*. (2023), Character 123.
@@ -1509,6 +1569,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 0.
+
 122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
 > Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33. Cui *et al*. (2023), Character 124.
@@ -1518,6 +1580,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
+
+> - The coding of *Meeksiella* is ?.
 
 123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
@@ -1529,6 +1593,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 124. Number of supraorbitals: (0) one; (1) two; (2) many.
 
 > King *et al*. (2017), Character 262; Castiello (2018), Character 259; Zhu Y. *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 267. Cui *et al*. (2023), Character 126.
@@ -1538,6 +1604,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
@@ -1549,6 +1617,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 126. Tectal (sensu Cloutier and Ahlberg 1996, not counting the posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 15), and references therein; Zhu *et al*. (2013), Character 156; Choo *et al*. (2017), Character 166; King *et al*. (2017), Character 184; Castiello (2018), Character 18l; Zhu Y. *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 190. Cui *et al*. (2023), Character 128.
@@ -1558,6 +1628,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 127. Pineal opening in braincase: (0) absent; (1) present.
 
@@ -1569,6 +1641,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 128. Pineal opening perforation in dermal skull roof: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Andreev *et al*. (2022), Character 42; Brazeau *et al*. (2023), Character 162. Cui *et al*. (2023), Character 130.
@@ -1578,6 +1652,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 129. Pineal eminence (in taxa lacking pineal foramen): (0) absent; (1) present.
 
@@ -1589,6 +1665,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 130. Location of pineal foramen/eminence: (0) level with posterior margin of orbits; (1) well posterior of orbits.
 
 > Zhu  *et al*. (2009, Character 19), and references therein; Zhu *et al*. (2013), Character 158; Choo *et al*. (2017), Character 168; King *et al*. (2017), Character 186; Castiello (2018), Character 183; Zhu Y. *et al*. (2022), Character 132; Brazeau *et al*. (2023), Character 192. Cui *et al*. (2023), Character 132.
@@ -1599,6 +1677,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 131. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 327; Lu *et al*. (2017), Character 241; King *et al*. (2017), Character 188; Castiello (2018), Character 186; Zhu Y. *et al*. (2022), Character 133; Andreev *et al*. (2022), Character 239; Brazeau *et al*. (2023), Character 194. Cui *et al*. (2023), Character 133.
@@ -1608,6 +1688,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 132. Dermal plate associated with pineal eminence or foramen: (0) contributes to orbital margin; (1) plate bordered laterally by skull roofing bones.
 
@@ -1623,6 +1705,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 1.
+
 133. Skull roof with broad supraorbital vaults: (0) absent; (1) present.
 
 > Dennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Andreev *et al*. (2022), Character 44; Brazeau *et al*. (2023), Character 214. Cui *et al*. (2023), Character 135.
@@ -1635,6 +1719,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 134. Parietals (preorbitals of placoderms): (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 169; Clement *et al*. (2018), Character 279; Zhu Y. *et al*. (2022), Character 136; Andreev *et al*. (2022), Character 279. Cui *et al*. (2023), Character 136.
@@ -1644,6 +1730,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
+
+> - The coding of *Meeksiella* is 1.
 
 135. Condition of parietals/preorbitals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
@@ -1655,6 +1743,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 1.
+
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 187; Castiello (2018), Character 184; Zhu Y. *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 193. Cui *et al*. (2023), Character 138.
@@ -1664,6 +1754,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 1.
 
 137. Postparietals (centrals of placoderms): (0) absent; (1) present.
 
@@ -1675,6 +1767,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
+> - The coding of *Meeksiella* is 1.
+
 138. Condition of postparietals/centrals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
 > Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140; Andreev *et al*. (2022), Character 278. Cui *et al*. (2023), Character 140.
@@ -1684,6 +1778,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
+
+> - The coding of *Meeksiella* is 0.
 
 139. Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal.
 
@@ -1695,6 +1791,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is -.
+
 140. Large unpaired median skull roofing bone anterior to the level of nasal capsules (premedian plate): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 148; Choo *et al*. (2017), Character 159; King *et al*. (2017), Character 177; Castiello (2018), Character 174; Zhu Y. *et al*. (2022), Character 142; Brazeau *et al*. (2023), Character 183. Cui *et al*. (2023), Character 142.
@@ -1704,6 +1802,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 141. Position of premedian plate: (0) dorsal; (1) ventral.
 
@@ -1715,6 +1815,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 142. Postnasal plate: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 341; Zhu Y. *et al*. (2021), Character 310; Zhu Y. *et al*. (2022), Character 144. Cui *et al*. (2023), Character 144.
@@ -1725,6 +1827,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 143. Obstantic margin of skull roof: (0) long; (1) short.
 
 > Zhu *et al*. (2016), Character 347; Zhu Y. *et al*. (2021), Character 314; Zhu Y. *et al*. (2022), Character 146. Cui *et al*. (2023), Character 146.
@@ -1734,6 +1838,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
+
+> - The coding of *Meeksiella* is 0.
 
 144. Nuchal plate contributing to posterior margin of skull roof: (0) absent; (1) present.
 
@@ -1747,6 +1853,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 1.
+
 145. Nuchal plate: (0) without orbital facets; (1) with orbital facets.
 
 > Castiello (2018), Character 248; Zhu Y. *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 254. Cui *et al*. (2023), Character 148.
@@ -1756,6 +1864,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 1. 
+
+> - The coding of *Meeksiella* is 0.
 
 146. Nuchal reaching or almost reaching orbital margin: (0) absent; (1) present.
 
@@ -1767,6 +1877,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
+> - The coding of *Meeksiella* is 0.
+
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
 > Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Andreev *et al*. (2022), Character 51; Brazeau *et al*. (2023), Character 217. Cui *et al*. (2023), Character 150.
@@ -1776,6 +1888,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 148. Contact of nuchal or centronuchal or median extrascapular plate with paired preorbital or parietal plates: (0) absent; (1) present.
 
@@ -1787,6 +1901,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised 1 to ?, because there is no preserved anterior part of the skull roof.
 
+> - The coding of *Meeksiella* is 1.
+
 149. Number of marginal bones alongside paired median skull roofing bones over the otico-occipital division of braincase: (0) single; (1) two or more.
 
 > Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176. Cui *et al*. (2023), Character 152.
@@ -1796,6 +1912,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is 1. 
+
+> - The coding of *Meeksiella* is 1.
 
 150. Lateral plate: (0) absent; (1) present.
 
@@ -1809,6 +1927,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 151. Paranuchal number: (0) one pair; (1) two pairs.
 
 > Zhu *et al*. (2013), Character 162; Choo *et al*. (2017), Character 171; King *et al*. (2017), Character 189; Castiello (2018), Character 187; Zhu Y. *et al*. (2022), Character 154; Brazeau *et al*. (2023), Character 195. Cui *et al*. (2023), Character 154.
@@ -1818,6 +1938,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is 1.
+
+> - The coding of *Meeksiella* is 0.
 
 152. Median paranuchal plate: (0) absent; (1) present.
 
@@ -1831,6 +1953,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 153. Posterior process of the paranuchal plate behind the nuchal plate (dorsal face): (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 165; Choo *et al*. (2017), Character 174; Zhu Y. *et al*. (2022), Character 156. Cui *et al*. (2023), Character 156.
@@ -1840,6 +1964,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 154. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: (0) absent; (1) present; (2) paranuchals precluded from nuchal by central or median paranuchal.
 
@@ -1851,6 +1977,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 2.
+
 155. Posterior projection on posterior paranuchal plate: (0) absent; (1) present.
 
 > Castiello (2018), Character 188; Castiello (2018), Character 188; Zhu Y. *et al*. (2022), Character 158. Cui *et al*. (2023), Character 158.
@@ -1860,6 +1988,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 156. Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no; (1) yes.
 
@@ -1873,6 +2003,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 157. Westoll-lines: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 237; King *et al*. (2017), Character 268; Castiello 2018 Character 262; Zhu Y. *et al*. (2022), Character 161; Andreev *et al*. (2022), Character 241; Brazeau *et al*. (2023), Character 273. Cui *et al*. (2023), Character 161.
@@ -1882,6 +2014,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is -.
+
+> - The coding of *Meeksiella* is -.
 
 158. Anteriorly directed adductor fossae between neurocranium and skull roof: (0) absent; (1) present.
 
@@ -1893,6 +2027,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 159. Anterior pit line of dermal skull roof: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Andreev *et al*. (2022), Character 34; Brazeau *et al*. (2023), Character 307. Cui *et al*. (2023), Character 163.
@@ -1902,6 +2038,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 0.
+
+> - The coding of *Meeksiella* is 0.
 
 160. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
@@ -1913,6 +2051,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -.
 
+> - The coding of *Meeksiella* is -.
+
 161. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
 > Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293. Cui *et al*. (2023), Character 165.
@@ -1922,6 +2062,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 162. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
@@ -1933,6 +2075,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 163. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
 > Zhu *et al*. (2013), Character 166; Choo *et al*. (2017), Character 175; Zhu Y. *et al*. (2022), Character 167; Brazeau *et al*. (2023), Character 290. Cui *et al*. (2023), Character 167.
@@ -1942,6 +2086,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 1.
 
 164. Ethmoid commissure: (0) absent; (1) present.
 
@@ -1955,6 +2101,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 165. Ethmoid commissure fused into midline canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 320; Castiello (2018), Character 312; Zhu Y. *et al*. (2022), Character 169. Cui *et al*. (2023), Character 169.
@@ -1966,6 +2114,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is -.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 166. Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone center of premaxillary.
 
@@ -1981,6 +2131,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 167. Infraorbital canal follows premaxillary suture: (0) no; (1) yes.
 
 > Choo *et al*. (2017), Character 198; King *et al*. (2017), Character 296; Castiello (2018), Character 287; Zhu Y. *et al*. (2022), Character 171; Brazeau *et al*. (2023), Character 301. Cui *et al*. (2023), Character 171.
@@ -1995,6 +2147,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is -.
+
 168. Postmarginal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 315; Castiello (2018), Character 306; Zhu Y. *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 320. Cui *et al*. (2023), Character 172.
@@ -2004,6 +2158,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 169. Postmarginal line issued from main lateral line: (0) on marginal or supratemporal; (1) on anterior paranuchal or tabular.
 
@@ -2015,6 +2171,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is -.
+
 170. Central sensory line: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 350; Zhu Y. *et al*. (2021), Character 316; King *et al*. (2017), Character 312; Castiello (2018), Character 303; Zhu Y. *et al*. (2022), Character 174; Brazeau *et al*. (2023), Character 317. Cui *et al*. (2023), Character 174.
@@ -2024,6 +2182,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 171. Supraorbital sensory canals: (0) absent; (1) present.
 
@@ -2039,6 +2199,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 1. 
 
+> - The coding of *Meeksiella* is 1.
+
 172. Course of supraorbital canal: (0) between anterior and posterior nostrils; (1) anterior to both nostrils.
 
 > Zhu  *et al*. (2009, Character 109), and references therein; Zhu *et al*. (2013), Character 187; Choo *et al*. (2017), Character 192; King *et al*. (2017), Character 290; Castiello (2018), Character 282; Zhu Y. *et al*. (2022), Character 176; Brazeau *et al*. (2023), Character 295. Cui *et al*. (2023), Character 176.
@@ -2048,6 +2210,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 173. Course of supraorbital canal: (0) straight; (1) lyre-shaped.
 
@@ -2063,6 +2227,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
+> - The coding of *Meeksiella* is 0.
+
 174. Posterior end of supraorbital canal: (0) in postparietal (central); (1) in parietal (preorbital); (2) in intertemporal; (3) in nuchal plate; (4) in postpineal plate.
 
 > Zhu  *et al*. (2009, Character 111), and references therein; Zhu *et al*. (2013), Character 189; Choo *et al*. (2017), Character 194; Zhu Y. *et al*. (2022), Character 178; Brazeau *et al*. (2023), Character 297. Cui *et al*. (2023), Character 178.
@@ -2073,6 +2239,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 3. 
 
+> - The coding of *Meeksiella* is 3.
+
 175. Posteriorly converging supraorbital canals: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 179. Cui *et al*. (2023), Character 179.
@@ -2082,6 +2250,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 1.
+
+> - The coding of *Meeksiella* is 1.
 
 176. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
@@ -2095,6 +2265,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 2.
+
 177. Contact between otic and supraorbital canals: (0) not in contact; (1) in contact.
 
 > Zhu  *et al*. (2009, Character 112), and references therein; Zhu *et al*. (2013), Character 190; Choo *et al*. (2017), Character 195; King *et al*. (2017), Character 293; Castiello (2018), Character 284; Zhu Y. *et al*. (2022), Character 181; Brazeau *et al*. (2023), Character 298. Cui *et al*. (2023), Character 181.
@@ -2104,6 +2276,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 178. Contact of supraorbital and infraorbital canals: (0) in contact rostrally; (1) not in contact rostrally.
 
@@ -2120,6 +2294,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 179. Otic canal: (0) runs through skull roof; (1) follows edge of skull roof.
 
 > Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300. Cui *et al*. (2023), Character 183.
@@ -2129,6 +2305,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 180. Otic canal extends through postparietals (central): (0) absent; (1) present.
 
@@ -2140,6 +2318,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 181. Jugal portion of infraorbital canal joins supramaxillary canal: (0) present; (1) absent.
 
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Andreev *et al*. (2022), Character 32; Brazeau *et al*. (2023), Character 289. Cui *et al*. (2023), Character 185.
@@ -2149,6 +2329,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 182. Infra-orbital sensory line: (0) crosses lateral field; (1) does not cross lateral field.
 
@@ -2160,6 +2342,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is -. 
 
+> - The coding of *Meeksiella* is -.
+
 183. Festooned pattern of sensory canals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 305; Castiello (2018), Character 296; Zhu Y. *et al*. (2022), Character 187; Brazeau *et al*. (2023), Character 310. Cui *et al*. (2023), Character 187.
@@ -2169,6 +2353,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
+
+> - The coding of *Meeksiella* is 0.
 
 184. Median transverse canals: (0) two or more; (1) one; (2) absent.
 
@@ -2182,6 +2368,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 2. 
 
+> - The coding of *Meeksiella* is 2.
+
 185. Multiply branched sensory canal system associated with the posterior end of the supraorbital canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 306; Castiello (2018), Character 298; Zhu Y. *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 311. Cui *et al*. (2023), Character 189.
@@ -2193,6 +2381,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 186. Branching end of lateral transverse canals: (0) absent; (1) present.
 
@@ -2206,6 +2396,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.  
 
+> - The coding of *Meeksiella* is -.
+
 187. Median dorsal canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 310; Castiello (2018), Character 301; Zhu Y. *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 315. Cui *et al*. (2023), Character 191.
@@ -2218,6 +2410,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is 0.
+
 188. Infraorbital and otic sensory line grooves run along mesial margin of marginal plate: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 311; Castiello (2018), Character 302; Zhu Y. *et al*. (2022), Character 192. Cui *et al*. (2023), Character 192.
@@ -2227,6 +2421,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 189. Semicircular pit line: (0) absent; (1) present.
 
@@ -2240,6 +2436,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is 0. 
 
+> - The coding of *Meeksiella* is 0.
+
 190. Horizontal sensory line canal on cheek: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 314; Castiello (2018), Character 305; Zhu Y. *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 319. Cui *et al*. (2023), Character 194.
@@ -2249,6 +2447,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 191. Preopercular canal: (0) absent; (1) present.
 
@@ -2260,6 +2460,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 192. Preopercular canal meets otic canal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 317; Castiello (2018), Character 308; Zhu Y. *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 322. Cui *et al*. (2023), Character 196.
@@ -2269,6 +2471,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 193. Supraoral canal: (0) absent; (1) present.
 
@@ -2280,6 +2484,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 194. Extension of otic canal beyond infraorbital canal (\"P\" canal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 319; Castiello (2018), Character 310; Zhu Y. *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 324. Cui *et al*. (2023), Character 198.
@@ -2289,6 +2495,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 195. Posterior pitline and postmarginal canal in contact: (0) absent; (1) present.
 
@@ -2302,6 +2510,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 196. Supraorbital canal joins infraorbital canal: (0) anterior to supraoral canal; (1) posterior to supraoral canal.
 
 > King *et al*. (2017), Character 322; Castiello (2018), Character 314; Zhu Y. *et al*. (2022), Character 200; Brazeau *et al*. (2023), Character 327. Cui *et al*. (2023), Character 200.
@@ -2311,6 +2521,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 197. Sensory line commissure across extrascapular bones (nuchal and paranuchal): (0) absent; (1) present.
 
@@ -2322,6 +2534,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.  
 
+> - The coding of *Meeksiella* is 0.
+
 198. Sensory canal or pit-line associated with maxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 116), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 199; King *et al*. (2017), Character 297; Castiello (2018), Character 288; Zhu Y. *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 302. Cui *et al*. (2023), Character 202.
@@ -2331,6 +2545,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 
@@ -2342,6 +2558,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 0. The coding of *Eurycaraspis incilis* shoud be revised from 1 to 0. The coding of *Quasipetalichthys haikouensis* shoud be revised from 0 to 1.
 
+> - The coding of *Meeksiella* is ?.
+
 200. External endolymphatic duct openings' location in relation to median field: (0) internal; (1) external.
 
 > Castiello (2018), Character 224; Zhu Y. *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 230. Cui *et al*. (2023), Character 204.
@@ -2351,6 +2569,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is -. 
+
+> - The coding of *Meeksiella* is -.
 
 201. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 
