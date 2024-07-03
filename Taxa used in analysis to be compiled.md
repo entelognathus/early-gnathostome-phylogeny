@@ -581,7 +581,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > upper Pennsylvanian, 307.0, 298.9
 
 > - Kansas, USA.
-> - Poplin, 1974; 1975
+> - Poplin, 1974; 1975; [Caron et al., 2023](https://watermark.silverchair.com/zlad011.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2AwggNcBgkqhkiG9w0BBwagggNNMIIDSQIBADCCA0IGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMDZjz5dXIw56KqBAgEQgIIDE4n5IRlcqeTkactCDdcCKfjZlWZ-EaKwA-xijwXJTmJaGMPqju3AbeWbCS5wKdDH2GxsK7MlOKZd86l6b9-ZLLW_gSyrff9UfKdxpdYIMnopMuy02U59BkP3pu2Ha5-y-FEPaQpaAuRnwe1vFZcsaRhtdnkXitFxJ_w_qoqsQjD75JADV407x1t2jd9Nim8ebnuat1wJsctZQtuvsnWRfzxhT8guIj5SHK7tbSmUaHGjjZY9cLy97P9dIGAafGb2Yq83_GT271MA35wrQIhOHWl1R3GEVG69yzHHMvO1Dwl9Stcc9_6R7SMrf8Bzk0JO98S2-2pb2zTQxA7xpTazc_SuX1Q43IXQy_8EgIK4_dtFts7NIq4rOvRuRLa98laU8CkddgTMH8kCyH2jPZDo1VwetW7vATksmzGfrtyPCNZ-sh1mD9K18gFAwLWxRM5ybtKrEkyF_SVip92Ms8G-hqKp4U-qSZoWyB2nal30a4AXiv85q7OZ27t4gspj9sB4Q9cb1Ea8aJ7fmnqU5GY37K8xwMEoM965s-djNceWLSQsCueStqbMSKFcB5tJXmCE3Q_V3cVfkUFp4h9k8xVNflaD6eUnjyk7LDLIp9_LuGHVRPicBbjdvF2oWkD66XNUXn9Pw_rqc2U6kVEmrxNMpOKdxCz0BLhsT1Mm-yoO-NPYzDVzEYfxThVoVcmGKWD-Q2QEYqWzbGmmXsx71uoxeRFu7B_-5HNrBXVG80bk5MWRCzExzZTb7LbYFZDCOMDJbwM3P3UCb1aQMOBpwnt9-aL0nl4363yPaTIWOWnmkH46Qwi4m8qHLlwurX_esPRlPlc_gMmGdeRavU_HKDCx9c5_bVtn4wshq0nAnivtYUgnvmRnJHfV1Sf2r8n2atraJRNAeUUvKqJkbJ-WS7U_pNgDTSKRlSRhqVwNLfBLgr3EOJPTn86edZZKUpN8ApKQn8dl-vaPLx2yOBnUdQfTiplyo-es_8GfIzIxmjnJNfq4WcuW-w7DXs_rIICd8xkBUJG4vUlVUEljwtRk87skGEvA5dQ)
 
 [*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
@@ -592,7 +592,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 [*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2011
 > Gzhelian, 303.7, 298.9
 
-> - Douglas Group; Kansas, UsA.
+> - Douglas Group; Kansas, USA.
 > - [Pradel et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024938).
 
 [*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
@@ -648,7 +648,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > upper Pennsylvanian, 307.0, 298.9
 
 > - Douglas Group, Lawrence Formation, Haskell Limestone Member; Douglas County near Lawrence, Kansas, USA.
-> - Poplin, 1984; Hamel and Poplin, 2008
+> - Poplin, 1984; [Hamel and Poplin, 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634-28.4.989)
 
 [*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
