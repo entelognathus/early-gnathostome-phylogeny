@@ -3144,6 +3144,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 247. Enlarged anterior tooth on premaxilla: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 379; Castiello (2018), Character 368; Zhu Y. *et al*. (2022), Character 251; Brazeau *et al*. (2023), Character 384. Cui *et al*. (2023), Character 251.
@@ -3153,6 +3155,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 248. Number of tooth rows on outer dental arcade: (0) single row; (1) two rows, with large teeth lingually and small teeth labially.
 
@@ -3164,6 +3168,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 249. Number of infradentaries: (0) one; (1) two; (2) more than 2.
 
 > King *et al*. (2017), Character 381; Castiello (2018), Character 370; Zhu Y. *et al*. (2022), Character 253; Brazeau *et al*. (2023), Character 386. Cui *et al*. (2023), Character 253.
@@ -3173,6 +3179,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is -.
 
 250. Number of fang pairs on posterior coronoid: (0) none; (1) one; (2) two.
 
@@ -3184,6 +3192,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 251. Teeth radial rows on prearticular: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 384; Castiello (2018), Character 373; Zhu Y. *et al*. (2022), Character 255; Brazeau *et al*. (2023), Character 389. Cui *et al*. (2023), Character 255.
@@ -3193,6 +3203,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 252. 'Symplectic' articulation: (0) absent; (1) present.
 
@@ -3204,6 +3216,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is -.
+
 253. Processus ascendens of palatoquadrate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 389; Castiello (2018), Character 377; Zhu Y. *et al*. (2022), Character 257; Brazeau *et al*. (2023), Character 394. Cui *et al*. (2023), Character 257.
@@ -3214,6 +3228,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 254. Grooved, curved upper toothplates attached to median labial element: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 390; Castiello (2018), Character 378; Zhu Y. *et al*. (2022), Character 258; Brazeau *et al*. (2023), Character 395. Cui *et al*. (2023), Character 258.
@@ -3222,7 +3238,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?.
+> - The coding of *Yipetalichthys* is 0.
 
 255. Two divergent processes extending from anterior of palatoquadrate: (0) absent; (1) present.
 
@@ -3234,6 +3250,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 0.
+
 256. Extramandibular dentition: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 392; Castiello (2018), Character 380; Zhu Y. *et al*. (2022), Character 260; Brazeau *et al*. (2023), Character 397. Cui *et al*. (2023), Character 260.
@@ -3243,6 +3261,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 257. Bilateral series of labial cartilages: (0) absent; (1) present.
 
@@ -3254,6 +3274,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is 0.
+
 258. Maxilla and premaxilla *sensu lato* (upper gnathal plates lateral to jaw cartilage): (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 92; Zhu Y. *et al*. (2022), Character 262. Cui *et al*. (2023), Character 262.
@@ -3263,6 +3285,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 259. Maxilla *sensu stricto* (posterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
@@ -3276,6 +3300,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is 0.
+
 260. Tooth-bearing median rostral: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351. Cui *et al*. (2023), Character 264.
@@ -3285,6 +3311,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is -.
 
 261. Premaxillae with inturned symphysial processes: (0) absent; (1) present.
 
@@ -3296,6 +3324,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 
+> - The coding of *Meeksiella* is -.
+
 262. Premaxilla forming part of orbit: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 77), and references therein; Zhu *et al*. (2013), Character 178; Choo *et al*. (2017), Character 185; King *et al*. (2017), Character 200; Castiello (2018), Character 199; Zhu Y. *et al*. (2022), Character 266; Brazeau *et al*. (2023), Character 205. Cui *et al*. (2023), Character 266.
@@ -3305,6 +3335,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
+
+> - The coding of *Meeksiella* is -.
 
 263. Premaxilla: (0) extends under orbit; (1) restricted anterior to orbit.
 
@@ -3318,6 +3350,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 264. Preorbital process of premaxilla: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 78), and references therein; Zhu *et al*. (2013), Character 179; Choo *et al*. (2017), Character 186; Zhu Y. *et al*. (2022), Character 268. Cui *et al*. (2023), Character 268.
@@ -3327,6 +3361,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
+
+> - The coding of *Meeksiella* is -.
 
 265. Ventral margin of maxilla: (0) straight; (1) curved.
 
@@ -3338,6 +3374,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
 
+> - The coding of *Meeksiella* is -.
+
 266. Posterior expansion of maxilla (maxilla cleaver-shaped): (0) present; (1) absent.
 
 > Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Andreev *et al*. (2022), Character 90 (states is slightly different); Brazeau *et al*. (2023), Character 181. Cui *et al*. (2023), Character 270.
@@ -3347,6 +3385,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is -.
 
 267. Contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.
 
@@ -3358,6 +3398,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
 
+> - The coding of *Meeksiella* is -.
+
 268. Dentary marginal bone of mouth: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 91. Zhu Y. *et al*. (2021), Character 354; Zhu Y. *et al*. (2022), Character 272. Cui *et al*. (2023), Character 272.
@@ -3367,6 +3409,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is 0.
 
 269. Teeth of dentary: (0) reaching anterior end of dentary; (1) not reaching anterior end.
 
@@ -3388,6 +3432,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 271. Fused anterior supragnathals: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 372; Castiello (2018), Character 361; Zhu Y. *et al*. (2022), Character 275; Brazeau *et al*. (2023), Character 377. Cui *et al*. (2023), Character 275.
@@ -3397,6 +3443,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is 0.
 
 272. Vomerine fangs: (0) absent; (1) present.
 
@@ -3408,6 +3456,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 273. Vomeral area with grooves and raised areas: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 64), and references therein; Zhu *et al*. (2013), Character 236; Choo *et al*. (2017), Character 226; King *et al*. (2017), Character 71; Castiello (2018), Character 73; Zhu Y. *et al*. (2022), Character 277; Brazeau *et al*. (2023), Character 75. Cui *et al*. (2023), Character 277.
@@ -3417,6 +3467,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?, because of no preserved vomeral area.
+
+> - The coding of *Meeksiella* is ?.
 
 274. Posterior process of vomers: (0) absent; (1) present.
 
@@ -3428,6 +3480,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 275. Median dermal bone of palate (parasphenoid): (0) absent; (1) present.
 
 > Gardiner (1984); Brazeau (2009); Davis *et al*. (2012), Character 55; Choo *et al*. (2017), Character 54; King *et al*. (2017), Character 131; Castiello (2018), Character 130; Zhu Y. *et al*. (2022), Character 279; Andreev *et al*. (2022), Character 109; Brazeau *et al*. (2023), Character 135. Cui *et al*. (2023), Character 279.
@@ -3438,6 +3492,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 276. Buccohypophysial canal in parasphenoid: (0) single; (1) paired.
 
 > Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Andreev *et al*. (2022), Character 113; Brazeau *et al*. (2023), Character 78. Cui *et al*. (2023), Character 280.
@@ -3447,6 +3503,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 277. Ascending process of parasphenoid: (0) absent; (1) present.
 
@@ -3462,6 +3520,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 278. Shape of parasphenoid denticulated field: (0) broad rhomboid or lozenge-shaped; (1) broad, splint-shaped; (2) slender, splint-shaped.
 
 > Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Andreev *et al*. (2022), Character 278; Brazeau *et al*. (2023), Character 137. Cui *et al*. (2023), Character 282.
@@ -3471,6 +3531,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 279. Parasphenoid denticulated field with multifid anterior margin: (0) absent; (1) present.
 
@@ -3482,6 +3544,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 280. Parasphenoid: (0) protruding forward into ethmoid region of endocranium; (1) behind ethmoid region.
 
 > Zhu  *et al*. (2009, Character 65), and references therein; Zhu *et al*. (2013), Character 237; Choo *et al*. (2017), Character 227; King *et al*. (2017), Character 135; Castiello (2018), Character 134; Zhu Y. *et al*. (2022), Character 284; Brazeau *et al*. (2023), Character 139. Cui *et al*. (2023), Character 284.
@@ -3491,6 +3555,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 281. Posterior of parasphenoid: (0) restricted to ethmosphenoid region; (1) extends to otic region.
 
@@ -3502,6 +3568,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 282. Denticulated field of parasphenoid: (0) without spiracular groove; (1) with spiracular groove.
 
 > Friedman (2007, Character 82), Zhu *et al*. (2009, Character 66), and references therein; Zhu *et al*. (2013), Character 238; Choo *et al*. (2017), Character 228; King *et al*. (2017), Character 136; Castiello (2018), Character 135; Zhu Y. *et al*. (2022), Character 286; Brazeau *et al*. (2023), Character 140. Cui *et al*. (2023), Character 286.
@@ -3511,6 +3579,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 283. Parasphenoid denticle field with anteriorly divergent lateral margins: (0) absent; (1) present.
 
@@ -3522,6 +3592,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 284. Parasphenoid denticle field: (0) terminates at or anterior to level of foramina for internal carotid arteries; (1) extends posterior to foramina for internal carotid arteries.
 
 > Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141. Cui *et al*. (2023), Character 288.
@@ -3531,6 +3603,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is ?.
 
 285. Anterior portion of parasphenoid (pre-buccohypophyseal foramen) of greater length than posterior portion (post-foramen): (0) absent; (1) present.
 
@@ -3548,6 +3622,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is ?.
+
 286. Coronoids (sensu lato): (0) present, (1) absent.
 
 > King *et al*. (2017), Character 382; Castiello (2018), Character 371; Zhu Y. *et al*. (2022), Character 290; Brazeau *et al*. (2023), Character 387. Cui *et al*. (2023), Character 290.
@@ -3560,6 +3636,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is 1.
+
 287. Number of coronoids (*sensu lato*): (0) more than three; (1) three.
 
 > Lu  *et al*. (2012), Character 145; Zhu *et al*. (2013), Character 201; Giles *et al*. (2015), Character 106; Choo *et al*. (2017), Character 147; King *et al*. (2017), Character 344; Castiello (2018), Character 336; Zhu Y. *et al*. (2022), Character 291; Andreev *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 349. Cui *et al*. (2023), Character 291.
@@ -3570,6 +3648,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?.
 
+> - The coding of *Meeksiella* is -.
+
 288. Fangs of coronoids (*sensu lato*): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Andreev *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 350. Cui *et al*. (2023), Character 292.
@@ -3579,6 +3659,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 289. Dentition on coronoids (*sensu lato*): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
@@ -3592,6 +3674,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 290. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
 > Zhu Y. *et al*. (2021), Character 247; Zhu Y. *et al*. (2022), Character 294; Andreev *et al*. (2022), Character 251. Cui *et al*. (2023), Character 294.
@@ -3601,6 +3685,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 291. Infradentary: (0) absent; (1) present.
 
@@ -3612,6 +3698,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?, because of no preserved Infradentary.
 
+> - The coding of *Meeksiella* is 0.
+
 292. Extent of infradentaries: (0) along much of ventral margin of dentary; (1) restricted to posterior half of dentary.
 
 > Giles *et al*. (2015), Character 93; Choo *et al*. (2017), Character 288; King *et al*. (2017), Character 368; Castiello (2018), Character 358; Zhu Y. *et al*. (2022), Character 296; Andreev *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 373. Cui *et al*. (2023), Character 296.
@@ -3621,6 +3709,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
+
+> - The coding of *Meeksiella* is -.
 
 293. Infradentary foramen and groove: (0) present; (1) absent.
 
@@ -3632,6 +3722,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
 
+> - The coding of *Meeksiella* is -.
+
 294. Large ventromesially directed flange of symphysial region of mandible: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 83), and references therein; Zhu *et al*. (2013), Character 206; Choo *et al*. (2017), Character 208; King *et al*. (2017), Character 351; Castiello (2018), Character 343; Zhu Y. *et al*. (2022), Character 298; Brazeau *et al*. (2023), Character 356. Cui *et al*. (2023), Character 298.
@@ -3641,6 +3733,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved mandible.
+
+> - The coding of *Meeksiella* is -.
 
 295. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: (0) absent; (1) present.
 
@@ -3652,6 +3746,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Meckelian.
 
+> - The coding of *Meeksiella* is -.
+
 296. Strong ascending flexion of symphysial region of mandible: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 82), and references therein; Zhu *et al*. (2013), Character 208; Choo *et al*. (2017), Character 210; King *et al*. (2017), Character 353; Castiello (2018), Character 345; Zhu Y. *et al*. (2022), Character 300; Brazeau *et al*. (2023), Character 358. Cui *et al*. (2023), Character 300.
@@ -3661,6 +3757,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+
+> - The coding of *Meeksiella* is ?.
 
 297. Parasymphysial plate: (0) detachable tooth whorl; (1) long with posterior corner, sutured to coronoid, denticulated or with tooth row; (2) absent.
 
@@ -3672,6 +3770,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is ?.
+
 298. Anterior end of prearticular: (0) far from jaw symphysis; (1) near jaw symphysis.
 
 > Zhu  *et al*. (2009, Character 96), and references therein; Zhu *et al*. (2013), Character 210; Choo *et al*. (2017), Character 212; King *et al*. (2017), Character 355; Castiello (2018), Character 347; Zhu Y. *et al*. (2022), Character 302; Brazeau *et al*. (2023), Character 360. Cui *et al*. (2023), Character 302.
@@ -3681,6 +3781,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 299. Prearticular - dentary contact: (0) present; (1) absent.
 
@@ -3692,6 +3794,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Yipetalichthys* is ?. 
 
+> - The coding of *Meeksiella* is -.
+
 300. Number of dermopalatines: (0) one; (1) two; (2) more than 2.
 
 > Castiello (2018), Character 367. King *et al*. (2017), Character 378. Zhu Y. *et al*. (2021), Character 252; Zhu Y. *et al*. (2022), Character 304; Andreev *et al*. (2022), Character (**the states are different**); Brazeau *et al*. (2023), Character 383. Cui *et al*. (2023), Character 304.
@@ -3701,6 +3805,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
+
+> - The coding of *Meeksiella* is -.
 
 301. Entopterygoids: (0) separated; (1) contact along midline.
 
