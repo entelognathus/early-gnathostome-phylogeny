@@ -140,6 +140,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Chelyophorus* is ?.
 > - The coding of *Kimbryanodus* is ?.
 > - The coding of *Ctenurella* is ?.
+>   
+> - LXY The coding of *Achoania* is from ? to 0.
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 
@@ -239,6 +241,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is 0.
+>   
+> - LXY The coding of *Guiyu* is 1.
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
@@ -271,6 +275,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+>   
+> - LXY The coding of *Achoania* is 1.
 
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
@@ -313,7 +319,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+
+> - LXY The coding of *Achoania* is from ? to 0.
 
 21. Generations of odontodes of dermal plates: (0) buried; (1) areally growing; (2) resorbed.
 
@@ -756,6 +764,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is 1.
+>   
+> - LXY The coding of *Achoania* is from ? to 1.
 
 57. Dermal skull roof: (0) includes large dermal plates; (1) consists of undifferentiated plates or tesserae; (2) include both large dermal plates and tesserae.
 
@@ -1314,6 +1324,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is 0.
+>
+> - LXY The coding of *Achoania* and *Psarolepis* are from ? to 0.
 
 102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
 
@@ -1328,6 +1340,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is 1. 
 
 > - The coding of *Meeksiella* is 0.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
 
@@ -1340,6 +1354,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is 0.
+>
+> -  LXY The coding of *Achoania* is from ? to 0.
 
 104. Quadratojugal: (0) present; (1) absent.
 
@@ -1490,6 +1506,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is ?.
+>
+> - LXY The coding of *Achoania* is from 1 to 0.
 
 116. Position of anterior nostril: (0) facial; (1) at oral margin.
 
@@ -1732,6 +1750,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 > - The coding of *Meeksiella* is 1.
+>
+> - LXY The coding of *Psarolepis* and *Achoania* are from ? to  1.
 
 135. Condition of parietals/preorbitals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
@@ -1744,6 +1764,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is 1.
+>
+> -  LXY The coding of *Psarolepis* and *Achoania* are from ? to 2.
 
 136. Parietals (preorbitals of placoderms) surround pineal foramen or eminence: (0) yes; (1) no.
 
@@ -1756,6 +1778,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Meeksiella* is 1.
+>
+> -  LXY The coding of *Achoania* is from ? to 0.
 
 137. Postparietals (centrals of placoderms): (0) absent; (1) present.
 
@@ -1768,6 +1792,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 > - The coding of *Meeksiella* is 1.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 138. Condition of postparietals/centrals: (0) do not meet in midline; (1) meet in midline; (2) single midline bone.
 
@@ -1780,6 +1806,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 > - The coding of *Meeksiella* is 0.
+>
+> - LXY The coding of *Achoania* is from ? to 2.
 
 139. Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans): (0) straight; (1) sinusoidal.
 
@@ -1914,6 +1942,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is 1. 
 
 > - The coding of *Meeksiella* is 1.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 150. Lateral plate: (0) absent; (1) present.
 
@@ -2004,6 +2034,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 157. Westoll-lines: (0) absent; (1) present.
 
@@ -2040,6 +2072,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is 0.
 
 > - The coding of *Meeksiella* is 0.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 160. Position of anterior pit-line: (0) on paired median skull roofing bones over the otico-occipital division of braincase; (1) on paired median skull roofing bones over the sphenoid division of braincase.
 
@@ -2052,6 +2086,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is -.
 
 > - The coding of *Meeksiella* is -.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 161. Middle and posterior pit-lines on postparietal: (0) posteriorly situated; (1) mesially situated.
 
@@ -2064,6 +2100,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Meeksiella* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 162. Position of middle and posterior pit lines: (0) close to midline; (1) near the central portion of each postparietal.
 
@@ -2076,6 +2114,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Meeksiella* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 163. Junction of posterior pitline and main lateral line: (0) far in front of posterior margin of skull roof; (1) close to posterior margin of skull roof.
 
@@ -2383,6 +2423,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is 0.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 186. Branching end of lateral transverse canals: (0) absent; (1) present.
 
@@ -3661,6 +3703,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is -.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 289. Dentition on coronoids (*sensu lato*): (0) broad marginal 'tooth ﬁeld'; (1) narrow or single marginal tooth row.
 
@@ -3675,6 +3719,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Meeksiella* is -.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 290. Posterior coronoid: (0) similar to anterior coronoids; (1) forms expanded coronoid process.
 
@@ -5115,6 +5161,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is 0.
 
 > - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 426. Subpituitary fenestra: (0) absent; (1) present.
 
@@ -5256,7 +5304,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* and *Psarolepis* are from ? to 1.
 
 440. Pituitary vein canal: (0) discontinuous, enters the cranial cavity; (1) discontinuous, enters hypophysial recess; (2) continuous transverse vein.
 
@@ -5307,6 +5357,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is 1.
 
 > - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 444. Articulation facet with hyomandibular: (0) single-headed; (1) double-headed.
 
@@ -5316,7 +5368,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 445. Position of hyomandibula articulation relative to structure of skeletal labyrinth: (0) anterior or lateral to skeletal labyrinth; (1) at level of posterior semicircular canal.
      
@@ -5327,6 +5381,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 446. Hyomandibula articulates with neurocranium beneath otic shelf: (0) absent; (1) present.
 
@@ -5356,7 +5412,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 449. Hyomandibular facets where they straddle the jugular vein: (0) narrowly separated; (1) widely separated.
 
@@ -5407,6 +5465,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Meemannia*_like fish is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 454. External (horizontal) semicircular canal: (0) absent; (1) present.
 
@@ -5688,7 +5748,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is 0.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 482. Shape of posterior dorsal fontanelle: (0) approximately as long as broad; (1) much longer than wide, slot-shaped.
 
@@ -5698,7 +5760,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 0.
 
 483. Posterior dorsal fontanelle: (0) connected to persistent otico-occipital fissure; (1) separated from the fissure by posterior tectum.
 
@@ -5708,7 +5772,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 > - The coding of *Meemannia*_like fish is ?.
 
-> - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Yipetalichthys* is ?.
+>
+> - LXY The coding of *Achoania* is from ? to 1.
 
 484. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal: (0) traverses jugular canal, with separate exit in otic region; (1) intersects jugular canal, with exit through posterior jugular foramen.
 
