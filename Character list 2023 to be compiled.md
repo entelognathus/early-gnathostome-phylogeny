@@ -3336,9 +3336,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 259. Maxilla *sensu stricto* (posterior upper gnathal plate lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
-> Coates *et al*. (2018), Character 93; Zhu Y. *et al*. (2022), Character 263, in part; Andreev *et al*. (2022), Character 245 (**states are reversed**). Cui *et al*. (2023), Character 263.
+> Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part; Andreev *et al*. (2022), Character 245 (**states are reversed**). Cui *et al*. (2023), Character 263.
 
-> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
+> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of  Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
 
 > - The coding of *Eosteus* is ?, as we are not sure whether the palatal lamina is present. The coding of *Megamastax amblyodus* is 1.
 
@@ -7928,9 +7928,9 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
-> Zhu Y. *et al*. (2022), Character 263, in part.
+> Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
+> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
