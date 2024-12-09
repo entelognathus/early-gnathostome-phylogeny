@@ -631,9 +631,11 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Yipetalichthys* is ?. 
 
-46. Posterior ledge (or secondary keel) of scale: (0) absent; (1) weak; (2) developed.
+46. Posterior ledge (or second keel) of scale: (0) absent; (1) weak; (2) developed.
 
-> Cui *et al*. (2019), Character 344; Zhu Y. *et al*. (2022), Character 47. Cui *et al*. (2023), Character 47.
+> Schultze (1968); Cui *et al*. (2019), Character 344; Zhu Y. *et al*. (2022), Character 47. Cui *et al*. (2023), Character 47.
+
+> - The posterior ledge is also termed the second keel (k’, zweiter ‘Kiel’, Schultze, 1968), representing the ridge along the posterior edge of the scale base (Qu et al. 2013; Cui et al. 2019). The posterior ledge is well demonstrated in the *Psarolepis* and *Guiyu* scales (Qu et al. 2013, fig.1; Cui et al. 2019, fig.2).
 
 > - The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972). The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972).
 
