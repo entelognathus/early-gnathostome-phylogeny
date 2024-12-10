@@ -1,4 +1,4 @@
-## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 697-710 from Brazeau *et al*. (2023).
+## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu.*et al*. (in review) and Zhu Y.*et al*. (in review); 697-709 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
@@ -7928,7 +7928,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
-> Zhu *et al*. (2016), Character 333, in part; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
+> Zhu *et al*. (2016), Character 333, in part; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part; Lu *et al*. (in review), Character 690; Zhu Y. *et al*. (in review), Character 690.
 
 > - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Zhu *et al*. (2016), Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690).
 
@@ -7940,6 +7940,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
+> Lu *et al*. (in review), Character 691; Zhu Y. *et al*. (in review), Character 691.
+
 > - New character, see comments on Character 286.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
@@ -7949,6 +7951,8 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?.
 
 692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
+
+> Lu *et al*. (in review), Character 692; Zhu Y. *et al*. (in review), Character 692.
 
 > - New character. This upper jaw character corresponds to Character 286 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
 
@@ -7961,6 +7965,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?.
 
 693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
+> Lu *et al*. (in review), Character 693; Zhu Y. *et al*. (in review), Character 693.
 
 > - New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
 
@@ -7971,6 +7976,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?.
 
 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
+> Lu *et al*. (in review), Character 694; Zhu Y. *et al*. (in review), Character 694.
 
 > - New character. This character is relative to Character 20 "Resorption and redeposition of odontodes of dermal plates". The conditions of odontodes of dermal bones and body scales may be different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
 
@@ -7984,7 +7990,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 695. Buried odontodes of body scales: (0) absent, (1) present.
 
-> Andreev *et al*. (2022), Character 17;
+> Andreev *et al*. (2022), Character 17; Lu *et al*. (in review), Character 695; Zhu Y. *et al*. (in review), Character 695.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 
@@ -7995,6 +8001,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is ?.
 
 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
+> Lu *et al*. (in review), Character 696; Zhu Y. *et al*. (in review), Character 696.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 
@@ -8007,7 +8014,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 ## Included in Brazeau et al. (2023)
 697. Laminar basal layer: (0) absent; (1) present.
 
-> Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7.
+> Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7; Lu *et al*. (in review), Character 697; Zhu Y. *et al*. (in review), Character 697.
 
 > - This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
 
@@ -8023,7 +8030,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 698. Cancellous central layerr: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 8.
+> Brazeau *et al*. (2023), Character 8; Lu *et al*. (in review), Character 698; Zhu Y. *et al*. (in review), Character 698.
 
 > - See comments above.  
 
@@ -8037,7 +8044,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 699. Dentinous external layer: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 9.
+> Brazeau *et al*. (2023), Character 9; Lu *et al*. (in review), Character 699; Zhu Y. *et al*. (in review), Character 699.
 
 > - See comments above.
 
@@ -8049,7 +8056,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
-> Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160.
+> Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160; Lu *et al*. (in review), Character 700; Zhu Y. *et al*. (in review), Character 700.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
@@ -8059,7 +8066,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 180.
+> Brazeau *et al*. (2023), Character 180; Lu *et al*. (in review), Character 701; Zhu Y. *et al*. (in review), Character 701.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -8071,7 +8078,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
-> Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Andreev *et al*. (2022), **Characters 36 and 37**; Brazeau *et al*. (2023), Character 211.
+> Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Andreev *et al*. (2022), **Characters 36 and 37**; Brazeau *et al*. (2023), Character 211; Lu *et al*. (in review), Character 702; Zhu Y. *et al*. (in review), Character 702.
 
 > - Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 
@@ -8083,7 +8090,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 703. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
-> King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260.
+> King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260; Lu *et al*. (in review), Character 703; Zhu Y. *et al*. (in review), Character 703.
 
 > - Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
 
@@ -8097,7 +8104,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 263.
+> Brazeau *et al*. (2023), Character 263; Lu *et al*. (in review), Character 704; Zhu Y. *et al*. (in review), Character 704.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
@@ -8107,7 +8114,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
 
-> King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270.
+> King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270; Lu *et al*. (in review), Character 705; Zhu Y. *et al*. (in review), Character 705.
 
 > - The coding of *Eosteus* is 0, same to actinopterygians and Onychodus. Note that the previous definition is reversed to be consistent with the matrix. The coding of *Megamastax amblyodus* is 0.
 
@@ -8117,7 +8124,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
-> King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271.
+> King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271; Lu *et al*. (in review), Character 706; Zhu Y. *et al*. (in review), Character 706.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -8127,7 +8134,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
-> Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 303.
+> Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 303; Lu *et al*. (in review), Character 707; Zhu Y. *et al*. (in review), Character 707.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -8137,7 +8144,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
-> Brazeau *et al*. (2023), Character 316.
+> Brazeau *et al*. (2023), Character 316; Lu *et al*. (in review), Character 708; Zhu Y. *et al*. (in review), Character 708.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -8147,7 +8154,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 
 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
-> King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502
+> King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502; Lu *et al*. (in review), Character 709; Zhu Y. *et al*. (in review), Character 709.
 
 > - Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
 
@@ -8158,7 +8165,7 @@ Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
 710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
-> Gardiner (1989) Node A character 18 
+> Gardiner (1989), Node A, Character 18; Lu *et al*. (in review), Character 710; Zhu Y. *et al*. (in review), Character 710. 
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
