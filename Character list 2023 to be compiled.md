@@ -242,7 +242,7 @@ The coding of *Ctenurella* is -.
 
 > - The coding of *Yipetalichthys* is 0.
 >   
-> - LXY The coding of *Guiyu* is 1.
+> - LXY The coding of *Guiyu* is 1. **Why? Evidence?**
 
 14. Enamel: (0) single-layered; (1) multi-layered.
 
@@ -276,7 +276,7 @@ The coding of *Ctenurella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 >   
-> - LXY The coding of *Achoania* is 1.
+> - LXY The coding of *Achoania* is 1. **showing evidence**
 
 17. Cap of enameloid restricted to upper part of teeth (acrodin): (0) absent; (1) present.
 
