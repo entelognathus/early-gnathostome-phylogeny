@@ -60,11 +60,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is 0. 
 
 > - The coding of *Rhynchodus* is 0.
-> - The coding of *Meeksiella* is 0.
-> - The coding of *Ptyctodopsis* is 0.
-> - The coding of *Chelyophorus* is 0.
-> - The coding of *Kimbryanodus* is 0.
-> - The coding of *Ctenurella* is 0.
+The coding of *Meeksiella* is 0.
+The coding of *Ptyctodopsis* is 0.
+The coding of *Chelyophorus* is 0.
+The coding of *Kimbryanodus* is 0.
+The coding of *Ctenurella* is 0.
 
 4.  Perichondral bone: (0) present; (1) absent.
 
@@ -79,11 +79,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is 0.
 
 > - The coding of *Rhynchodus* is 0.
-> - The coding of *Meeksiella* is 0.
-> - The coding of *Ptyctodopsis* is 0.
-> - The coding of *Chelyophorus* is 0.
-> - The coding of *Kimbryanodus* is 0.
-> - The coding of *Ctenurella* is 0.
+The coding of *Meeksiella* is 0.
+The coding of *Ptyctodopsis* is 0.
+The coding of *Chelyophorus* is 0.
+The coding of *Kimbryanodus* is 0.
+The coding of *Ctenurella* is 0.
 
 5.  Extensive endochondral ossification: (0) absent; (1) present.
 
@@ -98,11 +98,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is 1.
 
 > - The coding of *Rhynchodus* is 0.
-> - The coding of *Meeksiella* is 0.
-> - The coding of *Ptyctodopsis* is 0.
-> - The coding of *Chelyophorus* is 0.
-> - The coding of *Kimbryanodus* is 0.
-> - The coding of *Ctenurella* is 0.
+The coding of *Meeksiella* is 0.
+The coding of *Ptyctodopsis* is 0.
+The coding of *Chelyophorus* is 0.
+The coding of *Kimbryanodus* is 0.
+The coding of *Ctenurella* is 0.
 
 6.  Three-layered exoskeleton: (0) absent; (1) present.
 
@@ -119,11 +119,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?. 
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 
 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 
@@ -136,11 +136,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 >   
 > - LXY The coding of *Achoania* is from ? to 0.
 
@@ -155,11 +155,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 
 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 
@@ -174,11 +174,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is 0.
 
 > - The coding of *Rhynchodus* is 0.
-> - The coding of *Meeksiella* is 0.
-> - The coding of *Ptyctodopsis* is 0.
-> - The coding of *Chelyophorus* is 0.
-> - The coding of *Kimbryanodus* is 0.
-> - The coding of *Ctenurella* is 0.
+The coding of *Meeksiella* is 0.
+The coding of *Ptyctodopsis* is 0.
+The coding of *Chelyophorus* is 0.
+The coding of *Kimbryanodus* is 0.
+The coding of *Ctenurella* is 0.
 
 10. Dentinous tissue: (0) absent; (1) present.
 
@@ -191,11 +191,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 
 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
 
@@ -210,11 +210,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 
 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 
@@ -227,11 +227,11 @@ The coding of *Ctenurella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is ?.
-> - The coding of *Meeksiella* is ?.
-> - The coding of *Ptyctodopsis* is ?.
-> - The coding of *Chelyophorus* is ?.
-> - The coding of *Kimbryanodus* is ?.
-> - The coding of *Ctenurella* is ?.
+The coding of *Meeksiella* is ?.
+The coding of *Ptyctodopsis* is ?.
+The coding of *Chelyophorus* is ?.
+The coding of *Kimbryanodus* is ?.
+The coding of *Ctenurella* is ?.
 
 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 
