@@ -21,11 +21,11 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 > - The coding of *Rhynchodus* is 0.
-> - The coding of *Meeksiella* is 0.
-> - The coding of *Ptyctodopsis* is 0.
-> - The coding of *Chelyophorus* is 0.
-> - The coding of *Kimbryanodus* is 0.
-> - The coding of *Ctenurella* is 0.
+The coding of *Meeksiella* is 0.
+The coding of *Ptyctodopsis* is 0.
+The coding of *Chelyophorus* is 0.
+The coding of *Kimbryanodus* is 0.
+The coding of *Ctenurella* is 0.
 
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
