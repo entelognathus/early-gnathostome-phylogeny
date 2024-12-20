@@ -1,12 +1,15 @@
 ## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu *et al*. (in review) and Zhu Y.*et al*. (in review); 697-709 from Brazeau *et al*. (2023).
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
+>
+> # 谁抽时间将本文件后面的reference编一下，这在各位今后的SI中都会用到？看看谁能主动去做点事情。这是我们团队当前面临的一个主要问题，很多人都喜欢现成的，但只有去做，才能发现问题。其他几个Github项目中有同样的问题。
 
 ## Skeletal tissues
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
 
-> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Andreev *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1; Cui *et al*. (2023), Character 1; Lu *et al*. (in review), Character 1; Zhu Y.*et al*. (in review), Character 1.
+> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Andreev *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1; Cui *et al*. (2023), Character 1; Lu *et al*. (in review), Character 1; Zhu Y. *et al*. 
+ (in review), Character 1.
 
 > - Maisey *et al*. (2021): “The globular calcified cartilage reported in Silurian sinacanthids and the so-called subtessellated perichondral biomineralization (with irregular and ill-defined geometries of
 a layer or layers of calcified cartilage blocks) of certain extinct “acanthodians” (e.g., *Climatius*, *Ischnacanthus*, *Cheiracanthus*) could represent evolutionary precursors of TCC...The main feature shared by
@@ -30,6 +33,7 @@ The coding of *Ctenurella* is 0.
 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Andreev *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2; Cui *et al*. (2023), Character 2; Lu *et al*. (in review), Character 2; Zhu Y.*et al*. (in review), Character 2.
+
 
 > - This type of cartilage calcification is widely considered a chondrichthyan synapomorphy (Schaeffer, 1981). It is manifest as a tessellated sub-perichondral surface of the endoskeleton (Brazeau, 2009).
 
@@ -68,6 +72,7 @@ The coding of *Ctenurella* is 0.
 4.  Perichondral bone: (0) present; (1) absent.
 
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Andreev *et al*. (2022), Character 3; Brazeau *et al*. (2023), Character 3; Cui *et al*. (2023), Character 4; Lu *et al*. (in review), Character 4; Zhu Y.*et al*. (in review), Character 4.
+
 
 > The absence of perichondral bone has been thought to define chondrichthyans, but may occasionally appear in some chondrichthyans (Brazeau, 2009).
 
@@ -140,7 +145,7 @@ The coding of *Ptyctodopsis* is ?.
 The coding of *Chelyophorus* is ?.
 The coding of *Kimbryanodus* is ?.
 The coding of *Ctenurella* is ?.
-   
+
 > - LXY The coding of *Achoania* is from ? to 0.
 
 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
