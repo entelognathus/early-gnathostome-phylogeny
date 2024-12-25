@@ -3338,9 +3338,7 @@ The coding of *Meeksiella* is ?.
 
 277. Ascending process of parasphenoid: (0) absent; (1) present.
 
-> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Andreev *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 136; Lu *et al*. (in review), Character 277; Zhu Y.*et al*. (in review), Character 277.
-
-Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa (2001), Character 52; Zhu and Schultze (2001), Character 125; Cloutier and Arratia (2004), Character 123; Zhu et al. (2006), Character 70. Cui *et al*. (2023), Character 281.
+> Zhu  *et al*. (2009, Character 67), and references therein; Zhu *et al*. (2013), Character 239; Giles *et al*. (2015), Character 113; Choo *et al*. (2017), Character 154; King *et al*. (2017), Character 132; Castiello (2018), Character 131; Zhu Y. *et al*. (2022), Character 281; Andreev *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 136; Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze and Cumbaa (2001), Character 52; Zhu and Schultze (2001), Character 125; Cloutier and Arratia (2004), Character 123; Zhu et al. (2006), Character 70. Cui *et al*. (2023), Character 281; Lu *et al*. (in review), Character 277; Zhu Y.*et al*. (in review), Character 277.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
@@ -7677,7 +7675,7 @@ The coding of *Meeksiella* is -.
 
 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
-> Cui *et al*. (2023), Character 694; Lu *et al*. (in review), Character 689; Zhu Y.*et al*. (in review), Character 689; Lu *et al*. (in review), Character 689; Zhu Y.*et al*. (in review), Character 689.
+> Cui *et al*. (2023), Character 694; Lu *et al*. (in review), Character 689; Zhu Y.*et al*. (in review), Character 689.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
@@ -8176,8 +8174,164 @@ A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin
 
 **References**
 
-> Maisey, J. G., J. S. S. Denton, C. Burrow, and A. Pradel. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98: 919-41.
+
+Coates and Sequeira (1999); Davis (2002); Gardiner (1989); Zhu & Yu (2001); These four references are not found. King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
+
+> Ahlberg, P. and Johanson, Z. 1998. 'Osteolepiforms and the ancestry of tetrapods', Nature, 395: 792-794.
+
+> Andreev, P. S., Sansom, I. J., Li, Q., Zhao, W. J., Wang, J. H., Wang, C. C., Peng, L. J., Jia, L. T., Qiao, T. and Zhu, M. 2022. 'Spiny chondrichthyan from the lower Silurian of South China', Nature, 609: 969-974.
+
+> Brazeau, M. D. 2009. 'The braincase and jaws of a Devonian ‘acanthodian’ and modern gnathostome origins', Nature, 457: 305-308. 
+
+> Brazeau, M. D., Castiello, M., El Fassi El Fehri, A., Hamilton, L., O. Ivanov, A., Johanson, Z. and Friedman, M. 2023. 'Fossil evidence for a pharyngeal origin of the vertebrate pectoral girdle', Nature, 623: 550-554.
+
+> Burrow, C. J. and Turner, S. 2010. 'Reassessment of "Protodus" scoticus from the Early Devonian of Scotland', Morphology, Phylogeny and Paleobiogeography of Fossil Fishes, 123-144. 
+
+> Burrow, C. J., Newman, M. J., Davidson, R. G. and Den Blaauwen, J. L. 2011. 'Sclerotic plates or circumorbital bones in early jawed fishes', Palaeontology, 54(1): 207-214.
+
+> Castiello, M. 2018. 'Neurocranial anatomy of three unusual placoderms revealed by computed tomography scanning, and their implications for early gnathostomes evolution', Ph.D. dissertation Thesis, Imperial College London.
+
+> Choo, B., Zhu, M., Qu, Q. M., Yu, X. B., Jia, L. T. and Zhao, W. J. 2017. 'A new osteichthyan from the late Silurian of Yunnan, China', PLoS One, 12: e0170929.
+
+> Clement, A. M., King, B., Giles, S., Choo, B., Ahlberg, P. E., Young, G. C. and Long, J. A. 2018. 'Neurocranial anatomy of an enigmatic Early Devonian fish sheds light on early osteichthyan evolution', eLife, 7: e34349.
+
+> Cloutier, R. and Arratia, G. 2004. 'Early diversification of actinopterygians. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates', Verlag Dr. Friedrich Pfeil, München, 217-270.
+
+> Cloutier, Richard and Ahlberg, P. E. 1996. 'Morphology, Characters, and the Interrelationships of Basal Sarcopterygians', Interrelationships of Fishes, 17.
+
+> Coates, M. I. 1998. 'Actinopterygians from the Namurian of Bearsden, Scotland, with comments on early actinopterygian neurocrania', Zoological Journal of the Linnean Society, 122: 27-59
+
+> Coates, M. I. 1999. 'Endocranial preservation of a Carboniferous actinopterygian from Lancashire, U.K., and the interrelationships of primitive actinopterygians', Philosophical Transactions of the Royal
+
+> Society of London, Series B, 354: 435-462. 
+
+> Coates, M. I. and Sequeira, S. E. K. 1998. 'The braincase of a primitive shark', Earth Environ. Sci. Trans. R. Soc. Edinb, 89: 63-85.
+
+> Coates, M. I. and Sequeira, S. E. K. 2001. 'A new stethacanthid chondrichthyan from the Lower Carboniferous of Bearsden, Scotland', J. Vertebr. Paleontol, 21: 438-459.
+
+> Coates, M. I., and Sequeira, S. E. K. 2001. 'Early sharks and primitive gnathostome interrelationships', In P. E. Ahlberg (Ed.), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development, 241-262. 
+
+> Coates, M. I., Finarelli, J. A., Sansom, I. J., Andreev, P. S., Criswell, K. E., Tietjen, K., Rivers, M. L. and La Riviere, P. J. 2018. 'An early chondrichthyan and the evolutionary assembly of a shark body plan', Proc. R. Soc. B, 285: 20172418.
+
+> Coates, M. I., Gess, R. W., Finarelli, J. A., Criswell, K. E. and Tietjen, K. 2017. 'A symmoriiform chondrichthyan braincase and the origin of chimaeroid fishes', Nature, 541: 208-211.
+
+> Cui, X. D, Qiao, T. and Zhu, M. 2019. 'Scale morphology and squamation pattern of *Guiyu oneiros* provide new insights into early osteichthyan body plan', Scientific Reports, 9(1): 4411.
+
+> Cui, X. D., Friedman, M., Yu, Y. L., Zhu, Y. A. and Zhu, M. 2023. 'Bony-fish-like scales in a Silurian maxillate placoderm', Nature Communications, 14(1): 7622. 
+
+> Davis, S. P., Finarelli, J. A. and Coates, M. I., 2012. '*Acanthodes* and shark-like conditions in the last common ancestor of modern gnathostomes', Nature, 486: 247-250.
+
+> Davis, S. P., Finarelli, J. A. and Coates, M. I., 2012. '*Acanthodes* and shark-like conditions in the last common ancestor of modern gnathostomes', Nature, 486: 247-250.
+
+> Dearden, R. P., Stockey, C. and Brazeau, M. D., 2019. 'The pharynx of the stem-chondrichthyan Ptomacanthus and the early evolution of the gnathostome gill skeleton', Nature Communications, 10: 2050.
+
+> Dennis, K. and Miles, R. S. 1981. 'A pachyosteomorph arthrodire from Gogo, Western Australia', Zool. J. Linn. Soc, 73: 213-258.
+
+> Dietze, K. 2000. 'A revision of paramblypterid and amblypterid actinopterygians from Upper Carboniferous-Lower Permian lacustrine deposits of Central Europe', Palaeontology, 43(5): 927-966. 
+
+> Donoghue, P. C. J. and Aldridge, R. J. (2001. 'Origin of a mineralised skeleton', In P. Ahlberg (Ed.), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development, 85-105.
+
+> Donoghue, P. C. J., Forey, P. L. and Aldridge, R. J. 2000. 'Conodont affinity and chordate phylogeny', Biological Reviews, 75: 191-251.
+
+> Dupret, V., Sanchez, S., Goujet, D., Tafforeau, P. and Ahlberg, P. E. 2014. 'A primitive placoderm sheds light on the origin of the jawed vertebrate face', Nature, 507: 500-503.
+
+> Forey, P. L. 1980. 'Latimeria: a paradoxical fish', Proceedings of the Royal Society of London Series B-Biological Sciences, 208: 369-384. 
+
+> Friedman, M. 2007. '*Styloichthys*' as the oldest coelacanth: implications for early osteichthyan interrelationships', Journal of Systematic Palaeontology, 5(3): 289-343.
+
+> Gardiner, B. G. 1984. 'The relationships of the palaeoniscid fishes, a review based on new specimens of *Mimia* and *Moythomasia* from the Upper Devonian of Western Australia', Bull. Br. Mus. Nat. Hist. Geol. Suppl, 37: 173-428.
+
+> Gardiner, B. G., and Schaeffer, B. 1989. 'Interrelationships of lower actinopterygian fishes', Zoological Journal of the Linnean Society, 97: 135-187. 
+
+> Giles, S., Friedman, M. and Brazeau, M.D. 2015. 'Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome', Nature, 520: 82-85.
+
+> Giles, S., Rücklin, M. and Donoghue, P. C. J. 2013. 'Histology of “placoderm” dermal skeletons: Implications for the nature of the ancestral gnathostome', J. Morphol, 274: 627-644.
+
+> Goujet, D. F. and Young, G. C. 1995. 'Interrelationships of placoderms revisited', Geobios Mémoire Spécial, 19: 89-95.
+
+> Hanke, G. F. and Wilson, M. V. H. 2004. 'New teleostome fishes and acanthodian systematics. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates', Verlag Dr. Friedrich Pfeil, München, 189-216.
+
+> Janvier, P. 1996. 'The dawn of the vertebrates: characters versus common ascent in the rise of current vertebrate phylogenies', Palaeontology, 39(2): 259-287. 
+
+> Keating, J. N. and Donoghue, P. C. 2016. 'Histology and affinity of anaspids, and the early evolution of the vertebrate dermal skeleton', Proceedings of the Royal Society B: Biological Sciences, 283: 20152917.
+
+> King, B., Qiao, T., Lee, M. S. Y., Zhu, M. and Long, J. A. 2017. 'Bayesian morphological clock methods resurrect placoderm monophyly and reveal rapid early evolution in jawed vertebrates', Systematic Biology, 66: 599-516.
+
+> Long, J. A., Barwick, R. E. and Campell, K. S. 1997. 'Osteology and functional morphology of the osteolepiform fish *Gogonasus andrewsae* Long, 1985, from the Upper Devonian Gogo Formation, Western Australia', Rec. West. Aust. Mus, Suppl. 53: 1-89.
+
+> Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S., Young, G. C., Zhu, M., Ahlberg, P. E., Newman, M., Jones, R., Blaauwen, J. D., Choo, B. and Trinajstic, K. 2015. 'Copulation in antiarch placoderms and the origin of gnathostome internal fertilization', Nature, 517: 196-199.
+
+> Lu, J., Choo, B., Zhao, W. J., Zhu, Y. A., Cui, X. D., Pan Z. H., Chen, D. L., Liu, X. Y., Yu, Y. L., Qiao, T., Li, Q., Jia, L. T., Ahlberg, P. and Zhu, M. 'Assembly of the osteichthyan body plan illuminated by the Silurian fossil fish *Megamastax*', Nature. in review.
+
+> Lu, J., Giles, S., Friedman, M., den Blaauwen, J. L. and Zhu, M. 2016. 'The oldest actinopterygian highlights the cryptic early history of the hyperdiverse ray-finned fishes', Current Biology, 26(12): 1602-1608.
+
+> Lu, J., Giles, S., Friedman, M. and Zhu, M. 2017. 'A new stem sarcopterygian illuminates patterns of character evolution in early bony fishes', Nature Communications, 8: 1932.
+
+> Lu, J., Zhu, M., Ahlberg, P. E., Qiao, T., Zhu, Y. A., Zhao, W. J. and Jia, L. T. 2016. 'A Devonian predatory fish provides insights into the early evolution of modern sarcopterygians', Science. Advance, 2: e1600154.
+
+> Lu, J., Zhu, M., Long, J. A., Zhao, W.-J., Senden, T. J., Jia, L. T. and Qiao, T. 2012. 'The earliest known stem-tetrapod from the Lower Devonian of China', Nature Communications, 3: 1160.
+
+> Maisey, J. G. 1986. 'Heads and tails: a chordate phylogeny', Cladistics, 2(3):201-256. 
+
+> Maisey, J. G. 2001. 'Remarks on the inner ear of elasmobranchs and its interpretation from skeletal labyrinth morphology', J. Morphol, 250: 236-264.
+
+> Maisey, J. G., Denton, J. S. S., Burrow, C. J and Pradel, A. 2021. 'Architectural and ultrastructural features of tessellated calcified cartilage in modern and extinct chondrichthyan fishes', J Fish Biol, 98(4): 919-941. 
+
+> Maisey, J. G., Miller, R. and Turner, S. 2009. 'The braincase of the chondrichthyan *Doliodus* from the Lower Devonian Campbellton Formation of New Brunswick, Canada', Acta Zool, 90: 109-122.
+
+> Miles, R. S. 1973b. 'Relationships of acanthodians. In: P. H. Greenwood, R. S. Miles and C. Patterson (Editors), Interrelationships of Fishes', Academic Press, London, 63-103.
+
+> Miles, R. S., and Dennis, K. 1979. 'A primitive eubrachythoracid arthrodire from Gogo, Western Australia', Zoological Journal of the Linnean Society, 66: 31-62.
+
+> Patterson, C. 1982. 'Morphological characters and homology', In K. S. Joysey & A. E. Friday (Eds.), Problems of Phylogenetic Reconstruction, 20-74.
+
+> Pradel, A., Maisey, J. G., Tafforeau, P., Mapes, R. H. and Mallatt, J. 2014. 'A Palaeozoic shark with osteichthyan-like branchial arches', Nature, 509: 608-611.
+
+> Pradel, A., Tafforeau, P., Maisey, J. G. and Janvier, P. 2011. 'A new Paleozoic Symmoriiformes (Chondrichthyes) from the Late Carboniferous of Kansas (USA) and cladistic analysis of early chondrichthyans', PLoS One, 6: e24938.
+
+> Rosen, D. E., Forey, P. L., Gardiner, B. G. and Patterson, C. 1981. 'Lungfishes, tetrapods, paleontology, and plesiomorphy', Bulletin of the American Museum of Natural History, 167: 159-276. 
+
+> Schaeffer, B. 1981. 'The xenacanth shark neurocranium, with comments on elasmobranch monophyly', Bull. Am. Mus. Nat, 169: 1-66.
+
+> Schultze, H.-P. 1968. 'Palaeoniscoidea-schuppen aus dem Unterdevon Australiens und Kansas und aus dem Mitteldevon Spitzbergens', Bull. Br. Mus. Nat. Hist. Geol, 16: 343-368.
+
+> Schultze, H.-P. and Cumbaa, S. L. 2001. '*Dialipina* and the characters of basal actinopterygians', In: P. E. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor & Francis, London, 315-332.
 
 > Trinajstic, K., Long, J.A., Ivanov, A.O. and Mark-Kurik, E. 2019. 'A new genus of ptyctodont (Placodermi) from the Late Devonian of Baltic area', Palaeontol. Electronica, 22: 1-19.
 
+> Young, G. C. 1978. 'A new Early Devonian petalichthyid fish from the Taemas/Wee Jasper region of New South Wales', Alcheringa, 2: 103-116. 
+
+> Young, G. C. 1980. 'A new Early Devonian placoderm from New South Wales, Australia, with a discussion of placoderm phylogeny', Palaeontogra. Abt. A, 167: 10-76.
+
+> Young, G. C. 1986. 'The relationships of placoderm fishes', Zool. J. Linn. Soc, 88: 1-57.
+
+> Young, G. C. 2010. 'Placoderms (armored fish): dominant vertebrates of the Devonian period', Annual Review of Earth and Planetary Sciences, 38(1): 523-550.
+
+> Zhu, M. and Ahlberg, P. E. 2004. 'The origin of the internal nostril of tetrapods', Nature, 432: 94-97.
+
+> Zhu, M. and Yu, X. B. 2002. 'A primitive fish close to the common ancestor of tetrapods and lungfish', Nature, 418: 767-770.
+
+> Zhu, M., Ahlberg, P. E., Pan, Z. H., Zhu, Y. A., Qiao, T., Zhao, W. J., Jia, L. T. and Lu, J. 2016. 'A Silurian maxillate placoderm illuminates jaw evolution', Science, 354: 334-336.
+
+> Zhu, M. and Schultze, H. P. 2001. 'Interrelationships of basal osteichthyans', In P. Ahlberg (Ed.), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development, 289-314.
+
+> Zhu, M., Yu, X. B. and Ahlberg, P. E. 2001. 'A primitive sarcopterygian fish with an eyestalk', Nature, 410: 81-84.
+
+> Zhu, M., Yu, X. B., Ahlberg, P. E., Choo, B., Lu, J., Qiao, T., Qu, Q. M., Zhao, W. J., Jia, L. T., Blom, H. and Zhu, Y. A. 2013. 'A Silurian placoderm with osteichthyan-like marginal jaw bones', Nature, 502: 188-193.
+
+> Zhu, M., Yu, X. B., Choo, B., Wang, J. Q. and Jia, L. T. 2012. 'An antiarch placoderm shows that pelvic girdles arose at the root of jawed vertebrates', Biol. Lett, 8: 453-456.
+
+> Zhu, M., Yu, X. B., Wang, W., Zhao, W.-J. and Jia, L.-T. 2006. 'A primitive fish provides key characters bearing on deep osteichthyan phylogeny', Nature, 441: 77-80.
+
+> Zhu, M., Zhao, W. J., Jia, L. T., Lu, J., Qiao, T. and Qu, Q. M. 2009. 'The oldest articulated osteichthyan reveals mosaic gnathostome characters', Nature, 458: 469-474.
+
+> Zhu, Y. A., Chen, Y., Li, Q., Zhao, W. J., Zhou, Z. D., Jia, L. T., Yu, Y. L., Yu, H. X., Wei, G. B., Ahlberg, P. E., Lu, J. and Zhu, M. 2022. 'The oldest articulated bony fish from the early Silurian period', Nature, In review.
+
+> Zhu, Y. A., Giles, S., Young, G. C., Hu, Y. Z., Bazzi, M., Ahlberg, P. E., Zhu, M. and Lu, J. 2021. 'Endocast and bony labyrinth of a Devonian "placoderm" challenges stem gnathostome phylogeny', Current. Biology, 31: 1112-1118.
+
+> Zhu, Y. A., Li, Q., Lu, J., Chen, Y., Wang, J. H, Gai, Z. K., Zhao, W. J., Wei, G. B., Yu, Y. L., Ahlberg, P. E. and Zhu, M. 2022. 'The oldest complete jawed vertebrates from the early Silurian of China', Nature, 609(7929): 954-958.
+
 > Zhu, Y. A., Lu, J. and Zhu, M. 2019. 'Reappraisal of the Silurian placoderm *Silurolepis* and insighths into thr dermal neck joint evolution', R. Soc. open sci., 6: 191181.
+
+
+
