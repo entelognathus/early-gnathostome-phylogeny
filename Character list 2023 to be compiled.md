@@ -3863,7 +3863,7 @@ The coding of *Meeksiella* is -.
 
 325. Large otic process of the palatoquadrate: (0) absent; (1) present.
 
-> Coates & Sequeira (2001a); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 46; Choo *et al*. (2017), Character 45; King *et al*. (2017), Character 334; Castiello (2018), Character 326; Zhu Y. *et al*. (2022), Character 329; Andreev *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 339. Cui *et al*. (2023), Character 329; Lu *et al*. (in review), Character 325; Zhu Y.*et al*. (in review), Character 325.
+> Coates & Sequeira (2001a, b); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 46; Choo *et al*. (2017), Character 45; King *et al*. (2017), Character 334; Castiello (2018), Character 326; Zhu Y. *et al*. (2022), Character 329; Andreev *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 339. Cui *et al*. (2023), Character 329; Lu *et al*. (in review), Character 325; Zhu Y.*et al*. (in review), Character 325.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -4323,7 +4323,7 @@ The coding of *Meeksiella* is -.
 
 369. Ventral cranial fissure: (0) absent; (1) present.
 
-> Janvier (1996); Coates & Sequeira (2001); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis *et al*. (2012), Character 96; Giles *et al*. (2015), Character 168; Choo *et al*. (2017), Character 92. King *et al*. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. *et al*. (2022), Character 373; Andreev *et al*. (2022), Character 166; Brazeau *et al*. (2023), Character 58. Cui *et al*. (2023), Character 373; Lu *et al*. (in review), Character 369; Zhu Y.*et al*. (in review), Character 369.
+> Janvier (1996); Coates & Sequeira (2001a, b); Maisey (2001); Davis (2002); Brazeau (2009), Character 92; Davis *et al*. (2012), Character 96; Giles *et al*. (2015), Character 168; Choo *et al*. (2017), Character 92. King *et al*. (2017), Character 54; Castiello (2018), Character 55; Zhu Y. *et al*. (2022), Character 373; Andreev *et al*. (2022), Character 166; Brazeau *et al*. (2023), Character 58. Cui *et al*. (2023), Character 373; Lu *et al*. (in review), Character 369; Zhu Y.*et al*. (in review), Character 369.
 
 > - Davis *et al*. (2012): "Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1."
 
@@ -4439,7 +4439,7 @@ The coding of *Meeksiella* is -.
 
 380. Precerebral fontanelle: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Andreev *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 22. Cui *et al*. (2023), Character 384; Lu *et al*. (in review), Character 380; Zhu Y.*et al*. (in review), Character 380.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001a, b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Andreev *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 22. Cui *et al*. (2023), Character 384; Lu *et al*. (in review), Character 380; Zhu Y.*et al*. (in review), Character 380.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -4649,7 +4649,7 @@ The coding of *Meeksiella* is -.
 
 400. Position of myodome for superior oblique eye muscles: (0) posterior and dorsal to foramen for nerve II; (1) anterior and dorsal to foramen.
 
-> Young (1986); Coates & Sequeira (2001a); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404; Andreev *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 27. Cui *et al*. (2023), Character 404; Lu *et al*. (in review), Character 400; Zhu Y.*et al*. (in review), Character 400.
+> Young (1986); Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404; Andreev *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 27. Cui *et al*. (2023), Character 404; Lu *et al*. (in review), Character 400; Zhu Y.*et al*. (in review), Character 400.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -5093,7 +5093,7 @@ The coding of *Meeksiella* is -.
 
 442. Short otico-occipital region of braincase: (0) absent; (1) present.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Maisey (2001); Brazeau (2009), Character 74; Davis *et al*. (2012), Character 72; Choo *et al*. (2017), Character 71; King *et al*. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. *et al*. (2022), Character 447; Brazeau *et al*. (2023), Character 38. Cui *et al*. (2023), Character 447; Lu *et al*. (in review), Character 442; Zhu Y.*et al*. (in review), Character 442.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001a, b); Maisey (2001); Brazeau (2009), Character 74; Davis *et al*. (2012), Character 72; Choo *et al*. (2017), Character 71; King *et al*. (2017), Character 35; Castiello (2018), Character 35; Zhu Y. *et al*. (2022), Character 447; Brazeau *et al*. (2023), Character 38. Cui *et al*. (2023), Character 447; Lu *et al*. (in review), Character 442; Zhu Y.*et al*. (in review), Character 442.
 
 > - Brazeau (2009): "This character is evaluated on the relative proportions of the sphenethmoid region to the otoccipital region. The position of the anterior wall of the postorbital process in relation to the overall length of the braincase is used to demarcate these proportions."
 
@@ -5107,7 +5107,7 @@ The coding of *Meeksiella* is -.
 
 443. Position of hyomandibula articulation on neurocranium: (0) below or anterior to orbit, on ventrolateral angle of braincase; (1) posterior to orbit.
 
-> Coates & Sequeira (2001); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 95; Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2021), Character 157; Zhu Y. *et al*. (2022), Character 448; Andreev *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 374. Cui *et al*. (2023), Character 448; Lu *et al*. (in review), Character 443; Zhu Y.*et al*. (in review), Character 443.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 95; Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2021), Character 157; Zhu Y. *et al*. (2022), Character 448; Andreev *et al*. (2022), Character 161; Brazeau *et al*. (2023), Character 374. Cui *et al*. (2023), Character 448; Lu *et al*. (in review), Character 443; Zhu Y.*et al*. (in review), Character 443.
 
 > - Davis *et al*. (2012): "State (1) includes articular surfaces on the postorbital process, the lateral commissure, the otic capsule wall and lateral otic process." Coding errors in Choo *et al*. (2017), Character 76; Zhu Y. *et al*. (2022), Character 448.
 
@@ -5363,7 +5363,7 @@ The coding of *Meeksiella* is -.
 
 467. Endolymphatic ducts: (0) posteriodorsally angled tubes; (1) tubes oriented vertically through median endolymphatic fossa.
 
-> Schaeffer (1981); Coates & Sequeira (1998, 2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 92; Choo *et al*. (2017), Character 91; Zhu Y. *et al*. (2022), Character 473; Andreev *et al*. (2022), Character 160; Brazeau *et al*. (2023), Character 57. Cui *et al*. (2023), Character 472; Lu *et al*. (in review), Character 467; Zhu Y.*et al*. (in review), Character 467.
+> Schaeffer (1981); Coates & Sequeira (1998, 2001a, b); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 92; Choo *et al*. (2017), Character 91; Zhu Y. *et al*. (2022), Character 473; Andreev *et al*. (2022), Character 160; Brazeau *et al*. (2023), Character 57. Cui *et al*. (2023), Character 472; Lu *et al*. (in review), Character 467; Zhu Y.*et al*. (in review), Character 467.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -5515,7 +5515,7 @@ The coding of *Meeksiella* is -.
 
 482. Shape of posterior dorsal fontanelle: (0) approximately as long as broad; (1) much longer than wide, slot-shaped.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 90; Choo *et al*. (2017), Character 89. King *et al*. (2017), Character 51; Castiello (2018), Character 51; Zhu Y. *et al*. (2022), Character 488; Andreev *et al*. (2022), Character 156; Brazeau *et al*. (2023), Character 55. Cui *et al*. (2023), Character 487; Lu *et al*. (in review), Character 482; Zhu Y.*et al*. (in review), Character 482.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 90; Choo *et al*. (2017), Character 89. King *et al*. (2017), Character 51; Castiello (2018), Character 51; Zhu Y. *et al*. (2022), Character 488; Andreev *et al*. (2022), Character 156; Brazeau *et al*. (2023), Character 55. Cui *et al*. (2023), Character 487; Lu *et al*. (in review), Character 482; Zhu Y.*et al*. (in review), Character 482.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -5683,7 +5683,7 @@ The coding of *Meeksiella* is -.
 
 497. Shape of median dorsal ridge anterior to endolymphatic fossa: (0) developed as a squared-off ridge or otherwise ungrooved; (1) bears a midline groove.
 
-> Coates & Sequeira (1999), Character 11), Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9; Giles *et al*. (2015), Character 161; Choo *et al*. (2017), Character 301; King *et al*. (2017), Character 83; Castiello (2018), Character 85; Zhu Y. *et al*. (2022), Character 503; Andreev *et al*. (2022), Character 160; Brazeau *et al*. (2023), Character 87. Cui *et al*. (2023), Character 502; Lu *et al*. (in review), Character 497; Zhu Y.*et al*. (in review), Character 497.
+> Coates & Sequeira (1998), Character 11), Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9; Giles *et al*. (2015), Character 161; Choo *et al*. (2017), Character 301; King *et al*. (2017), Character 83; Castiello (2018), Character 85; Zhu Y. *et al*. (2022), Character 503; Andreev *et al*. (2022), Character 160; Brazeau *et al*. (2023), Character 87. Cui *et al*. (2023), Character 502; Lu *et al*. (in review), Character 497; Zhu Y.*et al*. (in review), Character 497.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -6139,7 +6139,7 @@ The coding of *Meeksiella* is -.
 
 541. Glossopharyngeal nerve (N. IX) exit: (0) foramen situated posteroventral to otic capsule and anterior to metotic fissure; (1) through metotic fissure.
 
-> Schaeffer (1981); Coates &Sequeira (1998, 2001); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547; Andreev *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 37. Cui *et al*. (2023), Character 546; Lu *et al*. (in review), Character 541; Zhu Y.*et al*. (in review), Character 541.
+> Schaeffer (1981); Coates &Sequeira (1998, 2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 71; Choo *et al*. (2017), Character 70. King *et al*. (2017), Character 34; Castiello (2018), Character 34; Zhu Y. *et al*. (2022), Character 547; Andreev *et al*. (2022), Character 138; Brazeau *et al*. (2023), Character 37. Cui *et al*. (2023), Character 546; Lu *et al*. (in review), Character 541; Zhu Y.*et al*. (in review), Character 541.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -6877,7 +6877,7 @@ The coding of *Meeksiella* is -.
 
 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Andreev *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 403. Cui *et al*. (2023), Character 618; Lu *et al*. (in review), Character 613; Zhu Y.*et al*. (in review), Character 613.
+> Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Andreev *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 403. Cui *et al*. (2023), Character 618; Lu *et al*. (in review), Character 613; Zhu Y.*et al*. (in review), Character 613.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -6887,7 +6887,7 @@ The coding of *Meeksiella* is -.
 
 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Andreev *et al*. (2022), Character 193; Zhu Y. *et al*. (2022), Character 620. Cui *et al*. (2023), Character 619; Lu *et al*. (in review), Character 614; Zhu Y.*et al*. (in review), Character 614.
+> Coates & Sequeira (2001a, b); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Andreev *et al*. (2022), Character 193; Zhu Y. *et al*. (2022), Character 620. Cui *et al*. (2023), Character 619; Lu *et al*. (in review), Character 614; Zhu Y.*et al*. (in review), Character 614.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -7209,7 +7209,7 @@ The coding of *Meeksiella* is -.
 
 646. Number of dorsal fins, if present: (0) one; (1) two.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Andreev *et al*. (2022), Character 226; Brazeau *et al*. (2023), Character 455. Cui *et al*. (2023), Character 651; Lu *et al*. (in review), Character 646; Zhu Y.*et al*. (in review), Character 646.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Andreev *et al*. (2022), Character 226; Brazeau *et al*. (2023), Character 455. Cui *et al*. (2023), Character 651; Lu *et al*. (in review), Character 646; Zhu Y.*et al*. (in review), Character 646.
 
 > - The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
 
@@ -7289,7 +7289,7 @@ The coding of *Meeksiella* is -.
 
 653. Anal fin: (0) absent; (1) present.
 
-> Coates & Sequeira (2001); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (in review), Character 653; Zhu Y.*et al*. (in review), Character 653.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (in review), Character 653; Zhu Y.*et al*. (in review), Character 653.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
@@ -7962,7 +7962,7 @@ P5. Para-articular process extension angle: (0) nearly parallel to the midline o
 
 D1. Dorsal ridge: (0) absent; (1) present.
 
-> Coates & Sequeira (1998, Character 11; 2001); Maisey (2001); Davis (2002); Davis *et al*. (2012), Character 91; Castiello (2018), Character 52; Brazeau *et al*. (2022), Character 158; Andreev *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
+> Coates & Sequeira (1998, Character 11; 2001a, b); Maisey (2001); Davis (2002); Davis *et al*. (2012), Character 91; Castiello (2018), Character 52; Brazeau *et al*. (2022), Character 158; Andreev *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
 
 > -  Davis *et al*. (2012): "A dorsal ridge is absent in placoderms such *Brindabellaspis* and *Dicksonosteus*, but present in many early chondrichthyans, including *Akmonistion*, *Pucapampella*, *Cobelodus* and
 *Cladodoides*. The primary neurocranial roof of osteichthyans such as *Eusthenopteron* (Jarvik 1980) and *Mimia* (Gardiner 1984, fig. 27: posterior face of otic region) lacks evidence of such a mid-line dorsal ridge concealed beneath the dermal skull table. In the present work, *Acanthodes* is coded as state ‘1’, ridge present (Supplementary Figures 3-5 and 15), whereas in previous studies such a ridge has been interpreted as absent."
@@ -8171,9 +8171,7 @@ A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin
 
 
 **References**
-
-
-Coates and Sequeira (1999); Davis (2002); Gardiner (1989); Zhu & Yu (2001); These four references are not found. King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
+Davis (2002); Gardiner (1989); Zhu & Yu (2001); These four references are not found. King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
 
 > Ahlberg, P. and Johanson, Z. 1998. 'Osteolepiforms and the ancestry of tetrapods', Nature, 395: 792-794.
 
@@ -8205,9 +8203,9 @@ Coates and Sequeira (1999); Davis (2002); Gardiner (1989); Zhu & Yu (2001); Thes
 
 > Coates, M. I. and Sequeira, S. E. K. 1998. 'The braincase of a primitive shark', Earth Environ. Sci. Trans. R. Soc. Edinb, 89: 63-85.
 
-> Coates, M. I. and Sequeira, S. E. K. 2001. 'A new stethacanthid chondrichthyan from the Lower Carboniferous of Bearsden, Scotland', J. Vertebr. Paleontol, 21: 438-459.
+> Coates, M. I. and Sequeira, S. E. K. 2001a. 'A new stethacanthid chondrichthyan from the Lower Carboniferous of Bearsden, Scotland', J. Vertebr. Paleontol, 21: 438-459.
 
-> Coates, M. I., and Sequeira, S. E. K. 2001. 'Early sharks and primitive gnathostome interrelationships', In P. E. Ahlberg (Ed.), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development, 241-262. 
+> Coates, M. I., and Sequeira, S. E. K. 2001b. 'Early sharks and primitive gnathostome interrelationships', In P. E. Ahlberg (Ed.), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development, 241-262. 
 
 > Coates, M. I., Finarelli, J. A., Sansom, I. J., Andreev, P. S., Criswell, K. E., Tietjen, K., Rivers, M. L. and La Riviere, P. J. 2018. 'An early chondrichthyan and the evolutionary assembly of a shark body plan', Proc. R. Soc. B, 285: 20172418.
 
