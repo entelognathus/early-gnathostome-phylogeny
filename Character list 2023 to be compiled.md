@@ -2,12 +2,13 @@
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
+## 晓悦添加了文献，同时也就检查出了一些小错误。这些工作希望大家平时就注意，养成一个好的、严谨工作的习惯，最终会省下很多时间。
+
 ## Skeletal tissues
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
 
-> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Andreev *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1; Cui *et al*. (2023), Character 1; Lu *et al*. (in review), Character 1; Zhu Y. *et al*. 
- (in review), Character 1.
+> Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Andreev *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1; Cui *et al*. (2023), Character 1; Lu *et al*. (in review), Character 1; Zhu Y. *et al*. (in review), Character 1.
 
 > - Maisey *et al*. (2021): “The globular calcified cartilage reported in Silurian sinacanthids and the so-called subtessellated perichondral biomineralization (with irregular and ill-defined geometries of
 a layer or layers of calcified cartilage blocks) of certain extinct “acanthodians” (e.g., *Climatius*, *Ischnacanthus*, *Cheiracanthus*) could represent evolutionary precursors of TCC...The main feature shared by
