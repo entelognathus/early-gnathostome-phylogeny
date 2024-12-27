@@ -6287,7 +6287,7 @@ The coding of *Meeksiella* is -.
 
 555. Dorsal articular lamina on trunk armour: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561; Cui *et al*. (2023), Character 560; Zhu Y. *et al*. (2019), Character 373; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 555; Zhu Y. *et al*. (in review), Character 555.
+> Zhu  Y. *et al*. (2019), Character 3; Zhu Y. *et al*. (2021), Character 356; Zhu Y. *et al*. (2022), Character 561; Cui *et al*. (2023), Character 560; Zhu Y. *et al*. (2019), Character 373; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 555; Zhu Y. *et al*. (in review), Character 555.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -6297,7 +6297,7 @@ The coding of *Meeksiella* is -.
 
 556. Cranial fossa receiving the ventral articular lamina of the trunk: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 556; Zhu Y. *et al*. (in review), Character 556.
+> Zhu  Y. *et al*. (2019), Character 4; Zhu Y. *et al*. (2021), Character 357; Zhu Y. *et al*. (2022), Character 562; Cui *et al*. (2023), Character 561; Zhu Y. *et al*. (2019), Character 374; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 556; Zhu Y. *et al*. (in review), Character 556.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -6307,7 +6307,7 @@ The coding of *Meeksiella* is -.
 
 557. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
 
-> Zhu *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 557; Zhu Y. *et al*. (in review), Character 557.
+> Zhu  Y. *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 557; Zhu Y. *et al*. (in review), Character 557.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -6317,7 +6317,7 @@ The coding of *Meeksiella* is -.
 
 558. Rotatory contact of the articulation: (0) absent; (1) present.
 
-> Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 558; Zhu Y. *et al*. (in review), Character 558.
+> Zhu  Y. *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 558; Zhu Y. *et al*. (in review), Character 558.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -6327,7 +6327,7 @@ The coding of *Meeksiella* is -.
 
 559. Para-articular process of dermal neck joint: (0) absent; (1) present.
 
-> Young (1978); Zhu *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564; Lu *et al*. (in review), Character 559; Zhu Y. *et al*. (in review), Character 559.
+> Young (1978); Zhu  Y. *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564; Lu *et al*. (in review), Character 559; Zhu Y. *et al*. (in review), Character 559.
 
 > - Various formulations have been used to define the character, such as "lateral processes flank the articular fossas medially on the visceral surface of the skull roof" (Zhu Y. et al., 2019b, character 378), "lateral ridges on skull roof laterally defining the articulation". Here we use the original term 'para-articular process of dermal neck joint' (Young, 1978), which denotes the ventral process or ridge flanking the laminar articulation medially on the ventral surface of skull roof, as in petalichthyids. 
 
@@ -8171,7 +8171,7 @@ A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin
 
 
 **References**
-Davis (2002); King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
+Davis (2002)
 
 > Ahlberg, P. and Johanson, Z. 1998. 'Osteolepiforms and the ancestry of tetrapods', Nature, 395: 792-794.
 
@@ -8251,7 +8251,7 @@ Davis (2002); King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. 
 
 > Keating, J. N. and Donoghue, P. C. 2016. 'Histology and affinity of anaspids, and the early evolution of the vertebrate dermal skeleton', Proceedings of the Royal Society B: Biological Sciences, 283: 20152917.
 
-> King, B., Qiao, T., Lee, M. S. Y., Zhu, M. and Long, J. A. 2017. 'Bayesian morphological clock methods resurrect placoderm monophyly and reveal rapid early evolution in jawed vertebrates', Systematic Biology, 66: 599-516.
+> King, B., Qiao, T., Lee, M. S. Y., Zhu, M. and Long, J. A. 2017 (2016 on line). 'Bayesian morphological clock methods resurrect placoderm monophyly and reveal rapid early evolution in jawed vertebrates', Systematic Biology, 66: 599-516. 
 
 > Long, J. A., Barwick, R. E. and Campell, K. S. 1997. 'Osteology and functional morphology of the osteolepiform fish *Gogonasus andrewsae* Long, 1985, from the Upper Devonian Gogo Formation, Western Australia', Rec. West. Aust. Mus, Suppl. 53: 1-89.
 
