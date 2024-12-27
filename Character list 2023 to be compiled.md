@@ -2229,7 +2229,7 @@ The coding of *Meeksiella* is 0.
 
 180. Otic canal extends through postparietals (central): (0) absent; (1) present.
 
-> Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40; Giles *et al*. (2015), Character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Andreev *et al*. (2022), Character 47; Brazeau *et al*. (2023), Character 308. Cui *et al*. (2023), Character 184; Lu *et al*. (in review), Character 180; Zhu Y.*et al*. (in review), Character 180.
+> Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu *et al.* (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40; Giles *et al*. (2015), Character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Andreev *et al*. (2022), Character 47; Brazeau *et al*. (2023), Character 308. Cui *et al*. (2023), Character 184; Lu *et al*. (in review), Character 180; Zhu Y.*et al*. (in review), Character 180.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -2630,7 +2630,7 @@ The coding of *Meeksiella* is 0.
 
 215. Subsquamosals in taxa with divided cheek: (0) absent; (1) present.
 
-> Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48; Zhu & Yu (2002), Character 48; Friedman (2007), Character 43; Giles *et al*. (2015), Character 55; Choo *et al*. (2017), Character 279; King *et al*. (2017), Character 215; Castiello (2018), Character 214; Zhu Y. *et al*. (2021), Character 53; Zhu Y. *et al*. (2022), Character 219; Andreev *et al*. (2022), Character 55; Brazeau *et al*. (2023), Character 220. Cui *et al*. (2023), Character 219; Lu *et al*. (in review), Character 215; Zhu Y.*et al*. (in review), Character 215.
+> Zhu & Schultze (2001), Character 64; Zhu *et al.* (2001), Character 48; Zhu & Yu (2002), Character 48; Friedman (2007), Character 43; Giles *et al*. (2015), Character 55; Choo *et al*. (2017), Character 279; King *et al*. (2017), Character 215; Castiello (2018), Character 214; Zhu Y. *et al*. (2021), Character 53; Zhu Y. *et al*. (2022), Character 219; Andreev *et al*. (2022), Character 55; Brazeau *et al*. (2023), Character 220. Cui *et al*. (2023), Character 219; Lu *et al*. (in review), Character 215; Zhu Y.*et al*. (in review), Character 215.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
@@ -2641,7 +2641,7 @@ The coding of *Meeksiella* is -.
 
 216. Preopercular shape: (0) rhombic; (1) bar-shaped.
 
-> Zhu *et al*. (2001), Character 54; Zhu & Yu (2001), Character 54; Friedman (2007), Character 48; Giles *et al*. (2015), Character 56; Choo *et al*. (2017), Character 280; King *et al*. (2017), Character 216; Castiello (2018), Character 215; Zhu Y. *et al*. (2021), Character 54; Zhu Y. *et al*. (2022), Character 220; Andreev *et al*. (2022), Character 56; Brazeau *et al*. (2023), Character 221. Cui *et al*. (2023), Character 220; Lu *et al*. (in review), Character 216; Zhu Y.*et al*. (in review), Character 216.
+> Zhu *et al*. (2001), Character 54; Zhu *et al.* (2001), Character 54; Friedman (2007), Character 48; Giles *et al*. (2015), Character 56; Choo *et al*. (2017), Character 280; King *et al*. (2017), Character 216; Castiello (2018), Character 215; Zhu Y. *et al*. (2021), Character 54; Zhu Y. *et al*. (2022), Character 220; Andreev *et al*. (2022), Character 56; Brazeau *et al*. (2023), Character 221. Cui *et al*. (2023), Character 220; Lu *et al*. (in review), Character 216; Zhu Y.*et al*. (in review), Character 216.
 
 > - Giles *et al*. (2015): "This character applies only to the subset of sarcopterygians with subdivided cheek plates. In onychodonts (Andrews *et al*., 2006), porolepiforms (Jarvik, 1972), and coelacanths (Forey, 1998), the preopercular assumes a plate-like morphology. By contrast, tetrapodomorphs bear a bar-shaped preopercular bone (Jarvik, 1980; Long *et al*., 1997)."
 
@@ -7029,7 +7029,7 @@ The coding of *Meeksiella* is -.
 
 628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
-> Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Andreev *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 428. Cui *et al*. (2023), Character 633; Lu *et al*. (in review), Character 620; Zhu Y.*et al*. (in review), Character 628.
+> Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu *et al.* (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Andreev *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 428. Cui *et al*. (2023), Character 633; Lu *et al*. (in review), Character 620; Zhu Y.*et al*. (in review), Character 628.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -7329,7 +7329,7 @@ The coding of *Meeksiella* is -.
 
 657. Series of thoracic supraneurals: (0) absent; (1) present.
 
-> Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Andreev *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 460. Cui *et al*. (2023), Character 662; Lu *et al*. (in review), Character 657; Zhu Y.*et al*. (in review), Character 657.
+> Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu *et al.* (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Andreev *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 460. Cui *et al*. (2023), Character 662; Lu *et al*. (in review), Character 657; Zhu Y.*et al*. (in review), Character 657.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
@@ -7922,7 +7922,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
 710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
-> Gardiner (1989), Node A, Character 18; Lu *et al*. (in review), Character 710; Zhu Y. *et al*. (in review), Character 710. 
+> Gardiner and Schaeffer (1989), Node A, Character 18; Lu *et al*. (in review), Character 710; Zhu Y. *et al*. (in review), Character 710. 
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
@@ -8171,7 +8171,7 @@ A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin
 
 
 **References**
-Davis (2002); Gardiner (1989); Zhu & Yu (2001); These four references are not found. King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
+Davis (2002); King *et al*. (2016) should be King *et al*. (2017)? Zhu *et al*. (2019) should be Zhu, Y. A. *et al*. (2019)?
 
 > Ahlberg, P. and Johanson, Z. 1998. 'Osteolepiforms and the ancestry of tetrapods', Nature, 395: 792-794.
 
