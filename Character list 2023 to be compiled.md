@@ -2,8 +2,6 @@
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
-## 晓悦添加了文献，同时也就检查出了一些小错误。这些工作希望大家平时就注意，养成一个好的、严谨工作的习惯，最终会省下很多时间。
-
 ## Skeletal tissues
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
