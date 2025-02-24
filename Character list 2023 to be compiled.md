@@ -6316,7 +6316,7 @@ The coding of *Meeksiella* is -.
 
 558. Rotatory contact of the articulation: (0) absent; (1) present.
 
-> Zhu  Y. *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 558; Zhu Y. *et al*. (in review), Character 558.
+> Zhu  Y. *et al*. (2019), Character 6; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (in review), Character 558; Zhu Y. *et al*. (in review), Character 558.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
