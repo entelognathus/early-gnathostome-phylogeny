@@ -1156,7 +1156,7 @@ The coding of *Meeksiella* is 0.
 
 91. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
-> King *et al*. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 257. Cui *et al*. (2023), Character 93; Lu *et al*. (in review), Character 91; Zhu Y. *et al*. (in review), Character 91.
+> King *et al*. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. *et al*. (2019), Character 7; Zhu Y. *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 257. Cui *et al*. (2023), Character 93; Lu *et al*. (in review), Character 91; Zhu Y. *et al*. (in review), Character 91.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
