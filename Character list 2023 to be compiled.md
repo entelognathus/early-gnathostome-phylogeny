@@ -6324,13 +6324,11 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
 
-559. Para-articular process of dermal neck joint: (0) absent; (1) present.
+559. Ventral laminar ridge on skull roof medially defining the articulation (para-articular process sensus Young, 1978): (0) absent; (1) present.
 
 > Young (1978); Zhu  Y. *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564; Lu *et al*. (in review), Character 559; Zhu Y. *et al*. (in review), Character 559.
 
-> - Various formulations have been used to define the character, such as "lateral processes flank the articular fossas medially on the visceral surface of the skull roof" (Zhu Y. et al., 2019b, character 378), "lateral ridges on skull roof laterally defining the articulation". Here we use the original term 'para-articular process of dermal neck joint' (Young, 1978), which denotes the ventral process or ridge flanking the laminar articulation medially on the ventral surface of skull roof, as in petalichthyids. 
-
-> - Brazeau *et al*. (2023): "Para-articular process of dermal neck joint: (0) absent; (1) present." The para-articular process and depression were used to define the articulation of petalichthyids by Young (1978). We disagree with Brazeau *et al*. (2023) in the coding of arthrodires.
+> - Young (1978) introduced the term 'para-articular process of dermal neck joint' (Young, 1978) to denote the ventral laminar ridge medially flanking the laminar articulation on the ventral surface of skull roof, as in petalichthyids. Castiello *et al.* (2022, fig. 9B) extended this term to define the ventral process or ridge laterally defining the articulation as in arthrodires. Considering the different condition of the ventral process in petalichthyids and arthrodires, we adopted the original definition of the para-articular process (Young, 1978) to code petalichthyids and arthrodires. 
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
