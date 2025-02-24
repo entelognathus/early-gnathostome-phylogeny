@@ -8184,6 +8184,8 @@ Davis (2002)
 
 > Castiello, M. 2018. 'Neurocranial anatomy of three unusual placoderms revealed by computed tomography scanning, and their implications for early gnathostomes evolution', Ph.D. dissertation Thesis, Imperial College London.
 
+> Castiello, Marco, Anna Jerve, Maria Grace Burton, Matt Friedman, and Martin D Brazeau. 2021. 'Endocranial morphology of the petalichthyid placoderm Ellopetalichthys scheii from the Middle Devonian of Arctic Canada, with remarks on the inner ear and neck joint morphology of placoderms', Canadian Journal of Earth Sciences, 58: 93–104.
+
 > Choo, B., Zhu, M., Qu, Q. M., Yu, X. B., Jia, L. T. and Zhao, W. J. 2017. 'A new osteichthyan from the late Silurian of Yunnan, China', PLoS One, 12: e0170929.
 
 > Clement, A. M., King, B., Giles, S., Choo, B., Ahlberg, P. E., Young, G. C. and Long, J. A. 2018. 'Neurocranial anatomy of an enigmatic Early Devonian fish sheds light on early osteichthyan evolution', eLife, 7: e34349.
