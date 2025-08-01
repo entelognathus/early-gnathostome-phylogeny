@@ -2482,7 +2482,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-202. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): (0) within median bone; (1) on bones flanking the median bone (e.g. paranuchals).
+202. Endolymphatic duct relationship to median skull roof bone: (0) within median bone (i.e. nuchal plate); (1) on bones flanking the median bone (e.g. paranuchals).
 
 > Giles *et al*. (2015), Character 40; Choo *et al*. (2017), Character 269; King *et al*. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. *et al*. (2022), Character 206; Andreev *et al*. (2022), Character 41; Brazeau *et al*. (2023), Character 212. Cui *et al*. (2023), Character 206; Lu *et al*. (in review), Character 202; Zhu Y. *et al*. (in review), Character 202.
 
