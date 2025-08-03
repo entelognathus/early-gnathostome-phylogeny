@@ -1820,7 +1820,7 @@ The coding of *Meeksiella* is 0.
 
 147. Paired pits on ventral surface of nuchal or median extrascapular plate: (0) absent; (1) present.
 
-> Miles & Dennis (1979), Character 10; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Andreev *et al*. (2022), Character 51; Brazeau *et al*. (2023), Character 217. Cui *et al*. (2023), Character 150; Lu *et al*. (in review), Character 147; Zhu Y. *et al*. (in review), Character 147.
+> Miles & Dennis (1979), Character 11; Dennis & Miles (1981), Character 10); Giles *et al*. (2015), Character 51; Choo *et al*. (2017), Character 276; King *et al*. (2017), Character 212; Castiello (2018), Character 211; Zhu Y. *et al*. (2022), Character 150; Andreev *et al*. (2022), Character 51; Brazeau *et al*. (2023), Character 217. Cui *et al*. (2023), Character 150; Lu *et al*. (in review), Character 147; Zhu Y. *et al*. (in review), Character 147.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
