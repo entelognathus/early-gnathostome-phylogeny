@@ -2146,7 +2146,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Achoania jarviki* is changed from 0 to 1.
 
-> - LXY. The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Guiyu oneiros* is changed from 0 to 1 (Qiao et al., 2010).  The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016).
+> - LXY. The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Guiyu oneiros* is changed from 0 to 1 (Qiao et al., 2010).  The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Cheirolepis canadensis* (Pearson, 1979) changed from ? to 0.
 
 > - The coding of *Meemannia*_like fish is 1.
 
@@ -2164,6 +2164,8 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 3. 
 The coding of *Meeksiella* is 3.
 
+> -LXY. For differences in naming systems between placoderms and osteichthyans, additional explanations are provided to clarify character states: (0) in postparietal (central in placoderms or parietal in actinopterygians); (1) in parietal (preorbital in placoderms or frontal in actinopterygians); (2) in intertemporal (postorbital in placoderms or dermosphenotic in actinopterygians); (3) in nuchal plate (median extrascapular); (4) in postpineal plate. The coding of *Cheirolepis canadensis* (Pearson, 1979) changed from ? to 0. The coding of *Styloichthys changae* (Zhu and Yu, 2002) and *Kenichthys campbelli* (Chang and Zhu, 1993) changed from 2 to 1.The coding of *Psarolepis romeri* (Yu, 1998) and *Guiyu oneiros* (Qiao and Zhu, 2010) changed from 0 to 1.
+
 175. Posteriorly converging supraorbital canals: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2022), Character 179. Cui *et al*. (2023), Character 179; Lu *et al*. (in review), Character 175; Zhu Y. *et al*. (in review), Character 175.
@@ -2174,6 +2176,8 @@ The coding of *Meeksiella* is 3.
 
 > - The coding of *Yipetalichthys* is 1.
 The coding of *Meeksiella* is 1.
+
+> -LXY. The coding of *Cheirolepis canadensis* (Pearson, 1979) changed from ? to 0.The coding of *Janusiscus schultzei* (Giles et al., 2015) changed from 0 to 1.
 
 176. Supraorbital canals and posterior pitlines convergence: (0) absent; (1) converge without contact; (2) converge with contact.
 
@@ -5906,7 +5910,7 @@ The coding of *Meeksiella* is -.
 
 > - LXY. A state "ventral" should be added to this character to take into account the condition of *Qingmenodus yui*, *Youngolepis praecursor* and *Eusthenopteron foordi*.
 
-> - The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1.The coding of *Achoania jarviki* is changed from ? to 1. 
+> - The coding of *Achoania jarvikii*, *Psarolepis romeri*, *Guiyu oneiros*, *Kentuckia deani* (Giles & Friedman, 2014), *Mimipiscis toombsi* (Giles and Friedman, 2014), *Lawrenciella schaefferi* (Hamel and Poplin, 2008), *Powichthys thorsteinssoni* (G. Clément and P. E. Ahlberg) changed from ? to 1. The coding of *Qingmenodus yui* (Lu et al., 2016), *Youngolepis praecursor* (Chang, 1982), *Glyptolepis groenlandica* (Jarvik, 1972), *Gogonasus andrewsae* (Holland, 2014), *Eusthenopteron foordi* (Jarvik, 1980) changed from ? to 3. 
 
 > - The coding of *Meemannia*_like fish is ?.
 
