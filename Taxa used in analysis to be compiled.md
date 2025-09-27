@@ -753,12 +753,18 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365)
+> - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Choo, 2015](https://www.tandfonline.com/doi/full/10.1080/02724634.2015.952817)
+
+[*Moythomasia perforata*](https://deepbone.org/public/#/explor?s_id=60027&functionId=Deepbone_header_searchResultOpen) Gross, 1942
+> lower Frasnian, 382.7, 379.2
+
+> - Snetnaya Group; Kokenhusen, Latvia
+> - Gross, 1942; Gross, 1950; [Gross, 1953](https://link.springer.com/article/10.1007/BF03041836#citeas); [Choo, 2015](https://www.tandfonline.com/doi/full/10.1080/02724634.2015.952817)
 
 [*Mulgaspis evansorum*](https://deepbone.org/public/#/explor?s_id=2727&functionId=Deepbone_header_searchResultOpen) Ritchie, 2004
 > lower Eifelian, 393.3, 391.4
 
-> - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
+> - Merrimerriwa Formation; Cobar, Wilcannia, Australia
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
 [*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
@@ -1305,13 +1311,15 @@ Chen, X. and Rong, J.-Y., 1996. Telychian (Llandovery) of the Yangtze region and
 
 Chen, Z., Wang, C. and Fan, R., 2016. Restudy of the Llandovery conodont biostratigraphy in the Xiushan area, Chongqing City, China. *Can. J. Earth Sci.* **53**: 651–659.
 
-Choo, B., Zhu, M., Qu, Q., Yu, X., Jia, L. and Zhao, W., 2017. A new osteichthyan from the late Silurian of Yunnan, China. *PLoS One* **12**: e0170929.
+Choo, B., M. Zhu, W. Zhao, L. Jia, and Y. Zhu. 2014. The largest Silurian vertebrate and its palaeoecological implications, *Scientific Reports*, 4: 5242.
 
-Choo, B., M. Zhu, W. Zhao, L. Jia, and Y. Zhu. 2014. The largest Silurian vertebrate and its palaeoecological implications, Scientific Reports, 4: 5242.
+Choo, B. 2015. A new species of the Devonian actinopterygian *Moythomasia* from Bergisch Gladbach, Germany, and fresh observations on *M. durgaringa* from the Gogo Formation of Western Australia. *Journal of Vertebrate Paleontology*, **35**: e952817
+
+Choo, B., Zhu, M., Qu, Q., Yu, X., Jia, L. and Zhao, W., 2017. A new osteichthyan from the late Silurian of Yunnan, China. *PLoS One* **12**: e0170929.
 
 Clarke, J., 1901. Notes on Paleozoic Crustaceans, 2, Phyllocarida from the black shales at the base of the Salina beds in western New York. 3, Some Devonic Phyllocarida from New York. *New York State Museum. 54th Report of the Regents* **1**: 92–103.
 
-Clement, A. M., King, B., Giles, S., Choo, B., Ahlberg, P. E., Young, G. C. and Long, J. A., 2018. Neurocranial anatomy of an enigmatic Early Devonian fish sheds light on early osteichthyan evolution. *eLife* **7:** e34349.
+Clement, A. M., King, B., Giles, S., Choo, B., Ahlberg, P. E., Young, G. C. and Long, J. A., 2018. Neurocranial anatomy of an enigmatic Early Devonian fish sheds light on early osteichthyan evolution. *eLife* **7**: e34349.
 
 Clément, G., 2004. Nouvelles données anatomiques et morphologie générale des 'Porolepidae' (Dipnomorpha, Sarcopterygii). *Rev. Paléobiol.* **9**: 193–211.
 
@@ -1420,6 +1428,12 @@ Goujet, D. F. and Young, G. C., 2004. Placoderm anatomy and phylogeny: new insig
 Grogan, E. D. and Lund, R., 2000. *Debeerius ellefseni* (fam. nov., gen. nov., spec. nov.), an autodiastylic chondrichthyan from the Mississippian bear gulch limestone of Montana (USA), the relationships of the Chondrichthyes, and comments on gnathostome evolution. *J. Morphol.* **243**: 219–245.
 
 Gross, W., 1935. Histologische studien am Aussenskelett fossiler agnathen und fische. *Palaeontogr. Abt. A* **83**: 1–60.
+
+Gross, W., 1942. Die Fischfaunen des baltischen Devons und ihre biostratigraphische Bedeutung. *Korrespondenzblatt des Naturforscher-Vereins zu Riga* **64**: 373–436.
+
+Gross, W., 1950. Umbenennung von Aldingeria Gross. *Neues Jahrbuch fur Mineralogie, Geologie und Palaontologie, Monatshefte* **1950(5)**: 145.
+
+Gross, W., 1953. Devonische Palaeonisciden-Reste in Mittel-und Osteuropa. *Paläont. Z.* **27**: 85–112 
 
 Gross, W., 1958. Über die älterste Arthrodiren-Gattung. *Notizbl. hess. Landesami. Bodenforsch.* **86**: 7–30.
 
@@ -1796,3 +1810,4 @@ Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, 
 Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
 
 Zong, R.-W., Liu, Q., Wei, F. and Gong, Y.-M., 2017. Fentou Biota: a Llandovery (Silurian) shallow-water exceptionally preserved biota from Wuhan, Central China. *J. Geol.* **125**: 469–478.
+
