@@ -340,7 +340,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > lower Emsian, 407.6, 400.45
 
 > - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
-> - [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001)
+> - [Whiteaves, 1881](https://ajsonline.org/article/63830); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Maisey *et al*., 2014](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20242); [Burrow *et al*., 2017](https://cdnsciencepub.com/doi/10.1139/cjes-2017-0059); [Maisey *et al*., 2017](https://bioone.org/journals/american-museum-novitates/volume-2017/issue-3875/3875.1/Pectoral-Morphology-in-Doliodus-Bridging-the-Acanthodian-Chondrichthyan-Divide/10.1206/3875.1.full); [Maisey *et al*., 2019](https://mdanderson.elsevierpure.com/en/publications/doliodus-and-pucapampellids-contrasting-perspectives-on-stem-chon); [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372)
 
 > - Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
 
@@ -1267,6 +1267,8 @@ Burrow, C. J., Newman, M. J., Davidson, R. G. and Blaauwen, J. L. D., 2013. Rede
 
 Burrow, C. J., Newman, M., den Blaauwen, J., Jones, R. and Davidson, R., 2018. The early Devonian ischnacanthiform acanthodian *Ischnacanthus gracilis* (Egerton, 1861) from the Midland Valley of Scotland. *Acta Geol. Pol.* **68**(3), 335–362.
 
+Burrow, C. J., Turner, S., Maisey, J. G., Desbiens, S. and Miller, R., 2017. Spines of the stem chondrichthyan Doliodus latispinosus (Whiteaves) comb. nov. from the Lower Devonian of eastern Canada. *Canadian Journal of Earth Sciences* **54**: 1248-1262. 
+
 Burrow, C. J. and Desbiens, S., 2023a. Teeth and tooth whorls of the stem chondrichthyan Doliodus from the Early Devonian of the Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada. *Span. J. Palaeontol.* **38**: 15–22.
 
 Burrow, C. J. and Rudkin, D., 2014. Oldest near-complete acanthodian: the first vertebrate from the Silurian Bertie Formation Konservat-Lagerstätte, Ontario. *PLoS One* **9**: e104171.
@@ -1581,6 +1583,12 @@ Maisey, J. G. and Denton, J. S. S., 2016. Dermal denticle patterning in the Cret
 
 Maisey, J. G., Miller, R. and Turner, S., 2009. The braincase of the chondrichthyan *Doliodus* from the Lower Devonian Campbellton Formation of New Brunswick, Canada. *Acta Zool.* **90**: 109–122.
 
+Maisey, J. G., Turner, S., Naylor, G. J. and Miller, R. F., 2014. Dental patterning in the earliest sharks: Implications for tooth evolution. *Journal of Morphology* **275**: 586-596. 
+
+Maisey, J. G., Miller, R., Pradel, A., Denton, J. S., Bronson, A. and Janvier, P., 2017. Pectoral morphology in Doliodus: bridging the ‘acanthodian’-chondrichthyan divide. *American Museum Novitates* **3875**: 1-16. 
+
+Maisey, J. G., Janvier, P., Pradel, A., Denton, J. S. S., Bronson, A., Miller, R. and Burrow, C. J., 2019. Doliodus and pucapampellids: Contrasting perspectives on stem chondrichthyan morphology. In ***Evolution and development of fishes* Z. Johanson, C. Underwood, & M. Richter (Eds.)**: 87-109. Cambridge University Press. 
+
 Mark-Kurik, E., 1973. *Kimaspis*, a new palaeacanthaspid from the Early Devonian of Central Asia. *Eesti NSV Teaduste Akadeemia Toimetised, Geoloogia* **22**: 322–330.
 
 Märss, T., Afanassieva, O. and Blom, H., 2015. Biodiversity of the Silurian osteostracans of the East Baltic. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **105**: 73–148.
@@ -1673,7 +1681,7 @@ Schaeffer, B., 1981. The xenacanth shark neurocranium, with comments on elasmobr
 
 Schultze, H.-P., 1968. Palaeoniscoidea-schuppen aus dem Unterdevon Australiens und Kansas und aus dem Mitteldevon Spitzbergens. *Bull. Br. Mus. Nat. Hist. Geol.* **16**: 343–368.
 
-Schultze, H.-P. 1992 Early Devonian actinoptergians (Osteichthyes, Pisces) from Siberia. In *Fossil Fishes as Living Animals* (ed. E. Mark-Kurik), pp. 233-242. Tallinn, Academy of Sciences of Estonia.
+Schultze, H.-P. 1992. Early Devonian actinoptergians (Osteichthyes, Pisces) from Siberia. In *Fossil Fishes as Living Animals* (ed. E. Mark-Kurik), pp. 233-242. Tallinn, Academy of Sciences of Estonia.
 
 Schultze, H.-P. and Cumbaa, S. L., 2001. *Dialipina* and the characters of basal actinopterygians. In: P. E. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor & Francis, London, pp. 315–332.
 
@@ -1734,6 +1742,8 @@ White, E. I., 1958. On the original environment of the craniates. In: T.S. Westo
 White, E. I., 1965. The head of *Dipterus valenciennesi* Sedgwick & Murchison. *Bull. Br. Mus. Nat. Hist. Geol.* **11**: 1–45.
 
 White, E. I. and Toombs, H. A., 1972. The buchanosteid arthrodires of Australia. *Bull. Br. Mus. Nat. Hist. Geol.* **22**: 379–419.
+
+Whiteaves, J. F., 1881. On some remarkable fossil fishes from the Devonian rocks of Scaumenac Bay, Province of Quebec, with descriptions of a new genus and three new species. *Annals and Magazine of Natural History* **8**: 159-162.
 
 Williams, M. E., 1998. A new specimen of *Tamiobatis vetustus* (Chondrichthyes, Ctenacanthoidea) from the Late Devonian Cleveland Shale of Ohio. *J. Vertebr. Paleontol.* **18**: 251–260.
 
