@@ -6,8 +6,6 @@
 
 ## 大家可以学习我这个方法，将图片加在需要解释的解剖学结构位置。具体的图片文件上传到本文件夹中。然后在这儿加上上面这行。文件名可以取简单些。
 
-
-
 ## Skeletal tissues
 
 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
