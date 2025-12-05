@@ -2,7 +2,6 @@
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
-
 ## 大家可以将图片直接拖到需要解释结构的位置。
 
 ## Skeletal tissues
@@ -17,266 +16,126 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Ruiyu* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?.
-> - The coding of *Rhynchodus* is 0.
-The coding of *Meeksiella* is 0.
-The coding of *Ptyctodopsis* is 0.
-The coding of *Chelyophorus* is 0.
-The coding of *Kimbryanodus* is 0.
-The coding of *Ctenurella* is 0.
+> - The coding of *Rhynchodus* is 0. The coding of *Meeksiella* is 0. The coding of *Ptyctodopsis* is 0. The coding of *Chelyophorus* is 0. The coding of *Kimbryanodus* is 0. The coding of *Ctenurella* is 0.
 
-2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
-
+### 2.  Prismatic calcified cartilage: (0) single layered; (1) multi-layered.
 > Maisey (2001), Character 17; Pradel *et al*. (2011), Character 0; Giles *et al*. (2015), Character 2; Choo *et al*. (2017), Character 253; King *et al*. (2017), Character 2; Castiello (2018), Character 2; Zhu Y. *et al*. (2022), Character 2; Andreev *et al*. (2022), Character 2; Brazeau *et al*. (2023), Character 2; Cui *et al*. (2023), Character 2; Lu *et al*. (in review), Character 2; Zhu Y. *et al*. (in review), Character 2.
-
-
 > - This type of cartilage calcification is widely considered a chondrichthyan synapomorphy (Schaeffer, 1981). It is manifest as a tessellated sub-perichondral surface of the endoskeleton (Brazeau, 2009).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is -.
-
 > - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Rhynchodus* is -. The coding of *Meeksiella* is -. The coding of *Ptyctodopsis* is -. The coding of *Chelyophorus* is -. The coding of *Kimbryanodus* is -. The coding of *Ctenurella* is -.
 
-> - The coding of *Rhynchodus* is -.
-The coding of *Meeksiella* is -.
-The coding of *Ptyctodopsis* is -.
-The coding of *Chelyophorus* is -.
-The coding of *Kimbryanodus* is -.
-The coding of *Ctenurella* is -.
-
-3.  Extensive calcified cartilage: (0) absent; (1) present.
-
+### 3.  Extensive calcified cartilage: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 4; Zhu Y. *et al*. (2022), Character 3; Cui *et al*. (2023), Character 3; Lu *et al*. (in review), Character 3; Zhu Y. *et al*. (in review), Character 3.
-
 > - By extensive, the character aims to capture all of those taxa in which the neurocranium, jaws, hyoid and gill arches, as well as parts of the axial and appendicular skeleton are mineralized in the absence of perichondral bone (Coates et al., 2018).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is 0.
-
 > - The coding of *Yipetalichthys* is 0. 
+> - The coding of *Rhynchodus* is 0. The coding of *Meeksiella* is 0. The coding of *Ptyctodopsis* is 0. The coding of *Chelyophorus* is 0. The coding of *Kimbryanodus* is 0. The coding of *Ctenurella* is 0.
 
-> - The coding of *Rhynchodus* is 0.
-The coding of *Meeksiella* is 0.
-The coding of *Ptyctodopsis* is 0.
-The coding of *Chelyophorus* is 0.
-The coding of *Kimbryanodus* is 0.
-The coding of *Ctenurella* is 0.
-
-4.  Perichondral bone: (0) present; (1) absent.
-
+### 4.  Perichondral bone: (0) present; (1) absent.
 > Janvier (1996); Donoghue & Aldridge (2001); Brazeau (2009); Davis *et al*. (2012), Character 2; Choo *et al*. (2017), Character 2; King *et al*. (2017), Character 3; Castiello (2018), Character 3; Zhu Y. *et al*. (2022), Character 4; Andreev *et al*. (2022), Character 3; Brazeau *et al*. (2023), Character 3; Cui *et al*. (2023), Character 4; Lu *et al*. (in review), Character 4; Zhu Y. *et al*. (in review), Character 4.
-
-
 > The absence of perichondral bone has been thought to define chondrichthyans, but may occasionally appear in some chondrichthyans (Brazeau, 2009).
-
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is 0.
-
 > - The coding of *Yipetalichthys* is 0.
+> - The coding of *Rhynchodus* is 0. The coding of *Meeksiella* is 0. The coding of *Ptyctodopsis* is 0. The coding of *Chelyophorus* is 0. The coding of *Kimbryanodus* is 0. The coding of *Ctenurella* is 0.
 
-> - The coding of *Rhynchodus* is 0.
-The coding of *Meeksiella* is 0.
-The coding of *Ptyctodopsis* is 0.
-The coding of *Chelyophorus* is 0.
-The coding of *Kimbryanodus* is 0.
-The coding of *Ctenurella* is 0.
-
-5.  Extensive endochondral ossification: (0) absent; (1) present.
-
+### 5.  Extensive endochondral ossification: (0) absent; (1) present.
 > Forey (1980); Gardiner (1984); Brazeau (2009), Character 3; Davis *et al*. (2012), Character 3; Choo *et al*. (2017), Character 3; King *et al*. (2017), Character 4; Castiello (2018), Character 4; Zhu Y. *et al*. (2022), Character 5; Andreev *et al*. (2022), Character 4; Brazeau *et al*. (2023), Character 4; Cui *et al*. (2023), Character 5; Lu *et al*. (in review), Character 5; Zhu Y. *et al*. (in review), Character 5.
-
 > - Brazeau (2009): "This refers to endochondral bone typified by a strongly developed and widely distributed spongiosa inside the interperichondral space."
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is 1.
-
 > - The coding of *Yipetalichthys* is 1.
+> - The coding of *Rhynchodus* is 0. The coding of *Meeksiella* is 0. The coding of *Ptyctodopsis* is 0. The coding of *Chelyophorus* is 0. The coding of *Kimbryanodus* is 0. The coding of *Ctenurella* is 0.
 
-> - The coding of *Rhynchodus* is 0.
-The coding of *Meeksiella* is 0.
-The coding of *Ptyctodopsis* is 0.
-The coding of *Chelyophorus* is 0.
-The coding of *Kimbryanodus* is 0.
-The coding of *Ctenurella* is 0.
-
-6.  Three-layered exoskeleton: (0) absent; (1) present.
-
+### 6.  Three-layered exoskeleton: (0) absent; (1) present.
 > Donoghue *et al*. (2000); King *et al*. (2017), Character 6; Castiello (2018), Character 6; Zhu Y. *et al*. (2022), Character 6; Brazeau *et al*. (2023), Character 6; Cui *et al*. (2023), Character 6; Lu *et al*. (in review), Character 6; Zhu Y. *et al*. (in review), Character 6.
-
 > - Brazeau *et al*. (2023): "This character is problematic because the "absence" state could refer to anything from the total absence of exoskeletal ossification to the absence of any one of the three possible layers."
-
 > - Score changed from 0 to 1 for *Anglaspis maccoulloughi* (Keating *et al*., 2015).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is 1.
-
 > - The coding of *Yipetalichthys* is ?. 
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
-7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
-
+### 7.  Cephalic dermoskeletal bone: (0) cellular; (1) acellular.
 > Donoghue *et al*. (2000), Character 67; King *et al*. (2017), Character 7; Castiello (2018), Character 7; Zhu Y. *et al*. (2022), Character 7; Brazeau *et al*. (2023), Character 10; Cui *et al*. (2023), Character 7; Lu *et al*. (in review), Character 7; Zhu Y. *et al*. (in review), Character 7.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
-
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 > - LXY The coding of *Achoania* is from ? to 0.
 
-8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
-
+### 8.  Perforated horizontal lamina in the sensory line canals and vascular system: (0) absent; (1) present.
 > King *et al*. (2017), Character 8; Castiello (2018), Character 8; Zhu Y. *et al*. (2022), Character 8; Brazeau *et al*. (2023), Character 11; Cui *et al*. (2023), Character 8; Lu *et al*. (in review), Character 8; Zhu Y. *et al*. (in review), Character 8.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
-9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
-
+### 9.  Superficial glassy layer of dermal armour: (0) absent; (1) present.
 > King *et al*. (2017), Character 18; Castiello (2018), Character 18; Zhu Y. *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 21; Cui *et al*. (2023), Character 9; Lu *et al*. (in review), Character 9; Zhu Y. *et al*. (in review), Character 9.
-
 > - **check the definition of this character**. It is present in *Dartmuthia gemmifera* and *Tremataspis mammillata*.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is 0.
+> - The coding of *Rhynchodus* is 0. The coding of *Meeksiella* is 0. The coding of *Ptyctodopsis* is 0. The coding of *Chelyophorus* is 0. The coding of *Kimbryanodus* is 0. The coding of *Ctenurella* is 0.
 
-> - The coding of *Rhynchodus* is 0.
-The coding of *Meeksiella* is 0.
-The coding of *Ptyctodopsis* is 0.
-The coding of *Chelyophorus* is 0.
-The coding of *Kimbryanodus* is 0.
-The coding of *Ctenurella* is 0.
-
-10. Dentinous tissue: (0) absent; (1) present.
-
-> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10; Andreev *et al*. (2022), Character 9;Brazeau *et al*. (2023), Character 13. Cui *et al*. (2023), Character 10; Lu *et al*. (in review), Character 10; Zhu Y. *et al*. (in review), Character 10.
-
+### 10. Dentinous tissue: (0) absent; (1) present.
+> Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 4; Choo *et al*. (2017), Character 4; King *et al*. (2017), Character 10; Zhu Y. *et al*. (2021), Character 9; Castiello (2018), Character 10; Zhu Y. *et al*. (2022), Character 10; Andreev *et al*. (2022), Character 9; Brazeau *et al*. (2023), Character 13. Cui *et al*. (2023), Character 10; Lu *et al*. (in review), Character 10; Zhu Y. *et al*. (in review), Character 10.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
-11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.（Modified）
-
+### 11. Dentine kind: (0) mesodentine; (1) semidentine; (2) orthodentine; (3) lamellin.
 > Donoghue & Aldridge (2001); Brazeau 2009; Davis *et al*. (2012), Character 5; Choo *et al*. (2017), Character 5; King *et al*. (2017), Character 12; Castiello (2018), Character 12; Zhu Y. *et al*. (2022), Character 11; Andreev *et al*. (2022), Character 10; Brazeau *et al*. (2023), Character 15. Cui *et al*. (2023), Character 11; Lu *et al*. (in review), Character 11; Zhu Y. *et al*. (in review), Character 11.
-
 > - Andreev *et al*. (2022) modified this character by introducing an extra state to account for the atubular dentine (lamellin) possessed by *Fanjingshania*. 
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
-12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
-
+### 12. Plicidentine: (0) absent; (1) simple or generalized polyplacodont.
 > Zhu  *et al*. (2009, Character 152), and references therein; Zhu *et al*. (2013), Character 141; Giles *et al*. (2015), Character 86; Choo *et al*. (2017), Character 137; King *et al*. (2017), Character 343; Castiello (2018), Character 335; Zhu Y. *et al*. (2022), Character 12; Andreev *et al*. (2022), Character 86; Brazeau *et al*. (2023), Character 348. Cui *et al*. (2023), Character 12.
-
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
+> - The coding of *Rhynchodus* is ?. The coding of *Meeksiella* is ?. The coding of *Ptyctodopsis* is ?. The coding of *Chelyophorus* is ?. The coding of *Kimbryanodus* is ?. The coding of *Ctenurella* is ?.
 
-> - The coding of *Rhynchodus* is ?.
-The coding of *Meeksiella* is ?.
-The coding of *Ptyctodopsis* is ?.
-The coding of *Chelyophorus* is ?.
-The coding of *Kimbryanodus* is ?.
-The coding of *Ctenurella* is ?.
-
-13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
-
+### 13. Enamel(oid) present on dermal bones and scales: (0) absent; (1) present.
 > Giles *et al*. (2015), Character 5; Choo *et al*. (2017), Character 254; King *et al*. (2017), Character 15; Castiello (2018), Character 15; Zhu Y. *et al*. (2022), Character 13; Andreev *et al*. (2022), Character 5; Brazeau *et al*. (2023), Character 18. Cui *et al*. (2023), Character 13; Lu *et al*. (in review), Character 13; Zhu Y. *et al*. (in review), Character 13.
-
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is 0.
->   
 > - LXY The coding of *Guiyu* is 1. **Why? Evidence?**
 
-14. Enamel: (0) single-layered; (1) multi-layered.
-
+### 14. Enamel: (0) single-layered; (1) multi-layered.
 > Giles *et al*. (2015), Character 6; Choo *et al*. (2017), Character 255; King *et al*. (2017), Character 16; Castiello (2018), Character 16; Zhu Y. *et al*. (2022), Character 14; Andreev *et al*. (2022), Character 6;Brazeau *et al*. (2023), Character 19. Cui *et al*. (2023), Character 14; Lu *et al*. (in review), Character 14; Zhu Y. *et al*. (in review), Character 14.
-
 > - *Ligulalepis* is scored '1' based on Schultze (1968).
-
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is -.
 
-15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
-
+### 15. Enamel layers: (0) applied directly to one another (ganoine); (1) separated by layers of dentine.
 > Giles *et al*. (2015), Character 7; Choo *et al*. (2017), Character 256; King *et al*. (2017), Character 17; Castiello (2018), Character 17; Zhu Y. *et al*. (2022), Character 15; Andreev *et al*. (2022), Character 7;Brazeau *et al*. (2023), Character 20. Cui *et al*. (2023), Character 15; Lu *et al*. (in review), Character 15; Zhu Y. *et al*. (in review), Character 15.
-
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is -.
 
 16. Enamel(oid) on teeth: (0) absent; (1) present.
