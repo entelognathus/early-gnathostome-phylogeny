@@ -6,25 +6,17 @@
 ## 大家可以将图片直接拖到需要解释结构的位置。
 
 ## Skeletal tissues
-
-1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
-
+###1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
 > Coates & Sequeira (2001a,b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Choo *et al*. (2017), Character 1; King *et al*. (2017), Character 1; Castiello (2018), Character 1; Zhu Y. *et al*. (2022), Character 1; Andreev *et al*. (2022), Character 1; Brazeau *et al*. (2023), Character 1; Cui *et al*. (2023), Character 1; Lu *et al*. (in review), Character 1; Zhu Y. *et al*. (in review), Character 1.
 
 > - Maisey *et al*. (2021): “The globular calcified cartilage reported in Silurian sinacanthids and the so-called subtessellated perichondral biomineralization (with irregular and ill-defined geometries of
 a layer or layers of calcified cartilage blocks) of certain extinct “acanthodians” (e.g., *Climatius*, *Ischnacanthus*, *Cheiracanthus*) could represent evolutionary precursors of TCC...The main feature shared by
 “subtessellate” calcified cartilage and “conventional” TCC is the presence of fissures dividing the layer into numerous smaller regions."
-
 > - The presence or absence of fissures in globular calcified cartilage could be a character to unite the subtessellate calcified cartilage and TCC.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. 
 > - The coding of *Ruiyu* is ?.
-
 > - The coding of *Lingyu* is 0.
-
-
 > - The coding of *Yipetalichthys* is ?.
-
 > - The coding of *Rhynchodus* is 0.
 The coding of *Meeksiella* is 0.
 The coding of *Ptyctodopsis* is 0.
