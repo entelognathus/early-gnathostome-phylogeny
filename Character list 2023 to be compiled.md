@@ -20,7 +20,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0. 
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 
 > - The coding of *Yipetalichthys* is ?.
@@ -42,7 +42,7 @@ The coding of *Ctenurella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -62,7 +62,7 @@ The coding of *Ctenurella* is -.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -83,7 +83,7 @@ The coding of *Ctenurella* is 0.
 > - The coding of *Eosteus* is ?, due to the lack of both detailed histological inspection and exposed endoskeleton. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -103,7 +103,7 @@ The coding of *Ctenurella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1.
 
@@ -125,7 +125,7 @@ The coding of *Ctenurella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -143,7 +143,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -163,7 +163,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -183,7 +183,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -201,7 +201,7 @@ The coding of *Ctenurella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -221,7 +221,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -239,7 +239,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -257,7 +257,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 >   
@@ -272,7 +272,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -.
 
@@ -283,7 +283,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -.
 
@@ -294,7 +294,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >   
@@ -307,7 +307,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is unknown. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -319,7 +319,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0, judging from the obvious difference from the galeaspid dermal skeleton. The same is for *Janusiscus*. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -330,7 +330,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0, judging from lack of pores or pore-like texture on the surface of the dermal skeleton. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -343,7 +343,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -362,7 +362,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 1/2.  
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -375,7 +375,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is - (logical impossibility). The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -386,7 +386,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. 
 
@@ -396,7 +396,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -413,7 +413,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -424,7 +424,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -439,7 +439,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -452,7 +452,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -463,7 +463,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -474,7 +474,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -489,7 +489,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -502,7 +502,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1, as the dorsal margin of its upper cuadal lobe is lined with a series of basal fulcrum as in actinopterygians. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -515,7 +515,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 1. *Youngolepis* 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -530,7 +530,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1 with joined odontodes forming linear ornament. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -547,7 +547,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -560,7 +560,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?, as the detail of the scale morphology is obscure. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -573,7 +573,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?, as the detail of the scale morphology is obscure. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -584,7 +584,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -597,7 +597,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -610,7 +610,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -621,7 +621,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -636,7 +636,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -649,7 +649,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -664,7 +664,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -677,7 +677,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -694,7 +694,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -705,7 +705,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Eosteus* is ?.
 
@@ -720,7 +720,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -735,7 +735,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1, judging from the bulge lining along the adjacent rows of scales. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -746,7 +746,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -759,7 +759,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Styloichthys* is 2.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -769,7 +769,7 @@ The coding of *Ctenurella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -780,7 +780,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
  > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -793,7 +793,7 @@ The coding of *Ctenurella* is ?.
 > - The coding of *Eosteus* is 1, linear ornamentation. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 3.
+> - The coding of *Lingyu* is 3.
 
 > - The coding of *Yipetalichthys* is 3.
 The coding of *Meeksiella* is 3.
@@ -807,7 +807,7 @@ The coding of *Meeksiella* is 3.
 > - The coding of *Eosteus* is 1. However, note that the preopercular canal is preserved as open grooves in both *Eosteus* and an undescribed specimen. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1.
 The coding of *Meeksiella* is 1.
@@ -818,7 +818,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -834,7 +834,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -846,7 +846,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -858,7 +858,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki* should be revised from 0 to ?. 
 The coding of *Meeksiella* is ?.
@@ -870,7 +870,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
@@ -882,7 +882,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -894,7 +894,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -906,7 +906,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -918,7 +918,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -930,7 +930,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -942,7 +942,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -954,7 +954,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -966,7 +966,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -982,7 +982,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -994,7 +994,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1006,7 +1006,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1018,7 +1018,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1030,7 +1030,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is -. This character refers to the ventral cover of the oralobranchial cavity in ostracoderms, coded ? in many jawed taxa. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1042,7 +1042,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -1054,7 +1054,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1066,7 +1066,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1078,7 +1078,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1090,7 +1090,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1104,7 +1104,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1118,7 +1118,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -1130,7 +1130,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1142,7 +1142,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1154,7 +1154,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1166,7 +1166,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1178,7 +1178,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1190,7 +1190,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1204,7 +1204,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1216,7 +1216,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -.
 The coding of *Meeksiella* is -.
@@ -1228,7 +1228,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1240,7 +1240,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1252,7 +1252,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
@@ -1264,7 +1264,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -1276,7 +1276,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Eosteus* is 1. Its posterior nostril is in the orbit. *Ligulalepis* and *Brindabellaspis* changed from ? to 1, same as *Eosteus*. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 1.
@@ -1288,7 +1288,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
  The coding of *Meeksiella* is ?.
@@ -1300,7 +1300,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -1312,7 +1312,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1324,7 +1324,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1342,7 +1342,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 2.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1354,7 +1354,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -1366,7 +1366,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1378,7 +1378,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1394,7 +1394,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1.
 The coding of *Meeksiella* is 0.
@@ -1408,7 +1408,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -1423,7 +1423,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?, due to lack of cheek information. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 1.
@@ -1436,7 +1436,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1449,7 +1449,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -1460,7 +1460,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1471,7 +1471,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1482,7 +1482,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1493,7 +1493,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1504,7 +1504,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1515,7 +1515,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1526,7 +1526,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1537,7 +1537,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, due to lack of lacrimal detail. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1548,7 +1548,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1561,7 +1561,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1572,7 +1572,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1585,7 +1585,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1598,7 +1598,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, due to lack of nostril detail. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1611,7 +1611,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1624,7 +1624,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
@@ -1635,7 +1635,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is ?.
@@ -1646,7 +1646,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1657,7 +1657,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -1668,7 +1668,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -1679,7 +1679,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1690,7 +1690,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1701,7 +1701,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1712,7 +1712,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -1723,7 +1723,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -1734,7 +1734,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1749,7 +1749,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -1762,7 +1762,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1773,7 +1773,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 The coding of *Meeksiella* is 1.
@@ -1786,7 +1786,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. Observing the current specimen, it's diffficult to tell whether the parietal is a single plate or not. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is 2.
+> - The coding of *Lingyu* is 2.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -1799,7 +1799,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?, due to lack of identification of pineal opening. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 1.
@@ -1812,7 +1812,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 2.
+> - The coding of *Lingyu* is 2.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 The coding of *Meeksiella* is 1.
@@ -1825,7 +1825,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 The coding of *Meeksiella* is 0.
@@ -1838,7 +1838,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -1849,7 +1849,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1860,7 +1860,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -1871,7 +1871,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1882,7 +1882,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1895,7 +1895,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 1.
@@ -1906,7 +1906,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
@@ -1917,7 +1917,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -1928,7 +1928,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1939,7 +1939,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised 1 to ?, because there is no preserved anterior part of the skull roof.
 The coding of *Meeksiella* is 1.
@@ -1950,7 +1950,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 1.
@@ -1965,7 +1965,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -1976,7 +1976,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?, as the extrascapulars are not seen. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 1.
 The coding of *Meeksiella* is 0.
@@ -1989,7 +1989,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2000,7 +2000,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2011,7 +2011,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 2.
@@ -2022,7 +2022,7 @@ The coding of *Meeksiella* is 2.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2035,7 +2035,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2048,7 +2048,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -.
 The coding of *Meeksiella* is -.
@@ -2059,7 +2059,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2070,7 +2070,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0.
 The coding of *Meeksiella* is 0.
@@ -2083,7 +2083,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -.
 The coding of *Meeksiella* is -.
@@ -2096,7 +2096,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2109,7 +2109,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2122,7 +2122,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, as the details of the skull roof surface structrue is very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 1.
@@ -2135,7 +2135,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Achoania* is changed from ? to 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2148,7 +2148,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Achoania* is changed from ? to 0.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2163,7 +2163,7 @@ The coding of *Meeksiella* is ?.
 
 > - LXY. The coding of *Psarolepis* is changed from 0 to 1. The coding of *Guiyu* is changed from 0 to 1.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2178,7 +2178,7 @@ The coding of *Meeksiella* is ?.
 
 > - LXY. The coding of *Guiyu* is changed from ? to 1. The coding of *Psarolepis* is changed from 0 to 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -2189,7 +2189,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -2200,7 +2200,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -2211,7 +2211,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?, as most of the sensory lines are very difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -2226,7 +2226,7 @@ The coding of *Meeksiella* is 0.
 
 > - LXY. The coding of *Psarolepis romeri* is changed from ? to 1.  The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Youngolepis praecursor* is changed from ? to 1 (Chang, 1982). The coding of *Diabolepis speratus* is changed from ? to 1 (Qiao, 2011). The coding of *Onychodus jandemarrai* is changed from 0 to 1 (Andrews et al., 2006). The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Porolepis spp* is changed from 0 to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from 0 to 1 (Jarvik, 1972). The coding of *Osteolepis macrolepidotus* is changed from 0 to 1 (Westoll, 1936). The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Jarvik, 1980). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 1.
@@ -2237,7 +2237,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?, due to the anterior nostrils difficult to be identified. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2252,7 +2252,7 @@ The coding of *Meeksiella* is ?.
 
 > - LXY. The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Guiyu oneiros* is changed from 0 to 1 (Qiao et al., 2010).  The coding of *Miguashaia bureaui* is changed from 0 to 1 (Forey, 1998). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Cheirolepis canadensis* (Pearson, 1979) changed from ? to 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -2263,7 +2263,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 3. 
 The coding of *Meeksiella* is 3.
@@ -2276,7 +2276,7 @@ The coding of *Meeksiella* is 3.
 
 > - The coding of *Eosteus* is 0, as in *Janusiscus*. Note that the charater definition only when the posterior ends meet in the midline the coding is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1.
 The coding of *Meeksiella* is 1.
@@ -2291,7 +2291,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -. This is a character for placoderms, inapplicable for osteichthyans.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 2.
@@ -2302,7 +2302,7 @@ The coding of *Meeksiella* is 2.
 
 > - The coding of *Eosteus* is 0. Although the otic canal is not observed, the course of supraorbital canals suggest it is unlikely to touch the otic canal. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2317,7 +2317,7 @@ The coding of *Meeksiella* is 0.
 
 > - LXY. The coding of *Ligulaleois toombsi* is changed from ? to 1 (Clement et al., 2018). The coding of *Guiyu oneiros* is changed from ? to 1.  The coding of *Psarolepis romeri* is changed from 0 to 1. The coding of *Miguashaia bureaui* is changed from ? to 0 (Forey, 1998). The coding of *Diabolepis speratus* is changed from ? to 0 (Qiao, 2011). The coding of *Gogonasus andrewsae* is changed from 0 to 1 (Jarvik, 1980). The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 > - The coding of *Cheirolepis trailli* , *Howqualepis rostridens*, *Mimipiscis toombsi* and *Moythomasia durgaringa* is changed from 1 to 0 (Mickle, 2012)(Choo et al, 2009).
 
 > - The coding of *Yipetalichthys* is ?.
@@ -2329,7 +2329,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2340,7 +2340,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2349,7 +2349,7 @@ The coding of *Meeksiella* is 0.
 
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Andreev *et al*. (2022), Character 32; Brazeau *et al*. (2023), Character 289. Cui *et al*. (2023), Character 185; Lu *et al*. (in review), Character 180; Zhu Y. *et al*. (in review), Character 181.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
@@ -2362,7 +2362,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -2373,7 +2373,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -2386,7 +2386,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 2. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 2. 
 The coding of *Meeksiella* is 2.
@@ -2399,7 +2399,7 @@ The coding of *Meeksiella* is 2.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2414,7 +2414,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?.  
 The coding of *Meeksiella* is -.
@@ -2427,7 +2427,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -2438,7 +2438,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2451,7 +2451,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
@@ -2462,7 +2462,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2473,7 +2473,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2484,7 +2484,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, as the detail of the otic canal is difficult to observe. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -2495,7 +2495,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2506,7 +2506,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -2519,7 +2519,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2530,7 +2530,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2541,7 +2541,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?.  The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.  
 The coding of *Meeksiella* is 0.
@@ -2552,7 +2552,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2563,7 +2563,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 0. The coding of *Eurycaraspis incilis* shoud be revised from 1 to 0. The coding of *Quasipetalichthys haikouensis* shoud be revised from 0 to 1.
 The coding of *Meeksiella* is ?.
@@ -2574,7 +2574,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. 
 The coding of *Meeksiella* is -.
@@ -2585,7 +2585,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2596,7 +2596,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.  The coding of *Eurycaraspis incilis* shoud be revised from ? to 1. The coding of *Quasipetalichthys haikouensis* shoud be revised from ? to -. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 1.
 The coding of *Meeksiella* is ?.
@@ -2607,7 +2607,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2618,7 +2618,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2629,7 +2629,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2640,7 +2640,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -2651,7 +2651,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2662,7 +2662,7 @@ The coding of *Meeksiella* is 0.
  
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2673,7 +2673,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2684,7 +2684,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2695,7 +2695,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2706,7 +2706,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2717,7 +2717,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. *Guiyu* changed from "?" to 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2730,7 +2730,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2741,7 +2741,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -2754,7 +2754,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -2765,7 +2765,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2778,7 +2778,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?.
 The coding of *Meeksiella* is -.
@@ -2789,7 +2789,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -2802,7 +2802,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -2813,7 +2813,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 The coding of *Meeksiella* is -.
@@ -2824,7 +2824,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 The coding of *Meeksiella* is -.
@@ -2835,7 +2835,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 The coding of *Meeksiella* is -.
@@ -2846,7 +2846,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 The coding of *Meeksiella* is -.
@@ -2859,7 +2859,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 The coding of *Meeksiella* is ?.
@@ -2872,7 +2872,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2885,7 +2885,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2898,7 +2898,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2909,7 +2909,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2920,7 +2920,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2933,7 +2933,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2944,7 +2944,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2955,7 +2955,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2966,7 +2966,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2977,7 +2977,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -2990,7 +2990,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3001,7 +3001,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3014,7 +3014,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3025,7 +3025,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3036,7 +3036,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?, as whether the dentition is rows of denticles or monolinear tooth row is not seen. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3047,7 +3047,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3058,7 +3058,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -3069,7 +3069,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -3080,7 +3080,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3091,7 +3091,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3102,7 +3102,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3113,7 +3113,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3124,7 +3124,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3135,7 +3135,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3146,7 +3146,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3157,7 +3157,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3168,7 +3168,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3179,7 +3179,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3190,7 +3190,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. Note that the character in current matrix is uninformative with only "0" and "?" codings. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -3200,7 +3200,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3211,7 +3211,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3222,7 +3222,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 0.The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -3235,7 +3235,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is 1.The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -3248,7 +3248,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?, as we are not sure whether the palatal lamina is present. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -3259,7 +3259,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3270,7 +3270,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 The coding of *Meeksiella* is -.
@@ -3281,7 +3281,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 The coding of *Meeksiella* is -.
@@ -3292,7 +3292,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Eosteus* is ?.
 
@@ -3305,7 +3305,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved premaxillae.
 The coding of *Meeksiella* is -.
@@ -3316,7 +3316,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
 The coding of *Meeksiella* is -.
@@ -3327,7 +3327,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3338,7 +3338,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved maxillae.
 The coding of *Meeksiella* is -.
@@ -3349,7 +3349,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
@@ -3360,7 +3360,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3370,7 +3370,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3381,7 +3381,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
@@ -3392,7 +3392,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3403,7 +3403,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?, because of no preserved vomeral area.
 The coding of *Meeksiella* is ?.
@@ -3414,7 +3414,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3425,7 +3425,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -3436,7 +3436,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3449,7 +3449,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Achoania jarviki* is changed from ? to 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3460,7 +3460,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3471,7 +3471,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3482,7 +3482,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3493,7 +3493,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3504,7 +3504,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3515,7 +3515,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3526,7 +3526,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3543,7 +3543,7 @@ The coding of *Meeksiella* is ?.
 
 > -  LXY. The coding of *Onychodus jandemarrai* is changed from ? to 0 (Andrews et al., 2006).The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Powichthys thorsteinssoni* is changed from ? to 1 (Jessen, 1980). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). The coding of *Porolepis spp* is changed from ? to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from ? to 1 (Jarvik, 1972). The coding of *Gogonasus andrewsae* is changed from ? to 1 (Holland, 2014). The coding of *Eusthenopteron foordi* is changed from ? to 1 (Jarvik, 1980).
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -3556,7 +3556,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
@@ -3567,7 +3567,7 @@ The coding of *Meeksiella* is 1.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is -.
@@ -3578,7 +3578,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3593,7 +3593,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3606,7 +3606,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3617,7 +3617,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?, because of no preserved Infradentary.
 
@@ -3629,7 +3629,7 @@ The coding of *Meeksiella* is 0.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
 The coding of *Meeksiella* is -.
@@ -3640,7 +3640,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Infradentary.
 The coding of *Meeksiella* is -.
@@ -3651,7 +3651,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved mandible.
 The coding of *Meeksiella* is -.
@@ -3662,7 +3662,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?, because of no preserved Meckelian.
 The coding of *Meeksiella* is -.
@@ -3673,7 +3673,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
@@ -3684,7 +3684,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
@@ -3695,7 +3695,7 @@ The coding of *Meeksiella* is ?.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3706,7 +3706,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3717,7 +3717,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
@@ -3728,7 +3728,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3738,7 +3738,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3748,7 +3748,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3758,7 +3758,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3768,7 +3768,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3778,7 +3778,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3788,7 +3788,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -3798,7 +3798,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3808,7 +3808,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -3818,7 +3818,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3828,7 +3828,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -3838,7 +3838,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -3848,7 +3848,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*  and *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -3860,7 +3860,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3872,7 +3872,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3882,7 +3882,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -3892,7 +3892,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3902,7 +3902,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3912,7 +3912,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3924,7 +3924,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Quasipetalichthys haikouensis*,  *Pauropetalichthys magnoculus*,*Quasipetalichthys haikouensis*, *Ellopetalichthys scheii* , *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Qilinyu rostrata* should be revised from ? to 1.
 
@@ -3934,7 +3934,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3944,7 +3944,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -3954,7 +3954,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3964,7 +3964,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3974,7 +3974,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3984,7 +3984,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -3994,7 +3994,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4004,7 +4004,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4014,7 +4014,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4024,7 +4024,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4034,7 +4034,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4044,7 +4044,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4054,7 +4054,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4064,7 +4064,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4076,7 +4076,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4086,7 +4086,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4096,7 +4096,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ？.
 
@@ -4106,7 +4106,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4116,7 +4116,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4126,7 +4126,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4136,7 +4136,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4146,7 +4146,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
  
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4158,7 +4158,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4168,7 +4168,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4178,7 +4178,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4188,7 +4188,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4198,7 +4198,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4208,7 +4208,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4218,7 +4218,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4228,7 +4228,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4238,7 +4238,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4248,7 +4248,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4268,7 +4268,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4278,7 +4278,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4290,7 +4290,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4300,7 +4300,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4310,7 +4310,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4320,7 +4320,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4330,7 +4330,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of Petalichthyida should be revised frome ? to 0, because of the horizental direction of N.X. 
 
@@ -4340,7 +4340,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4350,7 +4350,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4360,7 +4360,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4370,7 +4370,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4380,7 +4380,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4390,7 +4390,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4400,7 +4400,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4412,7 +4412,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -4424,7 +4424,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -4438,7 +4438,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4448,7 +4448,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4458,7 +4458,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*， *Quasipetalichthys haikouensis*， *Eurycaraspis incilis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki*, *Bothriolepis spp* should be revised from ? to 1.
 
@@ -4468,7 +4468,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
@@ -4478,7 +4478,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is -. 
 
@@ -4488,7 +4488,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4500,7 +4500,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4510,7 +4510,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4520,7 +4520,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4530,7 +4530,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4540,7 +4540,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4550,7 +4550,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4562,7 +4562,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarviki* is changed from 0 to 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4576,7 +4576,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Psarolepis romeri* is changed from ? to 1. The coding of *Guiyu oneiros* is changed from ? to 1.  The coding of *Diabolepis speratus* is changed from ? to 1 (Qiao, 2011). The coding of *Porolepis spp* is changed from 0 to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from 0 to 1 (Jarvik, 1972).
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4588,7 +4588,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*，*Pauropetalichthys magnoculus* should be revised from ? to 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4600,7 +4600,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarviki* is changed from ? to 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4610,7 +4610,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4620,7 +4620,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4630,7 +4630,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is 2.
+> - The coding of *Lingyu* is 2.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to -.
 
@@ -4640,7 +4640,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4650,7 +4650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4660,7 +4660,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.  The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4670,7 +4670,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. he coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -4680,7 +4680,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4690,7 +4690,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4700,7 +4700,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4710,7 +4710,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Eurycaraspis incilis* should be revised from 0 to ?.
 
@@ -4720,7 +4720,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4730,7 +4730,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4740,7 +4740,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
@@ -4750,7 +4750,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4760,7 +4760,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4772,7 +4772,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4782,7 +4782,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0. 
 
@@ -4796,7 +4796,7 @@ The coding of *Meeksiella* is -.
 
 > - LXY. The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4806,7 +4806,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4816,7 +4816,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -4826,7 +4826,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4836,7 +4836,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4846,7 +4846,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4856,7 +4856,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4868,7 +4868,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -4878,7 +4878,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4890,7 +4890,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 1.
 
@@ -4902,7 +4902,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4912,7 +4912,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4922,7 +4922,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4932,7 +4932,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
@@ -4942,7 +4942,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4952,7 +4952,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -4964,7 +4964,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4974,7 +4974,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -4984,7 +4984,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -4994,7 +4994,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -5006,7 +5006,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to -.
 
@@ -5016,7 +5016,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
@@ -5026,7 +5026,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5038,7 +5038,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
 
@@ -5048,7 +5048,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -5058,7 +5058,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -5068,7 +5068,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5078,7 +5078,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5088,7 +5088,7 @@ The coding of *Meeksiella* is -.
 > 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -5098,7 +5098,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -5108,7 +5108,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5118,7 +5118,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5130,7 +5130,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5140,7 +5140,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5150,7 +5150,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5160,7 +5160,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5170,7 +5170,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5184,7 +5184,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5194,7 +5194,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5208,7 +5208,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?.The coding of *Megamastax amblyodus* is ?.The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -5222,7 +5222,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5234,7 +5234,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5246,7 +5246,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5258,7 +5258,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5268,7 +5268,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5278,7 +5278,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5290,7 +5290,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5300,7 +5300,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5310,7 +5310,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0. 
 
@@ -5320,7 +5320,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5330,7 +5330,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 >
@@ -5342,7 +5342,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -5352,7 +5352,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5364,7 +5364,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5374,7 +5374,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised fromr ? to 1.
 
@@ -5384,7 +5384,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised fromr ? to -. The coding of *Shearsbyaspis oepiki* should be revised fromr 0 to -.
 
@@ -5394,7 +5394,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5404,7 +5404,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -5414,7 +5414,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5424,7 +5424,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5434,7 +5434,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5444,7 +5444,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5454,7 +5454,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. This Character is not from Coates *et al*. (2018), Character 185.
 
@@ -5464,7 +5464,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5474,7 +5474,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -5484,7 +5484,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5494,7 +5494,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5504,7 +5504,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -5514,7 +5514,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5524,7 +5524,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5534,7 +5534,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5544,7 +5544,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5554,7 +5554,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 2.
 
@@ -5564,7 +5564,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -5574,7 +5574,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -5584,7 +5584,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5594,7 +5594,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5604,7 +5604,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5614,7 +5614,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5626,7 +5626,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5638,7 +5638,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 >
@@ -5650,7 +5650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5660,7 +5660,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5670,7 +5670,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5680,7 +5680,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -5690,7 +5690,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
 
@@ -5700,7 +5700,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5710,7 +5710,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5720,7 +5720,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5738,7 +5738,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -5750,7 +5750,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5762,7 +5762,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, should be revised from ? to 0.
 
@@ -5774,7 +5774,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5784,7 +5784,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5794,7 +5794,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?.
 
@@ -5804,7 +5804,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5814,7 +5814,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5824,7 +5824,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5834,7 +5834,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
 
@@ -5844,7 +5844,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5856,7 +5856,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarviki* is changed from ? to 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5866,7 +5866,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis* should be revised from ? to 0.
 
@@ -5876,7 +5876,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -5886,7 +5886,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -5896,7 +5896,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5906,7 +5906,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
@@ -5918,7 +5918,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
@@ -5928,7 +5928,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
@@ -5938,7 +5938,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5948,7 +5948,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -5966,7 +5966,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5976,7 +5976,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -5986,7 +5986,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6002,7 +6002,7 @@ The coding of *Meeksiella* is -.
 
 > - LXY. The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 1 (Andrews et al., 2006). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Miguashaia bureaui* is changed from ? to 1 (Forey, 1998). The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Styloichthys changae* is changed from ? to 1 (Zhu & Yu, 2002). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). 
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6016,7 +6016,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Achoania jarvikii*, *Psarolepis romeri*, *Guiyu oneiros*, *Kentuckia deani* (Giles & Friedman, 2014), *Mimipiscis toombsi* (Giles and Friedman, 2014), *Lawrenciella schaefferi* (Hamel and Poplin, 2008), *Powichthys thorsteinssoni* (G. Clément and P. E. Ahlberg) changed from ? to 1. The coding of *Qingmenodus yui* (Lu et al., 2016), *Youngolepis praecursor* (Chang, 1982), *Glyptolepis groenlandica* (Jarvik, 1972), *Gogonasus andrewsae* (Holland, 2014), *Eusthenopteron foordi* (Jarvik, 1980) changed from ? to 3. 
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6026,7 +6026,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6036,7 +6036,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6046,7 +6046,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6056,7 +6056,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6066,7 +6066,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6076,7 +6076,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6086,7 +6086,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6096,7 +6096,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6106,7 +6106,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis* should be revised from ? to 1.
 
@@ -6116,7 +6116,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6126,7 +6126,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6138,7 +6138,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 2.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6148,7 +6148,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6158,7 +6158,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6168,7 +6168,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6178,7 +6178,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6188,7 +6188,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6200,7 +6200,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6210,7 +6210,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6220,7 +6220,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6230,7 +6230,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6240,7 +6240,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6250,7 +6250,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Eurycaraspis incilis* *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to -.
 
@@ -6260,7 +6260,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6270,7 +6270,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6280,7 +6280,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6294,7 +6294,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis* should be revised from ? to 1.
 
@@ -6304,7 +6304,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -6314,7 +6314,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6326,7 +6326,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis*, *Shearsbyaspis oepiki* should be revised from ? to 1. The feature is euqal to an elongated occipital region; in Petalichthyida, the presence of two paranuchal plates certainly indicates the existence of an elongated occipital region.
 
@@ -6336,7 +6336,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6346,7 +6346,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 1.
+> - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6356,7 +6356,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6366,7 +6366,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
@@ -6378,7 +6378,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis*,*Shearsbyaspis oepiki* should be revised from ? to 0.
 
@@ -6388,7 +6388,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is 0.
+> - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Widjeaspis warrooensis*, should be revised from ? to 1.
 
@@ -6398,7 +6398,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -6408,7 +6408,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -6418,7 +6418,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6428,7 +6428,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
 
@@ -6440,7 +6440,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is -.
+> - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -6450,7 +6450,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6460,7 +6460,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6470,7 +6470,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6480,7 +6480,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
@@ -6490,7 +6490,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6500,7 +6500,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1，as in *Guiyu*. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6510,7 +6510,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0，as in *Guiyu*. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6520,7 +6520,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. However, the two plates are almost equal in size and shape, this charactere should really be revised. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -6530,7 +6530,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6540,7 +6540,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6550,7 +6550,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6560,7 +6560,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
@@ -6570,7 +6570,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6580,7 +6580,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6590,7 +6590,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6600,7 +6600,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6610,7 +6610,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?.
 
@@ -6620,7 +6620,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -6630,7 +6630,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6640,7 +6640,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6650,7 +6650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6660,7 +6660,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0, as in _Sparalepis_. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6670,7 +6670,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6680,7 +6680,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. Unknown from one single specimen (could be female). The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6690,7 +6690,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6700,7 +6700,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6710,7 +6710,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6722,7 +6722,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6732,7 +6732,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6742,7 +6742,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6752,7 +6752,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6764,7 +6764,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6774,7 +6774,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Diandongpetalichthys liaojiaoshanensis* should be revised from ? to 0.
 
@@ -6784,7 +6784,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 2. However, *Eosteus* has four median dorsals, the character formulation should be revised. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6794,7 +6794,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6804,7 +6804,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
@@ -6814,7 +6814,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6824,7 +6824,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -6836,7 +6836,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
@@ -6846,7 +6846,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6856,7 +6856,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6866,7 +6866,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6876,7 +6876,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6886,7 +6886,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6896,7 +6896,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -, as in the taxa without intermediate spines. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6906,7 +6906,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
@@ -6916,7 +6916,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
@@ -6926,7 +6926,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. Note that in the current dataset, the scutes are only present in *Lupopsyrus pygmaeus*. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6936,7 +6936,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6946,7 +6946,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6956,7 +6956,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -6966,7 +6966,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6976,7 +6976,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6986,7 +6986,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -6996,7 +6996,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7008,7 +7008,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
@@ -7018,7 +7018,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7028,7 +7028,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7038,7 +7038,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7048,7 +7048,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7058,7 +7058,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7068,7 +7068,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7078,7 +7078,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of petalichthyids should be revised from ? to 1.
 
@@ -7088,7 +7088,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7098,7 +7098,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7108,7 +7108,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, should be revised from ? to 0.
 
@@ -7118,7 +7118,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7128,7 +7128,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7138,7 +7138,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7148,7 +7148,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7158,7 +7158,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7168,7 +7168,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7178,7 +7178,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7188,7 +7188,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7198,7 +7198,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7208,7 +7208,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7218,7 +7218,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7228,7 +7228,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7238,7 +7238,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7248,7 +7248,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7258,7 +7258,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7268,7 +7268,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7278,7 +7278,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7288,7 +7288,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7298,7 +7298,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7308,7 +7308,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7320,7 +7320,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7336,7 +7336,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7346,7 +7346,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7356,7 +7356,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7366,7 +7366,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7376,7 +7376,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?
 
@@ -7388,7 +7388,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7398,7 +7398,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7408,7 +7408,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7418,7 +7418,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -7428,7 +7428,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7438,7 +7438,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7448,7 +7448,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7458,7 +7458,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7468,7 +7468,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7478,7 +7478,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7488,7 +7488,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7498,7 +7498,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7508,7 +7508,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7520,7 +7520,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7530,7 +7530,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7542,7 +7542,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7552,7 +7552,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7564,7 +7564,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1, as in *Guiyu* and *Sparalepis*. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7574,7 +7574,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -7586,7 +7586,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
@@ -7598,7 +7598,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7608,7 +7608,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7620,7 +7620,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7630,7 +7630,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
 
@@ -7640,7 +7640,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0, as in *Guiyu*. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7650,7 +7650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7660,7 +7660,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7670,7 +7670,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7680,7 +7680,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7692,7 +7692,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7704,7 +7704,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7714,7 +7714,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7724,7 +7724,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7734,7 +7734,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7748,7 +7748,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7760,7 +7760,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7772,7 +7772,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7784,7 +7784,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7796,7 +7796,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7808,7 +7808,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7822,7 +7822,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7833,7 +7833,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7846,7 +7846,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7858,7 +7858,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7869,7 +7869,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7886,7 +7886,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7900,7 +7900,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 1.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7912,7 +7912,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7922,7 +7922,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -7934,7 +7934,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Styloichthys* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -7946,7 +7946,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax amblyodus* is -.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to -.
 
@@ -7960,7 +7960,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* should be revised from ? to 0.
 
@@ -7970,7 +7970,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. Since the coding of *Diandongpetalichthys liaojiaoshanensis* is 1, does this charater means the size of the Rostral plate? Why the coding of *Eurycaraspis incilis* Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* is ?.
 
@@ -7980,7 +7980,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is 0, same to actinopterygians and Onychodus. Note that the previous definition is reversed to be consistent with the matrix. The coding of *Megamastax amblyodus* is 0.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -7990,7 +7990,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
 
@@ -8000,7 +8000,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. he coding of *Macropetalichthys rapheidolabis* should be revised from - to ?.
 
@@ -8010,7 +8010,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -8022,7 +8022,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax amblyodus* is ?.
 
-> - The coding of *Meemannia*_like fish is ?.
+> - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
