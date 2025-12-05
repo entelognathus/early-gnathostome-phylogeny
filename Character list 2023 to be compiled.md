@@ -6588,7 +6588,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
-598. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
+### 598. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
 
 > King *et al*. (2017), Character 325; Castiello (2018), Character 317; Zhu Y. *et al*. (2022), Character 604; Brazeau *et al*. (2023), Character 330. Cui *et al*. (2023), Character 603; Lu *et al*. (in review), Character 598; Zhu Y. *et al*. (in review), Character 598.
 
@@ -6600,7 +6600,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
-599. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
+### 599. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 326; Castiello (2018), Character 318; Zhu Y. *et al*. (2022), Character 605; Brazeau *et al*. (2023), Character 331. Cui *et al*. (2023), Character 604; Lu *et al*. (in review), Character 599; Zhu Y. *et al*. (in review), Character 599.
 
@@ -6610,7 +6610,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-600. Horizontal caudal lobe: (0) absent; (1) present.
+### 600. Horizontal caudal lobe: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 451; Castiello (2018), Character 440; Zhu Y. *et al*. (2022), Character 606; Brazeau *et al*. (2023), Character 456. Cui *et al*. (2023), Character 605; Lu *et al*. (in review), Character 600; Zhu Y. *et al*. (in review), Character 600.
 
@@ -6620,7 +6620,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-601. Triphycercal tail: (0) absent; (1) present.
+### 601. Triphycercal tail: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 4521; Castiello (2018), Character 441; Zhu Y. *et al*. (2022), Character 607; Brazeau *et al*. (2023), Character 457. Cui *et al*. (2023), Character 606; Lu *et al*. (in review), Character 601; Zhu Y. *et al*. (in review), Character 601.
 
@@ -6630,7 +6630,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-602. Spine-brush complex: (0) absent; (1) present.
+### 602. Spine-brush complex: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 479; Castiello (2018), Character 468; Zhu Y. *et al*. (2022), Character 608; Brazeau *et al*. (2023), Character 484. Cui *et al*. (2023), Character 607; Lu *et al*. (in review), Character 602; Zhu Y. *et al*. (in review), Character 602.
 
@@ -6640,7 +6640,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-603. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
+### 603. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. *et al*. (2022), Character 609; Brazeau *et al*. (2023), Character 485. Cui *et al*. (2023), Character 608; Lu *et al*. (in review), Character 603; Zhu Y. *et al*. (in review), Character 603.
 
@@ -6650,7 +6650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-604. Intermediate spines with finlets: (0) absent; (1) present.
+### 604. Intermediate spines with finlets: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. *et al*. (2022), Character 610; Brazeau *et al*. (2023), Character 486. Cui *et al*. (2023), Character 609; Lu *et al*. (in review), Character 604; Zhu Y. *et al*. (in review), Character 604.
 
@@ -6660,7 +6660,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-605. Median ventral prepectoral spine: (0) absent; (1) present.
+### 605. Median ventral prepectoral spine: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 482; Castiello (2018), Character 471; Zhu Y. *et al*. (2022), Character 611; Andreev *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 487. Cui *et al*. (2023), Character 610; Lu *et al*. (in review), Character 605; Zhu Y. *et al*. (in review), Character 605.
 
@@ -6670,7 +6670,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
-606. Prepectoral spines form "necklace": (0) absent; (1) present.
+### 606. Prepectoral spines form "necklace": (0) absent; (1) present.
 
 > King *et al*. (2017), Character 483; Castiello (2018), Character 472; Zhu Y. *et al*. (2022), Character 612; Brazeau *et al*. (2023), Character 488. Cui *et al*. (2023), Character 611; Lu *et al*. (in review), Character 606; Zhu Y. *et al*. (in review), Character 606.
 
@@ -6680,7 +6680,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
-607. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
+### 607. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 484; Castiello (2018), Character 473; Zhu Y. *et al*. (2022), Character 613; Brazeau *et al*. (2023), Character 489. Cui *et al*. (2023), Character 612; Lu *et al*. (in review), Character 607; Zhu Y. *et al*. (in review), Character 607.
 
@@ -6690,7 +6690,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-608. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
+### 608. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
 
 > Zhu  *et al*. (2009, Character 130), and references therein; Zhu *et al*., (2013), Character 250; Giles *et al*. (2015), Character 201; Choo *et al*. (2017), Character 233; King *et al*. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. *et al*. (2022), Character 614; Brazeau *et al*. (2023), Character 414. Cui *et al*. (2023), Character 613; Lu *et al*. (in review), Character 608; Zhu Y. *et al*. (in review), Character 608.
 
@@ -6700,7 +6700,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-609. Triradiate scapulocoracoid: (0) absent; (1) present.
+### 609. Triradiate scapulocoracoid: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415. Cui *et al*. (2023), Character 614; Lu *et al*. (in review), Character 609; Zhu Y. *et al*. (in review), Character 609.
 
@@ -6710,7 +6710,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
+### 610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616; Andreev *et al*. (2022), Character 192; Brazeau *et al*. (2023), Character 407. Cui *et al*. (2023), Character 615; Lu *et al*. (in review), Character 610; Zhu Y. *et al*. (in review), Character 610.
 
@@ -6720,7 +6720,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
+### 611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. *et al*. (2022), Character 617; Brazeau *et al*. (2023), Character 424. Cui *et al*. (2023), Character 616; Lu *et al*. (in review), Character 611; Zhu Y. *et al*. (in review), Character 611.
 
@@ -6730,7 +6730,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-612. Subscapular foramen: (0) absent; (1) present.
+### 612. Subscapular foramen: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 129), and references therein; Zhu *et al*. (2013), Character 249; Choo *et al*. (2017), Character 237; King *et al*. (2017), Character 411; Castiello (2018), Character 400; Zhu Y. *et al*. (2022), Character 618; Brazeau *et al*. (2023), Character 416. Cui *et al*. (2023), Character 617; Lu *et al*. (in review), Character 612; Zhu Y. *et al*. (in review), Character 612.
 
@@ -6740,7 +6740,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
+### 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
 
 > Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Andreev *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 403. Cui *et al*. (2023), Character 618; Lu *et al*. (in review), Character 613; Zhu Y. *et al*. (in review), Character 613.
 
@@ -6750,7 +6750,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-614. Scapular process with posterodorsal angle: (0) absent; (1) present.
+### 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
 
 > Coates & Sequeira (2001a, b); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Andreev *et al*. (2022), Character 193; Zhu Y. *et al*. (2022), Character 620. Cui *et al*. (2023), Character 619; Lu *et al*. (in review), Character 614; Zhu Y. *et al*. (in review), Character 614.
 
@@ -6760,7 +6760,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-615. Scapular infundibulum: (0) absent; (1) present.
+### 615. Scapular infundibulum: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 190; Choo *et al*. (2017), Character 309; King *et al*. (2017), Character 413; Castiello (2018), Character 402; Zhu Y. *et al*. (2022), Character 621; Andreev *et al*. (2022), Character 188; Brazeau *et al*. (2023), Character 418. Cui *et al*. (2023), Character 620; Lu *et al*. (in review), Character 615; Zhu Y. *et al*. (in review), Character 615.
 
@@ -6772,7 +6772,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
-616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
+### 616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
 
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Andreev *et al*. (2022), Character 190; Brazeau *et al*. (2023), Character 404. Cui *et al*. (2023), Character 621; Lu *et al*. (in review), Character 616; Zhu Y. *et al*. (in review), Character 616.
 
@@ -6782,7 +6782,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
+### 617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623; Andreev *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 405. Cui *et al*. (2023), Character 622; Lu *et al*. (in review), Character 617; Zhu Y. *et al*. (in review), Character 617.
 
@@ -6792,7 +6792,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
+### 618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Andreev *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 408. Cui *et al*. (2023), Character 623; Lu *et al*. (in review), Character 618; Zhu Y. *et al*. (in review), Character 618.
 
@@ -6802,7 +6802,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
+### 619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625; Andreev *et al*. (2022), Character 195; Brazeau *et al*. (2023), Character 409. Cui *et al*. (2023), Character 624; Lu *et al*. (in review), Character 619; Zhu Y. *et al*. (in review), Character 619.
 
@@ -6812,7 +6812,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-620. Coracoid process: (0) absent; (1) present.
+### 620. Coracoid process: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Andreev *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 410. Cui *et al*. (2023), Character 625; Lu *et al*. (in review), Character 620; Zhu Y. *et al*. (in review), Character 620.
 
@@ -6822,7 +6822,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-621. Procoracoid mineralisation: (0) absent; (1) present.
+### 621. Procoracoid mineralisation: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627; Andreev *et al*. (2022), Character 197; Brazeau *et al*. (2023), Character 411. Cui *et al*. (2023), Character 626; Lu *et al*. (in review), Character 621; Zhu Y. *et al*. (in review), Character 621.
 
@@ -6832,7 +6832,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-622. Paired (pectoral) fins: (0) absent; (1) present.
+### 622. Paired (pectoral) fins: (0) absent; (1) present.
 
 > Castiello (2018), Character 382; Zhu Y. *et al*. (2022), Character 628. Cui *et al*. (2023), Character 627; Lu *et al*. (in review), Character 622; Zhu Y. *et al*. (in review), Character 622.
 
@@ -6842,7 +6842,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is 1. The coding of petalichthyids should be revised from ? to 1.
 
-623. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
+### 623. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 124; Choo *et al*. (2017), Character 120; Zhu Y. *et al*. (2022), Character 629; Andreev *et al*. (2022), Character 209; Brazeau *et al*. (2023), Character 433. Cui *et al*. (2023), Character 628; Lu *et al*. (in review), Character 623; Zhu Y. *et al*. (in review), Character 623.
 
@@ -6852,7 +6852,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-624. Armoured pectoral appendage: (0) unjointed; (1) jointed.
+### 624. Armoured pectoral appendage: (0) unjointed; (1) jointed.
 
 > Zhu *et al*. (2016), Character 371; Zhu Y. *et al*. (2021), Character 330; Zhu Y. *et al*. (2022), Character 630. Cui *et al*. (2023), Character 629; Lu *et al*. (in review), Character 624; Zhu Y. *et al*. (in review), Character 624.
 
@@ -6862,7 +6862,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-625. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
+### 625. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 125; Choo *et al*. (2017), Character 121; King *et al*. (2017), Character 427; Castiello (2018), Character 416; Andreev *et al*. (2022), Character 210; Zhu Y. *et al*. (2022), Character 631. Cui *et al*. (2023), Character 630; Lu *et al*. (in review), Character 625; Zhu Y. *et al*. (in review), Character 625.
 
@@ -6872,7 +6872,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, should be revised from ? to 0.
 
-626. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
+### 626. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
 
 > Choo *et al*. (2017), Character 310; King *et al*. (2017), Character 414; Coates *et al*. (2018), Character 227; Castiello (2018), Character 403; Zhu Y. *et al*. (2022), Character 632; Andreev *et al*. (2022), Characters 199 and 200; Brazeau *et al*. (2023), Character 419. Cui *et al*. (2023), Character 631; Lu *et al*. (in review), Character 626; Zhu Y. *et al*. (in review), Character 626.
 
@@ -6882,7 +6882,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-627. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
+### 627. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
 
 > Choo *et al*. (2017), Character 115; King *et al*. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. *et al*. (2022), Character 633; Andreev *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 412. Cui *et al*. (2023), Character 632; Lu *et al*. (in review), Character 627; Zhu Y. *et al*. (in review), Character 627.
 
@@ -6892,7 +6892,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
+### 628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
 
 > Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu *et al.* (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Andreev *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 428. Cui *et al*. (2023), Character 633; Lu *et al*. (in review), Character 620; Zhu Y. *et al*. (in review), Character 628.
 
@@ -6902,7 +6902,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-629. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
+### 629. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 205; Choo *et al*. (2017), Character 312; King *et al*. (2017), Character 416; Castiello (2018), Character 405; Zhu Y. *et al*. (2022), Character 635; Andreev *et al*. (2022), Character 203; Brazeau *et al*. (2023), Character 421. Cui *et al*. (2023), Character 634; Lu *et al*. (in review), Character 629; Zhu Y. *et al*. (in review), Character 629.
 
@@ -6912,7 +6912,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-630. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
+### 630. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 207; Choo *et al*. (2017), Character 313; King *et al*. (2017), Character 417; Castiello (2018), Character 406; Zhu Y. *et al*. (2022), Character 636; Andreev *et al*. (2022), Character 205; Brazeau *et al*. (2023), Character 422. Cui *et al*. (2023), Character 635; Lu *et al*. (in review), Character 630; Zhu Y. *et al*. (in review), Character 630.
 
@@ -6922,7 +6922,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-631. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
+### 631. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 228; Zhu Y. *et al*. (2022), Character 637. Cui *et al*. (2023), Character 636; Lu *et al*. (in review), Character 631; Zhu Y. *et al*. (in review), Character 631.
 
@@ -6932,7 +6932,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-632. Metapterygial whip: (0) absent; (1) present.
+### 632. Metapterygial whip: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 229; Zhu Y. *et al*. (2022), Character 638. Cui *et al*. (2023), Character 637; Lu *et al*. (in review), Character 632; Zhu Y. *et al*. (in review), Character 632.
 
@@ -6942,7 +6942,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-633. Pectoral propterygium: (0) absent; (1) present.
+### 633. Pectoral propterygium: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 131), and references therein; Zhu *et al*. (2013), Character 251; Choo *et al*. (2017), Character 238; King *et al*. (2017), Character 412; Castiello (2018), Character 401; Zhu Y. *et al*. (2022), Character 639; Brazeau *et al*. (2023), Character 417. Cui *et al*. (2023), Character 638; Lu *et al*. (in review), Character 633; Zhu Y. *et al*. (in review), Character 633.
 
@@ -6952,7 +6952,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-634. Perforate propterygium: (0) absent; (1) present.
+### 634. Perforate propterygium: (0) absent; (1) present.
 
 > Rosen  *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640; Andreev *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 413. Cui *et al*. (2023), Character 639; Lu *et al*. (in review), Character 634; Zhu Y. *et al*. (in review), Character 634.
 
@@ -6962,7 +6962,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-635. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
+### 635. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
 
 > King *et al*. (2017), Character 420; Castiello (2018), Character 409; Zhu Y. *et al*. (2022), Character 641; Brazeau *et al*. (2023), Character 425. Cui *et al*. (2023), Character 640; Lu *et al*. (in review), Character 635; Zhu Y. *et al*. (in review), Character 635.
 
@@ -6972,7 +6972,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-636. Pelvic fins: (0) absent; (1) present.
+### 636. Pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 121; Choo *et al*. (2017), Character 117; King *et al*. (2017), Character 394; Castiello (2018), Character 384; Zhu Y. *et al*. (2022), Character 642; Andreev *et al*. (2022), Character 206; Brazeau *et al*. (2023), Character 399. Cui *et al*. (2023), Character 641; Lu *et al*. (in review), Character 636; Zhu Y. *et al*. (in review), Character 636.
 
@@ -6982,7 +6982,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
+### 637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
 
 > Zhu  *et al*. (2012b); Zhu *et al*. (2013), Character 252; Choo *et al*. (2017), Character 239; King *et al*. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. *et al*. (2022), Character 643; Andreev *et al*. (2022), Character 274; Brazeau *et al*. (2023), Character 438. Cui *et al*. (2023), Character 642. Trinajstic *et al*. (2019), character 28; Lu *et al*. (in review), Character 637; Zhu Y. *et al*. (in review), Character 637.
 
@@ -6992,7 +6992,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-638. Dermal pelvic clasper ossifications: (0) absent; (1) present.
+### 638. Dermal pelvic clasper ossifications: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 123; Choo *et al*. (2017), Character 119; King *et al*. (2017), Character 396; Castiello (2018), Character 386; Andreev *et al*. (2022), Character 208; Zhu Y. *et al*. (2022), Character 644. Cui *et al*. (2023), Character 643; Lu *et al*. (in review), Character 638; Zhu Y. *et al*. (in review), Character 638.
 
@@ -7002,7 +7002,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-639. Pelvic fin: (0) monobasal; (1) polybasal.
+### 639. Pelvic fin: (0) monobasal; (1) polybasal.
 
 > Lu *et al*. (2017), Character 278; Zhu Y. *et al*. (2022), Character 645; Andreev *et al*. (2022), Character 276. Cui *et al*. (2023), Character 644; Lu *et al*. (in review), Character 639; Zhu Y. *et al*. (in review), Character 639.
 
@@ -7012,7 +7012,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-640. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
+### 640. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
 
 > Janvier (1996); Davis *et al*. (2012), Character 122; Choo *et al*. (2017), Character 118; Zhu Y. *et al*. (2022), Character 646; Brazeau *et al*. (2023), Character 400. Cui *et al*. (2023), Character 645; Lu *et al*. (in review), Character 640; Zhu Y. *et al*. (in review), Character 640.
 
@@ -7022,7 +7022,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-641. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
+### 641. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 258; Choo *et al*. (2017), Character 250; Zhu Y. *et al*. (2022), Character 647; Brazeau *et al*. (2023), Character 401. Cui *et al*. (2023), Character 646; Lu *et al*. (in review), Character 641; Zhu Y. *et al*. (in review), Character 641.
 
@@ -7032,7 +7032,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
+### 642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
 
 > Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402. Cui *et al*. (2023), Character 647; Lu *et al*. (in review), Character 642; Zhu Y. *et al*. (in review), Character 642.
 
@@ -7042,7 +7042,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
+### 643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 233; Zhu Y. *et al*. (2022), Character 649. Cui *et al*. (2023), Character 648; Lu *et al*. (in review), Character 643; Zhu Y. *et al*. (in review), Character 643.
 
@@ -7052,7 +7052,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
+### 644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 234; Zhu Y. *et al*. (2022), Character 650. Cui *et al*. (2023), Character 649; Lu *et al*. (in review), Character 644; Zhu Y. *et al*. (in review), Character 644.
 
@@ -7062,7 +7062,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
+### 645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 236; Zhu Y. *et al*. (2022), Character 651. Cui *et al*. (2023), Character 650; Lu *et al*. (in review), Character 645; Zhu Y. *et al*. (in review), Character 645.
 
@@ -7072,7 +7072,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-646. Number of dorsal fins, if present: (0) one; (1) two.
+### 646. Number of dorsal fins, if present: (0) one; (1) two.
 
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Andreev *et al*. (2022), Character 226; Brazeau *et al*. (2023), Character 455. Cui *et al*. (2023), Character 651; Lu *et al*. (in review), Character 646; Zhu Y. *et al*. (in review), Character 646.
 
@@ -7084,7 +7084,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
+### 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
 
 > Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Andreev *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 481. Cui *et al*. (2023), Character 652; Lu *et al*. (in review), Character 647; Zhu Y. *et al*. (in review), Character 647.
 
@@ -7100,7 +7100,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-648. Basal plate in dorsal fin: (0) absent; (1) present.
+### 648. Basal plate in dorsal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 230; Choo *et al*. (2017), Character 321; King *et al*. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. *et al*. (2022), Character 654; Andreev *et al*. (2022), Character 228; Brazeau *et al*. (2023), Character 482. Cui *et al*. (2023), Character 653; Lu *et al*. (in review), Character 648; Zhu Y. *et al*. (in review), Character 648.
 
@@ -7110,7 +7110,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
+### 649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 231; Choo *et al*. (2017), Character 322; King *et al*. (2017), Character 456; Castiello (2018), Character 445; Zhu Y. *et al*. (2022), Character 655; Andreev *et al*. (2022), Character 229; Brazeau *et al*. (2023), Character 461. Cui *et al*. (2023), Character 654; Lu *et al*. (in review), Character 649; Zhu Y. *et al*. (in review), Character 649.
 
@@ -7120,7 +7120,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-650. Branching radials in paired fins: (0) absent; (1) present.
+### 650. Branching radials in paired fins: (0) absent; (1) present.
 
 > Zhu Y. *et al*. (2021), Character 197; Zhu Y. *et al*. (2022), Character 656; Andreev *et al*. (2022), Character 200. Cui *et al*. (2023), Character 655; Lu *et al*. (in review), Character 650; Zhu Y. *et al*. (in review), Character 650.
 
@@ -7130,7 +7130,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
+### 651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 241; Zhu Y. *et al*. (2022), Character 657. Cui *et al*. (2023), Character 656; Lu *et al*. (in review), Character 651; Zhu Y. *et al*. (in review), Character 651.
 
@@ -7140,7 +7140,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?
 
-652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
+### 652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658. Cui *et al*. (2023), Character 657; Lu *et al*. (in review), Character 652; Zhu Y. *et al*. (in review), Character 652.
 
@@ -7152,7 +7152,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-653. Anal fin: (0) absent; (1) present.
+### 653. Anal fin: (0) absent; (1) present.
 
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (in review), Character 653; Zhu Y. *et al*. (in review), Character 653.
 
@@ -7162,7 +7162,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-654. Basal plate in anal fin: (0) absent; (1) present.
+### 654. Basal plate in anal fin: (0) absent; (1) present.
 
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 233; Choo *et al*. (2017), Character 323; King *et al*. (2017), Character 478; Castiello (2018), Character 467; Zhu Y. *et al*. (2022), Character 660; Andreev *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 483. Cui *et al*. (2023), Character 659; Lu *et al*. (in review), Character 654; Zhu Y. *et al*. (in review), Character 654.
 
@@ -7172,7 +7172,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
+### 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661. Cui *et al*. (2023), Character 660; Lu *et al*. (in review), Character 655; Zhu Y. *et al*. (in review), Character 655.
 
@@ -7182,7 +7182,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is 0.
 
-656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
+### 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
 
 > Davis *et al*. (2012), Character 138; Choo *et al*. (2017), Character 134; King *et al*. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. *et al*. (2022), Character 662; Andreev *et al*. (2022), Character 232; Brazeau *et al*. (2023), Character 458. Cui *et al*. (2023), Character 661; Lu *et al*. (in review), Character 656; Zhu Y. *et al*. (in review), Character 656.
 
@@ -7192,7 +7192,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-657. Series of thoracic supraneurals: (0) absent; (1) present.
+### 657. Series of thoracic supraneurals: (0) absent; (1) present.
 
 > Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu *et al.* (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Andreev *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 460. Cui *et al*. (2023), Character 662; Lu *et al*. (in review), Character 657; Zhu Y. *et al*. (in review), Character 657.
 
@@ -7202,7 +7202,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
+### 658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 235; Choo *et al*. (2017), Character 314; King *et al*. (2017), Character 454; Castiello (2018), Character 443; Zhu Y. *et al*. (2022), Character 664; Andreev *et al*. (2022), Character 233; Brazeau *et al*. (2023), Character 459. Cui *et al*. (2023), Character 663; Lu *et al*. (in review), Character 658; Zhu Y. *et al*. (in review), Character 658.
 
@@ -7212,7 +7212,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
+### 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
 
 > Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665. Cui *et al*. (2023), Character 664; Lu *et al*. (in review), Character 659; Zhu Y. *et al*. (in review), Character 659.
 
@@ -7222,7 +7222,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-660. Synarcual: (0) absent; (1) present.
+### 660. Synarcual: (0) absent; (1) present.
 
 > Brazeau (2009); Davis *et al*. (2012), Character 135; Choo *et al*. (2017), Character 131; King *et al*. (2017), Character 465; Castiello (2018), Character 454; Zhu Y. *et al*. (2022), Character 666; Andreev *et al*. (2022), Character 224; Brazeau *et al*. (2023), Character 470. Cui *et al*. (2023), Character 665; Lu *et al*. (in review), Character 660; Zhu Y. *et al*. (in review), Character 660.
 
@@ -7232,7 +7232,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-661. Calcified vertebral centra: (0) absent; (1) present.
+### 661. Calcified vertebral centra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 207; Zhu Y. *et al*. (2022), Character 667. Cui *et al*. (2023), Character 666; Lu *et al*. (in review), Character 661; Zhu Y. *et al*. (in review), Character 661.
 
@@ -7242,7 +7242,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-662. Chordacentra: (0) absent; (1) present.
+### 662. Chordacentra: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 208; Zhu Y. *et al*. (2022), Character 668.Cui *et al*. (2023), Character 667; Lu *et al*. (in review), Character 662; Zhu Y. *et al*. (in review), Character 662.
 
@@ -7252,7 +7252,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
+### 663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 209; Zhu Y. *et al*. (2022), Character 669. Cui *et al*. (2023), Character 668; Lu *et al*. (in review), Character 663; Zhu Y. *et al*. (in review), Character 663.
 
@@ -7262,7 +7262,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
+### 664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 240; Zhu Y. *et al*. (2022), Character 670. Cui *et al*. (2023), Character 669; Lu *et al*. (in review), Character 664; Zhu Y. *et al*. (in review), Character 664.
 
@@ -7274,7 +7274,7 @@ The coding of *Meeksiella* is -.
 
 ## Spines: fins, cranial and elsewhere
 
-665. Dorsal fin spine: (0) absent; (1) present.
+### 665. Dorsal fin spine: (0) absent; (1) present.
 
 > Zhu  *et al*. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 126; Choo *et al*. (2017), Character 122; King *et al*. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. *et al*. (2022), Character 671; Andreev *et al*. (2022), Character 211; Brazeau *et al*. (2023), Character 462. Cui *et al*. (2023), Character 670; Lu *et al*. (in review), Character 665; Zhu Y. *et al*. (in review), Character 665.
 
@@ -7294,7 +7294,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-667. Anal fin spine: (0) absent; (1) present.
+### 667. Anal fin spine: (0) absent; (1) present.
 
 > Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Andreev *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 471. Cui *et al*. (2023), Character 672; Lu *et al*. (in review), Character 667; Zhu Y. *et al*. (in review), Character 667.
 
@@ -7306,7 +7306,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-668. Pectoral fin spine: (0) absent; (1) present.
+### 668. Pectoral fin spine: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674; Andreev *et al*. (2022), Character 213. Cui *et al*. (2023), Character 673; Lu *et al*. (in review), Character 668; Zhu Y. *et al*. (in review), Character 668.
 
@@ -7316,7 +7316,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-669. Pelvic fin spine: (0) absent; (1) present.
+### 669. Pelvic fin spine: (0) absent; (1) present.
 
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Andreev *et al*. (2022), Character 275; Brazeau *et al*. (2023), Character 439. Cui *et al*. (2023), Character 674; Lu *et al*. (in review), Character 669; Zhu Y. *et al*. (in review), Character 669.
 
@@ -7328,7 +7328,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
+### 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Andreev *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 464. Cui *et al*. (2023), Character 675; Lu *et al*. (in review), Character 670; Zhu Y. *et al*. (in review), Character 670.
 
@@ -7338,7 +7338,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
-671. Intermediate (prepelvic) fin spines: (0) absent; (1) present.
+### 671. Intermediate (prepelvic) fin spines: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 130; Choo *et al*. (2017), Character 126; King *et al*. (2017), Character 460; Castiello (2018), Character 449; Zhu Y. *et al*. (2022), Character 677; Andreev *et al*. (2022), Character 215; Brazeau *et al*. (2023), Character 465. Cui *et al*. (2023), Character 676; Lu *et al*. (in review), Character 671; Zhu Y. *et al*. (in review), Character 671.
 
@@ -7350,7 +7350,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
-672. Intermediate (prepelvic) spines when present: (0) one pair; (1) multiple pairs.
+### 672. Intermediate (prepelvic) spines when present: (0) one pair; (1) multiple pairs.
 
 > Giles *et al*. (2015), Character 219; Choo *et al*. (2017), Character 316; King *et al*. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. *et al*. (2022), Character 678; Andreev *et al*. (2022), Character 217; Brazeau *et al*. (2023), Character 478. Cui *et al*. (2023), Character 677; Lu *et al*. (in review), Character 672; Zhu Y. *et al*. (in review), Character 672.
 
@@ -7362,7 +7362,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-673. Prepectoral fin spines: (0) absent; (1) present.
+### 673. Prepectoral fin spines: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Andreev *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 466. Cui *et al*. (2023), Character 678; Lu *et al*. (in review), Character 673; Zhu Y. *et al*. (in review), Character 673.
 
@@ -7372,7 +7372,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
+### 674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 256. Dearden *et al*. (2019), Character 261; Zhu Y. *et al*. (2022), Character 680; Andreev *et al*. (2022), Character 287. Cui *et al*. (2023), Character 679.; Lu *et al*. (in review), Character 674; Zhu Y. *et al*. (in review), Character 674
 >
@@ -7384,7 +7384,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-675. Cephalic spines: (0) absent; (1) present.
+### 675. Cephalic spines: (0) absent; (1) present.
 
 > Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681. Cui *et al*. (2023), Character 680; Lu *et al*. (in review), Character 675; Zhu Y. *et al*. (in review), Character 675.
 
@@ -7394,7 +7394,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is 0.
 
-676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
+### 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682. Cui *et al*. (2023), Character 681; Lu *et al*. (in review), Character 676; Zhu Y. *et al*. (in review), Character 676.
 
@@ -7404,7 +7404,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-677. Fin spines with ridges: (0) absent; (1) present.
+### 677. Fin spines with ridges: (0) absent; (1) present.
 
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Andreev *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 467. Cui *et al*. (2023), Character 682; Lu *et al*. (in review), Character 677; Zhu Y. *et al*. (in review), Character 677.
 
@@ -7414,7 +7414,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-678. Fin spines with nodes: (0) absent; (1) present.
+### 678. Fin spines with nodes: (0) absent; (1) present.
 
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Andreev *et al*. (2022), Character 220; Brazeau *et al*. (2023), Character 468. Cui *et al*. (2023), Character 683; Lu *et al*. (in review), Character 678; Zhu Y. *et al*. (in review), Character 678.
 
@@ -7424,7 +7424,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
+### 679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 134; Choo *et al*. (2017), Character 130; King *et al*. (2017), Character 464; Castiello (2018), Character 453; Zhu Y. *et al*. (2022), Character 685; Andreev *et al*. (2022), Character 221; Brazeau *et al*. (2023), Character 469. Cui *et al*. (2023), Character 684; Lu *et al*. (in review), Character 679; Zhu Y. *et al*. (in review), Character 679.
 
@@ -7434,7 +7434,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
+### 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
 
 > Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686. Cui *et al*. (2023), Character 685; Lu *et al*. (in review), Character 680; Zhu Y. *et al*. (in review), Character 680.
 
@@ -7444,7 +7444,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
+### 681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
 
 > Giles *et al*. (2015), Character 218; Choo *et al*. (2017), Character 315; King *et al*. (2017), Character 472; Castiello (2018), Character 461; Zhu Y. *et al*. (2022), Character 687; Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 477. Cui *et al*. (2023), Character 686; Lu *et al*. (in review), Character 681; Zhu Y. *et al*. (in review), Character 681.
 
@@ -7456,7 +7456,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
+### 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
 
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688;  Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 479. Cui *et al*. (2023), Character 687; Lu *et al*. (in review), Character 682; Zhu Y. *et al*. (in review), Character 682.
 
@@ -7468,7 +7468,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
+### 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
 
 > Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Andreev *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 480. Cui *et al*. (2023), Character 688; Lu *et al*. (in review), Character 683; Zhu Y. *et al*. (in review), Character 683.
 
@@ -7478,7 +7478,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
+### 684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
 
 > Coates *et al*. (2018), Character 250; Zhu Y. *et al*. (2022), Character 690. Cui *et al*. (2023), Character 689; Lu *et al*. (in review), Character 684; Zhu Y. *et al*. (in review), Character 684.
 
@@ -7488,7 +7488,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
+### 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
 
 > Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691. Cui *et al*. (2023), Character 690; Lu *et al*. (in review), Character 685; Zhu Y. *et al*. (in review), Character 685.
 
@@ -7500,7 +7500,7 @@ The coding of *Meeksiella* is -.
 
 ## Newly-added characters
 
-686. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
+### 686. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 
 > Cui *et al*. (2023), Character 691; Lu *et al*. (in review), Character 686; Zhu Y. *et al*. (in review), Character 686. 
 
@@ -7512,7 +7512,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
+### 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 692; Lu *et al*. (in review), Character 687; Zhu Y. *et al*. (in review), Character 687.
 
@@ -7524,7 +7524,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
+### 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 693; Lu *et al*. (in review), Character 688; Zhu Y. *et al*. (in review), Character 688.
 
@@ -7536,7 +7536,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
+### 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
 
 > Cui *et al*. (2023), Character 694; Lu *et al*. (in review), Character 689; Zhu Y. *et al*. (in review), Character 689.
 
@@ -7548,7 +7548,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
+### 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 333, in part; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part; Lu *et al*. (in review), Character 690; Zhu Y. *et al*. (in review), Character 690.
 
@@ -7560,7 +7560,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-691. Coronoids (*sensu stricto*): (0) absent, (1) present.
+### 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
 
 > Lu *et al*. (in review), Character 691; Zhu Y. *et al*. (in review), Character 691.
 
@@ -7572,7 +7572,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
+### 692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
 
 > Lu *et al*. (in review), Character 692; Zhu Y. *et al*. (in review), Character 692.
 
@@ -7586,7 +7586,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
+### 693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
 > Lu *et al*. (in review), Character 693; Zhu Y. *et al*. (in review), Character 693.
 
 > - New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
@@ -7597,7 +7597,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
+### 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 > Lu *et al*. (in review), Character 694; Zhu Y. *et al*. (in review), Character 694.
 
 > - New character. This character is relative to Character 20 "Resorption and redeposition of odontodes of dermal plates". The conditions of odontodes of dermal bones and body scales may be different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
@@ -7610,7 +7610,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-695. Buried odontodes of body scales: (0) absent, (1) present.
+### 695. Buried odontodes of body scales: (0) absent, (1) present.
 
 > Andreev *et al*. (2022), Character 17; Lu *et al*. (in review), Character 695; Zhu Y. *et al*. (in review), Character 695.
 
@@ -7622,7 +7622,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
+### 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
 > Lu *et al*. (in review), Character 696; Zhu Y. *et al*. (in review), Character 696.
 
 > - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
@@ -7634,7 +7634,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Yipetalichthys* is ?.
 
 ## Included in Brazeau et al. (2023)
-697. Laminar basal layer: (0) absent; (1) present.
+### 697. Laminar basal layer: (0) absent; (1) present.
 
 > Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7; Lu *et al*. (in review), Character 697; Zhu Y. *et al*. (in review), Character 697.
 
@@ -7650,7 +7650,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-698. Cancellous central layerr: (0) absent; (1) present.
+### 698. Cancellous central layerr: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 8; Lu *et al*. (in review), Character 698; Zhu Y. *et al*. (in review), Character 698.
 
@@ -7664,7 +7664,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-699. Dentinous external layer: (0) absent; (1) present.
+### 699. Dentinous external layer: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 9; Lu *et al*. (in review), Character 699; Zhu Y. *et al*. (in review), Character 699.
 
@@ -7676,7 +7676,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
+### 700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
 
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160; Lu *et al*. (in review), Character 700; Zhu Y. *et al*. (in review), Character 700.
 
@@ -7686,7 +7686,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
-701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
+### 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 180; Lu *et al*. (in review), Character 701; Zhu Y. *et al*. (in review), Character 701.
 
@@ -7698,7 +7698,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. 
 
-702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
+### 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
 
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Andreev *et al*. (2022), **Characters 36 and 37**; Brazeau *et al*. (2023), Character 211; Lu *et al*. (in review), Character 702; Zhu Y. *et al*. (in review), Character 702.
 
@@ -7710,7 +7710,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to -.
 
-703. Transverse external groove behind pineal opening: (0) absent; (1) present.
+### 703. Transverse external groove behind pineal opening: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260; Lu *et al*. (in review), Character 703; Zhu Y. *et al*. (in review), Character 703.
 
@@ -7724,7 +7724,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* should be revised from ? to 0.
 
-704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
+### 704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 263; Lu *et al*. (in review), Character 704; Zhu Y. *et al*. (in review), Character 704.
 
@@ -7734,7 +7734,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. Since the coding of *Diandongpetalichthys liaojiaoshanensis* is 1, does this charater means the size of the Rostral plate? Why the coding of *Eurycaraspis incilis* Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* is ?.
 
-705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
+### 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
 
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270; Lu *et al*. (in review), Character 705; Zhu Y. *et al*. (in review), Character 705.
 
@@ -7744,7 +7744,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
+### 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
 
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271; Lu *et al*. (in review), Character 706; Zhu Y. *et al*. (in review), Character 706.
 
@@ -7754,7 +7754,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?.
 
-707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
+### 707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
 
 > Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 303; Lu *et al*. (in review), Character 707; Zhu Y. *et al*. (in review), Character 707.
 
@@ -7764,7 +7764,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. he coding of *Macropetalichthys rapheidolabis* should be revised from - to ?.
 
-708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
+### 708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
 
 > Brazeau *et al*. (2023), Character 316; Lu *et al*. (in review), Character 708; Zhu Y. *et al*. (in review), Character 708.
 
@@ -7774,7 +7774,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
-709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
+### 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
 
 > King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502; Lu *et al*. (in review), Character 709; Zhu Y. *et al*. (in review), Character 709.
 
@@ -7786,7 +7786,7 @@ The coding of *Meeksiella* is -.
 
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
-710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
+### 710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
 > Gardiner and Schaeffer (1989), Node A, Character 18; Lu *et al*. (in review), Character 710; Zhu Y. *et al*. (in review), Character 710. 
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax amblyodus* is ?.
