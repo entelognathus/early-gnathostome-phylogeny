@@ -2,9 +2,8 @@
 
 > Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 
-![示例图片](fdc1dcd871883a152c1b6405e4f748f.jpg)
 
-## 大家可以学习我这个方法，将图片加在需要解释的解剖学结构位置。具体的图片文件上传到本文件夹中。然后在这儿加上上面这行。文件名可以取简单些。
+## 大家可以将图片直接拖到需要解释结构的位置。
 
 ## Skeletal tissues
 
