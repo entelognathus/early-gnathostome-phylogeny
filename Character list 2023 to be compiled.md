@@ -639,7 +639,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Giles *et al*. (2015), Character 29; Choo *et al*. (2017), Character 265; King *et al*. (2017), Character 205; Castiello (2018), Character 204; Zhu Y. *et al*. (2022), Character 56; Andreev *et al*. (2022), Character 29; Brazeau *et al*. (2023), Character 210. Cui *et al*. (2023), Character 56; Lu *et al*. (in review), Character 54; Zhu Y. *et al*. (in review), Character 54.
 > - The coding of *Eosteus* is 1, linear ornamentation. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-> - The coding of *Lingyu* is 3. **to wmj** If the coding is different from that of* Megamastax*, you should pay special attention to it. 
+> - The coding of *Lingyu* is 0. **to wmj** If the coding is different from that of* Megamastax*, you should pay special attention to it.
+> - **WMJ**: This coding was added wrong long ago, I have amended it in the present matrix, sorry for not updating in GitHub in time.
 > - The coding of *Yipetalichthys* is 3.
 > - The coding of *Meeksiella* is 3.
 
@@ -705,7 +706,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 219; Castiello (2018), Character 218; Zhu Y. *et al*. (2022), Character 64; Brazeau *et al*. (2023), Character 224. Cui *et al*. (2023), Character 64; Lu *et al*. (in review), Character 62; Zhu Y. *et al*. (in review), Character 62.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
-> - The coding of *Lingyu* is 1. **to wmj** If the coding is different from that of* Megamastax*, you should pay special attention to it. This is a feature of osteostracans.
+> - The coding of *Lingyu* is 0. **to wmj** If the coding is different from that of* Megamastax*, you should pay special attention to it. This is a feature of osteostracans.
+> - **WMJ**: This coding maybe caused by a mistyping. In the matrics used for calculating, this mistake is corrected.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
 
