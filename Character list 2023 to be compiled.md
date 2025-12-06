@@ -221,7 +221,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - Zhu Y. *et al*. (2021), Character 232; Zhu Y. *et al*. (2022), Character 22; Andreev *et al*. (2022), Character 235. Cui *et al*. (2023), Character 22; Lu *et al*. (in review), Character 22; Zhu Y. *et al*. (in review), Character 22.
 
-> - The condition of *Psarolepis* is different in dermal plates and scales. The finspine shows that the enamel is absent from inner surface of pores. **To be splited in the future.**
+> - The condition of *Psarolepis* is different in dermal plates and scales. The finspine shows that the enamel is absent from inner surface of pores. **To be split in the future.**
 
 > - The coding of *Eosteus* is - (logical impossibility). The coding of *Megamastax amblyodus* is 0.
 > - The coding of *Ruiyu* is ?.
@@ -7638,7 +7638,7 @@ The coding of *Meeksiella* is -.
 
 > Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7; Lu *et al*. (in review), Character 697; Zhu Y. *et al*. (in review), Character 697.
 
-> - This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was splited into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
+> - This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was split into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
 
 > - Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
 
