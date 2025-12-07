@@ -1,8 +1,7 @@
-## Character List: 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu *et al*. (2026) and Zhu Y. *et al*. (2026); 697-709 from Brazeau *et al*. (2023).
-
-> Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
-
-## 大家可以将图片直接拖到需要解释结构的位置。
+# Character List of Early Gnathostomes
+## 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu *et al*. (2026) and Zhu Y. *et al*. (2026); 697-709 from Brazeau *et al*. (2023).
+> - Character 34 of Zhu Y. *et al*. (2022), [macromeric vs. micromeric scales], also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
+> - 大家可以将图片直接拖到需要解释结构的位置。
 
 ## Skeletal tissues
 ### 1.  Tessellate prismatic calcified cartilage: (0) absent; (1) present.
@@ -341,173 +340,107 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 41. Relationship of crown and base of isolated trunk scale: (0) crown fully covering the base; (1) crown sitting on the bony base, with an exposed depressed field overlapped by adjacent scale in articulation.
-
 > Choo *et al*. (2017), Character 336; Zhu Y. *et al*. (2022), Character 42. Cui *et al*. (2023), Character 42; Lu *et al*. (2026), Character 41; Zhu Y. *et al*. (2026), Character 41.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 42. Profile of scales with constriction between crown and base: (0) neck similar in width to crown; (1) neck greatly constricted, resulting in anvil-like shape.
-
 > Giles *et al*. (2015), Character 22; Choo *et al*. (2017), Character 262; King *et al*. (2017), Character 494; Castiello (2018), Character 483; Zhu Y. *et al*. (2022), Character 43; Andreev *et al*. (2022), Character 22; Brazeau *et al*. (2023), Character 499. Cui *et al*. (2023), Character 43; Lu *et al*. (2026), Character 42; Zhu Y. *et al*. (2026), Character 42.
-
 > - The coding of *Andreolepis hedei* is changed from 1 to 0 (Chen *et al*., 2012). The coding of *Raynerius splendens* is changed from 1 to unapplicable because the scales are devoid of necks (Giles *et al*., 2015 Fig. 2e). The coding of *Andreolepis hedei* is changed from 0 to 1 (Hank and Wilson, 2006 Fig. 8)
-
 > - The coding of *Styloichthys* is -.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 43. Body scales with basal canal or open basal vascular cavity (basal pores in scales): (0) absent; (1) present.
-
 > Choo *et al*. (2017), Character 263; Coates *et al*. (2018), Character 15; King *et al*. (2017), Character 495; Castiello (2018), Character 484; Zhu Y. *et al*. (2022), Character 44; Andreev *et al*. (2022), Character 25; Brazeau *et al*. (2023), Character 500. Cui *et al*. (2023), Character 44; Lu *et al*. (2026), Character 43; Zhu Y. *et al*. (2026), Character 43.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 44. Neck canal: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 16; Zhu Y. *et al*. (2022), Character 45. Cui *et al*. (2023), Character 45; Lu *et al*. (2026), Character 44; Zhu Y. *et al*. (2026), Character 44.
-
 > - The coding of *Buchanosteus confertituberculatus* is changed from 0 to 1 (Burrow and Turner, 1998 Fig. 6).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 45. Keel of scale: (0) absent; (1) present.
-
 > Cui *et al*. (2019), Character 343; Zhu Y. *et al*. (2022), Character 46. Cui *et al*. (2023), Character 46; Lu *et al*. (2026), Character 45; Zhu Y. *et al*. (2026), Character 45.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 46. Posterior ledge (or second keel) of scale: (0) absent; (1) weak; (2) developed.
-
 > Schultze (1968); Cui *et al*. (2019), Character 344; Zhu Y. *et al*. (2022), Character 47. Cui *et al*. (2023), Character 47; Lu *et al*. (2026), Character 46; Zhu Y. *et al*. (2026), Character 46.
-
 > - The posterior ledge is also termed the second keel (k’, zweiter ‘Kiel’, Schultze, 1968), representing the ridge along the posterior edge of the scale base (Qu et al. 2013; Cui et al. 2019). The posterior ledge is well demonstrated in the *Psarolepis* and *Guiyu* scales (Qu et al. 2013, fig.1; Cui et al. 2019, fig.2).
-
 > - The coding of *Glyptolepis groenlandica* is changed from unapplicable to 0 (Jarvik, 1972). The coding of *Eusthenopteron foordi* is changed from unapplicable to 0 (Jarvik, 1972).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 2.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 47. Anteroventral process of scale: (0) absent; (1) present.
-
 > Cui *et al*. (2019), Character 345; Zhu Y. *et al*. (2022), Character 48. Cui *et al*. (2023), Character 48; Lu *et al*. (2026), Character 47; Zhu Y. *et al*. (2026), Character 47.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Eosteus* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 48. Ventral process of scale: (0) present; (1) absent.
-
 > Cui *et al*. (2019), Character 347; Zhu Y. *et al*. (2022), Character 49. Cui *et al*. (2023), Character 49; Lu *et al*. (2026), Character 48; Zhu Y. *et al*. (2026), Character 48.
-
 > - Cui *et al*. (2019): "The ventral process, which is the extension of the posterior ledge, has not been described till this study. Almost all fank scales of *Psarolepis* have this articulation, while only the scales from the ventral belt of *Guiyu* bear the ventral process (Fig. 3F,G and 4I), but less developed. Accordingly, the ventral process may be a synapomorphy of psarolepids (Fig. 6, node 7)."
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 49. Anterodorsal process on scale: (0) absent; (1) present.
-
 > Zhu  *et al*. (2009, Character 140), and references therein; Zhu *et al*. (2013), Character 144; Giles *et al*. (2015), Character 20; Choo *et al*. (2017), Character 139; King *et al*. (2017), Character 493; Castiello (2018), Character 482; Zhu Y. *et al*. (2022), Character 50; Andreev *et al*. (2022), Character 20; Brazeau *et al*. (2023), Character 498. Cui *et al*. (2023), Character 50; Lu *et al*. (2026), Character 49; Zhu Y. *et al*. (2026), Character 49.
-
 > - The coding of *Entelognathus primordialis* is changed from - to 1 based on new data (Cui et al., 2023).
-
 > - Unknown in *Janusiscus schultzei*. The scales (GIT 496-8 to 496-16) are found from the same locality and horizon as the skull specimens (GIT 496-6, GIT496-7), but “cannot be definitely associated with cranial material” (Giles  *et al*., 2015). Follow this statement, the scale features in *Janusiscus schultzei* are coded ‘unknown’ in all the later data sets. GIT 496-8 to 496-16 (http://geokogud.info/git/specimen_image/496/496-8.jpg to http://geokogud.info/git/specimen_image/496/496-16.jpg) show the presence of the peg-and-socket articulation, and the absence of the anterodoral process of the scale. This uncertainty also results in the drifting phylogenetic resolution of *Janusiscus schultzei* and could be clarified with the additional findings in the type locality and horizon.
-
 > - The coding of *Eosteus* is 1, judging from the bulge lining along the adjacent rows of scales. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 50. Anterodorsal process and peg: (0) separated; (1) confluent.
-
 > Cui *et al*. (2019), Character 346; Zhu Y. *et al*. (2022), Character 51. Cui *et al*. (2023), Character 51; Lu *et al*. (2026), Character 50; Zhu Y. *et al*. (2026), Character 50.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 51. Sensory line canal of body: (0) passes between or beneath scales; (1) passes over scales and/or is partially enclosed or surrounded by scales; (2) perforates and passes through scales.
-
-> Davis (2002); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 15; Choo *et al*. (2017), Character 14; Coates *et al*. (2018), Character 17; Dearden *et al*. (2019), Character 17; King *et al*. (2017), Character 324; Castiello (2018), Character 316; Zhu Y. *et al*. (2022), Character 52; Andreev *et al*. (2022), Character 28 (**states are slightly different**); Brazeau *et al*. (2023), Character 329. Cui *et al*. (2023), Character 52; Lu *et al*. (2026), Character 51; Zhu Y. *et al*. (2026), Character 51.
-
+> Davis (2002); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 15; Choo *et al*. (2017), Character 14; Coates *et al*. (2018), Character 17; Dearden *et al*. (2019), Character 17; King *et al*. (2017), Character 324; Castiello (2018), Character 316; Zhu Y. *et al*. (2022), Character 52; Andreev *et al*. (2022), Character 28 (with slightly differen states); Brazeau *et al*. (2023), Character 329. Cui *et al*. (2023), Character 52; Lu *et al*. (2026), Character 51; Zhu Y. *et al*. (2026), Character 51.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 2.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Styloichthys* is 2.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 52. Sensory line canal of head: (0) passes between or beneath scales; (1) passes over scales and/or is partially enclosed or surrounded by scales; (2) perforates and passes through scales.
-
 > Choo *et al*. (2017), Character 14; Coates *et al*. (2018), Character 17; Dearden *et al*. (2019), Character 18; Zhu Y. *et al*. (2022), Character 53. Cui *et al*. (2023), Character 53; Lu *et al*. (2026), Character 52; Zhu Y. *et al*. (2026), Character 52.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 53. Sensory line scales/plates on head: (0) unspecialized; (1) apposed growth; (2) paralleling canal; (3) semicylindrical C-shaped ring scales.
-
 > Zhu Y. *et al*. (2021), Character 59; Zhu Y. *et al*. (2022), Character 55; Andreev *et al*. (2022), Character 61. Cui *et al*. (2023), Character 55; Lu *et al*. (2026), Character 53; Zhu Y. *et al*. (2026), Character 53.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
- > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ## Cranial dermal skeleton
@@ -690,23 +623,26 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
-> - The coding of *Yipetalichthys* is ?. The coding of *Meeksiella* is ?.
+> - The coding of *Yipetalichthys* is ?.
+> - The coding of *Meeksiella* is ?.
 
-76. Headshield enclosed posteriorly behind oralobranchial chamber: (0) no; (1) yes.
+### 76. Headshield enclosed posteriorly behind oralobranchial chamber: (0) no; (1) yes.
 > King *et al*. (2017), Character 235; Castiello (2018), Character 235; Zhu Y. *et al*. (2022), Character 78; Brazeau *et al*. (2023), Character 240. Cui *et al*. (2023), Character 78; Lu *et al*. (2026), Character 76; Zhu Y. *et al*. (2026), Character 76.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
-> - The coding of *Yipetalichthys* is ?. The coding of *Meeksiella* is ?.
+> - The coding of *Yipetalichthys* is ?.
+> - The coding of *Meeksiella* is ?.
 
-77. Enlarged tubercles form symmetrical pattern on posterior part of head shield: (0) absent; (1) present.
+### 77. Enlarged tubercles form symmetrical pattern on posterior part of head shield: (0) absent; (1) present.
 > King *et al*. (2017), Character 236; Castiello (2018), Character 236; Zhu Y. *et al*. (2022), Character 79; Brazeau *et al*. (2023), Character 241. Cui *et al*. (2023), Character 79; Lu *et al*. (2026), Character 77; Zhu Y. *et al*. (2026), Character 77.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
-> - The coding of *Yipetalichthys* is 0. The coding of *Meeksiella* is 0.
+> - The coding of *Yipetalichthys* is 0.
+> - The coding of *Meeksiella* is 0.
 
-78. T-shaped rostral plate: (0) absent; (1) present.
+### 78. T-shaped rostral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 237; Castiello (2018), Character 237; Zhu Y. *et al*. (2022), Character 80; Brazeau *et al*. (2023), Character 242. Cui *et al*. (2023), Character 80; Lu *et al*. (2026), Character 78; Zhu Y. *et al*. (2026), Character 78.
 
@@ -718,7 +654,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
+### 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81. Cui *et al*. (2023), Character 81; Lu *et al*. (2026), Character 79; Zhu Y. *et al*. (2026), Character 79.
 
@@ -732,7 +668,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-80. Postnuchal plates: (0) absent; (1) present.
+### 80. Postnuchal plates: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 239; Castiello (2018), Character 239; Zhu Y. *et al*. (2022), Character 82; Brazeau *et al*. (2023), Character 244. Cui *et al*. (2023), Character 82; Lu *et al*. (2026), Character 80; Zhu Y. *et al*. (2026), Character 80.
 
@@ -746,7 +682,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
 
-81. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
+### 81. Cutaneous sensory organ on suborbital plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 240; Castiello (2018), Character 240; Zhu Y. *et al*. (2022), Character 83; Brazeau *et al*. (2023), Character 245. Cui *et al*. (2023), Character 83; Lu *et al*. (2026), Character 81; Zhu Y. *et al*. (2026), Character 81.
 
@@ -758,7 +694,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-82. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
+### 82. Cutaneous sensory organ on postsuborbital plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246. Cui *et al*. (2023), Character 84; Lu *et al*. (2026), Character 82; Zhu Y. *et al*. (2026), Character 82.
 
@@ -770,7 +706,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-83. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
+### 83. Cutaneous sensory organ on skull roof posterior to orbits: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 242; Castiello (2018), Character 242; Zhu Y. *et al*. (2022), Character 85; Brazeau *et al*. (2023), Character 247. Cui *et al*. (2023), Character 85; Lu *et al*. (2026), Character 83; Zhu Y. *et al*. (2026), Character 83.
 
@@ -782,7 +718,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-84. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
+### 84. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. *et al*. (2022), Character 86; Brazeau *et al*. (2023), Character 249. Cui *et al*. (2023), Character 86; Lu *et al*. (2026), Character 84; Zhu Y. *et al*. (2026), Character 84.
 
@@ -794,7 +730,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-85. Rostrocaudal groove on the inner surface of the premedian plate: (0) absent; (1) present.
+### 85. Rostrocaudal groove on the inner surface of the premedian plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 245; Castiello (2018), Character 244; Zhu Y. *et al*. (2022), Character 87; Brazeau *et al*. (2023), Character 250. Cui *et al*. (2023), Character 87; Lu *et al*. (2026), Character 85; Zhu Y. *et al*. (2026), Character 85.
 
@@ -806,7 +742,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-86. Preorbital depression: (0) absent; (1) present.
+### 86. Preorbital depression: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 246; Castiello (2018), Character 245; Zhu Y. *et al*. (2022), Character 88; Brazeau *et al*. (2023), Character 251. Cui *et al*. (2023), Character 86; Lu *et al*. (2026), Character 80; Zhu Y. *et al*. (2026), Character 86.
 
@@ -818,7 +754,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-87. Preorbital recess: (0) absent; (1) present.
+### 87. Preorbital recess: (0) absent; (1) present.
 
 > Zhu *et al*. (2016), Character 342; King *et al*. (2017), Character 247; Castiello (2018), Character 246; Zhu Y. *et al*. (2021), Character 311; Zhu Y. *et al*. (2022), Character 89; Brazeau *et al*. (2023), Character 252. Cui *et al*. (2023), Character 89; Lu *et al*. (2026), Character 87; Zhu Y. *et al*. (2026), Character 87.
 
@@ -832,7 +768,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-88. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
+### 88. Preorbital recess: (0) restricted to premedian plate; (1) extends onto lateral plates.
 
 > King *et al*. (2017), Character 248; Castiello (2018), Character 247; Zhu Y. *et al*. (2022), Character 90; Brazeau *et al*. (2023), Character 253. Cui *et al*. (2023), Character 90; Lu *et al*. (2026), Character 88; Zhu Y. *et al*. (2026), Character 88.
 
@@ -844,7 +780,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is -.
 The coding of *Meeksiella* is -.
 
-89. Submarginal articulation: (0) absent; (1) present.
+### 89. Submarginal articulation: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 250; Castiello (2018), Character 249; Zhu Y. *et al*. (2022), Character 91; Brazeau *et al*. (2023), Character 255. Cui *et al*. (2023), Character 91; Lu *et al*. (2026), Character 89; Zhu Y. *et al*. (2026), Character 89.
 
@@ -856,7 +792,7 @@ The coding of *Meeksiella* is -.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-90. Prelateral plate: (0) absent; (1) present.
+### 90. Prelateral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 251; Castiello (2018), Character 250; Zhu Y. *et al*. (2022), Character 92; Brazeau *et al*. (2023), Character 256. Cui *et al*. (2023), Character 92; Lu *et al*. (2026), Character 90; Zhu Y. *et al*. (2026), Character 90.
 
@@ -868,7 +804,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-91. Posterior descending lamina of skull roof: (0) absent; (1) present.
+### 91. Posterior descending lamina of skull roof: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 252; Castiello (2018), Character 251; Zhu Y. *et al*. (2019), Character 7; Zhu Y. *et al*. (2022), Character 93; Brazeau *et al*. (2023), Character 257. Cui *et al*. (2023), Character 93; Lu *et al*. (2026), Character 91; Zhu Y. *et al*. (2026), Character 91.
 
@@ -880,7 +816,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
 
-92. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
+### 92. Mesial lamina on the internal surface of marginal plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 254; Castiello (2018), Character 252; Zhu Y. *et al*. (2022), Character 94; Brazeau *et al*. (2023), Character 259. Cui *et al*. (2023), Character 94; Lu *et al*. (2026), Character 92; Zhu Y. *et al*. (2026), Character 92.
 
@@ -892,7 +828,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
 
-93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
+### 93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261. Cui *et al*. (2023), Character 93; Lu *et al*. (2026), Character 90; Zhu Y. *et al*. (2026), Character 93.
 
@@ -904,7 +840,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 1.
 
-94. Lacrimal: (0) absent; (1) present.
+### 94. Lacrimal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 257; Castiello (2018), Character 254; Zhu Y. *et al*. (2022), Character 96; Brazeau *et al*. (2023), Character 262. Cui *et al*. (2023), Character 96; Lu *et al*. (2026), Character 94; Zhu Y. *et al*. (2026), Character 94.
 
@@ -916,7 +852,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Yipetalichthys* is ?. 
  The coding of *Meeksiella* is ?.
 
-95. Pineal and rostral: (0) contact; (1) separated.
+### 95. Pineal and rostral: (0) contact; (1) separated.
 
 > King *et al*. (2017), Character 258; Castiello (2018), Character 255; Zhu Y. *et al*. (2022), Character 97. Cui *et al*. (2023), Character 97; Lu *et al*. (2026), Character 95; Zhu Y. *et al*. (2026), Character 95.
 
@@ -928,7 +864,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 1.
 
-96. Snout region fragmented into mosaic of small plates: (0) no; (1) yes.
+### 96. Snout region fragmented into mosaic of small plates: (0) no; (1) yes.
 
 > King *et al*. (2017), Character 259; Castiello (2018), Character 256; Zhu Y. *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 264. Cui *et al*. (2023), Character 98; Lu *et al*. (2026), Character 96; Zhu Y. *et al*. (2026), Character 96.
 
@@ -940,7 +876,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-97. B-bone: (0) absent; (1) present.
+### 97. B-bone: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 261; Castiello (2018), Character 258; Zhu Y. *et al*. (2022), Character 99; Brazeau *et al*. (2023), Character 266. Cui *et al*. (2023), Character 99; Lu *et al*. (2026), Character 97; Zhu Y. *et al*. (2026), Character 97.
 
@@ -952,7 +888,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
+### 98. Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones.
 
 > King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100,145 and 160; Brazeau *et al*. (2023), Character 268. Cui *et al*. (2023), Character 100; Lu *et al*. (2026), Character 98; Zhu Y. *et al*. (2026), Character 98.
 
@@ -970,7 +906,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-99. Pore clusters: (0) absent; (1) present.
+### 99. Pore clusters: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 272. Cui *et al*. (2023), Character 101; Lu *et al*. (2026), Character 99; Zhu Y. *et al*. (2026), Character 99.
 
@@ -982,7 +918,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
 
-100. Prerostral plate: (0) absent; (1) present.
+### 100. Prerostral plate: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 269; Castiello (2018), Character 263; Zhu Y. *et al*. (2022), Character 102; Brazeau *et al*. (2023), Character 274. Cui *et al*. (2023), Character 102; Lu *et al*. (2026), Character 100; Zhu Y. *et al*. (2026), Character 100.
 
@@ -994,7 +930,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-101. Interparietal: (0) absent; (1) present.
+### 101. Interparietal: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 276. Cui *et al*. (2023), Character 103; Lu *et al*. (2026), Character 101; Zhu Y. *et al*. (2026), Character 101.
 
@@ -1008,7 +944,7 @@ The coding of *Meeksiella* is 0.
 
 > - LXY The coding of *Achoania* and *Psarolepis* are from ? to 0.
 
-102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
+### 102. Supratemporal (placoderm marginal) in contact with postparietal (placoderm central): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278. Cui *et al*. (2023), Character 104; Lu *et al*. (2026), Character 102; Zhu Y. *et al*. (2026), Character 102.
 
@@ -1024,7 +960,7 @@ The coding of *Meeksiella* is 0.
 
 > - LXY The coding of *Achoania* is from ? to 1.
 
-103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
+### 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279. Cui *et al*. (2023), Character 105; Lu *et al*. (2026), Character 103; Zhu Y. *et al*. (2026), Character 103.
 
@@ -1038,7 +974,7 @@ The coding of *Meeksiella* is 0.
 
 > -  LXY The coding of *Achoania* is from ? to 0.
 
-104. Quadratojugal: (0) present; (1) absent.
+### 104. Quadratojugal: (0) present; (1) absent.
 
 > King *et al*. (2017), Character 276; Castiello (2018), Character 270; Zhu Y. *et al*. (2022), Character 106; Brazeau *et al*. (2023), Character 281. Cui *et al*. (2023), Character 106; Lu *et al*. (2026), Character 104; Zhu Y. *et al*. (2026), Character 104.
 
@@ -1051,7 +987,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 1.
 
-105. Accessory operculum: (0) absent; (1) present.
+### 105. Accessory operculum: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 278; Castiello (2018), Character 272; Zhu Y. *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 283. Cui *et al*. (2023), Character 107; Lu *et al*. (2026), Character 105; Zhu Y. *et al*. (2026), Character 105.
 
@@ -1064,7 +1000,7 @@ The coding of *Meeksiella* is 1.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
 
-106. Dermal bone (sarcopterygian postorbital) between jugal (placoderm suborbital) and intertemporal (placoderm postorbital): (0) absent; (1) present.
+### 106. Dermal bone (sarcopterygian postorbital) between jugal (placoderm suborbital) and intertemporal (placoderm postorbital): (0) absent; (1) present.
 
 > King *et al*. (2017), Character 279; Castiello (2018), Character 273; Zhu Y. *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 284. Cui *et al*. (2023), Character 108; Lu *et al*. (2026), Character 106; Zhu Y. *et al*. (2026), Character 106.
 
@@ -1077,7 +1013,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is 0.
 
-107. Lacrimal notch: (0) absent; (1) present.
+### 107. Lacrimal notch: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 280; Castiello (2018), Character 274; Zhu Y. *et al*. (2022), Character 109; Brazeau *et al*. (2023), Character 285. Cui *et al*. (2023), Character 109; Lu *et al*. (2026), Character 107; Zhu Y. *et al*. (2026), Character 107.
 
@@ -1088,7 +1024,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-108. Orbital process of maxilla: (0) absent; (1) present.
+### 108. Orbital process of maxilla: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 282; Castiello (2018), Character 275; Zhu Y. *et al*. (2022), Character 110; Brazeau *et al*. (2023), Character 287. Cui *et al*. (2023), Character 110; Lu *et al*. (2026), Character 108; Zhu Y. *et al*. (2026), Character 108.
 
@@ -1099,7 +1035,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-109. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
+### 109. Dermal cranial joint at level of sphenoid-otic junction: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009), Character 21; Zhu *et al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Choo *et al*. (2017), Character 141; King *et al*. (2017), Character 170; Castiello (2018), Character 168; Zhu Y. *et al*. (2022), Character 111; Andreev *et al*. (2022), Character 46; Brazeau *et al*. (2023), Character 174. Cui *et al*. (2023), Character 111; Lu *et al*. (2026), Character 109; Zhu Y. *et al*. (2026), Character 109.
 
@@ -1110,7 +1046,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
+### 110. Posterior nostril: (0) associated with orbit; (1) not associated with orbit.
 
 > Zhu  *et al*. (2009, Character 8), and references therein; Zhu *et al*. (2013), Character 152; Giles *et al*. (2015), Character 116; Choo *et al*. (2017), Character 142; King *et al*. (2017), Character 171; Castiello (2018), Character 169; Zhu Y. *et al*. (2022), Character 112; Brazeau *et al*. (2023), Character 175. Cui *et al*. (2023), Character 112; Lu *et al*. (2026), Character 110; Zhu Y. *et al*. (2026), Character 110.
 
@@ -1121,7 +1057,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-111. Posterior nostril: (0) external; (1) palatal.
+### 111. Posterior nostril: (0) external; (1) palatal.
 
 > Choo *et al*. (2017), Character 332; Lu *et al*. (2017), Character 262; Zhu Y. *et al*. (2022), Character 113; Andreev *et al*. (2022), Character 260. Cui *et al*. (2023), Character 113; Lu *et al*. (2026), Character 111; Zhu Y. *et al*. (2026), Character 111.
 
@@ -1132,7 +1068,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-112. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
+### 112. Posterior nostril in external position: (0) far from jaw margin; (1) at or close to jaw margin.
 
 > Zhu  *et al*. (2009, Character 7), and references therein; Zhu *et al*. (2013), Character 153; Choo *et al*. (2017), Character 163; King *et al*. (2017), Character 181; Castiello (2018), Character 178; Zhu Y. *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 187. Cui *et al*. (2023), Character 114; Lu *et al*. (2026), Character 112; Zhu Y. *et al*. (2026), Character 112.
 
@@ -1143,7 +1079,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-113. Choana: (0) absent; (1) present.
+### 113. Choana: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 260; Castiello (2018), Character 257; Zhu Y. *et al*. (2022), Character 115; Brazeau *et al*. (2023), Character 265. Cui *et al*. (2023), Character 115; Lu *et al*. (2026), Character 113; Zhu Y. *et al*. (2026), Character 113.
 
@@ -1154,7 +1090,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-114. Lacrimal posteriorly enclosing posterior nostril: (0) absent; (1) present.
+### 114. Lacrimal posteriorly enclosing posterior nostril: (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 58), and references therein; Zhu *et al*. (2013), Character 172; Choo *et al*. (2017), Character 179; King *et al*. (2017), Character 194; Castiello (2018), Character 193; Zhu Y. *et al*. (2022), Character 116; Brazeau *et al*. (2023), Character 199. Cui *et al*. (2023), Character 116; Lu *et al*. (2026), Character 114; Zhu Y. *et al*. (2026), Character 114.
 
@@ -1165,7 +1101,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
 
-115. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
+### 115. Premaxilla contributes to posterior nostril: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 272; Castiello (2018), Character 266; Zhu Y. *et al*. (2022), Character 117; Brazeau *et al*. (2023), Character 277. Cui *et al*. (2023), Character 117; Lu *et al*. (2026), Character 115; Zhu Y. *et al*. (2026), Character 115.
 
@@ -1178,7 +1114,7 @@ The coding of *Meeksiella* is ?.
 >
 > - LXY The coding of *Achoania* is from 1 to 0.
 
-116. Position of anterior nostril: (0) facial; (1) at oral margin.
+### 116. Position of anterior nostril: (0) facial; (1) at oral margin.
 
 > Zhu Y. *et al*. (2021), Character 255; Zhu Y. *et al*. (2022), Character 118; Andreev *et al*. (2022), Character 259. Cui *et al*. (2023), Character 118; Lu *et al*. (2026), Character 116; Zhu Y. *et al*. (2026), Character 116.
 
@@ -1189,7 +1125,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
 
-117. Number of nasals: (0) many; (1) one or two.
+### 117. Number of nasals: (0) many; (1) one or two.
 
 > Zhu  *et al*. (2009, Character 4), and references therein; Zhu *et al*. (2013), Character 149; Choo *et al*. (2017), Character 160; King *et al*. (2017), Character 178; Castiello (2018), Character 175; Zhu Y. *et al*. (2022), Character 119; Brazeau *et al*. (2023), Character 184. Cui *et al*. (2023), Character 119; Lu *et al*. (2026), Character 117; Zhu Y. *et al*. (2026), Character 117.
 
@@ -1200,7 +1136,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-118. Mesial margin of nasal: (0) not notched; (1) notched.
+### 118. Mesial margin of nasal: (0) not notched; (1) notched.
 
 > Zhu  *et al*. (2009, Character 3), and references therein; Zhu *et al*. (2013), Character 150; Choo *et al*. (2017), Character 161; King *et al*. (2017), Character 179; Castiello (2018), Character 176; Zhu Y. *et al*. (2022), Character 120; Brazeau *et al*. (2023), Character 185. Cui *et al*. (2023), Character 120; Lu *et al*. (2026), Character 118; Zhu Y. *et al*. (2026), Character 118.
 
@@ -1213,7 +1149,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is ?.
 
-119. Dermintermedial process: (0) absent; (1) present. 
+### 119. Dermintermedial process: (0) absent; (1) present. 
 
 > Zhu  *et al*. (2009, Character 6), and references therein; Zhu *et al*. (2013), Character 151; Choo *et al*. (2017), Character 162; King *et al*. (2017), Character 180; Castiello (2018), Character 177; Zhu Y. *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 186. Cui *et al*. (2023), Character 121; Lu *et al*. (2026), Character 119; Zhu Y. *et al*. (2026), Character 119.
 
@@ -1226,7 +1162,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?.
 The coding of *Meeksiella* is ?.
 
-120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
+### 120. Extended preorbital region between eyes and nasal capsule: (0) absent; (1) present.
 
 > King *et al*. (2017), Character 22; , Character 22; Zhu Y. *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 25. Cui *et al*. (2023), Character 122; Lu *et al*. (2026), Character 120; Zhu Y. *et al*. (2026), Character 120.
 
@@ -1239,7 +1175,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is 0.
 
-121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
+### 121. Orbit dorsal or facing dorsolaterally: (0) present; (1) absent.
 
 > Castiello (2018), Character 29; Zhu Y. *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 33. Cui *et al*. (2023), Character 123; Lu *et al*. (2026), Character 121; Zhu Y. *et al*. (2026), Character 121.
 
@@ -1252,7 +1188,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 1. 
 The coding of *Meeksiella* is 0.
 
-122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
+### 122. Orbits, surrounded laterally by endocranium: (0) absent; (1) partially surrounded; (2) surrounded.
 
 > Castiello (2018), Character 30; Zhu Y. *et al*. (2022), Character 124; Brazeau *et al*. (2023), Character 33. Cui *et al*. (2023), Character 124; Lu *et al*. (2026), Character 122; Zhu Y. *et al*. (2026), Character 122.
 
@@ -1263,7 +1199,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 The coding of *Meeksiella* is ?.
 
-123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
+### 123. Supraorbital (sensu Cloutier and Ahlberg 1996, including posterior tectal of Jarvik): (0) absent; (1) present.
 
 > Zhu  *et al*. (2009, Character 10), and references therein; Zhu *et al*. (2013), Character 154; Choo *et al*. (2017), Character 164; King *et al*. (2017), Character 182; Castiello (2018), Character 179; Zhu Y. *et al*. (2022), Character 125; Brazeau *et al*. (2023), Character 188. Cui *et al*. (2023), Character 125; Lu *et al*. (2026), Character 123; Zhu Y. *et al*. (2026), Character 123.
 
@@ -1274,7 +1210,7 @@ The coding of *Meeksiella* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is 0.
 
-124. Number of supraorbitals: (0) one; (1) two; (2) many.
+### 124. Number of supraorbitals: (0) one; (1) two; (2) many.
 
 > King *et al*. (2017), Character 262; Castiello (2018), Character 259; Zhu Y. *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 267. Cui *et al*. (2023), Character 126; Lu *et al*. (2026), Character 124; Zhu Y. *et al*. (2026), Character 124.
 
@@ -1285,7 +1221,7 @@ The coding of *Meeksiella* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 The coding of *Meeksiella* is -.
 
-125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
+### 125. Supraorbital, preorbital and nasal: (0) unfused; (1) fused.
 
 > Zhu  *et al*. (2009, Character 11), and references therein; Zhu *et al*. (2013), Character 155; Choo *et al*. (2017), Character 165; King *et al*. (2017), Character 183; Castiello (2018), Character 180; Zhu Y. *et al*. (2022), Character 127; Brazeau *et al*. (2023), Character 189. Cui *et al*. (2023), Character 127; Lu *et al*. (2026), Character 125; Zhu Y. *et al*. (2026), Character 125.
 
