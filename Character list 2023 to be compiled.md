@@ -581,16 +581,16 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 62. Lateral fields: (0) absent; (1) present.
 > King *et al*. (2017), Character 219; Castiello (2018), Character 218; Zhu Y. *et al*. (2022), Character 64; Brazeau *et al*. (2023), Character 224. Cui *et al*. (2023), Character 64; Lu *et al*. (2026), Character 62; Zhu Y. *et al*. (2026), Character 62.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0. **to wmj** If the coding is different from that of* Megamastax*, you should pay special attention to it. This is a feature of osteostracans.
-> - **WMJ**: This coding maybe caused by a mistyping. In the matrics used for calculating, this mistake is corrected.
+> - **WMJ**: This coding maybe caused by a mistyping. In the matrics used for calculating, this mistake is corrected. **to wmj** If the issue is resolved, you can delete my comments directly. The response is not needed in most cases.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
 
 ### 63. Division of lateral fields: (0) absent; (1) divided once; (2)divided twice.
 > King *et al*. (2017), Character 220; Castiello (2018), Character 219; Zhu Y. *et al*. (2022), Character 65; Brazeau *et al*. (2023), Character 225. Cui *et al*. (2023), Character 65; Lu *et al*. (2026), Character 63; Zhu Y. *et al*. (2026), Character 63.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -.
 > - The coding of *Meeksiella* is -.
@@ -598,7 +598,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 64. Lateral fields extend posterior to pectoral sinus: (0) absent; (1) present.
 > King *et al*. (2017), Character 221; Castiello (2018), Character 220; Zhu Y. *et al*. (2022), Character 66; Brazeau *et al*. (2023), Character 226. Cui *et al*. (2023), Character 66; Lu *et al*. (2026), Character 64; Zhu Y. *et al*. (2026), Character 64.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -.
 > - The coding of *Meeksiella* is -.
@@ -606,7 +606,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 65. Lateral fields extend onto cornua: (0) absent; (1) present;
 > King *et al*. (2017), Character 222; Castiello (2018), Character 221; Zhu Y. *et al*. (2022), Character 67; Brazeau *et al*. (2023), Character 227. Cui *et al*. (2023), Character 67; Lu *et al*. (2026), Character 65; Zhu Y. *et al*. (2026), Character 65.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -.
 > - The coding of *Meeksiella* is -.
@@ -614,7 +614,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 66. Median fields: (0) absent; (1) present.
 > King *et al*. (2017), Character 223; Castiello (2018), Character 222; Zhu Y. *et al*. (2022), Character 68; Brazeau *et al*. (2023), Character 228. Cui *et al*. (2023), Character 68; Lu *et al*. (2026), Character 66; Zhu Y. *et al*. (2026), Character 66.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -622,7 +622,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 67. Median field separation from pineal plate or foramen: (0) absent; (1) present.
 > King *et al*. (2017), Character 224; Castiello (2018), Character 223; Zhu Y. *et al*. (2022), Character 69; Brazeau *et al*. (2023), Character 229. Cui *et al*. (2023), Character 69; Lu *et al*. (2026), Character 67; Zhu Y. *et al*. (2026), Character 67.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -.
 > - The coding of *Meeksiella* is -.
@@ -630,7 +630,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 68. Median dorsal opening: (0) absent; (1) present.
 > King *et al*. (2017), Character 226; Castiello (2018), Character 225; Zhu Y. *et al*. (2022), Character 70; Brazeau *et al*. (2023), Character 231. Cui *et al*. (2023), Character 70; Lu *et al*. (2026), Character 68; Zhu Y. *et al*. (2026), Character 68.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -640,7 +640,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Castiello (2018): "King *et al*. (2016) homologized the posterolateral extensions of the headshield present in osteostracans and in galeaspids. However, in osteostracans these extensions are related with the presence of pectoral sinus for the attachment of the pectoral fins (see Sansom, 2008). The posterolateral extensions of the headshield in galeaspids are instead non associated with paired pectoral fins and thus probably not homologous (see Zhu and Gai, 2006). For this reason, here I split the character and coding as presented in King *et al*. (2016), introducing a separated character for the posterolateral extension of Galeaspida (from Zhu and Gai 2006 character 14).“
 > - The homology of the posterolateral extensions of the headshield in osteostracans and galeaspids is not resolved. Here we follow Castiello (2018), but leave the issue open.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -648,7 +648,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 70. Corners: (0) absent; (1) present.
 > Castiello (2018), Character 229; Zhu Y. *et al*. (2022), Character 72. Cui *et al*. (2023), Character 72; Lu *et al*. (2026), Character 70; Zhu Y. *et al*. (2026), Character 70.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -656,7 +656,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 71. Fused scale rows on posterior of headshield: (0) absent; (1) present.
 > King *et al*. (2017), Character 230; Castiello (2018), Character 230; Zhu Y. *et al*. (2022), Character 73; Brazeau *et al*. (2023), Character 235. Cui *et al*. (2023), Character 73; Lu *et al*. (2026), Character 71; Zhu Y. *et al*. (2026), Character 71.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -664,7 +664,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 72. Dorsal spinal process of headshield: (0) absent; (1) present.
 > King *et al*. (2017), Character 231; Castiello (2018), Character 231; Zhu Y. *et al*. (2022), Character 74; Brazeau *et al*. (2023), Character 236. Cui *et al*. (2023), Character 74; Lu *et al*. (2026), Character 72; Zhu Y. *et al*. (2026), Character 72.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 > - The coding of *Meeksiella* is 0.
@@ -672,7 +672,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 73. Oralobranchial covering: (0) minute scales; (1) tesserae (2); dermal plates; (3) one or two massive dermal plates.
 > King *et al*. (2017), Character 232; Castiello (2018), Character 232; Zhu Y. *et al*. (2022), Character 75; Brazeau *et al*. (2023), Character 237. Cui *et al*. (2023), Character 75; Lu *et al*. (2026), Character 73; Zhu Y. *et al*. (2026), Character 73.
 > - The coding of *Eosteus* is -. This character refers to the ventral cover of the oralobranchial cavity in ostracoderms, coded ? in many jawed taxa. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is ?.
 > - The coding of *Meeksiella* is ?.
@@ -680,46 +680,31 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 74. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like (2); slender longitudinal oval.
 > King *et al*. (2017), Character 233; Castiello (2018), Character 234; Zhu Y. *et al*. (2022), Character 76; Brazeau *et al*. (2023), Character 238. Cui *et al*. (2023), Character 76; Lu *et al*. (2026), Character 74; Zhu Y. *et al*. (2026), Character 74.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -.
 > - The coding of *Meeksiella* is -.
 
-75. Spines on corners: (0) absent; (1) present.
-
+### 75. Spines on corners: (0) absent; (1) present.
 > King *et al*. (2017), Character 234; Castiello (2018), Character 233; Zhu Y. *et al*. (2022), Character 77; Brazeau *et al*. (2023), Character 239. Cui *et al*. (2023), Character 77; Lu *et al*. (2026), Character 75; Zhu Y. *et al*. (2026), Character 75.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is -.
-
-> - The coding of *Yipetalichthys* is ?. 
-The coding of *Meeksiella* is ?.
+> - The coding of *Yipetalichthys* is ?. The coding of *Meeksiella* is ?.
 
 76. Headshield enclosed posteriorly behind oralobranchial chamber: (0) no; (1) yes.
-
 > King *et al*. (2017), Character 235; Castiello (2018), Character 235; Zhu Y. *et al*. (2022), Character 78; Brazeau *et al*. (2023), Character 240. Cui *et al*. (2023), Character 78; Lu *et al*. (2026), Character 76; Zhu Y. *et al*. (2026), Character 76.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is -.
-
-> - The coding of *Yipetalichthys* is ?. 
-The coding of *Meeksiella* is ?.
+> - The coding of *Yipetalichthys* is ?. The coding of *Meeksiella* is ?.
 
 77. Enlarged tubercles form symmetrical pattern on posterior part of head shield: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 236; Castiello (2018), Character 236; Zhu Y. *et al*. (2022), Character 79; Brazeau *et al*. (2023), Character 241. Cui *et al*. (2023), Character 79; Lu *et al*. (2026), Character 77; Zhu Y. *et al*. (2026), Character 77.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is -.
-
-> - The coding of *Yipetalichthys* is 0. 
-The coding of *Meeksiella* is 0.
+> - The coding of *Yipetalichthys* is 0. The coding of *Meeksiella* is 0.
 
 78. T-shaped rostral plate: (0) absent; (1) present.
 
