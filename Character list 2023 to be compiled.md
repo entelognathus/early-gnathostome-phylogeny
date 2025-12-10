@@ -2806,66 +2806,74 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
- ## Hyoid and gill arches
-
+## Hyoid and gill arches
 ### 343. Foramen in hyomandibular: (0) absent; (1) present.
 > Zhu *et al*. (2009, Character 100), and references therein; Zhu *et al*. (2013), Character 197; Choo *et al*. (2017), Character 201; King *et al*. (2017), Character 142; Castiello (2018), Character 141; Zhu Y. *et al*. (2022), Character 347; Andreev *et al*. (2022), Character 243; Brazeau *et al*. (2023), Character 146. Cui *et al*. (2023), Character 347; Lu *et al*. (2026), Character 343; Zhu Y. *et al*. (2026), Character 343.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 344. Interhyal: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348; Andreev *et al*. (2022), Character 74; Brazeau *et al*. (2023), Character 145. Cui *et al*. (2023), Character 348; Lu *et al*. (2026), Character 344; Zhu Y. *et al*. (2026), Character 344.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 345. Hypohyal: (0) absent; (1) present.
 > Giles *et al*. (2015), Character 75; Choo *et al*. (2017), Character 282; King *et al*. (2017), Character 144; Castiello (2018), Character 143; Zhu Y. *et al*. (2022), Character 349; Andreev *et al*. (2022), Character 75; Brazeau *et al*. (2023), Character 148. Cui *et al*. (2023), Character 349; Lu *et al*. (2026), Character 345; Zhu Y. *et al*. (2026), Character 345.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 346. Disposition of the interbranchial ridges of the oralobranchial chamber roof: (0) oligobranchiate; (1) orthobranchiate; (2) nectaspidoform.
 > King *et al*. (2017), Character 146; Castiello (2018), Character 145; Zhu Y. *et al*. (2022), Character 350; Brazeau *et al*. (2023), Character 150. Cui *et al*. (2023), Character 350; Lu *et al*. (2026), Character 346; Zhu Y. *et al*. (2026), Character 346.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 347. Number of branchial fossae: (0) 5-7; (1) 9-17; (2) more than 20.
 > King *et al*. (2017), Character 147; Castiello (2018), Character 146; Zhu Y. *et al*. (2022), Character 351; Brazeau *et al*. (2023), Character 151. Cui *et al*. (2023), Character 351; Lu *et al*. (2026), Character 347; Zhu Y. *et al*. (2026), Character 347.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 348. Basibranchial elements: (0) unpaired; (1) paired.
 > King *et al*. (2017), Character 148; Castiello (2018), Character 147; Zhu Y. *et al*. (2022), Character 352; Brazeau *et al*. (2023), Character 152. Cui *et al*. (2023), Character 352; Lu *et al*. (2026), Character 348; Zhu Y. *et al*. (2026), Character 348.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 349. Sublingual rod: (0) absent; (1) present.
 > King *et al*. (2017), Character 149; Castiello (2018), Character 148; Zhu Y. *et al*. (2022), Character 353; Brazeau *et al*. (2023), Character 153. Cui *et al*. (2023), Character 353; Lu *et al*. (2026), Character 349; Zhu Y. *et al*. (2026), Character 349.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 350. Dense array of hyoid arch rays covers gill area: (0) absent; (1) present.
 > King *et al*. (2017), Character 150; Castiello (2018), Character 149; Zhu Y. *et al*. (2022), Character 354; Brazeau *et al*. (2023), Character 154. Cui *et al*. (2023), Character 354; Lu *et al*. (2026), Character 350; Zhu Y. *et al*. (2026), Character 350.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 351. Endoskeletal urohyal: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 76; Choo *et al*. (2017), Character 283; King *et al*. (2017), Character 145; Castiello (2018), Character 144; Zhu Y. *et al*. (2022), Character 355; Andreev *et al*. (2022), Character 76; Brazeau *et al*. (2023), Character 149. Cui *et al*. (2023), Character 355; Lu *et al*. (2026), Character 351; Zhu Y. *et al*. (2026), Character 351.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 352. Urohyal shape (vertical plate): (0) absent; (1) present. The coding of *Megamastax* is ?.
 > Choo *et al*. (2017), Character 329; Lu *et al*. (2017), Character 246; Zhu Y. *et al*. (2022), Character 356; Andreev *et al*. (2022), Character 244. Cui *et al*. (2023), Character 356; Lu *et al*. (2026), Character 352; Zhu Y. *et al*. (2026), Character 352.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
@@ -2877,85 +2885,99 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Giles *et al*. (2015) coded sarcopterygians (*Eusthenopteron foordi*, *Glyptolepis groenlandica*, *Onychodus jandemarrai*, *Porolepis sp.*) and chondrichthyan (*Ozarcus mapesae*) as 0 (absent), and coded actinopterygians (*Mimipiscis bartrami*, *Mimipiscis toombsi*, *Moythomasia durgaringa*,*Pteronisculus stensioi*, *Raynerius splendens*) as 1 (present). They reversed the states and might miscode the sarcopterygians or actinopterygians.
 > - The codings of *Cowralepis mclachlani*,*Campbellodus decipiens*, and *Austroptyctodus gardineri* are changed from 0 to 1. The codings of *Raynerius splendens*,*Mimipiscis toombsi*, *Moythomasia durgaringa*, and *Gogonasus andrewsae* are changed from 1 to 0.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358. Cui *et al*. (2023), Character 358; Lu *et al*. (2026), Character 354; Zhu Y. *et al*. (2026), Character 354.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
-### 355. Anterior most unpaired element of branchial skeleton contacted by: (0) one branchial arch only; (1) two or more branchial arches.
+### 355. Anteriormost unpaired element of branchial skeleton contacted by: (0) one branchial arch only; (1) two or more branchial arches.
 > Pradel *et al*. (2014); Choo *et al*. (2017), Character 36; Coates *et al*. (2018), Character 71; Dearden *et al*. (2019), Character 73; Zhu Y. *et al*. (2022), Character 359. Cui *et al*. (2023), Character 359; Lu *et al*. (2026), Character 355; Zhu Y. *et al*. (2026), Character 355.
 > - This character formulation (Dearden *et al*., 2019) is modified from Coates *et al*. (2018): Basihyal absent/present.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 356. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 > Dearden *et al*. (2019), Character 74; Zhu Y. *et al*. (2022), Character 360. Cui *et al*. (2023), Character 360; Lu *et al*. (2026), Character 356; Zhu Y. *et al*. (2026), Character 356.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
-### 357. Posterior two ventral branchial arches:0 separate; (1) articulate ventrally.
+### 357. Posterior two ventral branchial arches: (0) separate; (1) articulate ventrally.
 > Dearden *et al*. (2019), Character 80; Zhu Y. *et al*. (2022), Character 361. Cui *et al*. (2023), Character 361; Lu *et al*. (2026), Character 357; Zhu Y. *et al*. (2026), Character 357.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 358. Posterior two dorsal branchial arches: (0) separate; (1) articulate dorsally.
 > Dearden *et al*. (2019), Character 81; Zhu Y. *et al*. (2022), Character 362. Cui *et al*. (2023), Character 362; Lu *et al*. (2026), Character 358; Zhu Y. *et al*. (2026), Character 358.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 359. Gill arches: (0) largely restricted to region under braincase; (1) extend far posterior to braincase.
 > Giles *et al*. (2015), Character 72; Choo *et al*. (2017), Character 281; King *et al*. (2017), Character 143; Castiello (2018), Character 142; Zhu Y. *et al*. (2022), Character 363; Andreev *et al*. (2022), Character 72; Brazeau *et al*. (2023), Character 147. Cui *et al*. (2023), Character 363; Lu *et al*. (2026), Character 359; Zhu Y. *et al*. (2026), Character 359.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 0. The coding of Petalichthyida should be revised frome ? to 0, because of the horizental direction of N.X. 
 
 ### 360. Gill skeleton extends posteriorly beyond occiput: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 66. Dearden *et al*. (2019), Character 67; Zhu Y. *et al*. (2022), Character 364. Cui *et al*. (2023), Character 364; Lu *et al*. (2026), Character 360; Zhu Y. *et al*. (2026), Character 360.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 361. First branchial arch meets neurocranium: (0) ventral to otic region; (1) posterior to otic region.
 > Dearden *et al*. (2019), Character 68; Zhu Y. *et al*. (2021), Character 355; Zhu Y. *et al*. (2022), Character 365. Cui *et al*. (2023), Character 365; Lu *et al*. (2026), Character 361; Zhu Y. *et al*. (2026), Character 361.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 362. Separate supra- and infra-pharyngobranchials: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 72; Zhu Y. *et al*. (2022), Character 366. Cui *et al*. (2023), Character 366; Lu *et al*. (2026), Character 362; Zhu Y. *et al*. (2026), Character 362.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 363. Pharyngobranchial orientation: (0) directed anteriorly; (1) posteriorly.
 > Coates *et al*. (2018), Character 73; Zhu Y. *et al*. (2022), Character 367. Cui *et al*. (2023), Character 367; Lu *et al*. (2026), Character 363; Zhu Y. *et al*. (2026), Character 363.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 364. Posteriormost branchial arch bears epibranchial unit: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 74; Zhu Y. *et al*. (2022), Character 368. Cui *et al*. (2023), Character 368; Lu *et al*. (2026), Character 364; Zhu Y. *et al*. (2026), Character 364.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 365. Epibranchials bear posterior flange: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 75; Zhu Y. *et al*. (2022), Character 369. Cui *et al*. (2023), Character 369; Lu *et al*. (2026), Character 365; Zhu Y. *et al*. (2026), Character 365.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 366. Hypobranchial orientation: (0) directed anteriorly; (1) hypobranchials of second and more posterior gill arches directed posteriorly.
 > Coates *et al*. (2018), Character 76; Zhu Y. *et al*. (2022), Character 370. Cui *et al*. (2023), Character 370; Lu *et al*. (2026), Character 366; Zhu Y. *et al*. (2026), Character 366.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -2963,6 +2985,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 367. Endoskeletal intracranial joint: (0) absent; (1) present.
 > Janvier (1996), and references therein; Davis *et al*. (2012), Character 61; Choo *et al*. (2017), Character 60; King *et al*. (2017), Character 25; Castiello (2018), Character 25; Zhu Y. *et al*. (2022), Character 371; Andreev *et al*. (2022), Character 122; Brazeau *et al*. (2023), Character 28. Cui *et al*. (2023), Character 371; Lu *et al*. (2026), Character 367; Zhu Y. *et al*. (2026), Character 367.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 
@@ -2970,6 +2993,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > DUPRET255; Choo *et al*. (2017), Character 247; Zhu Y. *et al*. (2021), Character 118; King *et al*. (2017), Character 73; Castiello (2018), Character 75; Zhu Y. *et al*. (2022), Character 372; Andreev *et al*. (2022), Character 120; Brazeau *et al*. (2023), Character 77. Cui *et al*. (2023), Character 372; Lu *et al*. (2026), Character 368; Zhu Y. *et al*. (2026), Character 368.
 > Brazeau *et al*. (2023) "Optic fissure: (0) present; (1) absent."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
@@ -2978,36 +3002,42 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - Davis *et al*. (2012): "Coding for *Homalacanthus* adopted from Brazeau (2009); see also Gagnier (1996). Unexpectedly, in the context of a holocephalan chondrocranium, there is evidence of a ventral fissure in *Chondrenchelys*, visible in the basicranium of NMS 2002.68.1."
 > - Absent in lungfishes crownward of *Diabolepis*, and variably present in the chondrichthyan lineage, such as *Acanthodes bronni*, *Chondrenchelys problematica*, *Homalacanthus concinnus*.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 370. Metotic (otico-occipital) fissure: (0) absent; (1) present.
 > Schaeffer (1981); Janvier (1996); Coates & Sequeira (1998); Maisey (2001); Davis (2002); Brazeau (2009) ), Character 93; Davis *et al*. (2012), Character 97; Choo *et al*. (2017), Character 93. King *et al*. (2017), Character 55; Castiello (2018), Character 56; Zhu Y. *et al*. (2022), Character 374; Andreev *et al*. (2022), Character 168; Brazeau *et al*. (2023), Character 59. Cui *et al*. (2023), Character 374; Lu *et al*. (2026), Character 370; Zhu Y. *et al*. (2026), Character 370.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 371. External nasal opening: (0) single median; (1) paired.
 > Castiello (2018), Character 226; Zhu Y. *et al*. (2022), Character 375; Brazeau *et al*. (2023), Character 232. Cui *et al*. (2023), Character 375; Lu *et al*. (2026), Character 371; Zhu Y. *et al*. (2026), Character 371.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*， *Quasipetalichthys haikouensis*， *Eurycaraspis incilis*, *Macropetalichthys rapheidolabis*, *Shearsbyaspis oepiki*, *Bothriolepis spp* should be revised from ? to 1.
 
 ### 372. Nasal opening(s): (0) dorsal, placed between orbits; (1) ventral and anterior to orbits.
 > Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 56; Choo *et al*. (2017), Character 55. King *et al*. (2017), Character 20; Castiello (2018), Character 20; Zhu Y. *et al*. (2022), Character 376; Andreev *et al*. (2022), Character 114; Brazeau *et al*. (2023), Character 23. Cui *et al*. (2023), Character 376; Lu *et al*. (2026), Character 372; Zhu Y. *et al*. (2026), Character 372.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 ### 373. Nasohypophyseal opening shape: (0) unconstructed; (1) constriction between nasal and hypophysial divisions; (2) split into nasal and hypophysial divisions.
 > Castiello (2018), Character 227; Zhu Y. *et al*. (2022), Character 377; Brazeau *et al*. (2023), Character 233. Cui *et al*. (2023), Character 377; Lu *et al*. (2026), Character 373; Zhu Y. *et al*. (2026), Character 373.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -. 
 
 ### 374. Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit: (0) absent; (1) present.
 > Clement *et al*. (2018), Character 281; Zhu Y. *et al*. (2022), Character 378; Andreev *et al*. (2022), Character 115. Cui *et al*. (2023), Character 378; Lu *et al*. (2026), Character 374; Zhu Y. *et al*. (2026), Character 374.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3015,6 +3045,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Coates *et al*. (2018), Character 122; Zhu Y. *et al*. (2022), Character 379. Cui *et al*. (2023), Character 379; Lu *et al*. (2026), Character 375; Zhu Y. *et al*. (2026), Character 375.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Styloichthys* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3022,30 +3053,35 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Choo *et al*. (2017), Character 333; Lu *et al*. (2017), Character 265; Zhu Y. *et al*. (2022), Character 380; Andreev *et al*. (2022), Character 263. Cui *et al*. (2023), Character 380; Lu *et al*. (2026), Character 376; Zhu Y. *et al*. (2026), Character 376.
 > The codings of *Powichthys thorsteinssoni* and *Glyptolepis groenlandica* are 1, which means the size of profundus canal in postnasal wall is large.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?. WMJ: not sure the size, for further consideration.<img width="926" height="729" alt="屏幕截图 2025-12-09 172938" src="https://github.com/user-attachments/assets/f28e48b5-0757-46bb-95df-260c7a246949" />
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 377. Three large pores (in addition to nostrils) associated with each side of ethmoid: (0) absent; (1) present.
 > Zhu Y. *et al*. (2021), Character 257; Zhu Y. *et al*. (2022), Character 381; Andreev *et al*. (2022), Character 261. Cui *et al*. (2023), Character 381; Lu *et al*. (2026), Character 377; Zhu Y. *et al*. (2026), Character 377.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 378. Ventral face of nasal capsule in taxa with mineralized ethmoid: (0) complete; (1) fenestra ventrolateralis; (2) entire floor unmineralized.
 > Choo *et al*. (2017), Character 172; Zhu Y. *et al*. (2021), Character 258; Zhu Y. *et al*. (2022), Character 382; Andreev *et al*. (2022), Character 262. Cui *et al*. (2023), Character 382; Lu *et al*. (2026), Character 378; Zhu Y. *et al*. (2026), Character 378.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 379. Fenestra ventrolateralis: (0) absent; (1) present; (2) common ventral fenestra for anterior and posterior nostrils.
 > Zhu *et al*. (2009, Character 34), and references therein; Zhu *et al*. (2013), Character 220; Choo *et al*. (2017), Character 219; Zhu Y. *et al*. (2022), Character 383. Cui *et al*. (2023), Character 383; Lu *et al*. (2026), Character 379; Zhu Y. *et al*. (2026), Character 379.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 380. Precerebral fontanelle: (0) absent; (1) present.
 > Schaeffer (1981); Coates & Sequeira (1998, 2001a, b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Andreev *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 22. Cui *et al*. (2023), Character 384; Lu *et al*. (2026), Character 380; Zhu Y. *et al*. (2026), Character 380.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -3053,6 +3089,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 57; Choo *et al*. (2017), Character 56. King *et al*. (2017), Character 21; Castiello (2018), Character 21; Zhu Y. *et al*. (2022), Character 385; Andreev *et al*. (2022), Character 116; Brazeau *et al*. (2023), Character 24. Cui *et al*. (2023), Character 385; Lu *et al*. (2026), Character 381; Zhu Y. *et al*. (2026), Character 381.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Achoania jarviki* is changed from 0 to 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -3061,6 +3098,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 > - The coding of *Psarolepis romeri* is changed from ? to 1. The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Diabolepis speratus* is changed from ? to 1 (Qiao, 2011). The coding of *Porolepis spp* is changed from 0 to 1 (Jarvik, 1972). The coding of *Glyptolepis groenlandica* is changed from 0 to 1 (Jarvik, 1972).
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
@@ -3068,6 +3106,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Brazeau (2009); Davis *et al*. (2012), Character 58; Choo *et al*. (2017), Character 57; Zhu Y. *et al*. (2022), Character 387; Andreev *et al*. (2022), Character 117. Cui *et al*. (2023), Character 387; Lu *et al*. (2026), Character 383; Zhu Y. *et al*. (2026), Character 383.
 > - The coding of *Ramirosuarezia* is changed from 0 to 1.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*，*Pauropetalichthys magnoculus* should be revised from ? to 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
 
@@ -3075,102 +3114,119 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Davis *et al*. (2012), Character 73; Choo *et al*. (2017), Character 72. King *et al*. (2017), Character 36; Castiello (2018), Character 36; Zhu Y. *et al*. (2022), Character 388; Brazeau *et al*. (2023), Character 39. Cui *et al*. (2023), Character 388; Lu *et al*. (2026), Character 384; Zhu Y. *et al*. (2026), Character 384.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Achoania jarviki* is changed from ? to 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 ### 385. Ethmoid articulation for palatoquadrate: (0) placed on postnasal wall; (1) extends posteriorly to the level of N.II.
 > Zhu *et al*. (2009, Character 35), and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389; Brazeau *et al*. (2023), Character 76. Cui *et al*. (2023), Character 389; Lu *et al*. (2026), Character 385; Zhu Y. *et al*. (2026), Character 385.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 386. Internasal vacuities or pits: (0) absent; (1) present.
 > Lu *et al*. (2016), Character 49; Coates *et al*. (2018), Character 116; Zhu Y. *et al*. (2022), Character 390; Andreev *et al*. (2022), Character 119. Cui *et al*. (2023), Character 390; Lu *et al*. (2026), Character 386; Zhu Y. *et al*. (2026), Character 386.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 387. Morphology of internasal vacuities: (0) undifferentiated or anterior palatal fossa; (1) shallow, paired pits with strong midline ridge; (2) deep, peer-shaped pits.
 > Zhu *et al*. (2009, Character 33), and references therein; Zhu *et al*. (2013), Character 219; Lu *et al*. (2016), Character 49; Choo *et al*. (2017), Character 245; Zhu Y. *et al*. (2022), Character 391.Cui *et al*. (2023), Character 391; Lu *et al*. (2026), Character 387; Zhu Y. *et al*. (2026), Character 387.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 2.
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to -.
 
 ### 388. Basicranial morphology: (0) platybasic; (1) tropibasic.
 > Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 74; Choo *et al*. (2017), Character 73; Zhu Y. *et al*. (2022), Character 392. Cui *et al*. (2023), Character 392; Lu *et al*. (2026), Character 388; Zhu Y. *et al*. (2026), Character 388.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 389. Narrow interorbital septum: (0) absent; (1) present.
 > Brazeau (2009); Davis *et al*. (2012), Character 68; Choo *et al*. (2017), Character 67. King *et al*. (2017), Character 32; Castiello (2018), Character 32; Zhu Y. *et al*. (2022), Character 393; Andreev *et al*. (2022), Character 135; Brazeau *et al*. (2023), Character 35. Cui *et al*. (2023), Character 393; Lu *et al*. (2026), Character 389; Zhu Y. *et al*. (2026), Character 389.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 390. Optic lobes: (0) narrower than cerebellum; (1) same width or wider than cerebellum.
 > Lu *et al*. (2017), Character 271; Zhu Y. *et al*. (2022), Character 394; Andreev *et al*. (2022), Character 269. Cui *et al*. (2023), Character 394; Lu *et al*. (2026), Character 390; Zhu Y. *et al*. (2026), Character 390.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 391. Space for forebrain and (at least) proximal portion of olfactory tracts narrow and elongate, extending between orbits: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 118. Zhu Y. *et al*. (2021), Character 347; Zhu Y. *et al*. (2022), Character 395. Cui *et al*. (2023), Character 395; Lu *et al*. (2026), Character 391; Zhu Y. *et al*. (2026), Character 391.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 0. he coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 392. Rostral bar: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 120; Zhu Y. *et al*. (2022), Character 396. Cui *et al*. (2023), Character 396; Lu *et al*. (2026), Character 392; Zhu Y. *et al*. (2026), Character 392.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 393. Anteriormost articulation for the mandibular arch: (0) located anterior to the nasal capsules, terminal; (1) immediately below or posterior to nasal capsules, subterminal.
 > Zhu *et al*. (2016), Character 326; Coates *et al*. (2018), Character 123; Zhu Y. *et al*. (2021), Character 307; Zhu Y. *et al*. (2022), Character 397. Cui *et al*. (2023), Character 397; Lu *et al*. (2026), Character 393; Zhu Y. *et al*. (2026), Character 393.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 394. Palatobasal (or orbital) articulation: (0) posterior to the optic foramen; (1) anterior to the optic foramen, grooved, and overlapped by process or flange of palatoquadrate; (2) anterior to optic foramen, smooth, and overlaps or flanks articular surface on palatoquadrate.
 > Coates *et al*. (2018), Character 124; Zhu Y. *et al*. (2022), Character 398; Brazeau *et al*. (2023), Character 127. Cui *et al*. (2023), Character 398; Lu *et al*. (2026), Character 394; Zhu Y. *et al*. (2026), Character 394.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 395. Close association of pineal organ and nasal cavities: (0) absent; (1) present.
 > Zhu *et al*. (2016), Character 328; Zhu Y. *et al*. (2021), Character 309; Zhu Y. *et al*. (2022), Character 399. Cui *et al*. (2023), Character 399; Lu *et al*. (2026), Character 395; Zhu Y. *et al*. (2026), Character 395.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Eurycaraspis incilis* should be revised from 0 to ?.
 
 ### 396. Trochlear nerve foramen anterior to optic nerve foramen: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 126; Zhu Y. *et al*. (2021), Character 349; Zhu Y. *et al*. (2022), Character 400. Cui *et al*. (2023), Character 400; Lu *et al*. (2026), Character 396; Zhu Y. *et al*. (2026), Character 396.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 397. Pronounced sub-ethmoidal keel: (0) absent; (1) present.
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 59; Choo *et al*. (2017), Character 58; King *et al*. (2017), Character 23; Castiello (2018), Character 23; Zhu Y. *et al*. (2022), Character 401; Andreev *et al*. (2022), Character 118; Brazeau *et al*. (2023), Character 26. Cui *et al*. (2023), Character 401; Lu *et al*. (2026), Character 397; Zhu Y. *et al*. (2026), Character 397.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 ### 398. Eye stalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
 > Zhu *et al*. (2009, Character 36), and references therein; Zhu *et al*. (2013), Character 222; Giles *et al*. (2015), Character 131; Choo *et al*. (2017), Character 149; King *et al*. (2017), Character 62; Castiello (2018), Character 63; Zhu Y. *et al*. (2022), Character 402; Andreev *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 66. Cui *et al*. (2023), Character 402; Lu *et al*. (2026), Character 398; Zhu Y. *et al*. (2026), Character 398.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 ### 399. Eye stalk position: (0) positioned laterally on the orbital wall; (1) positioned ventrally on the subocular shelf wall.
 > Castiello (2018), Character 64; Zhu Y. *et al*. (2022), Character 403. Cui *et al*. (2023), Character 403; Lu *et al*. (2026), Character 399; Zhu Y. *et al*. (2026), Character 399.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 400. Position of myodome for superior oblique eye muscles: (0) posterior and dorsal to foramen for nerve II; (1) anterior and dorsal to foramen.
 > Young (1986); Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 60; Choo *et al*. (2017), Character 59; King *et al*. (2017), Character 24; Castiello (2018), Character 24; Zhu Y. *et al*. (2022), Character 404; Andreev *et al*. (2022), Character 121; Brazeau *et al*. (2023), Character 27. Cui *et al*. (2023), Character 404; Lu *et al*. (2026), Character 400; Zhu Y. *et al*. (2026), Character 400.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
@@ -3182,6 +3238,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3192,6 +3249,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0. 
@@ -3206,6 +3264,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - LXY. The coding of *Eusthenopteron foordi* is changed from 0 to 1 (Jarvik, 1980).
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3216,6 +3275,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3226,6 +3286,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
@@ -3236,6 +3297,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3246,6 +3308,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3256,6 +3319,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3266,6 +3330,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3278,6 +3343,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
@@ -3288,6 +3354,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3300,6 +3367,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 1.
@@ -3312,6 +3380,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3322,6 +3391,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3332,6 +3402,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3342,6 +3413,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
@@ -3352,6 +3424,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3362,6 +3435,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3374,6 +3448,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3384,6 +3459,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3394,6 +3470,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3404,6 +3481,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3414,6 +3492,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > This character is coded as inapplicable in taxa lacking well-developed supraorbital shelves. (Giles *et al*., 2015)
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
 > - The coding of *Lingyu* is 0.
@@ -3424,6 +3503,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > Davis *et al*. (2012), Character 62; Choo *et al*. (2017), Character 61; King *et al*. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. *et al*. (2022), Character 429; Andreev *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 29. Cui *et al*. (2023), Character 429; Lu *et al*. (2026), Character 424; Zhu Y. *et al*. (2026), Character 424.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
 > - The coding of *Lingyu* is 0.
@@ -3436,6 +3516,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3448,6 +3529,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis* should be revised from ? to 0.
@@ -3458,6 +3540,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3468,6 +3551,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
@@ -3478,6 +3562,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3488,6 +3573,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3498,6 +3584,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3508,6 +3595,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -3518,6 +3606,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3528,6 +3617,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3538,6 +3628,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
 > - The coding of *Lingyu* is ?.
@@ -3550,6 +3641,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3560,6 +3652,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3570,6 +3663,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3580,6 +3674,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3594,6 +3689,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Achoania jarviki* is changed from ? to 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3604,6 +3700,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3618,6 +3715,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?.The coding of *Megamastax* is ?.The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0.
@@ -3632,6 +3730,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3644,6 +3743,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3656,6 +3756,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3668,6 +3769,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3678,6 +3780,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3688,6 +3791,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3700,6 +3804,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3710,6 +3815,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -3720,6 +3826,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0. 
@@ -3730,6 +3837,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3740,6 +3848,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3752,6 +3861,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
@@ -3762,6 +3872,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3774,6 +3885,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3784,6 +3896,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised fromr ? to 1.
@@ -3794,6 +3907,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised fromr ? to -. The coding of *Shearsbyaspis oepiki* should be revised fromr 0 to -.
@@ -3804,6 +3918,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3814,6 +3929,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
@@ -3824,6 +3940,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3834,6 +3951,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3844,6 +3962,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3854,6 +3973,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3864,6 +3984,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. This Character is not from Coates *et al*. (2018), Character 185.
@@ -3874,6 +3995,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3884,6 +4006,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -3894,6 +4017,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -3904,6 +4028,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3914,6 +4039,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
@@ -3924,6 +4050,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3934,6 +4061,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3944,6 +4072,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3954,6 +4083,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -3964,6 +4094,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 2.
@@ -3974,6 +4105,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 1.
@@ -3984,6 +4116,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
@@ -3994,6 +4127,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4004,6 +4138,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4014,6 +4149,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4024,6 +4160,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4036,6 +4173,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4048,6 +4186,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4060,6 +4199,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4070,6 +4210,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4080,6 +4221,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4090,6 +4232,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4100,6 +4243,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
@@ -4110,6 +4254,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4120,6 +4265,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4130,6 +4276,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4148,6 +4295,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. 
@@ -4160,6 +4308,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4172,6 +4321,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, should be revised from ? to 0.
@@ -4184,6 +4334,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4194,6 +4345,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4204,6 +4356,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from - to ?.
@@ -4214,6 +4367,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4224,6 +4378,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4234,6 +4389,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4244,6 +4400,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Ellopetalichthys scheii* should be revised from ? to -.
@@ -4254,6 +4411,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4266,6 +4424,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Achoania jarviki* is changed from ? to 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4276,6 +4435,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Eurycaraspis incilis* should be revised from ? to 0.
@@ -4286,6 +4446,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. 
@@ -4296,6 +4457,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0.
@@ -4306,6 +4468,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4316,6 +4479,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
@@ -4328,6 +4492,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
@@ -4335,6 +4500,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 510. Rostral organ: (0) absent; (1) present.
 > King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515; Lu *et al*. (2026), Character 510; Zhu Y. *et al*. (2026), Character 510.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Eurycaraspis incilis*, *Quasipetaichthys haikouensis* should be reviesed from ? to 0.
 
@@ -4344,6 +4510,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4354,6 +4521,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4362,6 +4530,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > King *et al*. (2017), Character 110; Castiello (2018), Character 110; Zhu Y. *et al*. (2022), Character 519; Brazeau *et al*. (2023), Character 114. Cui *et al*. (2023), Character 518; Lu *et al*. (2026), Character 513; Zhu Y. *et al*. (2026), Character 513.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4372,6 +4541,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4382,6 +4552,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4392,6 +4563,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4408,6 +4580,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - LXY. The coding of *Psarolepis romeri* is changed from ? to 1.The coding of *Guiyu oneiros* is changed from ? to 1. The coding of *Onychodus jandemarrai* is changed from ? to 1 (Andrews et al., 2006). The coding of *Qingmenodus yui* is changed from ? to 1 (Lu et al., 2016). The coding of *Miguashaia bureaui* is changed from ? to 1 (Forey, 1998). The coding of *Diplocercides spp* is changed from ? to 1 (Forey, 1998). The coding of *Styloichthys changae* is changed from ? to 1 (Zhu & Yu, 2002). The coding of *Diabolepis speratus* is changed from ? to 1 (Chang, 1995). 
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4422,6 +4595,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Achoania jarvikii*, *Psarolepis romeri*, *Guiyu oneiros*, *Kentuckia deani* (Giles & Friedman, 2014), *Mimipiscis toombsi* (Giles and Friedman, 2014), *Lawrenciella schaefferi* (Hamel and Poplin, 2008), *Powichthys thorsteinssoni* (G. Clément and P. E. Ahlberg) changed from ? to 1. The coding of *Qingmenodus yui* (Lu et al., 2016), *Youngolepis praecursor* (Chang, 1982), *Glyptolepis groenlandica* (Jarvik, 1972), *Gogonasus andrewsae* (Holland, 2014), *Eusthenopteron foordi* (Jarvik, 1980) changed from ? to 3. 
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4432,6 +4606,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4442,6 +4617,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4452,6 +4628,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4462,6 +4639,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4472,6 +4650,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4482,6 +4661,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4492,6 +4672,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4502,6 +4683,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4512,6 +4694,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis* should be revised from ? to 1.
@@ -4522,6 +4705,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4532,6 +4716,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4544,6 +4729,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 2.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4554,6 +4740,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4564,6 +4751,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4574,6 +4762,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4584,6 +4773,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4594,6 +4784,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4606,6 +4797,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4616,6 +4808,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4626,6 +4819,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*,*Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4636,6 +4830,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4646,6 +4841,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4656,6 +4852,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is -. The coding of *Eurycaraspis incilis* *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to -.
@@ -4666,6 +4863,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4676,6 +4874,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4686,6 +4885,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4700,6 +4900,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis* should be revised from ? to 1.
@@ -4710,6 +4911,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -4720,6 +4922,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4732,6 +4935,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis*, *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis*, *Shearsbyaspis oepiki* should be revised from ? to 1. The feature is euqal to an elongated occipital region; in Petalichthyida, the presence of two paranuchal plates certainly indicates the existence of an elongated occipital region.
@@ -4742,6 +4946,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4752,6 +4957,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4762,6 +4968,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4772,6 +4979,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
@@ -4784,6 +4992,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Sinopetalichthys kueiyangensis*, *Widjeaspis warrooensis*,*Shearsbyaspis oepiki* should be revised from ? to 0.
@@ -4794,6 +5003,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii*, *Epipetalichthys wildungensis*, *Guangxipetalichthys tiaomajianensis*, *Pampetalichthys longhuaensis*, *Notopetalichthys hillsi*, *Widjeaspis warrooensis*, should be revised from ? to 1.
@@ -4804,6 +5014,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from ? to 0.
@@ -4814,6 +5025,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
@@ -4823,6 +5035,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu Y. *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (2026), Character 557; Zhu Y. *et al*. (2026), Character 557.
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 
 > - The coding of *Lingyu* is -.
 
@@ -4834,6 +5047,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
@@ -4846,6 +5060,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
 
 > - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
@@ -4856,6 +5071,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4866,6 +5082,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4876,6 +5093,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4886,6 +5104,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
@@ -4896,6 +5115,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4906,6 +5126,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1，as in *Guiyu*. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4916,6 +5137,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0，as in *Guiyu*. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -4926,6 +5148,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. However, the two plates are almost equal in size and shape, this charactere should really be revised. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
@@ -4936,6 +5159,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4946,6 +5170,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -4956,6 +5181,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -4966,6 +5192,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
@@ -4976,6 +5203,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -4996,6 +5224,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5006,6 +5235,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -5016,6 +5246,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?.
@@ -5026,6 +5257,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
@@ -5036,6 +5268,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -5046,6 +5279,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -5056,6 +5290,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5066,6 +5301,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0, as in _Sparalepis_. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5076,6 +5312,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5086,6 +5323,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. Unknown from one single specimen (could be female). The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5096,6 +5334,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5106,6 +5345,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5116,6 +5356,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5128,6 +5369,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5138,6 +5380,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5148,6 +5391,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5158,6 +5402,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5168,6 +5413,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Styloichthys* is 0.
 
 > - The coding of *Lingyu* is ?.
@@ -5180,6 +5426,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Diandongpetalichthys liaojiaoshanensis* should be revised from ? to 0.
@@ -5190,6 +5437,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 2. However, *Eosteus* has four median dorsals, the character formulation should be revised. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5200,6 +5448,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5210,6 +5459,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
@@ -5220,6 +5470,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5230,6 +5481,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -5242,6 +5494,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
@@ -5252,6 +5505,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5262,6 +5516,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5272,6 +5527,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5282,6 +5538,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5292,6 +5549,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5302,6 +5560,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is -, as in the taxa without intermediate spines. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5312,6 +5571,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
@@ -5332,6 +5592,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. Note that in the current dataset, the scutes are only present in *Lupopsyrus pygmaeus*. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5342,6 +5603,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5352,6 +5614,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5362,6 +5625,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5372,6 +5636,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5382,6 +5647,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5392,6 +5658,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5402,6 +5669,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5414,6 +5682,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
@@ -5424,6 +5693,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
@@ -5434,6 +5704,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?.
@@ -5444,6 +5715,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
+> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 
 > - The coding of *Yipetalichthys* is ?. 
