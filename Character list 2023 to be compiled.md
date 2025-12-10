@@ -216,7 +216,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Andreev *et al*. (2022), Character 258; Brazeau *et al*. (2023), Character 71. Cui *et al*. (2023), Character 24; Lu *et al*. (2026), Character 24; Zhu Y. *et al*. (2026), Character 24.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
+> - The coding of *Lingyu* is ?. zm: 0.
 > - The coding of *Yipetalichthys* is 0. 
 
 ### 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
@@ -662,9 +662,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 79. Single median element carrying the central, middle and posterior pit line: (0) absent; (1) present.
 > King *et al*. (2017), Character 238; Castiello (2018), Character 238; Zhu Y. *et al*. (2022), Character 81. Cui *et al*. (2023), Character 81; Lu *et al*. (2026), Character 79; Zhu Y. *et al*. (2026), Character 79.
-> - Castiello (2018):"This character was originally from Dupret *et al*. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King *et al*. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
+> - Castiello (2018): "This character was originally from Dupret *et al*. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King *et al*. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is 0.
@@ -690,7 +690,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246. Cui *et al*. (2023), Character 84; Lu *et al*. (2026), Character 82; Zhu Y. *et al*. (2026), Character 82.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is 0.
+> - The coding of *Lingyu* is 0. zm: ?. postsuborbital not available?
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is ?.
 
@@ -705,7 +705,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 84. Sclerotic ring incorporated into skull roof: (0) absent; (1) present.
 > King *et al*. (2017), Character 244; Castiello (2018), Character 243; Zhu Y. *et al*. (2022), Character 86; Brazeau *et al*. (2023), Character 249. Cui *et al*. (2023), Character 86; Lu *et al*. (2026), Character 84; Zhu Y. *et al*. (2026), Character 84.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 > - The coding of *Meeksiella* is 0.
@@ -778,7 +778,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 93. Nostrils enclosed in dermal skull roof: (0) yes; (1) no.
 > King *et al*. (2017), Character 255; Castiello (2018), Character 253; Zhu Y. *et al*. (2022), Character 95; Brazeau *et al*. (2023), Character 261. Cui *et al*. (2023), Character 93; Lu *et al*. (2026), Character 90; Zhu Y. *et al*. (2026), Character 93.
 > - The coding of *Eosteus* is 1. Its posterior nostril is in the orbit. *Ligulalepis* and *Brindabellaspis* changed from ? to 1, same as *Eosteus*. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 1. 
 > - The coding of *Meeksiella* is 1.
@@ -802,7 +802,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 96. Snout region fragmented into mosaic of small plates: (0) no; (1) yes.
 > King *et al*. (2017), Character 259; Castiello (2018), Character 256; Zhu Y. *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 264. Cui *et al*. (2023), Character 98; Lu *et al*. (2026), Character 96; Zhu Y. *et al*. (2026), Character 96.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is ?.
@@ -830,7 +830,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 99. Pore clusters: (0) absent; (1) present.
 > King *et al*. (2017), Character 267; Castiello (2018), Character 261; Zhu Y. *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 272. Cui *et al*. (2023), Character 101; Lu *et al*. (2026), Character 99; Zhu Y. *et al*. (2026), Character 99.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?.
 > - The coding of *Meeksiella* is 0.
@@ -846,7 +846,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 101. Interparietal: (0) absent; (1) present.
 > King *et al*. (2017), Character 271; Castiello (2018), Character 265; Zhu Y. *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 276. Cui *et al*. (2023), Character 103; Lu *et al*. (2026), Character 101; Zhu Y. *et al*. (2026), Character 101.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is 0.
@@ -856,13 +856,13 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 278. Cui *et al*. (2023), Character 104; Lu *et al*. (2026), Character 102; Zhu Y. *et al*. (2026), Character 102.
 > - The coding of *Groenlandaspis* and *Howqualepis* changed from 0 to 1.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 1. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
 > - The coding of *Yipetalichthys* is 1.
 > - The coding of *Meeksiella* is 0.
 > - LXY The coding of *Achoania* is from ? to 1.
 
-### 103. Supratemporal (placoderm marginal) contact with nasal (placoderm postnasal): (0) absent; (1) present.
+### 103. Supratemporal (placoderm marginal) in contact with nasal (placoderm postnasal): (0) absent; (1) present.
 > King *et al*. (2017), Character 274; Castiello (2018), Character 268; Zhu Y. *et al*. (2022), Character 105; Brazeau *et al*. (2023), Character 279. Cui *et al*. (2023), Character 105; Lu *et al*. (2026), Character 103; Zhu Y. *et al*. (2026), Character 103.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
