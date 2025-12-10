@@ -1683,33 +1683,33 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 199. Endolymphatic ducts open in dermal skull roof: (0) present; (1) absent.
 > Janvier (1996); Brazeau (2009); Davis *et al*. (2012), Character 21; Choo *et al*. (2017), Character 20; King *et al*. (2017), Character 154; Castiello (2018), Character 153; Zhu Y. *et al*. (2022), Character 203; Andreev *et al*. (2022), Character 39; Brazeau *et al*. (2023), Character 158. Cui *et al*. (2023), Character 203; Lu *et al*. (2026), Character 199; Zhu Y. *et al*. (2026), Character 199.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Ruiyu* is 1. The coding of *Chiyu chongqingensis* is 1. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
-> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 0. The coding of *Eurycaraspis incilis* shoud be revised from 1 to 0. The coding of *Quasipetalichthys haikouensis* shoud be revised from 0 to 1.
+> - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0. The coding of *Eurycaraspis incilis* should be revised from 1 to 0. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to 1.
 > - The coding of *Meeksiella* is ?.
 
 ### 200. External endolymphatic duct openings' location in relation to median field: (0) internal; (1) external.
 > Castiello (2018), Character 224; Zhu Y. *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 230. Cui *et al*. (2023), Character 204; Lu *et al*. (2026), Character 200; Zhu Y. *et al*. (2026), Character 200.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -. 
 > - The coding of *Meeksiella* is -.
 
-201. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
+### 201. Endolymphatic ducts with oblique course through dermal skull bones: (0) absent; (1) present.
 > Goujet & Young (1995); Brazeau (2009); Davis *et al*. (2012), Character 22; Choo *et al*. (2017), Character 21; King *et al*. (2017), Character 155; Castiello (2018), Character 154; Zhu Y. *et al*. (2022), Character 205; Andreev *et al*. (2022), Character 40; Brazeau *et al*. (2023), Character 159. Cui *et al*. (2023), Character 205; Lu *et al*. (2026), Character 201; Zhu Y. *et al*. (2026), Character 201.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is -. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is ?.
 
 ### 202. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): (0) within median bone; (1) on bones flanking the median bone (e.g. paranuchals).
 > Giles *et al*. (2015), Character 40; Choo *et al*. (2017), Character 269; King *et al*. (2017), Character 207; Castiello (2018), Character 206; Zhu Y. *et al*. (2022), Character 206; Andreev *et al*. (2022), Character 41; Brazeau *et al*. (2023), Character 212. Cui *et al*. (2023), Character 206; Lu *et al*. (2026), Character 202; Zhu Y. *et al*. (2026), Character 202.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-> - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
-> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* shoud be revised from ? to 1. The coding of *Quasipetalichthys haikouensis* shoud be revised from ? to -. The coding of *Pauropetalichthys magnoculus* shoud be revised from ? to 1.
+> - The coding of *Ruiyu* is -. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
+> - The coding of *Lingyu* is -.
+> - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from ? to 1. The coding of *Quasipetalichthys haikouensis* should be revised from ? to -. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 > - The coding of *Meeksiella* is ?.
 
 ### 203. Sclerotic ring: (0) absent; (1) present.
@@ -1868,7 +1868,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Meeksiella* is -.
 
 ### 222. Branchiostegal ossifications: (0) plate-like; (1) narrow and ribbon-like.
-
 > Hanke and Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 29; Choo *et al*. (2017), Character 28; King *et al*. (2017), Character 162; Castiello (2018), Character 160; Zhu Y. *et al*. (2022), Character 226; Andreev *et al*. (2022), Character 64; Brazeau *et al*. (2023), Character 166. Cui *et al*. (2023), Character 226; Lu *et al*. (2026), Character 222; Zhu Y. *et al*. (2026), Character 222.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
