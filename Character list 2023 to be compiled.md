@@ -216,7 +216,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Andreev *et al*. (2022), Character 258; Brazeau *et al*. (2023), Character 71. Cui *et al*. (2023), Character 24; Lu *et al*. (2026), Character 24; Zhu Y. *et al*. (2026), Character 24.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is 0. The coding of *Chiyu chongqingensis* is 0. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?. zm: 0.
+> - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0. 
 
 ### 25. Bone cell lacunae in body scale bases: (0) present; (1) absent.
@@ -690,7 +690,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > King *et al*. (2017), Character 241; Castiello (2018), Character 241; Zhu Y. *et al*. (2022), Character 84; Brazeau *et al*. (2023), Character 246. Cui *et al*. (2023), Character 84; Lu *et al*. (2026), Character 82; Zhu Y. *et al*. (2026), Character 82.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is 0. zm: ?. postsuborbital not available?
+> - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 > - The coding of *Meeksiella* is ?.
 
@@ -4372,1912 +4372,1216 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is 0. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 0.
 
 ### 557. Trunk ventral articular lamina develops into flange or condyle: (0) absent, continuous along the articular lamina of the anterior dorsolateral plate; (1) present, the articular lamina develops into distinctive flange or condyle.
-
 > Zhu Y. *et al*. (2019), Character 5; Zhu Y. *et al*. (2021), Character 358; Zhu Y. *et al*. (2022), Character 563; Cui *et al*. (2023), Character 562; Zhu Y. *et al*. (2019), Character 375; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (2026), Character 557; Zhu Y. *et al*. (2026), Character 557.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-
 > - The coding of *Lingyu* is -.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 558. Rotatory contact of the articulation: (0) absent; (1) present.
-
 > Zhu Y. *et al*. (2019), Character 6; Zhu Y. *et al*. (2021), Character 359; Zhu Y. *et al*. (2022), Character 564; Cui *et al*. (2023), Character 563; Zhu Y. *et al*. (2019), Character 376; Trinajstic *et al*. (2019), Character 16; Lu *et al*. (2026), Character 558; Zhu Y. *et al*. (2026), Character 558.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
-
 > - The coding of *Yipetalichthys* is 0. The coding of all Petalichthyida should be revised from ? to 0.
 
 ### 559. Ventral laminar ridge on skull roof medially defining the articulation (para-articular process sensus Young, 1978): (0) absent; (1) present.
-
 > Young (1978); Zhu Y. *et al*. (2019), Character 8; Zhu Y. *et al*. (2021), Character 360; Zhu Y. *et al*. (2022), Character 565; Brazeau *et al*. (2023), Character 179. Cui *et al*. (2023), Character 564; Lu *et al*. (2026), Character 559; Zhu Y. *et al*. (2026), Character 559.
-
 > - Young (1978) introduced the term 'para-articular process of dermal neck joint' (Young, 1978) to denote the ventral laminar ridge medially flanking the laminar articulation on the ventral surface of skull roof, as in petalichthyids. Castiello *et al.* (2022, fig. 9B) extended this term to define the ventral process or ridge laterally defining the articulation as in arthrodires. Considering the different condition of the ventral process in petalichthyids and arthrodires, we adopted the original definition of the para-articular process (Young, 1978) to code petalichthyids and arthrodires. 
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is -.
-
 > - The coding of *Yipetalichthys* is 1. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus*, *Ellopetalichthys scheii* should be revised from ? to 1.
 
 ### 560. Dermal shoulder girdle composition: (0) ventral and dorsal (scapular) components; (1) ventral components only.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 105; Choo *et al*. (2017), Character 101; King *et al*. (2017), Character 422; Castiello (2018), Character 411; Zhu Y. *et al*. (2022), Character 566; Andreev *et al*. (2022), Character 180; Brazeau *et al*. (2023), Character 427. Cui *et al*. (2023), Character 565; Lu *et al*. (2026), Character 560; Zhu Y. *et al*. (2026), Character 560.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 561. Dermal shoulder girdle forming a complete ring around the trunk: (0) present; (1) absent.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 106; Choo *et al*. (2017), Character 102; King *et al*. (2017), Character 423; Castiello (2018), Character 412; Zhu Y. *et al*. (2022), Character 567; Andreev *et al*. (2022), Character 182; Brazeau *et al*. (2023), Character 428. Cui *et al*. (2023), Character 566; Lu *et al*. (2026), Character 561; Zhu Y. *et al*. (2026), Character 561.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 562. Pectoral fenestra completely encircled by dermal shoulder armour: (0) present; (1) absent.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 107; Choo *et al*. (2017), Character 103; King *et al*. (2017), Character 424; Castiello (2018), Character 413; Zhu Y. *et al*. (2022), Character 568; Andreev *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 429. Cui *et al*. (2023), Character 567; Lu *et al*. (2026), Character 562; Zhu Y. *et al*. (2026), Character 562.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 563. Median dorsal plate: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 108; Choo *et al*. (2017), Character 104; King *et al*. (2017), Character 425; Castiello (2018), Character 414; Zhu Y. *et al*. (2022), Character 569; Andreev *et al*. (2022), Character 184; Brazeau *et al*. (2023), Character 430. Cui *et al*. (2023), Character 568; Lu *et al*. (2026), Character 563; Zhu Y. *et al*. (2026), Character 563.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
 ### 564. Pronounced internal crista (keel) on median dorsal surface of shoulder girdle: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 109; Choo *et al*. (2017), Character 105; King *et al*. (2017), Character 426; Castiello (2018), Character 415; Zhu Y. *et al*. (2022), Character 570; Andreev *et al*. (2022), Character 186; Brazeau *et al*. (2023), Character 431. Cui *et al*. (2023), Character 569; Lu *et al*. (2026), Character 564; Zhu Y. *et al*. (2026), Character 564.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 565. Anterior median dorsal plate: (0) absent; (1) present.
-
 > Zhu *et al*. (2016), Character 358; Zhu Y. *et al*. (2021), Character 320; Zhu Y. *et al*. (2022), Character 571. Cui *et al*. (2023), Character 570; Lu *et al*. (2026), Character 565; Zhu Y. *et al*. (2026), Character 565.
-
 > - The coding of *Eosteus* is 1，as in *Guiyu*. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 566. Anterior margin of unpaired anterior median dorsal plate: (0) broad; (1) pointed.
-
 > Zhu *et al*. (2016), Character 362; Zhu Y. *et al*. (2021), Character 322; Zhu Y. *et al*. (2022), Character 572. Cui *et al*. (2023), Character 571; Lu *et al*. (2026), Character 566; Zhu Y. *et al*. (2026), Character 566.
-
 > - The coding of *Eosteus* is 0，as in *Guiyu*. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 567. Anterior median dorsal plate (MD1) relative to posterior median dorsal plate (MD2) in length: (0) MD1 shorter than MD2; (1) MD1 longer than MD2.
-
 > Zhu *et al*. (2016), Character 36; Zhu Y. *et al*. (2021), Character 321; Zhu Y. *et al*. (2022), Character 573. Cui *et al*. (2023), Character 572; Lu *et al*. (2026), Character 567; Zhu Y. *et al*. (2026), Character 567.
-
 > - The coding of *Eosteus* is 0. However, the two plates are almost equal in size and shape, this charactere should really be revised. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 ### 568. Anterior lateral plate: (0) absent; (1) present. 
-
 > Zhu *et al*. (2016), Character 363; Zhu Y. *et al*. (2021), Character 323; Zhu Y. *et al*. (2022), Character 574. Cui *et al*. (2023), Character 573; Lu *et al*. (2026), Character 568; Zhu Y. *et al*. (2026), Character 568.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 569. Postbranchial lamina of trunk armour: (0) lateral; (1) internal.
-
 > Zhu *et al*. (2016), Character 364; Zhu Y. *et al*. (2021), Character 324; Zhu Y. *et al*. (2022), Character 575. Cui *et al*. (2023), Character 574; Lu *et al*. (2026), Character 569; Zhu Y. *et al*. (2026), Character 569.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 570. Crista internalis of dermal shoulder girdle: (0) absent; (1) present.
-
 > Zhu Y. *et al*. (2021), Character 183; Zhu Y. *et al*. (2022), Character 576; Andreev *et al*. (2022), Character 187. Cui *et al*. (2023), Character 575; Lu *et al*. (2026), Character 570; Zhu Y. *et al*. (2026), Character 570.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 571. Anteroventral plate: (0) absent; (1) present.
-
 > Zhu *et al*. (2016), Character 365; Zhu Y. *et al*. (2021), Character 325; Zhu Y. *et al*. (2022), Character 577. Cui *et al*. (2023), Character 576; Lu *et al*. (2026), Character 571; Zhu Y. *et al*. (2026), Character 571.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
 ### 572. Number of median ventral plates: (0) two; (1) one.
-
 > Zhu *et al*. (2016), Character 366; Zhu Y. *et al*. (2021), Character 326; Zhu Y. *et al*. (2022), Character 578. Cui *et al*. (2023), Character 577; Lu *et al*. (2026), Character 572; Zhu Y. *et al*. (2026), Character 572.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 573. Interolateral plate: (0) paired; (1) fused (unpaired semilunar plate).
-
 > Zhu *et al*. (2016), Character 367; Zhu Y. *et al*. (2021), Character 327; Zhu Y. *et al*. (2022), Character 579. Cui *et al*. (2023), Character 578; Lu *et al*. (2026), Character 573; Zhu Y. *et al*. (2026), Character 573.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 574. Anterior ventrolateral plates of both sides: (0) in contact; (1) separated.
-
 > Zhu *et al*. (2016), Character 368; Zhu Y. *et al*. (2021), Character 328; Zhu Y. *et al*. (2022), Character 580. Cui *et al*. (2023), Character 579; Lu *et al*. (2026), Character 574; Zhu Y. *et al*. (2026), Character 574.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 575. Brachial process: (0) absent; (1) present.
-
 > Zhu *et al*. (2016), Character 369; Zhu Y. *et al*. (2021), Character 329; Zhu Y. *et al*. (2022), Character 581. Cui *et al*. (2023), Character 580; Lu *et al*. (2026), Character 575; Zhu Y. *et al*. (2026), Character 575.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 576. Presupracleithrum: (0) absent; (1) present.
-
 > Zhu *et al*. (2009, Character 121), and references therein; Zhu *et al*. (2013), Character 244; Choo *et al*. (2017), Character 231; King *et al*. (2017), Character 203; Castiello (2018), Character 202; Zhu Y. *et al*. (2022), Character 582; Brazeau *et al*. (2023), Character 208. Cui *et al*. (2023), Character 581; Lu *et al*. (2026), Character 576; Zhu Y. *et al*. (2026), Character 576.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis* should be revised from 0 to ?.
 
 ### 577. Anocleithrum: (0) element developed as postcleithrum; (1) element developed as anocleithrum sensu stricto.
-
 > Zhu *et al*. (2009, Character 122), and references therein; Zhu *et al*. (2013), Character 245; Choo *et al*. (2017), Character 232; King *et al*. (2017), Character 430; Castiello (2018), Character 419; Zhu Y. *et al*. (2022), Character 583; Brazeau *et al*. (2023), Character 435. Cui *et al*. (2023), Character 582; Lu *et al*. (2026), Character 577; Zhu Y. *et al*. (2026), Character 577.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 ### 578. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused.
-
 > Zhu *et al*. (2009, Character 122), and references therein; Zhu *et al*. (2013), Character 246; Choo *et al*. (2017), Character 234; King *et al*. (2017), Character 431; Castiello (2018), Character 420; Zhu Y. *et al*. (2022), Character 584; Brazeau *et al*. (2023), Character 436. Cui *et al*. (2023), Character 583; Lu *et al*. (2026), Character 578; Zhu Y. *et al*. (2026), Character 578.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 579. Shape of dorsal blade of dermal shoulder girdle: (0) spatulate; (1) pointed.
-
 > Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu *et al*. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu *et al*. (2006), Character 96; Friedman (2007), Character 107; Zhu *et al*. (2009), Character 124; Giles *et al*. (2015), Character 183; Choo *et al*. (2017), Character 307; King *et al*. (2017), Character 435; Castiello (2018), Character 424; Zhu Y. *et al*. (2022), Character 585; Andreev *et al*. (2022), Character 155; Brazeau *et al*. (2023), Character 440. Cui *et al*. (2023), Character 584; Lu *et al*. (2026), Character 579; Zhu Y. *et al*. (2026), Character 579.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 580. Posterior dorsolateral plate or equivalent: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 187; Choo *et al*. (2017), Character 308; King *et al*. (2017), Character 436; Castiello (2018), Character 425; Zhu Y. *et al*. (2022), Character 586; Andreev *et al*. (2022), Character 185; Brazeau *et al*. (2023), Character 441. Cui *et al*. (2023), Character 585; Lu *et al*. (2026), Character 580; Zhu Y. *et al*. (2026), Character 580.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 581. Relationship of clavicle to cleithrum: (0) ascending process of clavicle overlapping cleithrum laterally; (1) ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially.
-
 > Zhu *et al*. (2009, Character 126), and references therein; Zhu *et al*. (2013), Character 247; Choo *et al*. (2017), Character 235; King *et al*. (2017), Character 432; Castiello (2018), Character 421; Zhu Y. *et al*. (2022), Character 587; Brazeau *et al*. (2023), Character 437. Cui *et al*. (2023), Character 586; Lu *et al*. (2026), Character 581; Zhu Y. *et al*. (2026), Character 581.
-
 > - The coding of *Eosteus* is 0, as in _Sparalepis_. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 582. Paired fins relation to cephalic shield: (0) continuous;(1) delimited at pectoral sinus.
-
 > Castiello (2018), Character 383; Zhu Y. *et al*. (2022), Character 588. Cui *et al*. (2023), Character 587; Lu *et al*. (2026), Character 582; Zhu Y. *et al*. (2026), Character 582.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 583. Intromittent organ for internal fertilization ('claspers'): (0) absent; (1) present.
-
 > King *et al*. (2017), Character 395; Castiello (2018), Character 385; Zhu Y. *et al*. (2022), Character 589. Cui *et al*. (2023), Character 588; Lu *et al*. (2026), Character 583; Zhu Y. *et al*. (2026), Character 583.
-
 > - The coding of *Eosteus* is ?. Unknown from one single specimen (could be female). The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 584. Entepicondyle on humerus: (0) present; (1) absent.
-
 > King *et al*. (2017), Character 418; Castiello (2018), Character 407; Zhu Y. *et al*. (2022), Character 590; Brazeau *et al*. (2023), Character 423. Cui *et al*. (2023), Character 589; Lu *et al*. (2026), Character 584; Zhu Y. *et al*. (2026), Character 584.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 585. PL and PDL overlap: (0) simple; (1) insertion.
-
 > King *et al*. (2017), Character 437; Castiello (2018), Character 426; Zhu Y. *et al*. (2022), Character 591; Brazeau *et al*. (2023), Character 442. Cui *et al*. (2023), Character 590; Lu *et al*. (2026), Character 585; Zhu Y. *et al*. (2026), Character 585.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 586. Left and right posterior dorsolateral plates contact below the median dorsal plate: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 438; Castiello (2018), Character 427; Zhu Y. *et al*. (2022), Character 592; Brazeau *et al*. (2023), Character 443. Cui *et al*. (2023), Character 591; Lu *et al*. (2026), Character 586; Zhu Y. *et al*. (2026), Character 586.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 587. PDL plate visible externally: (0) present; (1) absent.
-
 > King *et al*. (2017), Character 439; Castiello (2018), Character 428; Zhu Y. *et al*. (2022), Character 593; Brazeau *et al*. (2023), Character 444. Cui *et al*. (2023), Character 592; Lu *et al*. (2026), Character 587; Zhu Y. *et al*. (2026), Character 587.
-
 > - The original character state formulation was incorrect by comparison to their codings in the data set.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 588. Posteriorly produced spine on MD plate: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 440; Castiello (2018), Character 429; Zhu Y. *et al*. (2022), Character 594; Brazeau *et al*. (2023), Character 445. Cui *et al*. (2023), Character 593; Lu *et al*. (2026), Character 588; Zhu Y. *et al*. (2026), Character 588.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 589. Joint in macromeric armoured pectoral fin: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 441; Castiello (2018), Character 430; Zhu Y. *et al*. (2022), Character 595; Brazeau *et al*. (2023), Character 446. Cui *et al*. (2023), Character 594; Lu *et al*. (2026), Character 589; Zhu Y. *et al*. (2026), Character 589.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 590. Cd1 (first dorsal central) and Cd2 (second dorsal central) plates: (0) in contact; (1) separated.
-
 > King *et al*. (2017), Character 442; Castiello (2018), Character 431; Zhu Y. *et al*. (2022), Character 596; Brazeau *et al*. (2023), Character 447. Cui *et al*. (2023), Character 595; Lu *et al*. (2026), Character 590; Zhu Y. *et al*. (2026), Character 590.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 591. Clavicles/interolateral plates: (0) large plates, comparable in size to cleithrum; (1) paired small semilunar plates; (2) unpaired semilunar plates.
-
 > King *et al*. (2017), Character 443; Castiello (2018), Character 432; Zhu Y. *et al*. (2022), Character 597; Brazeau *et al*. (2023), Character 448. Cui *et al*. (2023), Character 596; Lu *et al*. (2026), Character 591; Zhu Y. *et al*. (2026), Character 591.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 592. Chang's apparatus: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 444; Castiello (2018), Character 433; Zhu Y. *et al*. (2022), Character 598; Brazeau *et al*. (2023), Character 449. Cui *et al*. (2023), Character 597; Lu *et al*. (2026), Character 592; Zhu Y. *et al*. (2026), Character 592.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Eurycaraspis incilis*, *Diandongpetalichthys liaojiaoshanensis* should be revised from ? to 0.
 
 ### 593. Number of median dorsal plates: (0) one; (1) two; (2) three.
-
 > King *et al*. (2017), Character 445; Castiello (2018), Character 434; Zhu Y. *et al*. (2022), Character 599; Brazeau *et al*. (2023), Character 450; Cui *et al*. (2023), Character 598; Trinajstic *et al*. (2019), character 3; Lu *et al*. (2026), Character 593; Zhu Y. *et al*. (2026), Character 593.
-
 > - The coding of *Eosteus* is 2. However, *Eosteus* has four median dorsals, the character formulation should be revised. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 594. Anocleithrum sensu stricto: (0) exposed; (1) subdermal.
-
 > King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451. Cui *et al*. (2023), Character 599; Lu *et al*. (2026), Character 594; Zhu Y. *et al*. (2026), Character 594.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 595. Median ventral trunk plates: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 447; Castiello (2018), Character 436; Zhu Y. *et al*. (2022), Character 601; Andreev *et al*. (2022), Character 289; Brazeau *et al*. (2023), Character 452. Cui *et al*. (2023), Character 600; Lu *et al*. (2026), Character 595; Zhu Y. *et al*. (2026), Character 595.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
 ### 596. Extracleithrum: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 448; Castiello (2018), Character 437; Zhu Y. *et al*. (2022), Character 602; Brazeau *et al*. (2023), Character 453. Cui *et al*. (2023), Character 601; Lu *et al*. (2026), Character 596; Zhu Y. *et al*. (2026), Character 596.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 597. Pectoral fin spine small (bivalve-like): (0) absent; (1) present.
-
 > Castiello (2018), Character 438. King *et al*. (2017), Character 449; Zhu Y. *et al*. (2022), Character 603; Brazeau *et al*. (2023), Character 454. Cui *et al*. (2023), Character 602; Lu *et al*. (2026), Character 597; Zhu Y. *et al*. (2026), Character 597.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 598. Dorsal branch of main lateral line canal on posterior dorsolateral plate: (0) present; (1) absent.
-
 > King *et al*. (2017), Character 325; Castiello (2018), Character 317; Zhu Y. *et al*. (2022), Character 604; Brazeau *et al*. (2023), Character 330. Cui *et al*. (2023), Character 603; Lu *et al*. (2026), Character 598; Zhu Y. *et al*. (2026), Character 598.
-
 > The original character state formulation was incorrect by comparison to their codings in the data set.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 1 to ?.
 
 ### 599. Sharp downward bend in posterior dorsolateral plate sensory line: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 326; Castiello (2018), Character 318; Zhu Y. *et al*. (2022), Character 605; Brazeau *et al*. (2023), Character 331. Cui *et al*. (2023), Character 604; Lu *et al*. (2026), Character 599; Zhu Y. *et al*. (2026), Character 599.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 600. Horizontal caudal lobe: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 451; Castiello (2018), Character 440; Zhu Y. *et al*. (2022), Character 606; Brazeau *et al*. (2023), Character 456. Cui *et al*. (2023), Character 605; Lu *et al*. (2026), Character 600; Zhu Y. *et al*. (2026), Character 600.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 601. Triphycercal tail: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 4521; Castiello (2018), Character 441; Zhu Y. *et al*. (2022), Character 607; Brazeau *et al*. (2023), Character 457. Cui *et al*. (2023), Character 606; Lu *et al*. (2026), Character 601; Zhu Y. *et al*. (2026), Character 601.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 602. Spine-brush complex: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 479; Castiello (2018), Character 468; Zhu Y. *et al*. (2022), Character 608; Brazeau *et al*. (2023), Character 484. Cui *et al*. (2023), Character 607; Lu *et al*. (2026), Character 602; Zhu Y. *et al*. (2026), Character 602.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 603. Series of median hexagonal scutes anterior to first dorsal fin: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 480; Castiello (2018), Character 469; Zhu Y. *et al*. (2022), Character 609; Brazeau *et al*. (2023), Character 485. Cui *et al*. (2023), Character 608; Lu *et al*. (2026), Character 603; Zhu Y. *et al*. (2026), Character 603.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 604. Intermediate spines with finlets: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 481; Castiello (2018), Character 470; Zhu Y. *et al*. (2022), Character 610; Brazeau *et al*. (2023), Character 486. Cui *et al*. (2023), Character 609; Lu *et al*. (2026), Character 604; Zhu Y. *et al*. (2026), Character 604.
-
 > - The coding of *Eosteus* is -, as in the taxa without intermediate spines. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 605. Median ventral prepectoral spine: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 482; Castiello (2018), Character 471; Zhu Y. *et al*. (2022), Character 611; Andreev *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 487. Cui *et al*. (2023), Character 610; Lu *et al*. (2026), Character 605; Zhu Y. *et al*. (2026), Character 605.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
 ### 606. Prepectoral spines form "necklace": (0) absent; (1) present.
-
 > King *et al*. (2017), Character 483; Castiello (2018), Character 472; Zhu Y. *et al*. (2022), Character 612; Brazeau *et al*. (2023), Character 488. Cui *et al*. (2023), Character 611; Lu *et al*. (2026), Character 606; Zhu Y. *et al*. (2026), Character 606.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis*, *Pauropetalichthys magnoculus* should be revised from 0 to ?.
 
 ### 607. Longitudinal rows of enlarged keeled scutes: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 484; Castiello (2018), Character 473; Zhu Y. *et al*. (2022), Character 613; Brazeau *et al*. (2023), Character 489. Cui *et al*. (2023), Character 612; Lu *et al*. (2026), Character 607; Zhu Y. *et al*. (2026), Character 607.
-
 > - The coding of *Eosteus* is ?. Note that in the current dataset, the scutes are only present in *Lupopsyrus pygmaeus*. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 608. Endoskeletal supports in pectoral fin: (0) multiple elements articulating with girdle; (1) single element (\"humerus\") articulating with girdle.
-
 > Zhu *et al*. (2009, Character 130), and references therein; Zhu *et al*., (2013), Character 250; Giles *et al*. (2015), Character 201; Choo *et al*. (2017), Character 233; King *et al*. (2017), Character 409; Castiello (2018), Character 398; Zhu Y. *et al*. (2022), Character 614; Brazeau *et al*. (2023), Character 414. Cui *et al*. (2023), Character 613; Lu *et al*. (2026), Character 608; Zhu Y. *et al*. (2026), Character 608.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 609. Triradiate scapulocoracoid: (0) absent; (1) present.
-
 > Zhu *et al*. (2009, Character 128), and references therein; Zhu *et al*. (2013), Character 248; Choo *et al*. (2017), Character 236; King *et al*. (2017), Character 410; Castiello (2018), Character 399; Zhu Y. *et al*. (2022), Character 615; Brazeau *et al*. (2023), Character 415. Cui *et al*. (2023), Character 614; Lu *et al*. (2026), Character 609; Zhu Y. *et al*. (2026), Character 609.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 610. Flange on trailing edge of scapulocoracoid: (0) absent; (1) present.
-
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 113; Choo *et al*. (2017), Character 109; King *et al*. (2017), Character 401; Castiello (2018), Character 390; Zhu Y. *et al*. (2022), Character 616; Andreev *et al*. (2022), Character 192; Brazeau *et al*. (2023), Character 407. Cui *et al*. (2023), Character 615; Lu *et al*. (2026), Character 610; Zhu Y. *et al*. (2026), Character 610.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 611. Horizontal plate of scapulocoracoid: (0) absent; (1) present.
-
 > King *et al*. (2017), Character 419; Castiello (2018), Character 408; Zhu Y. *et al*. (2022), Character 617; Brazeau *et al*. (2023), Character 424. Cui *et al*. (2023), Character 616; Lu *et al*. (2026), Character 611; Zhu Y. *et al*. (2026), Character 611.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 612. Subscapular foramen: (0) absent; (1) present.
-
 > Zhu *et al*. (2009, Character 129), and references therein; Zhu *et al*. (2013), Character 249; Choo *et al*. (2017), Character 237; King *et al*. (2017), Character 411; Castiello (2018), Character 400; Zhu Y. *et al*. (2022), Character 618; Brazeau *et al*. (2023), Character 416. Cui *et al*. (2023), Character 617; Lu *et al*. (2026), Character 612; Zhu Y. *et al*. (2026), Character 612.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 613. Scapular process of shoulder endoskeleton: (0) absent; (1) present.
-
 > Coates & Sequeira (2001a, b); Zhu & Schultze (2001); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 110; Choo *et al*. (2017), Character 106; King *et al*. (2017), Character 398; Castiello (2018), Character 387; Zhu Y. *et al*. (2022), Character 619; Andreev *et al*. (2022), Character 189; Brazeau *et al*. (2023), Character 403. Cui *et al*. (2023), Character 618; Lu *et al*. (2026), Character 613; Zhu Y. *et al*. (2026), Character 613.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 614. Scapular process with posterodorsal angle: (0) absent; (1) present.
-
 > Coates & Sequeira (2001a, b); Davis *et al*. (2012), Character 114; Choo *et al*. (2017), Character 110; King *et al*. (2017), Character 402; Castiello (2018), Character 391; Andreev *et al*. (2022), Character 193; Zhu Y. *et al*. (2022), Character 620. Cui *et al*. (2023), Character 619; Lu *et al*. (2026), Character 614; Zhu Y. *et al*. (2026), Character 614.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 615. Scapular infundibulum: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 190; Choo *et al*. (2017), Character 309; King *et al*. (2017), Character 413; Castiello (2018), Character 402; Zhu Y. *et al*. (2022), Character 621; Andreev *et al*. (2022), Character 188; Brazeau *et al*. (2023), Character 418. Cui *et al*. (2023), Character 620; Lu *et al*. (2026), Character 615; Zhu Y. *et al*. (2026), Character 615.
-
 > - This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from 0 to ?.
 
 ### 616. Ventral margin of separate scapular ossification: (0) horizontal; (1) deeply angled.
-
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 111; Choo *et al*. (2017), Character 107; King *et al*. (2017), Character 399; Castiello (2018), Character 388; Zhu Y. *et al*. (2022), Character 622; Andreev *et al*. (2022), Character 190; Brazeau *et al*. (2023), Character 404. Cui *et al*. (2023), Character 621; Lu *et al*. (2026), Character 616; Zhu Y. *et al*. (2026), Character 616.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 617. Cross sectional shape of scapular process: (0) flattened or strongly ovate; (1) subcircular.
-
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 112; Choo *et al*. (2017), Character 108; King *et al*. (2017), Character 400; Castiello (2018), Character 389; Zhu Y. *et al*. (2022), Character 623; Andreev *et al*. (2022), Character 191; Brazeau *et al*. (2023), Character 405. Cui *et al*. (2023), Character 622; Lu *et al*. (2026), Character 617; Zhu Y. *et al*. (2026), Character 617.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 618. Endoskeletal postbranchial lamina on scapular process: (0) present; (1) absent.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 115; Choo *et al*. (2017), Character 111; King *et al*. (2017), Character 403; Castiello (2018), Character 392; Zhu Y. *et al*. (2022), Character 624; Andreev *et al*. (2022), Character 194; Brazeau *et al*. (2023), Character 408. Cui *et al*. (2023), Character 623; Lu *et al*. (2026), Character 618; Zhu Y. *et al*. (2026), Character 618.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 619. Mineralisation of internal surface of scapular blade: (0) mineralised all around; (1) unmineralised on internal face forming a hemicylindrical cross-section.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 116; Choo *et al*. (2017), Character 112; King *et al*. (2017), Character 404; Castiello (2018), Character 393; Zhu Y. *et al*. (2022), Character 625; Andreev *et al*. (2022), Character 195; Brazeau *et al*. (2023), Character 409. Cui *et al*. (2023), Character 624; Lu *et al*. (2026), Character 619; Zhu Y. *et al*. (2026), Character 619.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 620. Coracoid process: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 117; Choo *et al*. (2017), Character 113; King *et al*. (2017), Character 405; Castiello (2018), Character 394; Zhu Y. *et al*. (2022), Character 626; Andreev *et al*. (2022), Character 196; Brazeau *et al*. (2023), Character 410. Cui *et al*. (2023), Character 625; Lu *et al*. (2026), Character 620; Zhu Y. *et al*. (2026), Character 620.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 621. Procoracoid mineralisation: (0) absent; (1) present.
-
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 118; Choo *et al*. (2017), Character 114; King *et al*. (2017), Character 406; Castiello (2018), Character 395; Zhu Y. *et al*. (2022), Character 627; Andreev *et al*. (2022), Character 197; Brazeau *et al*. (2023), Character 411. Cui *et al*. (2023), Character 626; Lu *et al*. (2026), Character 621; Zhu Y. *et al*. (2026), Character 621.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 622. Paired (pectoral) fins: (0) absent; (1) present.
-
 > Castiello (2018), Character 382; Zhu Y. *et al*. (2022), Character 628. Cui *et al*. (2023), Character 627; Lu *et al*. (2026), Character 622; Zhu Y. *et al*. (2026), Character 622.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is 1. The coding of petalichthyids should be revised from ? to 1.
 
 ### 623. Pectoral fins covered in macromeric dermal armour: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 124; Choo *et al*. (2017), Character 120; Zhu Y. *et al*. (2022), Character 629; Andreev *et al*. (2022), Character 209; Brazeau *et al*. (2023), Character 433. Cui *et al*. (2023), Character 628; Lu *et al*. (2026), Character 623; Zhu Y. *et al*. (2026), Character 623.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 624. Armoured pectoral appendage: (0) unjointed; (1) jointed.
-
 > Zhu *et al*. (2016), Character 371; Zhu Y. *et al*. (2021), Character 330; Zhu Y. *et al*. (2022), Character 630. Cui *et al*. (2023), Character 629; Lu *et al*. (2026), Character 624; Zhu Y. *et al*. (2026), Character 624.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 625. Pectoral fin base has large, hemispherical dermal component: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 125; Choo *et al*. (2017), Character 121; King *et al*. (2017), Character 427; Castiello (2018), Character 416; Andreev *et al*. (2022), Character 210; Zhu Y. *et al*. (2022), Character 631. Cui *et al*. (2023), Character 630; Lu *et al*. (2026), Character 625; Zhu Y. *et al*. (2026), Character 625.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, should be revised from ? to 0.
 
 ### 626. Pectoral fin articulation: (0) monobasal; (1) dibasal; 2 three or more basals.
-
 > Choo *et al*. (2017), Character 310; King *et al*. (2017), Character 414; Coates *et al*. (2018), Character 227; Castiello (2018), Character 403; Zhu Y. *et al*. (2022), Character 632; Andreev *et al*. (2022), Characters 199 and 200; Brazeau *et al*. (2023), Character 419. Cui *et al*. (2023), Character 631; Lu *et al*. (2026), Character 626; Zhu Y. *et al*. (2026), Character 626.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 627. Fin base articulation on scapulocoracoid: (0) deeper than wide (stenobasal); (1) wider than deep (eurybasal).
-
 > Choo *et al*. (2017), Character 115; King *et al*. (2017), Character 407; Castiello (2018), Character 396; Zhu Y. *et al*. (2022), Character 633; Andreev *et al*. (2022), Character 198; Brazeau *et al*. (2023), Character 412. Cui *et al*. (2023), Character 632; Lu *et al*. (2026), Character 627; Zhu Y. *et al*. (2026), Character 627.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 628. Number of mesomeres in metapterygial axis: (0) five or fewer; (1) seven or more.
-
 > Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu *et al.* (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115; Giles *et al*. (2015), Character 204; Choo *et al*. (2017), Character 311; King *et al*. (2017), Character 415; Castiello (2018), Character 404; Zhu Y. *et al*. (2022), Character 634; Andreev *et al*. (2022), Character 202; Brazeau *et al*. (2023), Character 428. Cui *et al*. (2023), Character 633; Lu *et al*. (2026), Character 620; Zhu Y. *et al*. (2026), Character 628.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 629. Biserial pectoral fin endoskeleton: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 205; Choo *et al*. (2017), Character 312; King *et al*. (2017), Character 416; Castiello (2018), Character 405; Zhu Y. *et al*. (2022), Character 635; Andreev *et al*. (2022), Character 203; Brazeau *et al*. (2023), Character 421. Cui *et al*. (2023), Character 634; Lu *et al*. (2026), Character 629; Zhu Y. *et al*. (2026), Character 629.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 630. Filamentous extension of pectoral fin from axillary region: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 207; Choo *et al*. (2017), Character 313; King *et al*. (2017), Character 417; Castiello (2018), Character 406; Zhu Y. *et al*. (2022), Character 636; Andreev *et al*. (2022), Character 205; Brazeau *et al*. (2023), Character 422. Cui *et al*. (2023), Character 635; Lu *et al*. (2026), Character 630; Zhu Y. *et al*. (2026), Character 630.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 631. Metapterygium pectinate subtriangular plate or bar supporting numerous (six or more) radials along distal edge: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 228; Zhu Y. *et al*. (2022), Character 637. Cui *et al*. (2023), Character 636; Lu *et al*. (2026), Character 631; Zhu Y. *et al*. (2026), Character 631.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 632. Metapterygial whip: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 229; Zhu Y. *et al*. (2022), Character 638. Cui *et al*. (2023), Character 637; Lu *et al*. (2026), Character 632; Zhu Y. *et al*. (2026), Character 632.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 633. Pectoral propterygium: (0) absent; (1) present.
-
 > Zhu *et al*. (2009, Character 131), and references therein; Zhu *et al*. (2013), Character 251; Choo *et al*. (2017), Character 238; King *et al*. (2017), Character 412; Castiello (2018), Character 401; Zhu Y. *et al*. (2022), Character 639; Brazeau *et al*. (2023), Character 417. Cui *et al*. (2023), Character 638; Lu *et al*. (2026), Character 633; Zhu Y. *et al*. (2026), Character 633.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 634. Perforate propterygium: (0) absent; (1) present.
-
 > Rosen *et al*. (1981); Patterson (1982); Davis *et al*. (2012), Character 120; Choo *et al*. (2017), Character 116; King *et al*. (2017), Character 408; Castiello (2018), Character 397; Zhu Y. *et al*. (2022), Character 640; Andreev *et al*. (2022), Character 204; Brazeau *et al*. (2023), Character 413. Cui *et al*. (2023), Character 639; Lu *et al*. (2026), Character 634; Zhu Y. *et al*. (2026), Character 634.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 635. Distal articulation of propterygium: (0) with fin rays; (1) with a second enlarged element; (2) no articulation.
-
 > King *et al*. (2017), Character 420; Castiello (2018), Character 409; Zhu Y. *et al*. (2022), Character 641; Brazeau *et al*. (2023), Character 425. Cui *et al*. (2023), Character 640; Lu *et al*. (2026), Character 635; Zhu Y. *et al*. (2026), Character 635.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 636. Pelvic fins: (0) absent; (1) present.
-
 > Janvier (1996); Davis *et al*. (2012), Character 121; Choo *et al*. (2017), Character 117; King *et al*. (2017), Character 394; Castiello (2018), Character 384; Zhu Y. *et al*. (2022), Character 642; Andreev *et al*. (2022), Character 206; Brazeau *et al*. (2023), Character 399. Cui *et al*. (2023), Character 641; Lu *et al*. (2026), Character 636; Zhu Y. *et al*. (2026), Character 636.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 637. Pelvic girdle with substantial dermal component: (0) yes; (1) no.
-
 > Zhu *et al*. (2012b); Zhu *et al*. (2013), Character 252; Choo *et al*. (2017), Character 239; King *et al*. (2017), Character 433; Castiello (2018), Character 422; Zhu Y. *et al*. (2022), Character 643; Andreev *et al*. (2022), Character 274; Brazeau *et al*. (2023), Character 438. Cui *et al*. (2023), Character 642. Trinajstic *et al*. (2019), character 28; Lu *et al*. (2026), Character 637; Zhu Y. *et al*. (2026), Character 637.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 638. Dermal pelvic clasper ossifications: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 123; Choo *et al*. (2017), Character 119; King *et al*. (2017), Character 396; Castiello (2018), Character 386; Andreev *et al*. (2022), Character 208; Zhu Y. *et al*. (2022), Character 644. Cui *et al*. (2023), Character 643; Lu *et al*. (2026), Character 638; Zhu Y. *et al*. (2026), Character 638.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 639. Pelvic fin: (0) monobasal; (1) polybasal.
-
 > Lu *et al*. (2017), Character 278; Zhu Y. *et al*. (2022), Character 645; Andreev *et al*. (2022), Character 276. Cui *et al*. (2023), Character 644; Lu *et al*. (2026), Character 639; Zhu Y. *et al*. (2026), Character 639.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 640. Intromittent organ containing bone, not associated with pelvic fins: (0) absent; (1) present.
-
 > Janvier (1996); Davis *et al*. (2012), Character 122; Choo *et al*. (2017), Character 118; Zhu Y. *et al*. (2022), Character 646; Brazeau *et al*. (2023), Character 400. Cui *et al*. (2023), Character 645; Lu *et al*. (2026), Character 640; Zhu Y. *et al*. (2026), Character 640.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 641. Intromittent organ with one large J-shaped element: (0) absent; (1) present.
-
 > Long *et al*., (2015), Character 258; Choo *et al*. (2017), Character 250; Zhu Y. *et al*. (2022), Character 647; Brazeau *et al*. (2023), Character 401. Cui *et al*. (2023), Character 646; Lu *et al*. (2026), Character 641; Zhu Y. *et al*. (2026), Character 641.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 642. Intromittent organ ('clasper') consisting entirely of cartilage, formed from distal part of pelvic fin: (0) absent; (1) present.
-
 > Long *et al*., (2015), Character 259; Choo *et al*. (2017), Character 251; Zhu Y. *et al*. (2022), Character 648; Brazeau *et al*. (2023), Character 402. Cui *et al*. (2023), Character 647; Lu *et al*. (2026), Character 642; Zhu Y. *et al*. (2026), Character 642.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 643. Pelvic girdle with fused puboischiadic bar: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 233; Zhu Y. *et al*. (2022), Character 649. Cui *et al*. (2023), Character 648; Lu *et al*. (2026), Character 643; Zhu Y. *et al*. (2026), Character 643.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 644. Mixipterygial/mixopterygial claspers: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 234; Zhu Y. *et al*. (2022), Character 650. Cui *et al*. (2023), Character 649; Lu *et al*. (2026), Character 644; Zhu Y. *et al*. (2026), Character 644.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 645. Pre-pelvic clasper or tenaculum: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 236; Zhu Y. *et al*. (2022), Character 651. Cui *et al*. (2023), Character 650; Lu *et al*. (2026), Character 645; Zhu Y. *et al*. (2026), Character 645.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 646. Number of dorsal fins, if present: (0) one; (1) two.
-
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 136; Choo *et al*. (2017), Character 132; King *et al*. (2017), Character 450; Castiello (2018), Character 439; Zhu Y. *et al*. (2022), Character 652; Andreev *et al*. (2022), Character 226; Brazeau *et al*. (2023), Character 455. Cui *et al*. (2023), Character 651; Lu *et al*. (2026), Character 646; Zhu Y. *et al*. (2026), Character 646.
-
 > - The coding of *Entelognathus* is changed from 1 to 0 (Cui *et al*., 2023).
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
-
 > Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Andreev *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 481. Cui *et al*. (2023), Character 652; Lu *et al*. (2026), Character 647; Zhu Y. *et al*. (2026), Character 647.
-
 > - Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
-
 > - In the taxa bearing a single dorsal fin, this character is coded inapplicable, although it is likely that the dorsal fin of antiarchs is homologous with the posterior dorsal fin if we compare them with some ptyctodonts that have two dorsal fins. The codings are changed accordingly.
- 
-> - The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
-
+ > - The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 648. Basal plate in dorsal fin: (0) absent; (1) present.
-
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 230; Choo *et al*. (2017), Character 321; King *et al*. (2017), Character 477; Castiello (2018), Character 466; Zhu Y. *et al*. (2022), Character 654; Andreev *et al*. (2022), Character 228; Brazeau *et al*. (2023), Character 482. Cui *et al*. (2023), Character 653; Lu *et al*. (2026), Character 648; Zhu Y. *et al*. (2026), Character 648.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 649. Branching radial structure articulating with dorsal fin basal plate: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 231; Choo *et al*. (2017), Character 322; King *et al*. (2017), Character 456; Castiello (2018), Character 445; Zhu Y. *et al*. (2022), Character 655; Andreev *et al*. (2022), Character 229; Brazeau *et al*. (2023), Character 461. Cui *et al*. (2023), Character 654; Lu *et al*. (2026), Character 649; Zhu Y. *et al*. (2026), Character 649.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 650. Branching radials in paired fins: (0) absent; (1) present.
-
 > Zhu Y. *et al*. (2021), Character 197; Zhu Y. *et al*. (2022), Character 656; Andreev *et al*. (2022), Character 200. Cui *et al*. (2023), Character 655; Lu *et al*. (2026), Character 650; Zhu Y. *et al*. (2026), Character 650.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 651. Posterior or pelvic-level dorsal fin with calcified base plate: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 241; Zhu Y. *et al*. (2022), Character 657. Cui *et al*. (2023), Character 656; Lu *et al*. (2026), Character 651; Zhu Y. *et al*. (2026), Character 651.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?
 
 ### 652. Posterior dorsal fin with delta-shaped cartilage: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 242; Zhu Y. *et al*. (2022), Character 658. Cui *et al*. (2023), Character 657; Lu *et al*. (2026), Character 652; Zhu Y. *et al*. (2026), Character 652.
-
 > - The coding of *Entelognathus* is changed from 0 to - (Cui *et al*., 2023).
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 653. Anal fin: (0) absent; (1) present.
-
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (2026), Character 653; Zhu Y. *et al*. (2026), Character 653.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 654. Basal plate in anal fin: (0) absent; (1) present.
-
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 233; Choo *et al*. (2017), Character 323; King *et al*. (2017), Character 478; Castiello (2018), Character 467; Zhu Y. *et al*. (2022), Character 660; Andreev *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 483. Cui *et al*. (2023), Character 659; Lu *et al*. (2026), Character 654; Zhu Y. *et al*. (2026), Character 654.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661. Cui *et al*. (2023), Character 660; Lu *et al*. (2026), Character 655; Zhu Y. *et al*. (2026), Character 655.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is 0.
 
 ### 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
-
 > Davis *et al*. (2012), Character 138; Choo *et al*. (2017), Character 134; King *et al*. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. *et al*. (2022), Character 662; Andreev *et al*. (2022), Character 232; Brazeau *et al*. (2023), Character 458. Cui *et al*. (2023), Character 661; Lu *et al*. (2026), Character 656; Zhu Y. *et al*. (2026), Character 656.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 657. Series of thoracic supraneurals: (0) absent; (1) present.
-
 > Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu *et al.* (2001), Character 142; Friedman (2007), Character 125; Giles *et al*. (2015), Character 227; Choo *et al*. (2017), Character 319; King *et al*. (2017), Character 455; Castiello (2018), Character 444; Zhu Y. *et al*. (2022), Character 663; Andreev *et al*. (2022), Character 225; Brazeau *et al*. (2023), Character 460. Cui *et al*. (2023), Character 662; Lu *et al*. (2026), Character 657; Zhu Y. *et al*. (2026), Character 657.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 658. Supraneurals in axial lobe of caudal fin: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 235; Choo *et al*. (2017), Character 314; King *et al*. (2017), Character 454; Castiello (2018), Character 443; Zhu Y. *et al*. (2022), Character 664; Andreev *et al*. (2022), Character 233; Brazeau *et al*. (2023), Character 459. Cui *et al*. (2023), Character 663; Lu *et al*. (2026), Character 658; Zhu Y. *et al*. (2026), Character 658.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
-
 > Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665. Cui *et al*. (2023), Character 664; Lu *et al*. (2026), Character 659; Zhu Y. *et al*. (2026), Character 659.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 660. Synarcual: (0) absent; (1) present.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 135; Choo *et al*. (2017), Character 131; King *et al*. (2017), Character 465; Castiello (2018), Character 454; Zhu Y. *et al*. (2022), Character 666; Andreev *et al*. (2022), Character 224; Brazeau *et al*. (2023), Character 470. Cui *et al*. (2023), Character 665; Lu *et al*. (2026), Character 660; Zhu Y. *et al*. (2026), Character 660.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 661. Calcified vertebral centra: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 207; Zhu Y. *et al*. (2022), Character 667. Cui *et al*. (2023), Character 666; Lu *et al*. (2026), Character 661; Zhu Y. *et al*. (2026), Character 661.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 662. Chordacentra: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 208; Zhu Y. *et al*. (2022), Character 668.Cui *et al*. (2023), Character 667; Lu *et al*. (2026), Character 662; Zhu Y. *et al*. (2026), Character 662.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 663. Chordacentra polyspondylous and consist of narrow closely packed rings: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 209; Zhu Y. *et al*. (2022), Character 669. Cui *et al*. (2023), Character 668; Lu *et al*. (2026), Character 663; Zhu Y. *et al*. (2026), Character 663.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 664. Brush complex of bilaterally distributed calcified tubes flanking or embedded in calcified cartilage core: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 240; Zhu Y. *et al*. (2022), Character 670. Cui *et al*. (2023), Character 669; Lu *et al*. (2026), Character 664; Zhu Y. *et al*. (2026), Character 664.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ## Spines: fins, cranial and elsewhere
 ### 665. Dorsal fin spine: (0) absent; (1) present.
-
 > Zhu *et al*. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 126; Choo *et al*. (2017), Character 122; King *et al*. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. *et al*. (2022), Character 671; Andreev *et al*. (2022), Character 211; Brazeau *et al*. (2023), Character 462. Cui *et al*. (2023), Character 670; Lu *et al*. (2026), Character 665; Zhu Y. *et al*. (2026), Character 665.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
-666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
-
+### 666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672. Cui *et al*. (2023), Character 671; Lu *et al*. (2026), Character 666; Zhu Y. *et al*. (2026), Character 666.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 667. Anal fin spine: (0) absent; (1) present.
-
 > Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Andreev *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 471. Cui *et al*. (2023), Character 672; Lu *et al*. (2026), Character 667; Zhu Y. *et al*. (2026), Character 667.
-
 > - The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 668. Pectoral fin spine: (0) absent; (1) present.
-
 > Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674; Andreev *et al*. (2022), Character 213. Cui *et al*. (2023), Character 673; Lu *et al*. (2026), Character 668; Zhu Y. *et al*. (2026), Character 668.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 669. Pelvic fin spine: (0) absent; (1) present.
-
 > Zhu *et al*. (2013), Character 253; Choo *et al*. (2017), Character 240; King *et al*. (2017), Character 434; Castiello (2018), Character 423; Zhu Y. *et al*. (2022), Character 675; Andreev *et al*. (2022), Character 275; Brazeau *et al*. (2023), Character 439. Cui *et al*. (2023), Character 674; Lu *et al*. (2026), Character 669; Zhu Y. *et al*. (2026), Character 669.
-
 > - The coding of *Rhamphodopsis threiplandi* is changed from 1 to 0 (Miles, 1967).
-
 > - The coding of *Eosteus* is 1, as in *Guiyu* and *Sparalepis*. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
-
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Andreev *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 464. Cui *et al*. (2023), Character 675; Lu *et al*. (2026), Character 670; Zhu Y. *et al*. (2026), Character 670.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 ### 671. Intermediate (prepelvic) fin spines: (0) absent; (1) present.
-
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 130; Choo *et al*. (2017), Character 126; King *et al*. (2017), Character 460; Castiello (2018), Character 449; Zhu Y. *et al*. (2022), Character 677; Andreev *et al*. (2022), Character 215; Brazeau *et al*. (2023), Character 465. Cui *et al*. (2023), Character 676; Lu *et al*. (2026), Character 671; Zhu Y. *et al*. (2026), Character 671.
-
 > Andreev *et al*. (2022):"We follow Burrow *et al.* (2016) and Hanke & Wilson (2010) in labelling the fin spine pairs developed between the pectoral and pelvic fin spines as 'prepelvic' instead of the 'intermediate' used by Brazeau *et al.* (2020). 
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 ### 672. Intermediate (prepelvic) spines when present: (0) one pair; (1) multiple pairs.
-
 > Giles *et al*. (2015), Character 219; Choo *et al*. (2017), Character 316; King *et al*. (2017), Character 473; Castiello (2018), Character 462; Zhu Y. *et al*. (2022), Character 678; Andreev *et al*. (2022), Character 217; Brazeau *et al*. (2023), Character 478. Cui *et al*. (2023), Character 677; Lu *et al*. (2026), Character 672; Zhu Y. *et al*. (2026), Character 672.
-
 > Andreev *et al*. (2022):"We follow Burrow *et al.* (2016) and Hanke & Wilson (2010) in labelling the fin spine pairs developed between the pectoral and pelvic fin spines as 'prepelvic' instead of the 'intermediate' used by Brazeau *et al.* (2020). 
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 673. Prepectoral fin spines: (0) absent; (1) present.
-
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Andreev *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 466. Cui *et al*. (2023), Character 678; Lu *et al*. (2026), Character 673; Zhu Y. *et al*. (2026), Character 673.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 674. Anteriormost intermediate spine associated with shoulder girdle: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 256. Dearden *et al*. (2019), Character 261; Zhu Y. *et al*. (2022), Character 680; Andreev *et al*. (2022), Character 287. Cui *et al*. (2023), Character 679.; Lu *et al*. (2026), Character 674; Zhu Y. *et al*. (2026), Character 674
->
 > Andreev *et al*. (2022):"We agree with Dearden *et al.* (2019) in recognising the shoulder girdle spines positioned medially of the pectoral fin spines in a number of stem chondrichthyans (e.g. climatiids, diplacanthids and gyracanthids) as the first prepelvic fin spine pair. Here these are labelled admedian after Burrow *et al.* (2013,2015,2016) who contrary to this and other studies (Dearden *et al.* ,2019; Gagnier and Wilson, 1996) consider them separate from the prepelvic series." 
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 675. Cephalic spines: (0) absent; (1) present.
-
 > Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681. Cui *et al*. (2023), Character 680; Lu *et al*. (2026), Character 675; Zhu Y. *et al*. (2026), Character 675.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
-
+> - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 
 ### 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682. Cui *et al*. (2023), Character 681; Lu *et al*. (2026), Character 676; Zhu Y. *et al*. (2026), Character 676.
-
 > - The coding of *Eosteus* is 0, as in *Guiyu*. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 677. Fin spines with ridges: (0) absent; (1) present.
-
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Andreev *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 467. Cui *et al*. (2023), Character 682; Lu *et al*. (2026), Character 677; Zhu Y. *et al*. (2026), Character 677.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 678. Fin spines with nodes: (0) absent; (1) present.
-
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Andreev *et al*. (2022), Character 220; Brazeau *et al*. (2023), Character 468. Cui *et al*. (2023), Character 683; Lu *et al*. (2026), Character 678; Zhu Y. *et al*. (2026), Character 678.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 679. Fin spines with rows of large retrorse denticles: (0) absent; (1) present.
-
 > Davis *et al*. (2012), Character 134; Choo *et al*. (2017), Character 130; King *et al*. (2017), Character 464; Castiello (2018), Character 453; Zhu Y. *et al*. (2022), Character 685; Andreev *et al*. (2022), Character 221; Brazeau *et al*. (2023), Character 469. Cui *et al*. (2023), Character 684; Lu *et al*. (2026), Character 679; Zhu Y. *et al*. (2026), Character 679.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
-
 > Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686. Cui *et al*. (2023), Character 685; Lu *et al*. (2026), Character 680; Zhu Y. *et al*. (2026), Character 680.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 681. Fin spine cross-section: (0) round or horseshoe shaped; (1) flat-sided, with rectangular profile.
-
 > Giles *et al*. (2015), Character 218; Choo *et al*. (2017), Character 315; King *et al*. (2017), Character 472; Castiello (2018), Character 461; Zhu Y. *et al*. (2022), Character 687; Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 477. Cui *et al*. (2023), Character 686; Lu *et al*. (2026), Character 681; Zhu Y. *et al*. (2026), Character 681.
-
 > - Giles *et al*. (2015): "Early gnathostome fin spines have at least two distinctive profiles in cross-section. Generally, the profile is gently curving or parabolic. Taxa such as acanthodids and ischnacanthids exhibit a condition in which the cross-section is more rectangular, and the sides of the spine are flatter and closer to parallel (Denison, 1979; Gagnier & Wilson, 1996)."
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 682. Expanded spine rib on leading edge of spine: (0) absent; (1) present.
-
 > Giles *et al*. (2015), Character 224; Choo *et al*. (2017), Character 317; King *et al*. (2017), Character 474; Castiello (2018), Character 463; Zhu Y. *et al*. (2022), Character 688; Andreev *et al*. (2022), Character 216; Brazeau *et al*. (2023), Character 479. Cui *et al*. (2023), Character 687; Lu *et al*. (2026), Character 682; Zhu Y. *et al*. (2026), Character 682.
-
 > - This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*. (Giles *et al*., 2015)
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 683. Spine ridges: (0) converging at the distal apex of the spine; (1) converging on leading edge of spine.
-
 > Giles *et al*. (2015), Character 225; Choo *et al*. (2017), Character 318; King *et al*. (2017), Character 475; Castiello (2018), Character 464; Zhu Y. *et al*. (2022), Character 689; Andreev *et al*. (2022), Character 223; Brazeau *et al*. (2023), Character 480. Cui *et al*. (2023), Character 688; Lu *et al*. (2026), Character 683; Zhu Y. *et al*. (2026), Character 683.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 684. Dorsal fin spine cross section: (0) horseshoe shaped; (1) flat sided, with rectangular profile; (2) subcircular.
-
 > Coates *et al*. (2018), Character 250; Zhu Y. *et al*. (2022), Character 690. Cui *et al*. (2023), Character 689; Lu *et al*. (2026), Character 684; Zhu Y. *et al*. (2026), Character 684.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
-
 > Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691. Cui *et al*. (2023), Character 690; Lu *et al*. (2026), Character 685; Zhu Y. *et al*. (2026), Character 685.
-
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ## Newly-added characters
 ### 686. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
-
 > Cui *et al*. (2023), Character 691; Lu *et al*. (2026), Character 686; Zhu Y. *et al*. (2026), Character 686. 
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 687. Dermal ornament with parallel vermiform ridges on trunk scales: (0) absent; (1) present.
-
 > Cui *et al*. (2023), Character 692; Lu *et al*. (2026), Character 687; Zhu Y. *et al*. (2026), Character 687.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 1.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 688. Dermal ornament with concentric ridges on trunk scales.: (0) absent; (1) present.
-
 > Cui *et al*. (2023), Character 693; Lu *et al*. (2026), Character 688; Zhu Y. *et al*. (2026), Character 688.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 689. Dermal ornament with tubercles on trunk scales: (0) absent; (1) present.
-
 > Cui *et al*. (2023), Character 694; Lu *et al*. (2026), Character 689; Zhu Y. *et al*. (2026), Character 689.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
-
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 690. Premaxilla *sensu stricto* (anterior upper gnathal plates lateral to jaw cartilage without palatal lamina): (0) absent; (1) present.
-
 > Zhu *et al*. (2016), Character 333, in part; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part; Lu *et al*. (2026), Character 690; Zhu Y. *et al*. (2026), Character 690.
-
-> - Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Zhu *et al*. (2016), Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690); Lu *et al*. (2026), Character 690; Zhu Y. *et al*. (2026), Character 690.
-
+> Considering different states of the maxilla and the premaxilla of *Megamastax* regarding the absence or the presence of the palatal lamina, we divide the character of Zhu *et al*. (2016), Coates *et al*. (2018) and Zhu Y. *et al*. (2022) into two characters, the maxilla *sensu stricto*（Character 259) and the premaxilla *sensu stricto* (Character 690); Lu *et al*. (2026), Character 690; Zhu Y. *et al*. (2026), Character 690.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 691. Coronoids (*sensu stricto*): (0) absent, (1) present.
-
 > Lu *et al*. (2026), Character 691; Zhu Y. *et al*. (2026), Character 691.
-
-> - New character, see comments on Character 286.
-
+> New character, see comments on Character 286.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 692. Dermal bones on the inner dental arcade of upper jaw: (0) absent, (1) present.
 > Lu *et al*. (2026), Character 692; Zhu Y. *et al*. (2026), Character 692.
-
-> - New character. This upper jaw character corresponds to Character 286 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
-
+> New character. This upper jaw character corresponds to Character 286 (coronoids *sensu lato*) defining the lower jaw features. The tooth cushions from the upper jaw in *Megamastax* and the dermopalatines plus ectopterygoid in crown osteichthyans fall into this category.
 > - *Lophosteus* and *Andreolepis* with tooth cushions are coded 1.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 693. Dermopalatine and ectopterygoid: (0) absent, (1) present.
 > Lu *et al*. (2026), Character 693; Zhu Y. *et al*. (2026), Character 693.
-
-> - New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
-
+> New character. This upper jaw character corresponds to Character 691 (coronoids *sensu strico*) defining the lower jaw features.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 694. Resorption and redeposition of odontodes of body scales: (0) absent, (1) partially developed, (2) developed.
 > Lu *et al*. (2026), Character 694; Zhu Y. *et al*. (2026), Character 694.
-
-> - New character. This character is relative to Character 20 "Resorption and redeposition of odontodes of dermal plates". The conditions of odontodes of dermal bones and body scales may be different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
-
+> New character. This character is relative to Character 20 "Resorption and redeposition of odontodes of dermal plates". The conditions of odontodes of dermal bones and body scales may be different. e.g. *Uranolophus wyomingensis* (Denison, 1968).
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 695. Buried odontodes of body scales: (0) absent, (1) present.
-
 > Andreev *et al*. (2022), Character 17; Lu *et al*. (2026), Character 695; Zhu Y. *et al*. (2026), Character 695.
-
-> - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
-
+> New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 696. Buried odontodes of body scales embedded in: (0) dentine layer, (1) vascular bone layer, (2) lamellar bone layer.
 > Lu *et al*. (2026), Character 696; Zhu Y. *et al*. (2026), Character 696.
-
-> - New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
-
+> New character. This character is relative to Character 21 "Generations of odontodes of dermal plates".
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ## Included in Brazeau et al. (2023)
 ### 697. Laminar basal layer: (0) absent; (1) present.
-
 > Giles *et al*. (2013); Keating & Donoghue (2016), Character 78; Brazeau *et al*. (2023), Character 7; Lu *et al*. (2026), Character 697; Zhu Y. *et al*. (2026), Character 697.
-
-> - This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was split into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
-
-> - Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
-
+> This character was modified from a compound character “three-layered exoskeleton consisting of a basal lamella, middle spongy (or cancellar) layer and a superficial (often ornamented) layer: absent = 0, present = 1” from Donoghue *et al*. (2000), Character 71 that was split into three qualifiers: the presence/absence of a superficial layer, the presence/absence of a spongy or cancellous basal layer, and the presence/absence of a basal lamella by Keating & Donoghue (2016).
+> Brazeau *et al*. (2023) used 'polybranchiaspid sp. historical samples' in their data set. *Polybranchiaspis liaojiaoshanensis* and *Hanyangaspis guodingshanensis* have the same histological structures as polybranchiaspid sp. historical samples, and are coded accordingly.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 698. Cancellous central layerr: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 8; Lu *et al*. (2026), Character 698; Zhu Y. *et al*. (2026), Character 698.
-
-> - See comments above. 
-
+> See comments above. 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Styloichthys* is 1.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 699. Dentinous external layer: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 9; Lu *et al*. (2026), Character 699; Zhu Y. *et al*. (2026), Character 699.
-
-> - See comments above.
-
+> See comments above.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 700. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): (0) absent; (1) present.
-
 > Davis *et al*. (2012), Character 23; Castiello (2018), Character 155; Brazeau *et al*. (2023), Character 160; Lu *et al*. (2026), Character 700; Zhu Y. *et al*. (2026), Character 700.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is 0. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 ### 701. Endoskeletal craniothoracic (sixth branchial) facet: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 180; Lu *et al*. (2026), Character 701; Zhu Y. *et al*. (2026), Character 701.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Styloichthys* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 702. Cranial spines: (0) absent; (1) present, multicuspid; (2) present, monocuspid.
-
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Andreev *et al*. (2022), **Characters 36 and 37**; Brazeau *et al*. (2023), Character 211; Lu *et al*. (2026), Character 702; Zhu Y. *et al*. (2026), Character 702.
-
-> - Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
-
+> Brazeau *et al*. (2023): "This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability."
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is -.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?.
-
+> - The coding of *Lingyu* is -.
 > - The coding of *Yipetalichthys* is -. The coding of *Pauropetalichthys magnoculus*, *Eurycaraspis incilis*, *Ellopetalichthys scheii* should be revised from ? to -.
 
 ### 703. Transverse external groove behind pineal opening: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 255; Brazeau *et al*. (2023), Character 260; Lu *et al*. (2026), Character 703; Zhu Y. *et al*. (2026), Character 703.
-
-> - Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
-
-> - We consider it as an anatomical groove.
-
+> Castiello (2018): "A transverse groove behind the pineal opening is present in *Dicksonosteus* (Goujet 1984a) and *Diandongpetalichthys* (Zhu 1991), but it is difficult to assess if this feature represents an anatomical or taphonomic groove".
+> We consider it as an anatomical groove.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* should be revised from ? to 0.
 
 ### 704. Large median bone directly anterior to parietals and pineal: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 263; Lu *et al*. (2026), Character 704; Zhu Y. *et al*. (2026), Character 704.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. Since the coding of *Diandongpetalichthys liaojiaoshanensis* is 1, does this charater means the size of the Rostral plate? Why the coding of *Eurycaraspis incilis* Pauropetalichthys magnoculus*, *Quasipetalichthys haikouensis* is ?.
 
 ### 705. Contact between most posterior major bone of cheek bearing preopercular canal and maxilla: (0) present; (1) absent.
-
 > King *et al*. (2016), Character 265; Brazeau *et al*. (2023), Character 270; Lu *et al*. (2026), Character 705; Zhu Y. *et al*. (2026), Character 705.
-
 > - The coding of *Eosteus* is 0, same to actinopterygians and Onychodus. Note that the previous definition is reversed to be consistent with the matrix. The coding of *Megamastax* is 0.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 706. Number of branchiostegal rays per side: (0) 10 or more; (1) 2-7; (2) one.
-
 > King *et al*. (2016), Character 281; Brazeau *et al*. (2023), Character 271; Lu *et al*. (2026), Character 706; Zhu Y. *et al*. (2026), Character 706.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?.
 
 ### 707. Course of mandibular canal: (0) not passing through most posterior infradentary; (1) passing through most posterior infradentary.
-
 > Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 303; Lu *et al*. (2026), Character 707; Zhu Y. *et al*. (2026), Character 707.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. he coding of *Macropetalichthys rapheidolabis* should be revised from - to ?.
 
 ### 708. Otic canal runs along mesial margin of marginal plate: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 316; Lu *et al*. (2026), Character 708; Zhu Y. *et al*. (2026), Character 708.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 0.
 
 ### 709. Scales with well developed pores on ganoine surface: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 497; Brazeau *et al*. (2023), Character 502; Lu *et al*. (2026), Character 709; Zhu Y. *et al*. (2026), Character 709.
-
-> - Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
-
+> Castiello (2018): "The absence of pores is usually considered as a feature of ganoine, so that this character might simply being related with the presence of cosmine. However, the terms "cosmine" and "ganoine" probably indicate a compound of different tissue and need to be used carefully (see Lu et al. 2016)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
-
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
-
 > - The coding of *Yipetalichthys* is -. The coding of placoderms should be revised from ? to -.
 
 ### 710. Caudal insertion/hinge line (clear distinction between trunk and caudal scales): (0) absent; (1) present.
 > Gardiner and Schaeffer (1989), Node A, Character 18; Lu *et al*. (2026), Character 710; Zhu Y. *et al*. (2026), Character 710. 
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 
 **Arguablly useful characters**
 
 P1 (711). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
-
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax* is 0.
-
 > - The coding of *Yipetalichthys* is ?. 
 
 P2 (712). Mandible obviously longer than the skull roof or the neurocranium if the skull roof is absent: (0) absent; (1) present.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 1.
-
 > - The coding of *Yipetalichthys* is ?. The coding of *Diandongpetalichthys liaojiaoshanensis*, *Eurycaraspis incilis* should be revised from 0 to ? accoding to no presered Mandible.
 
 P3. Skull roof clearly divided into parietal and postparietal shields: (0) absent; (1) present.
-
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is 0. Note that placoderm condition is considered inapplicable.
-
 > - The relationship with the dermal intracranial joint should be considered.
-
 > - The coding of *Yipetalichthys* is 0.
 
 P4. Boundary between the parietals and postparietals: (0) roughly straight across; (1) zigzag or wedged in each other.
-
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0. Note that placoderm condition is considered inapplicable.
-
 > - The coding of *Yipetalichthys* is -.
 
 P5. Para-articular process extension angle: (0) nearly parallel to the midline of the head shield ; (1) anterolaterally extending.
-
 > - A synapomorphy defining Quasipetalichthyidae.
 
 **Deleted characters**
 
 D1. Dorsal ridge: (0) absent; (1) present.
-
 > Coates & Sequeira (1998, Character 11; 2001a, b); Maisey (2001); Davis (2002); Davis *et al*. (2012), Character 91; Castiello (2018), Character 52; Brazeau *et al*. (2022), Character 158; Andreev *et al*. (2022), Character 158; Brazeau *et al*. (2023), Character 56.
-
 > - Davis *et al*. (2012): "A dorsal ridge is absent in placoderms such *Brindabellaspis* and *Dicksonosteus*, but present in many early chondrichthyans, including *Akmonistion*, *Pucapampella*, *Cobelodus* and
 *Cladodoides*. The primary neurocranial roof of osteichthyans such as *Eusthenopteron* (Jarvik 1980) and *Mimia* (Gardiner 1984, fig. 27: posterior face of otic region) lacks evidence of such a mid-line dorsal ridge concealed beneath the dermal skull table. In the present work, *Acanthodes* is coded as state ‘1’, ridge present (Supplementary Figures 3-5 and 15), whereas in previous studies such a ridge has been interpreted as absent."
-
 > - Brazeau *et al*. (2023): "This character is highly problematic because the dorsal ridge is fundamentally related to the presence of opisthotic fossae for the epaxial musculature. The states are too difficult to define. This is retained in the list, but excluded from the analysis."
 
 D2. Paravagal fossa: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 98; Brazeau *et al*. (2023), Character 102.
-
 > - This character was removed by Castiello (2018) because it was related to the presence of a bifurcated vagal process (Castiello, 2016, Character 101; Character 509 here) and is thus redundant.
 
 D3. Braincase is series of bilateral ossifications: (0) no; (1) yes.
-
 > King *et al*. (2016), Character 100; Brazeau *et al*. (2023), Character 104.
-
 > - This character was removed by Castiello (2018) because of its ambiguous formulation
 
 D4. Parachordal plates: (0) separated from otic capsule; (1) sutured or fused to otic capsule.
-
 > King *et al*. (2016), Character 105; Brazeau *et al*. (2023), Character 109.
-
 > Brazeau *et al*. (2023): "This character is excluded from the analysis because its scirubg cannot be considered phenomenologically indistinct from the presence/absence of a metotic fissure."
-
 > - This character was removed by Castiello (2018) because it was is related to the metotic fissure (Castiello, 2018 character 56; Character 372 here) and is thus redundant.
 
 D5. Hyomandibular articulating with braincase: (0) yes; (1) no.
-
 > King *et al*. (2016), Character 121; Brazeau *et al*. (2023), Character 125.
-
 > - This character was removed by Castiello (2018) because it was related with the presence of a transverse otic process (anterior postorbital process) (Castiello, 2018, Character 77; Character 497 here) and is thus redundant.
 
 D6. Ethmoidal articulation of palatoquadrate: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 122; Brazeau *et al*. (2023), Character 126.
-
 > - This character was removed by Castiello (2018) as it was ambiguous whether the ethmoid articulation in osteichthyans is homologous to the supposed "ethmoidal articulation" in chondrichthyans and placoderms.
 
 D7. Dermal neck joint facet morphology: (0) absent; (1) ginglymoid; (2) reverse-ginglymoid; (3) longitudinal.
-
 > Andreev *et al*. (2022), Character 60; Brazeau *et al*. (2023), Character 178.
-
 > - Related with King *et al*. (2016), Character 173; Castiello (2018), Character 171: Type of dermal neck-joint: (0) sliding, dermal shoulder girdle plate articulate with cephalic flat flange; (1) ginglymoid, dermal shoulder girdle condyle articulates with cephalic fossa; (2) reversed ginglymoid, dermal shoulder girdle plate articulates with cephalic transverse condyle; and (3) spoon-like, with transverse articular area.
-
 > - Related with Zhu *et al*. (2013), Character 169; overlaps Characters 557 - 561 here.
 
 D8. Centronuchal plate: (0) absent; (1) present.
-
 > Dupret *et al*. (2009), character 17; King *et al*. (2016), Character 238; Castiello (2018), Character 238; Brazeau *et al*. (2023), Character 243.
-
 > - Castiello (2018): "This character was originally from Dupret et al. (2009) (ch. 17) and related to the fact that, while in most of placoderm there are two central plates flanking a median nuchal plate, in *Wuttagoonaspis*, *Gavinaspis* and phyllolepids there is a single median element, named centronuchal plate, supposed to be constituted by the fusion of central plates and the nuchal plate. King et al. (2016) changed the name of the character as related the presence of absence of a centronuchal plates. However, we think that the name of this element should not assume fusion (or reduction) of different plates, as this is a speculative pattern. Instead, sensory lines can be used as reference point to separate dermal plates in discrete elements. Here, we reformulate the character to assess the presence of a single median element carrying the central, middle and posterior pit sensory line."
-
 > This character need to be removed because it is redundant with Character 79 here.
 
 D9. Parietals or Preorbital plates at anterior edge of skull roof: (0) no; (1) yes.
-
 > King *et al*. (2016), Character 243; Brazeau *et al*. (2023), Character 248.
-
 > - Castiello (2018): "This character was created by King et al. (2016) to take in account that in some placoderms, such as *Cowralepis*, *Eurycaraspis*, *Quasipetalichthys* and ptyctodonts, the preorbital plates form the anterior edge of the skull roof. They considered this feature in relation of a reduction of the dermal bones of the snout. However, in *Eurycaraspis* and *Quasipetalichtys*, for example, the orbit are still surrounded by dermal bone, as the preorbital plates constitute the anterior margin of the orbit. In ptyctodonts, instead, the anterior margin of the orbit is depleted by dermal bone and the preorbital plate only makes up the lateral edge of the orbit. Given the problem of coding this character as it is currently formulated, it has been removed." 
 
 D10. Paraorbital plate separating suborbital from orbit: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 253; Brazeau *et al*. (2023), Character 258.
-
 > - Castiello (2018): "King et al. (2016) created this character to assess the presence of a dermal plate that is not associated with the palatoquadrate and extends lateral to the orbit. This plate was thought to be present in *Wuttagoonaspis* and possibly *Brindabellaspis*. However, this character might just be an automoporphy of *Wuttagoonaspis* as the supposed ”paraorbital” plates in *Brindabellaspis* are possibly just part of the large premedian plate. Character has been tentatively removed."
 
 D11. Anterior supraorbital canal: (0) absent; (1) present.
-
 > King *et al*. (2016), Character 309; Brazeau *et al*. (2023), Character 314.
-
 > - Castiello (2018): "The "anterior supraorbital canal" in *Lunaspis* are of doubtful identification and not necessarily related to the supraorbital canal. For this reason, I think this character is contentious and should be removed."
 
 D12. Maxillary and dentary tooth-bearing bones: (0) absent; (1) present.
-
 > Davis *et al*. (2012), Character 45; King *et al*. (2016), Character 333; Castiello (2018), Character 325; Andreev *et al*. (2022), Character 88; Brazeau *et al*. (2023), Character 338.
-
 > - This character is removed as it is a compound character overlapping some above-used characters. 
 
 D13.Scales: (0) macromeric; (1) micromeric.
- 
-> King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
+ > King *et al*. (2016), Character 496; Castiello (2018), Character 485; Brazeau *et al*. (2023), Character 501.
 
 D14. Submandibulars: (0) absent; (1) present.
-
 > Brazeau *et al*. (2023), Character 392.
-
 > - Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
-
 > - Redundant with Characters 220-222 herein.
-
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 
 D15. Postmarginal plate: (0) absent; (1) present.
-
 > Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Character 145.
 
 D16. Extratemporal: absent (0), present (1).
-
 > Zhu Y. *et al*. (2022), Character 160.
 
 D17. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: (0) present; (1) absent.
-
 > Brazeau (2009); Davis *et al*. (2012), Character 66; Choo *et al*. (2017), Character 65; Andreev *et al*. (2022), Character 129; Zhu Y. *et al*. (2022), Character 406.
 
 
@@ -6296,7 +5600,6 @@ A4 (716). Direction of tooth addition within tooth families relative to the jaw 
 
 A5 (717). Pinnal plates of the dermal shoulder girdle: absent (0), present (1).
 > Andreev *et al.* (2022), Character 292.
-
 > - Andreev *et al.* (2022):"Pinnal plates are distinguished from the dermal plates of jawed stem gnathostomes ('placoderms') and osteichthyans due to developmental differences. The latter form as a single unit through areal growth unlike the pinnals where independent dermal scales are integrated into discrete elements fused together by a basal plate (see also this study). On this basis, and in accordance with previous research, we code for presence/absence of pinnal plates independently of the pectoral ventral plate pairs of 'placoderms' (ventrolateral plates) and osteichthyans (clavicles).
 
 A6 (717). Orientation of the posterior pitline when supraorbital canals and posterior pitlines converge: (0) posterior pitline extends horizontally; (1) posterior pitline extends obliquely to the midline of the headshield.
@@ -6304,7 +5607,6 @@ A6 (717). Orientation of the posterior pitline when supraorbital canals and post
 
 A7 (718). Central (postparietal) plates meet potserior to the nuchal plate: (0) absent (do not meet); (1) present (meet).
 > Trinajstic *et al*. (2019), character 7. 
-
 > - Present in some ptyctodonts.
 
 A8 (719). Pineal plate is part of anterior margin of skull roof: (0) absent, rostral plate forms the anterior margin of the skull; (1) present, pineal plate forms the anterior margin of the skull; (2) absent, preorbital plates form the anterior margin of the skull.
@@ -6317,7 +5619,6 @@ A10 (721). Tritural lower tooth plates: (0) present; (1) absent.
 > Trinajstic *et al*. (2019), character 11.
 
 A11 (722). Spinal plate where present: (0) large; (1) small.
-
 > reformulated from Trinajstic *et al*. (2019), character 13.
 
 A12 (723). Contact between anterior lateral and anterior dorsolateral plates a simple inverted V-shape: (0) present; (1) absent and has an M-shape.
@@ -6358,7 +5659,6 @@ A23 (734). Nuchal plate with a median groove: (0) absent; (1) present.
 
 A24 (735). Postorbital plate: (0) irregular in outline: (1) triangular in outline.
 > Trinajstic *et al*. (2019), character 24.
-
 > - This character is unique to *P. menzeli*.
 
 A25 (736). Anterior border of the interolateral plate: (0) scalloped; (1) straight.
