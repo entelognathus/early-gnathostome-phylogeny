@@ -14,6 +14,8 @@
 > -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
 > - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
+Acanthodes: (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
+
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
 
@@ -34,12 +36,15 @@
 
 > - Besano Formation, Grenzbitumenzone; Monte San Giorgio, Switzerland.
 > - [Maisey, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2011.01035.x).
+Acronemus: (Maisey 2011; Rieppel 1982)
 
 [*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen) Coates and Sequeira, 2001
 > Serpukhovian, 330.9, 323.2
 
 > - Manse Burn Formation; Bearsden, Scotland.
 > - [Coates and Sequeira, 1998](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/braincase-of-a-primitive-shark/E11D5DAAAFE25E9196D17BC1C4CCBD9C); [Coates and Sequeira, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021[0438:ANSCFT]2.0.CO;2); [Coates et al., 1998](https://www.nature.com/articles/25467); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
+
+Akmonistion: ( Coates 1998; Coates and Sequeira 1998, 2001; Coates et al. 2017)
 
 [*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
 > Ludlow and Pridoli, 427.4, 419.2
@@ -112,6 +117,8 @@
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Newman and Davidson, 2010](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Early+Devonian+fish+from+the+Midland+Valley+of+Scotland&btnG=)
 > - Newman and Davidson (2010): "*Brachyacanthus scutiger* is one of the smallest acanthodian species in the Midland Valley. It was first found at Farnell such as the specimen in Figure 15A (NMS
 G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B (NMS G.1891.92.214)."
+Brachyacanthus: (Denison 1979; Miles 1973a; Watson 1937)
+
 
 [*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
 > Emsian, 407.6, 393.3
@@ -124,6 +131,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - [Hanke and Wilson, 2006](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2006)26[526:AOTEDA]2.0.CO;2)
+Brochoadmones: (Bernacsek and Dineley 1977; Gagnier and Wilson 1996a; Hanke and Wilson 2006)
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
@@ -152,6 +160,16 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Glammis, Forfarshire and Lower Old Red Sandstone, Glamis, Angus, Scotland
 > - Stensiö, 1932; White, 1958
 
+### Callorhinchus/Hydrolagus: (Cole 1897; De Beer and Moy-Thomas 1935; DeBeer 1937; Didier 1995; Didier et al. 1994, 2012; Howard et al. 2013; Kesteven 1933; Patterson 1965; Pradel et al. 2013; Stahl 1999)
+
+[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen) 
+> upper Eifelian, 389.6, 387.7
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - Burrow et al., 2020
+> - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
+Cheiracanthus: (Denison 1979; Miles 1973a; Watson 1937)
+
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
 
@@ -166,13 +184,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Escuminac Formation; Quebec, Canada.
 > - Arratia and Cloutier, 1996; [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
+Cheirolepis: (Arratia and Cloutier 1996; Giles, Friedman, et al. 2015; Pearson and Westoll 1979)
 
-[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen) 
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - Burrow et al., 2020
-> - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
 
 *Chelyophorus verneuili* Agassiz, 1844
 > Famennian, 372.2, 358.9
@@ -190,6 +203,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Glencartholm fish beds (Holkerian), Scotland.
 > - [Moy-Thomas, 1935](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1935.tb06256.x); [Finarelli and Coates, 2011](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2011.1107); [Finarelli and Coates, 2014](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/chondrenchelys-problematica-traquair-1888-redescribed-a-lower-carboniferous-eellike-holocephalan-from-scotland/88BFED87BFB557EAA7A7EEE40E38FC87).
+Chondrenchelys: (Finarelli and Coates 2012, 2014; Lund 1982; Moy-Thomas 1935)
 
 [*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > lower Pragian, 410.8, 409.2
@@ -205,6 +219,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Wildungen Limestone, Wildungen, Germany
 > - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
 > - [Otto Jaekel](https://en.wikipedia.org/wiki/Otto_Jaekel) accepted a professor position at Sun Yat-sen University in Guangzhou in 1928. He died after a short and unexpected illness on March 6, 1929 in the German Hospital in Beijing.
+Cladodoides: (Gross 1937, 1938; Maisey 2005)
 
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen) Newberry, 1889
 > upper Famennian, 363.3, 358.9
@@ -212,18 +227,21 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
 > - Bendix-Almgreen, 1975; [Maisey, 2007](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2007/issue-307/0003-0090_2007_307_1_TBIPSA_2.0.CO_2/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-CLADOSELACHIAN-SHARKS/10.1206/0003-0090(2007)307[1:TBIPSA]2.0.CO;2.full); Schaeffer, 1981
 > - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
+Cladoselache: (Bendix-Almgreen 1975; Harris 1938a, 1938b; Maisey 1989, 2007; Schaeffer 1975; Williams 2001; Woodward and White 1938)
 
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Lochkovian, 419.2, 410.8
 
 > - Lower Old Red Sandstone; Balruddery Den, Forfarshire, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
+Climatius: (Miles 1973a, 1973b; Watson 1937)
 
 [*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
 > Sakmarian, 293.52, 290.1
 
 > - USA.
 > - Zergerl, 1973; Zergerl, 1976; [Ivanov, 2005](https://d1wqtxts1xzle7.cloudfront.net/67400674/Ivanov2005RevBraz-libre.pdf?1621724896=&response-content-disposition=inline%3B+filename%3DIvanov2005Rev_Braz.pdf&Expires=1713858553&Signature=BUS9Y8QQCo8MdDPK2jOHs2aLrRPSEEv7tv7LexcE8v2~VTuUJSFagFJereOKX~VEtXR7fr52bZHs8pZVH9uLz~NGioKqQaYu41ejKq2yhRdGfg4lKcZ9NZyiwBcf1KCFIlOuFHzpYv9oUt6ATCfJKCplGtyuHoaxPx~wOUNXPBsbq431PYTgPIn9mx4yn9p6jQ~dr-VgzjT5IASWDLSjRcJ4E0-NoZ05OdUl2x0vZWC0mdx~Y2NA2pzrRbrqXqF4XelFmJWpz8uBRE7En4~Jw8tI0bA-2WbmPzSTe6FN6dSnGtwkURWItmofeqo3ctTkixRvt7nxUCkCxURAuiKURA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+Cobelodus: (Zangerl and Case 1976; Zidek 1992)
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
 > upper Eifelian, 389.6, 387.7
@@ -259,6 +277,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - Lund, 1986; [Lund and Grogan, 1997](https://link.springer.com/article/10.1023/A:1018471324332)
+Damocles: (Lund 1986)
 
 [*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen) Patten, 1931
 > Gorstian to Pridoli, 427.4, 419.2
@@ -271,6 +290,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - [Grogan and Lund, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4687(200003)243:3%3C219::AID-JMOR1%3E3.0.CO;2-1)
+Debeerius: (Grogan and Lund 2000)
 
 *Denisonodus plutonensis* Johnson & Elliott, 1996
 
@@ -303,6 +323,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Newman, 2010](https://www.academia.edu/4717315/Middle_Devonian_fish_from_the_Orcadian_Basin_of_Scotland_IPC3_pre_conference_field_trip_guide); [Burrow *et al*., 2016](https://www.researchgate.net/publication/299452946_The_diplacanthid_fishes_Acanthodii_Diplacanthiformes_Diplacanthidae_from_the_Middle_Devonian_of_Scotlan)
+Diplacanthus: (Gagnier 1996; Miles 1973a; Watson 1937)
 
 > - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
 > - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
@@ -321,6 +342,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
 > - [Dick, 1981](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/diplodoselache-woodi-gen-et-sp-nov-an-early-carboniferous-shark-from-the-midland-valley-of-scotland/92D4573C48B4D626AD8BD89BA14196B3).
+Diplodoselache: (Dick 1981)
 
 [*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=2900&functionId=Deepbone_header_searchResultOpen)
 > Eifelian to Givetian, 393.3, 382.7
@@ -341,8 +363,11 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
 > - [Whiteaves, 1881](https://ajsonline.org/article/63830); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Maisey *et al*., 2014](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20242); [Burrow *et al*., 2017](https://cdnsciencepub.com/doi/10.1139/cjes-2017-0059); [Maisey *et al*., 2017](https://bioone.org/journals/american-museum-novitates/volume-2017/issue-3875/3875.1/Pectoral-Morphology-in-Doliodus-Bridging-the-Acanthodian-Chondrichthyan-Divide/10.1206/3875.1.full); [Maisey *et al*., 2019](https://mdanderson.elsevierpure.com/en/publications/doliodus-and-pucapampellids-contrasting-perspectives-on-stem-chon); [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372)
+Doliodus: (Long et al. 2015; Maisey et al. 2009; Maisey et al. 2013, 2017; Miller et al. 2003)
 
 > - Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
+
+### Dracopristis: (Hodnett et al. 2021)
 
 [*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen) Oelofsen 1986
 > Kungurian, 283.5, 273.0
@@ -351,6 +376,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - [Coates et al., 2017](https://www.nature.com/articles/nature20806)
 > - Early Permian dating estimates vary from the early Artinskian to the latest Kungurian stage.
 > - **No specimen data in deepbone.**
+Dwykaselachus: (Coates et al. 2017; Oelofsen 1986)
 
 [*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
 > lower Frasnian, 382.7, 379.2
@@ -364,6 +390,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Atherfield Clay of the Isle of Wight and near Bexhill on the Sussex coast in southern England.
 > - Maisey, 1983; Maisey 1987; Teng et al., 2019
+Egertonodus: (Lane 2010; Maisey 1982, 1983)
 
 [*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
 > upper Givetian, 384.4, 382.7
@@ -376,6 +403,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Zhu et al., 2013](https://www.nature.com/articles/nature12617); [Cui et al., 2023](https://www.nature.com/articles/s41467-023-43557-9)
+
+Entelognathus: (Zhu et al. 2013)
 
 [*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
 > upper Frasnian, 375.7, 372.2
@@ -419,6 +448,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
 > - Lund, 1985
 
+### Ferromirum: (Frey, Coates, et al. 2020)
+
 [*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen) Long, 1999
 > uppermost Givetian, 384.37, 382.7
 
@@ -442,6 +473,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Rheinisches Schiefergebirge, Germany.
 > - Coates et al., 2018
+Gladbachus: ( Burrow and Turner 2013; Coates 2005; Coates and Tietjen 2018; Heidtke 2009; Heidtke and Krätschmer 2001)
 
 [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) Bernacsek and Dineley, 1977
 > Lochkovian, 419.2, 410.8
@@ -461,6 +493,8 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
 > - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
 
+### Gogoselachus: (Long et al. 2015)
+
 [*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen) Ritchie, 1975
 > Givetian, 387.7, 382.7
 
@@ -478,25 +512,31 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Zhu et al., 2009](https://www.nature.com/articles/nature07855); [Cui et al., 2019](https://www.nature.com/articles/s41598-019-40845-7)
+Guiyu: (Zhu et al. 2009)
+
+### Gutturensis: (Sequeira and Coates 2000)
+
+### Gydoselache: ( Maisey et al. 2019)
 
 [*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=2800&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
 
 > - wide distribution.
 > - Warren et al., 2000
-
+Gyracanthides: (Miles 1973b; Turner et al. 2005; Warren et al. 2000)
 [*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen) Burrow et al., 2012
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
 > - Burrow et al., 2012
-
+Halimacanthodes: ( Burrow et al. 2012)
 [*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen) Maisey, 1989
 > Gzhelian, 303.7, 298.9
 
 > - Middle Virgilian, Upper Shawnee Group or Wabaunsee Group, Hartford Limestone, Hamilton Quarry, Sec. 8, T24S, RI 2E, Greenwood County, Kansas, USA.
 > - [Maisey, 1989](https://digitallibrary.amnh.org/items/32cc5279-0c3b-4ce0-87c3-45216f3bcd40).
 
+Hamiltonichthys: (John G. Maisey 1989)
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
@@ -509,6 +549,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Staffordshire, England and Lanarkshire, Scotland
 > - [Moy-Thomas, 1936](https://www.cambridge.org/core/journals/geological-magazine/article/abs/on-the-structure-and-affinities-of-the-carboniferous-cochliodont-helodus-simplex/27FD58E632E3D0EA03CF68CB10E53903).
 
+Helodus: (Coates et al. 2021; Johanson et al. 2021; Patterson 1965; Stahl 1999)
 [*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen) (Egerton, 1857)
 > Pridoli, 423.0, 419.2
 
@@ -529,12 +570,14 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Escuminac Formation; Quebec, Canada.
 > - Russell, 1951
 
+Homalacanthus: (Gagnier 1996; Watson 1937)
+
 [*Homalodontus aplopagus*](https://deepbone.org/public/#/explor?s_id=5472&functionId=Deepbone_header_searchResultOpen)
 > Olenekian, 251.2, 247.2
 
 > - Vega-Phroso Siltstone Member, Sulphur Mountain Formation; Wapiti Lake, British Columbia, Canada.
 > - [Mutter et al., 2007](https://doi.org/10.1111/j.1096-3642.2007.00244.x); [Mutter et al., 2008](https://doi.org/10.1111/j.1096-3642.2008.00488.x).
-
+Homalodontus: (Mutter et al. 2007, 2008)
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
 > uppermost Givetian, 384.37, 382.7
 
@@ -554,6 +597,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Logan Quarry shale, Lower Wiley cyclothem (Staunton formation), Reserve Township, Parke County, Indiana, USA.
 > - Zangerl and Case, 1973
+Iniopera: (Pradel et al. 2009, 2010, 2010; Zangerl and Case 1976)
 
 [*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861) 
 > Lochkovian, 419.2, 410.8
@@ -561,6 +605,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Lower part of the Arbuthnott Group, Midland Valley (the Strathmore region), Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2018](https://bibliotekanauki.pl/articles/139010.pdf).
 > - Burrow et al., 2018: "The Lochkovian Man on the Hill (MOTH) locality in the Northwest Territories, Canada, is also known to have several ischnacanthiform taxa, originally all assigned by Bernacsek and Dineley (1977) to *Ischnacanthus gracilis*, but now all referred to other genera (Blais et al. 2015), or as yet undetermined." **The MOTH point in the deepbone should be updated.***
+Ischnacanthus: (Miles 1973a, 1973b)
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
 > upper Frasnian, 375.7, 372.2
@@ -588,6 +633,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
+Kathemacanthus: (Gagnier and Wilson 1996b; Hanke and Wilson 2004)
 
 [*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2011
 > Gzhelian, 303.7, 298.9
@@ -643,6 +689,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - a drilling core at Ventspils, Latvia.
 > - Schultze and Zidek, 1982
+Latviacanthus: (Schultze and Zidek 1982) Schultze & Zidek 1982.
 
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
 > upper Pennsylvanian, 307.0, 298.9
@@ -675,12 +722,14 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006; Hanke and Davis, 2012
+Lupopsyrus: (Bernacsek and Dineley 1977; Hanke and Davis 2012)
 
 [*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
 > Eifelian, 393.3, 387.7
 
 > - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
 > - Stensiö, 1925; 1963; 1969
+### Maghriboselache: this paper
 
 [*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
 > lower Frasnian, 382.7, 379.2
@@ -713,6 +762,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Midland Valley, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009);[Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
+Mesacanthus: (Miles 1973a; Watson 1937)
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > middle Givetian, 386.0, 384.4
@@ -734,6 +784,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 
 > - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Gardiner and Bartram, 1977](https://cir.nii.ac.jp/crid/1573950399498017280); [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
+Mimipiscis: (Choo 2012; Gardiner 1984; Gardiner and Bartram 1977; Giles and Friedman 2014)
 
 > Used to be *Mimia toombsi* (Gardiner and Bartram, 1977). Renamed by (Choo, 2012) due to the preoccupation of the former genus by the butterfly *Mimia* Evans, 1953.
 
@@ -754,7 +805,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
 > - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Choo, 2015](https://www.tandfonline.com/doi/full/10.1080/02724634.2015.952817)
-
+Moythomasia: (Coates et al. 2017; Gardiner 1984; Gardiner and Bartram 1977) specimen MV P222915.
 [*Moythomasia perforata*](https://deepbone.org/public/#/explor?s_id=60027&functionId=Deepbone_header_searchResultOpen) Gross, 1942
 > lower Frasnian, 382.7, 379.2
 
@@ -796,6 +847,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006
+Obtusacanthus: (Hanke and Wilson 2004) specimen UALVP 41488.
 
 [*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen) Andrews et al., 2005
 > lower Frasnian, 382.7, 379.2
@@ -808,12 +860,15 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Wardie Shales (Holkerian Substage), Glencartholm, Dumfries District (Dumfries and Galloway Region), Scotland.
 > - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Dick and Maisey, 1980](https://www.palass.org/sites/default/files/media/publications/palaeontology/volume_23/vol23_part2_pp363-374.pdf); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x).
+Onychoselache: ( Coates and Gess 2007; Dick and Maisey 1980)
 
 [*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
 > lower Famennian, 372.2, 367.7
 
 > - Famenne Formation; Massive of Philippeville, Belgium.
 > - [Taverne, 1997](https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences-earth-sciences/67-1997/irscnb_p4087_00eebfp_67_bulletin-4-red.pdf).
+
+### Orthacanthus: (Hampe 2002; Heidtke 1982, 1999; Hotton 1952; Lane and Maisey 2009; John Graham Maisey 1983; Schaeffer 1981)
 
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
 > upper Eifelian, 389.6, 387.7
@@ -826,7 +881,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Lower Shale Member, Fayetteville Formation, Chesterian, Upper Mississippian; near Leslie, Searcy County, Arkansas, USA.
 > - [Pradel *et al*., 2014](https://www.nature.com/articles/nature13195).
-
+Ozarcus and FMNH PF 13242: ( Coates et al. 2017; John G. Maisey 2007; Pradel et al. 2014)
 [*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen) Traquair, 1890
 > upper Eifelian, 389.6, 387.7
 
@@ -857,6 +912,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Upper part of the Arbuthnott Group; Midland Valley, Scotland.
 > - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2013](http://dx.doi.org/10.1080/03115518.2013.765656).
+Parexus: (Miles 1973a; Watson 1937)
 
 [*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen) Hanke, 2002
 > Lochkovian, 419.2, 410.8
@@ -869,6 +925,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Chuandong Formation; Qujing, Yunnan, China.
 > - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
+### Phoebodus: (Frey et al. 2019)
 
 [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > Lochkovian to Pragian, 419.2, 407.6
@@ -912,6 +969,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
 > - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
+Psarolepis: (Qu et al. 2013; Yu 1998; Zhu et al. 1999; Zhu and Schultze 1997)
 
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
@@ -926,6 +984,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
 > - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
+Ptomacanthus: (Brazeau 2009, 2012; Dearden et al. 2019; Denison 1979; Miles 1973b)
 
 *Ptyctodopsis menzeli* Denison, 1985
 > upper Givetian
@@ -944,6 +1003,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - La Paz region (Belén Formation), and Cochabamba - Sucre areas (Icla Formation), Bolivia.
 > - Maisey and Anderson, 2001
+> - Pucapampella: (Janvier and Maisey 2010; Maisey 2001; Maisey et al. 2019; Maisey and Anderson 2001; Maisey and Lane 2010)
 > - The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
 
 [*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2016
@@ -1066,6 +1126,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - wide distribution.
 > - Gans and Parsons, 1964
+Squalus: (Gans and Parsons 1981; Marinelli and Strenger 1959; Schaeffer 1981)
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
@@ -1090,12 +1151,16 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Cleveland Shale Member, Ohio Shale Formation, Cleveland, Ohio, USA.
 > - Schaeffer, 1981; Williams, 1998
+Tamiobatis: (Schaeffer 1981)
 
 [*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen) Gagnier et al., 1999
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Gagnier et al., 1999; Hanke et al., 2001
+Tetanopsyrus: (Gagnier et al. 1999; Gagnier and Wilson 1995; Hanke et al. 2001)
+
+### Thrinacodus: (Grogan and Lund 2008)
 
 [*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen) Hanke et al., 2001
 > Lochkovian, 419.2, 410.8
@@ -1120,19 +1185,21 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Upper (Romualdo) Member, Santana Formation; northeastern Brazil.
 > - [Lane and Maisey, 2009](https://www.tandfonline.com/doi/abs/10.1080/02724634.2009.10010359); [Lane, 2010](http://www.bioone.org/doi/full/10.1206/681.1); [Lane and Maisey, 2012](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/visceral-skeleton-and-jaw-suspension-in-the-durophagous-hybodontid-shark-tribodus-limae-from-the-lower-cretaceous-of-brazil/5FB57E72FCE3993A631B48F0DCD12651); Maisey and Denton, 2016
+Tribodus: (Lane 2010; Lane and Maisey 2009, 2012; Maisey and de Carvalho 1997)
 
 [*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen) Woodward, 1889
 > Bashkirian to Changhsingian, 323.2, 251.9
 
 > - USA.
 > - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
+Triodus: (Hampe 2002; Heidtke et al. 2004; Soler-Gijón and Hampe 1998)
 
 [*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1837)
 > lower Serpukhovian, 330.9, 328.3
 
 > - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Limestone Group (South Parrot Coal-Shale); Midland Valley (Lothian, Fife and Strathclyde Regions), Scotland.
 > - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x). 
-
+Tristychius: (Coates et al. 2019; Coates and Gess 2007; Coates and Tietjen 2018; Dick 1978)
 [*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen) (Powrie, 1870)
 > Lochkovian, 419.2, 410.8
 
@@ -1144,7 +1211,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Davis, 2008; [Newman *et al*., 2012](https://bioone.org/journals/Geodiversitas/volume-34/issue-4/g2012n4a2/The-Early-Devonian-Acanthodian-iUraniacanthus-curtus-i-Powrie-1870-n/10.5252/g2012n4a2.full).
-
+Uraniacanthus: (Bernacsek and Dineley 1977; Burrow et al. 2016; Hanke and Davis 2008; Newman et al. 2012)
 > - *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
 
 [*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen) Denison, 1968
@@ -1195,7 +1262,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
-
+(Chang 1982, 1991, 2004; Chang and Yu 1981)
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
@@ -1209,11 +1276,9 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - [Stensiö, 1932](https://agris.fao.org/search/en/providers/122376/records/6474729ba4e07c0bc4bfd2b6).
 
 **New taxa under study**
-New placoderm close to the crown gnathostome node
 
-New early Silurian osteichthyan
 
-New Middle Devonian petalichthyid from Zhujiangyuan
+
 
 **References**
 
@@ -1820,4 +1885,5 @@ Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, 
 Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
 
 Zong, R.-W., Liu, Q., Wei, F. and Gong, Y.-M., 2017. Fentou Biota: a Llandovery (Silurian) shallow-water exceptionally preserved biota from Wuhan, Central China. *J. Geol.* **125**: 469–478.
+
 
