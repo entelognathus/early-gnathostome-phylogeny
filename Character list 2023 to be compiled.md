@@ -2876,6 +2876,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 345. Hypohyal: (0) absent; (1) present.
 > Giles *et al*. (2015), Character 75; Choo *et al*. (2017), Character 282; King *et al*. (2017), Character 144; Castiello (2018), Character 143; Zhu Y. *et al*. (2022), Character 349; Andreev *et al*. (2022), Character 75; Brazeau *et al*. (2023), Character 148. Cui *et al*. (2023), Character 349; Lu *et al*. (2026), Character 345; Zhu Y. *et al*. (2026), Character 345.
+> Klug *et al*. (2023), Character 56. Friedman and Brazeau 2010; Pradel et al. 2014
+> - Klug *et al*. (2023): "scores updated after Dearden et al. (Dearden et al. 2019). Presence in Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020) is consistent with conditions Ozarcus, Cobelodus, and Akmonistion."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2932,6 +2934,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 353. Basihyal: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 37; Giles *et al*. (2015), Character 143;Choo *et al*. (2017), Character 36; King *et al*. (2017), Character 140; Castiello (2018), Character 139; Zhu Y. *et al*. (2022), Character 357; Andreev *et al*. (2022), Character 73; Brazeau *et al*. (2023), Character 144. Cui *et al*. (2023), Character 357; Lu *et al*. (2026), Character 353; Zhu Y. *et al*. (2026), Character 353.
+> Klug *et al*. (2023), Character 57. Brazeau et al. 2017; Carr et al. 2009; Dearden et al. 2019; Pradel et al. 2014); Dearden et al. (2019) in part.
 > - Davis *et al*. (2012): "Basihyal, present (0); absent, hyoid arch articulates directly with basibranchial (1). Basihyals are known in chondrichthyans (Zangerl & Case 1976; Didier 1995; Grogan & Lund 2000: the glossohyal reported in *Debeerius* is indistinguishable from a basihyal) and placoderms (Ritchie 2005; Long 1997). Direct articulation between the hyoid arch and one or more basibranchials (where a basihyal is absent) occurs in *Acanthodes* and osteichthyans (Nelson 1968; Miles 1973b; Gardiner 1984: alternative reconstructions of *Acanthodes* gill arches consistently show no basihyal). The polarity of this character is questionable, given the poverty of branchial arch data in early gnathostomes. Friedman & Brazeau (2010) discuss hypohyal presence as a possible osteichthyan synapomorphy, but predetermine the hypohyals of *Debeerius* (Grogan & Lund 2000) as independently derived, and offer no comment on the hypohyal of *Cobelodus* (Zangerl & Case 1976). *Acanthodes* lacks a hypohyal."
 > - Brazeau *et al*. (2023): present (0) for *Acanthodes* after Dearden *et al*. (2019) "When contextualised *Ptomacanthus* displays a combination of derived and plesiomorphic pharyngeal traits (Fig. 4). The presence of a basihyal contacting the hyoid and first branchial arch, and the absence of hypohyals and a mineralised posterior basibranchial adds credence to the reconstruction of *Acanthodes* by Gardiner, which displays identical conditions30. These states occur in both the chondrichthyan stem-group and in the gnathostome stem-group21 suggesting that these morphologies of the ventral pharynx were likely present at the gnathostome crownnode (Fig. 4)."
 > - Davis *et al*. (2012) coded *Acanthodes* and osteichthyans (*Eusthenopteron*, *Gogonasus*, *Mimia*) as 1 (absent), and coded chondrichthyans as 0 (present). Choo *et al*. (2017), King *et al*. (2017), Castiello (2018) followed this and coded some placoderms as 0 (present). (**the state is reversed**). 
@@ -3007,6 +3010,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 362. Separate supra- and infra-pharyngobranchials: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 72; Zhu Y. *et al*. (2022), Character 366. Cui *et al*. (2023), Character 366; Lu *et al*. (2026), Character 362; Zhu Y. *et al*. (2026), Character 362.
+> Klug *et al*. (2023), Character 58. Gardiner 1984; Pradel et al. 2014)
+> - Klug *et al*. (2023): "Scored as uncertain for Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3014,6 +3019,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 363. Pharyngobranchial orientation: (0) directed anteriorly; (1) posteriorly.
 > Coates *et al*. (2018), Character 73; Zhu Y. *et al*. (2022), Character 367. Cui *et al*. (2023), Character 367; Lu *et al*. (2026), Character 363; Zhu Y. *et al*. (2026), Character 363.
+> Klug *et al*. (2023), Character 59. Pradel et al. 2014. 
+> - Klug *et al*. (2023): "Scored as uncertain for Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5581,6 +5588,17 @@ P5. Para-articular process extension angle: (0) nearly parallel to the midline o
 
 ### Anterior or mesial edge of nasal notched for anterior nostril: absent (0); present (1).
 > Klug *et al*. (2023), Character 27.
+
+### Ceratohyal with broad posteroventral flange or shelf, projecting laterally into recess in Meckel's cartilage: absent (0); present (1). 
+> Klug *et al*. (2023), Character 54.
+> - Klug *et al*. (2023): "Present in Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39), this flange is likely also present in Cladoselache, identified as a 'ventral process' ( Maisey 1989). In Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020), the flange fits snugly into a smooth recess within the posteroventral extremity of the medial surface of Meckel's cartilage. Such a flange is also present in Cobelodus aculeatus PF 7351 (listed in Zangerl & Case (Zangerl and Case 1976)), and is likely present in many symmoriids."
+
+### Ceratohyal spatulate or bladed anteriorly: absent (0); present (1).
+> Klug *et al*. (2023), Character 55.
+
+
+
+
 
 **Deleted characters**
 
