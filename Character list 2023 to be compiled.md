@@ -2860,6 +2860,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ## Hyoid and gill arches
 ### 343. Foramen in hyomandibular: (0) absent; (1) present.
 > Zhu *et al*. (2009, Character 100), and references therein; Zhu *et al*. (2013), Character 197; Choo *et al*. (2017), Character 201; King *et al*. (2017), Character 142; Castiello (2018), Character 141; Zhu Y. *et al*. (2022), Character 347; Andreev *et al*. (2022), Character 243; Brazeau *et al*. (2023), Character 146. Cui *et al*. (2023), Character 347; Lu *et al*. (2026), Character 343; Zhu Y. *et al*. (2026), Character 343.
+> Klug *et al*. (2023), Character 51. Lu et al. 2016; 
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2867,6 +2868,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 344. Interhyal: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 38; Choo *et al*. (2017), Character 37; King *et al*. (2017), Character 141; Castiello (2018), Character 140; Zhu Y. *et al*. (2022), Character 348; Andreev *et al*. (2022), Character 74; Brazeau *et al*. (2023), Character 145. Cui *et al*. (2023), Character 348; Lu *et al*. (2026), Character 344; Zhu Y. *et al*. (2026), Character 344.
+> Klug *et al*. (2023), Character 52. Zhu et al. 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2942,6 +2944,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358. Cui *et al*. (2023), Character 358; Lu *et al*. (2026), Character 354; Zhu Y. *et al*. (2026), Character 354.
+> Klug *et al*. (2023), Character 53.
+> - Klug *et al*. (2023):" Fossil examples include Tristychius ( Coates et al. 2019), Egertonodus ( Maisey 1983), Orthacanthus ((Hotton 1952); pers. obs. M.I.C.), Gogoselachus (Long et al. 2015), Cladoselache (John G. Maisey 1989), Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2978,6 +2982,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 359. Gill arches: (0) largely restricted to region under braincase; (1) extend far posterior to braincase.
 > Giles *et al*. (2015), Character 72; Choo *et al*. (2017), Character 281; King *et al*. (2017), Character 143; Castiello (2018), Character 142; Zhu Y. *et al*. (2022), Character 363; Andreev *et al*. (2022), Character 72; Brazeau *et al*. (2023), Character 147. Cui *et al*. (2023), Character 363; Lu *et al*. (2026), Character 359; Zhu Y. *et al*. (2026), Character 359.
+> Klug *et al*. (2023), Character 49. Lund and Grogan 1997; Stahl 1999; Zangerl 1981； Dearden et al., 2019
+> - Klug *et al*. (2023): "Gill skeleton mostly beneath otico-occipital region (0); mostly posterior to occipital region (1)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2992,6 +2998,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 361. First branchial arch meets neurocranium: (0) ventral to otic region; (1) posterior to otic region.
 > Dearden *et al*. (2019), Character 68; Zhu Y. *et al*. (2021), Character 355; Zhu Y. *et al*. (2022), Character 365. Cui *et al*. (2023), Character 365; Lu *et al*. (2026), Character 361; Zhu Y. *et al*. (2026), Character 361.
+> Klug *et al*. (2023), Character 50. 
+> - Klug *et al*. (2023): "Included after Dearden et al. (2019), they score Cladoselache and Cobelodus as state '0'; here, the scores are revised to state '1'."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
