@@ -1,4 +1,4 @@
-# Character List of Early Gnathostomes
+![44a50935d14f7bc0aee9777218f56213](https://github.com/user-attachments/assets/e1d6a805-6f66-4e75-be5d-548d69fc50c8)# Character List of Early Gnathostomes
 ## Characters 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu *et al*. (2026) and Zhu Y. *et al*. (2026); 697-709 from Brazeau *et al*. (2023).
 > - Character 34 of Zhu Y. *et al*. (2022), i.e. "macromeric vs. micromeric scales", also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 > - 大家可以将图片直接拖到需要解释结构的位置。
@@ -3058,7 +3058,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 363. Pharyngobranchial orientation: (0) directed anteriorly; (1) posteriorly.
 > Coates *et al*. (2018), Character 73; Zhu Y. *et al*. (2022), Character 367. Cui *et al*. (2023), Character 367; Lu *et al*. (2026), Character 363; Zhu Y. *et al*. (2026), Character 363.
 > Klug *et al*. (2023), Character 59. Pradel et al. 2014. 
-> - Klug *et al*. (2023): "Scored as uncertain for Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020)."
+> - Klug *et al*. (2023): "Scored as uncertain for *Maghriboselache* (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3303,6 +3303,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 394. Palatobasal (or orbital) articulation: (0) posterior to the optic foramen; (1) anterior to the optic foramen, grooved, and overlapped by process or flange of palatoquadrate; (2) anterior to optic foramen, smooth, and overlaps or flanks articular surface on palatoquadrate.
 > Coates *et al*. (2018), Character 124; Zhu Y. *et al*. (2022), Character 398; Brazeau *et al*. (2023), Character 127. Cui *et al*. (2023), Character 398; Lu *et al*. (2026), Character 394; Zhu Y. *et al*. (2026), Character 394.
+> Klug *et al*. (2023), Character 107. (Maisey 2005; Pradel et al., 2011; Coates et al., 2017)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3317,6 +3318,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 396. Trochlear nerve foramen anterior to optic nerve foramen: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 126; Zhu Y. *et al*. (2021), Character 349; Zhu Y. *et al*. (2022), Character 400. Cui *et al*. (2023), Character 400; Lu *et al*. (2026), Character 396; Zhu Y. *et al*. (2026), Character 396.
+> Klug *et al*. (2023), Character 108.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3331,6 +3333,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 398. Eye stalk or unfinished area on neurocranial wall for eyestalk: (0) absent; (1) present.
 > Zhu *et al*. (2009, Character 36), and references therein; Zhu *et al*. (2013), Character 222; Giles *et al*. (2015), Character 131; Choo *et al*. (2017), Character 149; King *et al*. (2017), Character 62; Castiello (2018), Character 63; Zhu Y. *et al*. (2022), Character 402; Andreev *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 66. Cui *et al*. (2023), Character 402; Lu *et al*. (2026), Character 398; Zhu Y. *et al*. (2026), Character 398.
+> Klug *et al*. (2023), Character 111. (Davis et al., 2012; Coates et al., 2017)
+> Klug *et al*. (2023): the character is presented as "**Optic pedicel: (0) absent; (1) present.**"
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3411,6 +3415,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 409. Ophthalmic foramen in anterodorsal extremity of orbit communicates with cranial interior: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 132; Zhu Y. *et al*. (2022), Character 414. Cui *et al*. (2023), Character 414; Lu *et al*. (2026), Character 409; Zhu Y. *et al*. (2026), Character 409.
+> Klug *et al*. (2023), Character 113.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3418,6 +3423,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 410. Internal carotids: (0) entering single or paired openings in the basicranium from a posterolateral angle; (1) entering basicranial opening(s) head-on from an extreme, lateral angle; (2) absent.
 > Coates *et al*. (2018), Character 137; Zhu Y. *et al*. (2022), Character 415. Cui *et al*. (2023), Character 415; Lu *et al*. (2026), Character 410; Zhu Y. *et al*. (2026), Character 410.
+> Klug *et al*. (2023), Character 117.
 > - Internal carotids converging almost head-on toward the midline (Schaeffer, 1981; Maisey, 1983) is shared by *Synechodus* and Recent elasmobranchs (Maisey, 1985).
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
@@ -3426,6 +3432,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 411. Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium.
 > Schaeffer (1981); Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 78; Choo *et al*. (2017), Character 78; King *et al*. (2017), Character 41; Castiello (2018), Character 41; Zhu Y. *et al*. (2022), Character 416; Andreev *et al*. (2022), Character 143; Brazeau *et al*. (2023), Character 44. Cui *et al*. (2023), Character 416; Lu *et al*. (2026), Character 411; Zhu Y. *et al*. (2026), Character 411.
+> Klug *et al*. (2023), Character 116. (Zhu et al., 2013)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
@@ -3521,6 +3528,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 424. Spiracular groove on basicranial surface: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 62; Choo *et al*. (2017), Character 61; King *et al*. (2017), Character 26; Castiello (2018), Character 26; Zhu Y. *et al*. (2022), Character 429; Andreev *et al*. (2022), Character 123; Brazeau *et al*. (2023), Character 29. Cui *et al*. (2023), Character 429; Lu *et al*. (2026), Character 424; Zhu Y. *et al*. (2026), Character 424.
+> Klug *et al*. (2023), Character 119. (Zhu et al., 2013)
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Lingyu* is 0.
@@ -3528,6 +3536,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 425. Spiracular groove on lateral commissure: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 63; Choo *et al*. (2017), Character 62; King *et al*. (2017), Character 27; Castiello (2018), Character 27; Zhu Y. *et al*. (2022), Character 430; Andreev *et al*. (2022), Character 126; Brazeau *et al*. (2023), Character 30. Cui *et al*. (2023), Character 430; Lu *et al*. (2026), Character 425; Zhu Y. *et al*. (2026), Character 425.
+> Klug *et al*. (2023), Character 120. (Zhu et al.,2013, Character 63.)
+> Klug *et al*. (2023) expressed this character as: Spiracular groove on **lateral or transverse wall of jugular canal: (0) absent; (1) present**.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
@@ -3543,6 +3553,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 427. Supraorbital shelf broad with convex lateral margin: (0) absent; (1) present
 > Coates & Sequeira (1998); Brazeau (2009); Davis *et al*. (2012), Character 65; Choo *et al*. (2017), Character 64; King *et al*. (2017), Character 29; Castiello (2018), Character 28; Zhu Y. *et al*. (2022), Character 432; Andreev *et al*. (2022), Character 128; Brazeau *et al*. (2023), Character 32. Cui *et al*. (2023), Character 432; Lu *et al*. (2026), Character 427; Zhu Y. *et al*. (2026), Character 427.
+> Klug *et al*. (2023), Character 109. (Zhu et al., 2013)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
@@ -3571,6 +3582,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 431. Extended prehypophysial portion of sphenoid: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 67; Choo *et al*. (2017), Character 66. King *et al*. (2017), Character 31; Castiello (2018), Character 31; Zhu Y. *et al*. (2022), Character 436; Andreev *et al*. (2022), Character 134; Brazeau *et al*. (2023), Character 34. Cui *et al*. (2023), Character 436; Lu *et al*. (2026), Character 431; Zhu Y. *et al*. (2026), Character 431.
+> Klug *et al*. (2023), Character 114. (Brazeau, 2009; Zhu et al., 2013)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
@@ -3592,6 +3604,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 434. Ascending basisphenoid pillar pierced by common internal carotid: (0) absent; (1) present.
 > Miles (1973b); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 75; Choo *et al*. (2017), Character 74; King *et al*. (2017), Character 38; Castiello (2018), Character 38; Zhu Y. *et al*. (2022), Character 439; Andreev *et al*. (2022), Character 141; Brazeau *et al*. (2023), Character 41. Cui *et al*. (2023), Character 439; Lu *et al*. (2026), Character 434; Zhu Y. *et al*. (2026), Character 434.
+> Klug *et al*. (2023), Character 118. (Zhu et al., 2013)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3599,6 +3612,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 435. Canal for efferent pseudobranchial artery within basicranial cartilage: (0) absent; (1) present.
 > Brazeau (2009); Davis *et al*. (2012), Character 79; Choo *et al*. (2017), Character 75; King *et al*. (2017), Character 39; Castiello (2018), Character 39; Zhu Y. *et al*. (2022), Character 440; Andreev *et al*. (2022), Character 144; Brazeau *et al*. (2023), Character 42. Cui *et al*. (2023), Character 440; Lu *et al*. (2026), Character 435; Zhu Y. *et al*. (2026), Character 435.
+> Klug *et al*. (2023), Character 115. (Zhu et al., 2013)
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Achoania jarviki* is changed from ? to 1.
@@ -5704,6 +5718,20 @@ Friedman and Brazeau 2010; Zhu et al. 2013).
 
 ### 725. Orbitonasal lamina expanded: (0) absent; (1) present.
 > Klug *et al*. (2023), Character 105. (Patterson 1965) fig.39<img width="138.3" height="108.5" alt="Klug, 2023 fig 39" src="https://github.com/user-attachments/assets/f4d30741-508e-4490-af13-37bf20a1f15a" />
+
+### 726. Elongate, tooth-bearing, pre-nasal ethmo-rostral region: (0) absent; (1) present.
+> Klug *et al*. (2023), Character 106.
+> Klug *et al*. (2023): Scored absent in *Maghriboselache*.
+
+### 727. Interorbital space: (0) broad; (1) narrow.
+> Klug *et al*. (2023), Character 110. (Brazeau, 2009; Davis et al., 2012; Zhu et al., 2013; Coates et al., 2017)
+
+### 728. Large prootic foramen separated from optic fenestra by antotic pillar bearing optic pedicel: (0) absent;; (1) present.
+> Klug *et al*. (2023), Character 112. (Adapted from Maisey et al., 2019)
+
+### 729. Spiracular groove: (0) open; (1) enclosed by spiracular bar or canal. 
+> Klug *et al*. (2023), Character 121. (Patterson 1982; Lu et al., 2016)
+>- Similar to Character 516?
 
 ### 726. Glossopharyngeal nerve path:  (0) directed laterally, across floor of the saccular chamber and exits via foramen in side wall of the otic capsule;  (1) directed posteriorly, and exits through metotic fissure or foramen in posteroventral wall of otic capsule; (2) exits laterally through a canal contained ventrally (floored) by the hypotic lamina; (3) exits through a foramen anterior to the posterior ampulla.
 > Klug *et al*. (2023), Character 172. (Brazeau 2009; Coates and Sequeira 1998, 2001; Coates et al. 2017; S. P. Davis et al. 2012; Pradel et al. 2011, 2013; Schaeffer 1981; Zhu et al. 2013).
