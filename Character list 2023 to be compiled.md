@@ -2034,6 +2034,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ## Dentition, dermal jaw & tooth-bearing bones
 ### 236. Oral dermal tubercles borne on jaw cartilages: (0) absent; (1) present.
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 39; Choo *et al*. (2017), Character 38; King *et al*. (2017), Character 327; Castiello (2018), Character 319; Zhu Y. *et al*. (2022), Character 240; Andreev *et al*. (2022), Character 77; Brazeau *et al*. (2023), Character 332. Cui *et al*. (2023), Character 240; Lu *et al*. (2026), Character 236; Zhu Y. *et al*. (2026), Character 236.
+> Klug *et al*. (2023), Character 65. Zhu et al. 2013.
+> - Klug *et al*. (2023):"This character is concerned only with position and form, and not with histological, and by inference, developmental distinctiveness (Rücklin et al. 2012)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2584,6 +2586,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 304. Pharyngeal teeth or denticles: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 78; Zhu Y. *et al*. (2022), Character 308. Cui *et al*. (2023), Character 308; Lu *et al*. (2026), Character 304; Zhu Y. *et al*. (2026), Character 304.
+> Klug *et al*. (2023), Character 66.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2605,6 +2608,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 307. Tooth whorls: (0) absent; (1) present.
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 40; Choo *et al*. (2017), Character 39; King *et al*. (2017), Character 328; Castiello (2018), Character 320; Zhu Y. *et al*. (2022), Character 311; Andreev *et al*. (2022), Character 81; Brazeau *et al*. (2023), Character 333. Cui *et al*. (2023), Character 311; Lu *et al*. (2026), Character 307; Zhu Y. *et al*. (2026), Character 307.
+> Klug *et al*. (2023), Character 67. Zhu et al. 2013
+> - Klug *et al*. (2023): "Tooth families/generative tooth sets: absent (0); present (1)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2626,6 +2631,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 310. Enlarged adsymphysial tooth whorl: (0) absent; (1) present.
 > Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 42; Choo *et al*. (2017), Character 41; King *et al*. (2017), Character 330; Castiello (2018), Character 322; Zhu Y. *et al*. (2022), Character 314; Brazeau *et al*. (2023), Character 335. Cui *et al*. (2023), Character 314; Lu *et al*. (2026), Character 310; Zhu Y. *et al*. (2026), Character 310.
+> Klug *et al*. (2023), Character 68.
+> - Klug *et al*. (2023):"Symphysial tooth whorl absent (0); present (1). Present in Cladoselache and Maghriboselache, absent in Ferromirum."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2633,6 +2640,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 311. Tooth families/whorls: (0) restricted to symphysial region; (1) distributed along jaw margin.
 > Coates *et al*. (2018), Character 83; Zhu Y. *et al*. (2022), Character 315; Andreev *et al*. (2022), Character 83 (**states are reversed**). Cui *et al*. (2023), Character 315; Lu *et al*. (2026), Character 311; Zhu Y. *et al*. (2026), Character 311.
+> Klug *et al*. (2023), Character 68. Brazeau 2009; S. P. Davis et al. 2012; Hanke and Wilson 2004; Zhu et al. 2013
+> - Klug *et al*. (2023):"Revised in light of discussion by Tucker and Fraser (2013)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2640,6 +2649,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 312. Number of tooth families/whorls per jaw ramus: (0) 15 or fewer; (1) 20 or more.
 > Coates *et al*. (2018), Character 84; Zhu Y. *et al*. (2022), Character 316. Cui *et al*. (2023), Character 316; Lu *et al*. (2026), Character 312; Zhu Y. *et al*. (2026), Character 312.
+> Klug *et al*. (2023), Character 69.
+> - Klug *et al*. (2023):"Number of generative tooth sets per jaw ramus."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2647,6 +2658,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 313. Tooth families/whorls: (0) continuous; (1) discontinuous.
 > Zhu Y. *et al*. (2022), Character 317. Cui *et al*. (2023), Character 317; Lu *et al*. (2026), Character 313; Zhu Y. *et al*. (2026), Character 313.
+> Klug *et al*. (2023), Character 70. (S. P. Davis et al. 2012; Giles, Friedman, et al. 2015; Zhu et al. 2013)
+> - Klug *et al*. (2023):"Bases of tooth families/ generative sets: single, continuous plate (0); some or all whorls consist of separate tooth units (1). Adjusted from Brazeau (2009)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
