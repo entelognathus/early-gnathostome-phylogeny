@@ -5663,19 +5663,20 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Klug *et al*. (2023), Character 105. (Patterson 1965) fig.39<img width="138.3" height="108.5" alt="Klug, 2023 fig 39" src="https://github.com/user-attachments/assets/f4d30741-508e-4490-af13-37bf20a1f15a" />
 
 
+
+
+## Newly added characters (ysy: wait for number)
 217. Anterior dorsal fin spine cross section: horseshoe shaped (0); flat sided with rectangular profile (1); subcircular (2)
-(Brazeau and de Winter 2015; Hampe 2002) 
-> Klug *et al*. (2023), Character 217.
+> Klug *et al*. (2023), Character 217. (Brazeau and de Winter 2015; Hampe 2002) 
 
 218. Anterior dorsal fin spine curved posteriorly near the apex mainly: absent (0); present (1). 
-Present in Maghriboselache, Ferromirum and Cladoselache. In Dracopristis, the entire fin spine is curved. 
 > Klug *et al*. (2023), Character 218.
+> Klug *et al*. (2023): Present in Maghriboselache, Ferromirum and Cladoselache. In Dracopristis, the entire fin spine is curved. 
 
 224. Admedian pectoral spines absent (0); present (1).
- (Burrow et al. 2016)
-> Klug *et al*. (2023), Character 224.
+> Klug *et al*. (2023), Character 224.  (Burrow et al. 2016)
 
-## Newly added characters (ysy)
+
 231. Body scale shape:  (0) polygonal with similar length and width；(1) at least 50% broader than long。
 > New character. In Maghriboselache and Cladoselache, most scales have a polygonal outline with subequal length and width. In Phoebodus, most body scales are at least twice as wide (lateral direction, transversely) as long (sagitally; own, unpublished observation).
 > Klug *et al*. (2023), Character 231.
