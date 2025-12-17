@@ -2948,7 +2948,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 354. Ceratohyal smooth with posterior, lateral fossa: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 69; Zhu Y. *et al*. (2022), Character 358. Cui *et al*. (2023), Character 358; Lu *et al*. (2026), Character 354; Zhu Y. *et al*. (2026), Character 354.
 > Klug *et al*. (2023), Character 53.
-> - Klug *et al*. (2023):" Fossil examples include Tristychius ( Coates et al. 2019), Egertonodus ( Maisey 1983), Orthacanthus ((Hotton 1952); pers. obs. M.I.C.), Gogoselachus (Long et al. 2015), Cladoselache (John G. Maisey 1989), Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39)."
+> - Klug *et al*. (2023):"Fossil examples include Tristychius ( Coates et al. 2019), Egertonodus ( Maisey 1983), Orthacanthus ((Hotton 1952); pers. obs. M.I.C.), Gogoselachus (Long et al. 2015), Cladoselache (John G. Maisey 1989), Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2964,6 +2964,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 356. Multiple unpaired branchial mineralisations: (0) absent; (1) present.
 > Dearden *et al*. (2019), Character 74; Zhu Y. *et al*. (2022), Character 360. Cui *et al*. (2023), Character 360; Lu *et al*. (2026), Character 356; Zhu Y. *et al*. (2026), Character 356.
+> Klug *et al*. (2023), Character 63.
+> - Klug *et al*. (2023):"Included after Dearden et al. (2019), but scores differ."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3028,6 +3030,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 364. Posteriormost branchial arch bears epibranchial unit: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 74; Zhu Y. *et al*. (2022), Character 368. Cui *et al*. (2023), Character 368; Lu *et al*. (2026), Character 364; Zhu Y. *et al*. (2026), Character 364.
+> Klug *et al*. (2023), Character 60.
+> - Klug *et al*. (2023): "Scoredas uncertain for Maghriboselache (Supplementary Fig. 2, 9, 11) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3035,6 +3039,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 365. Epibranchials bear posterior flange: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 75; Zhu Y. *et al*. (2022), Character 369. Cui *et al*. (2023), Character 369; Lu *et al*. (2026), Character 365; Zhu Y. *et al*. (2026), Character 365.
+> Klug *et al*. (2023), Character 61.
+> - Klug *et al*. (2023): "Scoredas uncertain for Maghriboselache (Supplementary Fig. 2, 9, 11) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3042,6 +3048,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 366. Hypobranchial orientation: (0) directed anteriorly; (1) hypobranchials of second and more posterior gill arches directed posteriorly.
 > Coates *et al*. (2018), Character 76; Zhu Y. *et al*. (2022), Character 370. Cui *et al*. (2023), Character 370; Lu *et al*. (2026), Character 366; Zhu Y. *et al*. (2026), Character 366.
+> Klug *et al*. (2023), Character 62.
+> - Klug *et al*. (2023): "Scoredas uncertain for Maghriboselache (Supplementary Fig. 2, 9, 11) and Ferromirum (Frey, Coates, et al. 2020)."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5574,7 +5582,6 @@ P4. Boundary between the parietals and postparietals: (0) roughly straight acros
 P5. Para-articular process extension angle: (0) nearly parallel to the midline of the head shield ; (1) anterolaterally extending.
 > - A synapomorphy defining Quasipetalichthyidae.
 >
-> -
 > -  The matrix in Klug *et al*. (2023) is based on Frey *et al*. (2020), which is based on Coates *et  al*., (2017, 2018), Dearden *et  al*. (2019). Klug et al. (2023) additionally coded *Dracopristis hoffmanorum* Hodnett *et al*., 2021. Further, we added eigh tcharacters describing body proportions etc. For details see the character list, characters 231 to 238. Klug et al. (2023) further added characters 239 to 261 from Hodnett *et al*. (30), which are predominantly dental characters. The latter caused a bias towards dental characters.
 > -  Hodnett, J.-P. M., Grogan, E., Lund, R., Lucas, S. G., Suazo, T., Elliott, D. K., & Pruitt, J. (2021). Ctenacanthiform sharks from the Late Pennsylvanian (Missourian) Tinajas member of the Atrasado Formation, Central New Mexico. In Kinney Brick Quarry Lagerstätte (pp. 391–424). New Mexico Museum of Natural History and Science.
 
@@ -5596,8 +5603,9 @@ P5. Para-articular process extension angle: (0) nearly parallel to the midline o
 ### Ceratohyal spatulate or bladed anteriorly: absent (0); present (1).
 > Klug *et al*. (2023), Character 55.
 
-
-
+### Elongate posterior copula projects posteriorly, beyond rearmost branchial arch: absent (0); present (1). 
+> Klug *et al*. (2023), Character 64.
+> - Klug *et al*. (2023): "Present in many early chondrichthyans, including Maghriboselache (Supplementary Fig. 2), Ferromirum (Frey, Coates, et al. 2020), Gutturensis, Debeerius, and Gladbachus; possibly an autapomorphy at some level of the chondrichthyan clade."
 
 
 **Deleted characters**
