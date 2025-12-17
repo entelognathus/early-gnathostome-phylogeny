@@ -5675,6 +5675,38 @@ Present in Maghriboselache, Ferromirum and Cladoselache. In Dracopristis, the en
  (Burrow et al. 2016)
 > Klug *et al*. (2023), Character 224.
 
+## Newly added characters (ysy)
+231. Body scale shape:  (0) polygonal with similar length and width；(1) at least 50% broader than long。
+> New character. In Maghriboselache and Cladoselache, most scales have a polygonal outline with subequal length and width. In Phoebodus, most body scales are at least twice as wide (lateral direction, transversely) as long (sagitally; own, unpublished observation).
+> Klug *et al*. (2023), Character 231.
+
+232. Differentiation of pectoral fin scales: (0) Scale size reduced slightly towards distal tip; (1) Scale size reduced significantly towards distal tip.
+> New character: In Maghriboselache and Cladoselache, the fin scale diameter becomes larger by about 50% from the tip (0.05 mm) to the base of the pectoral fin (0.1 mm). In Phoebodus, the pectoral fin scales range from a width of 0.11 mm at the tip to about 0.45 at the proximal anterior edge of the fin (own, unpublished observation).
+> Klug *et al*. (2023), Character 232.
+
+233. Cartilaginous plate dorsal of the neural arches:  (0) absent; (1) present.
+> New character, see Supplementary Fig. 51. Also present in Cladoselache (B. Dean 1909), Akmonistion (Coates and Sequeira 2001).
+> Klug *et al*. (2023), Character 233.
+
+234. Body form: (2) short and stout , (1)intermediate  or (0) long and slender
+>Based on the ratio height of the head to length of the body from snout to tip of caudal fin (Supplementary Fig. 51). Is the ratio below 0.1, it is coded as 0, equal to or above 1.5 as 2, and in between as 1.
+> Klug *et al*. (2023), Character 234.
+
+235. Relative dimensions of pectoral fins:(0) short or (1) long
+>Based on the ratio length of the pectoral fins from their base at the scapulocoracoid to the distal tip to the length of the body from snout to tip of caudal fin (Supplementary Fig. 52). Is the ratio below 0.15, it is coded as 0, equal to or above 1.5 it is coded as 1.
+> Klug *et al*. (2023), Character 235.
+
+236. Orbit length relative to neurocranium length: (0) small  or (1)large 
+>Based on the ratio sagittal length of the orbit to the length of the neurocranium (Supplementary Fig. 53). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. As shown by Coates et al. (2017), holocephalans and many of their stem group representatives have comparatively large orbits.
+> Klug *et al*. (2023), Character 236.
+
+237. Width of olfactory capsule relative to neurocranium length: narrow (0) or wide (1)
+>Based on the ratio between the width of the nasal capsules to the length of the neurocranium (Supplementary Fig. 54). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. Unfortunately, the frontal part including the olfactory capsules is often incompletely preserved and the character state remains uncertain in many taxa.
+> Klug *et al*. (2023), Character 237.
+
+238. Postorbital/ preorbital length or position of the orbit within the neurocranium: long ethmoid/ nasal with short otic/ occipital region (0) or short ethmoid/ nasal with long otic/ occipital region (1)
+>Based on the ratio between the lengths of the preorbital part (front of orbit to front of neurocranium/ olfactory capsules) and the postorpbital part (back of orbit to posterior end of neurocranium; Supplementary Fig. 55). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1.
+> Klug *et al*. (2023), Character 238.
 
 239. [50] Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
 > Hodnett *et al*. (2021), character 50.
