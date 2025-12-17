@@ -5733,155 +5733,148 @@ Friedman and Brazeau 2010; Zhu et al. 2013).
 > Klug *et al*. (2023), Character 121. (Patterson 1982; Lu et al., 2016)
 >- Similar to Character 516?
 
-### 726. Glossopharyngeal nerve path:  (0) directed laterally, across floor of the saccular chamber and exits via foramen in side wall of the otic capsule;  (1) directed posteriorly, and exits through metotic fissure or foramen in posteroventral wall of otic capsule; (2) exits laterally through a canal contained ventrally (floored) by the hypotic lamina; (3) exits through a foramen anterior to the posterior ampulla.
+### 733. Glossopharyngeal nerve path:  (0) directed laterally, across floor of the saccular chamber and exits via foramen in side wall of the otic capsule;  (1) directed posteriorly, and exits through metotic fissure or foramen in posteroventral wall of otic capsule; (2) exits laterally through a canal contained ventrally (floored) by the hypotic lamina; (3) exits through a foramen anterior to the posterior ampulla.
 > Klug *et al*. (2023), Character 172. (Brazeau 2009; Coates and Sequeira 1998, 2001; Coates et al. 2017; S. P. Davis et al. 2012; Pradel et al. 2011, 2013; Schaeffer 1981; Zhu et al. 2013).
 
-### 727. Posterior openings of lateral aortic canals positioned lateral to occipital cotylus:(0) absent; (1) present.
+### 734. Posterior openings of lateral aortic canals positioned lateral to occipital cotylus:(0) absent; (1) present.
 > Klug *et al*. (2023), Character 177. Adapted from Maisey et al. (Maisey et al. 2019).
 
-### 728. Macromeric dermal pectoral girdle composition: (0) ventral and dorsal components; (1) ventral components only.
+### 735. Macromeric dermal pectoral girdle composition: (0) ventral and dorsal components; (1) ventral components only.
 > Klug *et al*. (2023), Character 186. (Brazeau 2009; S. P. Davis et al. 2012; Zhu et al. 2013).
 
-### 729. Macromeric pectoral dermal skeleton forms complete ring around the trunk: (0) present; (1) absent.
+### 736. Macromeric pectoral dermal skeleton forms complete ring around the trunk: (0) present; (1) absent.
 > Klug *et al*. (2023), Character 187. (Brazeau 2009; S. P. Davis et al. 2012; Goujet and Young 2004; 
 Zhu et al. 2013).
 
-### 730. Scapular process with posterodorsal process: (0) absent; (1) present.
+### 737. Scapular process with posterodorsal process: (0) absent; (1) present.
 > Klug *et al*. (2023), Character 193. (Coates and Sequeira 2001; S. P. Davis et al. 2012; Zhu et al. 2013).
 
-### 731. Propterygium perforated: (0) absent; (1) present.
+### 738. Propterygium perforated: (0) absent; (1) present.
 > Klug *et al*. (2023), Character 202. (S. P. Davis et al. 2012; Patterson 1982; Rosen et al. n.d.; Zhu et al. 2013)
 
-
-
-
-
-
-## Newly added characters (ysy: wait for number)
-217. Anterior dorsal fin spine cross section: horseshoe shaped (0); flat sided with rectangular profile (1); subcircular (2)
+### 739. Anterior dorsal fin spine cross section: horseshoe shaped (0); flat sided with rectangular profile (1); subcircular (2)
 > Klug *et al*. (2023), Character 217. (Brazeau and de Winter 2015; Hampe 2002) 
 
-218. Anterior dorsal fin spine curved posteriorly near the apex mainly: absent (0); present (1). 
+### 740. Anterior dorsal fin spine curved posteriorly near the apex mainly: absent (0); present (1). 
 > Klug *et al*. (2023), Character 218.
 > Klug *et al*. (2023): Present in Maghriboselache, Ferromirum and Cladoselache. In Dracopristis, the entire fin spine is curved. 
 
-224. Admedian pectoral spines absent (0); present (1).
+### 741. Admedian pectoral spines absent (0); present (1).
 > Klug *et al*. (2023), Character 224.  (Burrow et al. 2016)
 
-
-231. Body scale shape:  (0) polygonal with similar length and width；(1) at least 50% broader than long。
+### 742. Body scale shape:  (0) polygonal with similar length and width；(1) at least 50% broader than long。
 > New character. In Maghriboselache and Cladoselache, most scales have a polygonal outline with subequal length and width. In Phoebodus, most body scales are at least twice as wide (lateral direction, transversely) as long (sagitally; own, unpublished observation).
 > Klug *et al*. (2023), Character 231.
 
-232. Differentiation of pectoral fin scales: (0) Scale size reduced slightly towards distal tip; (1) Scale size reduced significantly towards distal tip.
+### 743. Differentiation of pectoral fin scales: (0) Scale size reduced slightly towards distal tip; (1) Scale size reduced significantly towards distal tip.
 > New character: In Maghriboselache and Cladoselache, the fin scale diameter becomes larger by about 50% from the tip (0.05 mm) to the base of the pectoral fin (0.1 mm). In Phoebodus, the pectoral fin scales range from a width of 0.11 mm at the tip to about 0.45 at the proximal anterior edge of the fin (own, unpublished observation).
 > Klug *et al*. (2023), Character 232.
 
-233. Cartilaginous plate dorsal of the neural arches:  (0) absent; (1) present.
+### 744. Cartilaginous plate dorsal of the neural arches:  (0) absent; (1) present.
 > New character, see Supplementary Fig. 51. Also present in Cladoselache (B. Dean 1909), Akmonistion (Coates and Sequeira 2001).
 > Klug *et al*. (2023), Character 233.
 
-234. Body form: (2) short and stout , (1)intermediate  or (0) long and slender
+### 745. Body form: (2) short and stout , (1)intermediate  or (0) long and slender
 >Based on the ratio height of the head to length of the body from snout to tip of caudal fin (Supplementary Fig. 51). Is the ratio below 0.1, it is coded as 0, equal to or above 1.5 as 2, and in between as 1.
 > Klug *et al*. (2023), Character 234.
 
-235. Relative dimensions of pectoral fins:(0) short or (1) long
+### 746. Relative dimensions of pectoral fins:(0) short or (1) long
 >Based on the ratio length of the pectoral fins from their base at the scapulocoracoid to the distal tip to the length of the body from snout to tip of caudal fin (Supplementary Fig. 52). Is the ratio below 0.15, it is coded as 0, equal to or above 1.5 it is coded as 1.
 > Klug *et al*. (2023), Character 235.
 
-236. Orbit length relative to neurocranium length: (0) small  or (1)large 
+### 747. Orbit length relative to neurocranium length: (0) small  or (1)large 
 >Based on the ratio sagittal length of the orbit to the length of the neurocranium (Supplementary Fig. 53). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. As shown by Coates et al. (2017), holocephalans and many of their stem group representatives have comparatively large orbits.
 > Klug *et al*. (2023), Character 236.
 
-237. Width of olfactory capsule relative to neurocranium length: narrow (0) or wide (1)
+### 748. Width of olfactory capsule relative to neurocranium length: narrow (0) or wide (1)
 >Based on the ratio between the width of the nasal capsules to the length of the neurocranium (Supplementary Fig. 54). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. Unfortunately, the frontal part including the olfactory capsules is often incompletely preserved and the character state remains uncertain in many taxa.
 > Klug *et al*. (2023), Character 237.
 
-238. Postorbital/ preorbital length or position of the orbit within the neurocranium: long ethmoid/ nasal with short otic/ occipital region (0) or short ethmoid/ nasal with long otic/ occipital region (1)
+### 749. Postorbital/ preorbital length or position of the orbit within the neurocranium: long ethmoid/ nasal with short otic/ occipital region (0) or short ethmoid/ nasal with long otic/ occipital region (1)
 >Based on the ratio between the lengths of the preorbital part (front of orbit to front of neurocranium/ olfactory capsules) and the postorpbital part (back of orbit to posterior end of neurocranium; Supplementary Fig. 55). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1.
 > Klug *et al*. (2023), Character 238.
 
-239. [50] Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
+### 750. Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
 > Hodnett *et al*. (2021), character 50.
 > Klug *et al*. (2023), Character 239.
 
-240. [51] Tooth/ jaw association, (0) absent, (1) individual tooth wells per family, both jaws, (2) all tooth families in single sulcus along jaws, (3) individual tooth wells per family, upper jaw only, (4) teeth follow jaw margin. 
+### 751. Tooth/ jaw association, (0) absent, (1) individual tooth wells per family, both jaws, (2) all tooth families in single sulcus along jaws, (3) individual tooth wells per family, upper jaw only, (4) teeth follow jaw margin. 
 > Hodnett *et al*. (2021), character 51.
 > Klug *et al*. (2023), Character 240.
 
-241. [52] In line cusp relationship, (0) absent, (1) unicuspid, (2) parallel, (3) highly divergent from base, (4) divergent twisted. 
+### 752. In line cusp relationship, (0) absent, (1) unicuspid, (2) parallel, (3) highly divergent from base, (4) divergent twisted. 
 > Hodnett *et al*. (2021), character 52.
 > Klug *et al*. (2023), Character 241.
 
-242. [53] Relative cusp sizes, (0) absent, (1) unicuspid, (2) all cusps equal, (3) laterals largest/central small or absent, (4) central largest/others lower. 
+### 753. Relative cusp sizes, (0) absent, (1) unicuspid, (2) all cusps equal, (3) laterals largest/central small or absent, (4) central largest/others lower. 
 > Hodnett *et al*. (2021), character 53.
 > Klug *et al*. (2023), Character 242.
 
-243. [54] Cusp alignment relative to jaw axis, (0) absent, (1) parallel, (2) lingual concave, (3) twisted contorted alignment, (4) other. 
+### 754. Cusp alignment relative to jaw axis, (0) absent, (1) parallel, (2) lingual concave, (3) twisted contorted alignment, (4) other. 
 > Hodnett *et al*. (2021), character 54.
 > Klug *et al*. (2023), Character 243.
 
-244.  [55] Cusp condition, (0) absent, (1) unicuspid, (2) multiple in-line, (3) descending from central, (4) cusps reduced/suppressed, (5) ridge descending from central. 
+### 755. Cusp condition, (0) absent, (1) unicuspid, (2) multiple in-line, (3) descending from central, (4) cusps reduced/suppressed, (5) ridge descending from central. 
 > Hodnett *et al*. (2021), character 55.
 > Klug *et al*. (2023), Character 244.
 
-245.  [56] Cusp cross section, (0) absent, (1) rounded, (2) reduced/ suppressed, (3) compressed blade-like. 
+### 756. Cusp cross section, (0) absent, (1) rounded, (2) reduced/ suppressed, (3) compressed blade-like. 
 > Hodnett *et al*. (2021), character 56.
 > Klug *et al*. (2023), Character 245.
 
-246.  [57] Cusp numbers, (0) absent, (1) unicuspid, (2) bicuspid, (3) tricuspid, (4) >3, (5) variable. 
+### 757. Cusp numbers, (0) absent, (1) unicuspid, (2) bicuspid, (3) tricuspid, (4) >3, (5) variable. 
 > Hodnett *et al*. (2021), character 57.
 > Klug *et al*. (2023), Character 246.
 
-247.  [58] Crown/root height, (0) absent, (1) equal/subequal, (2) very high crowned, (3) brachydont, (4) variable.  
+### 758. Crown/root height, (0) absent, (1) equal/subequal, (2) very high crowned, (3) brachydont, (4) variable.  
 > Hodnett *et al*. (2021), character 58.
 > Klug *et al*. (2023), Character 247.
 
-248.  [59] Enamel cusp separation, (0) absent, (1) distinctly separate on base, (2) cusps confluent, (3) cusps reduced/suppressed. 
+### 759. Enamel cusp separation, (0) absent, (1) distinctly separate on base, (2) cusps confluent, (3) cusps reduced/suppressed. 
 > Hodnett *et al*. (2021), character 59.
 > Klug *et al*. (2023), Character 248.
 
-249  [60] Functional jaw tooth families, (0) absent, (1) 1-2 per family, (2) pavement occlusion, (3) teeth & tooth plates, (4) tooth plates only. 
+### 760. Functional jaw tooth families, (0) absent, (1) 1-2 per family, (2) pavement occlusion, (3) teeth & tooth plates, (4) tooth plates only. 
 > Hodnett *et al*. (2021), character 60.
 > Klug *et al*. (2023), Character 249.
 
-250.  [61] Tooth shapes on jaw, (0) absent, (1) homodont, (2) monognathic heterodonty, (3) dignathic heterodonty, (4) teeth and tooth plates, (5) plates alone. 
+### 761. Tooth shapes on jaw, (0) absent, (1) homodont, (2) monognathic heterodonty, (3) dignathic heterodonty, (4) teeth and tooth plates, (5) plates alone. 
 > Hodnett *et al*. (2021), character 61.
 > Klug *et al*. (2023), Character 250.
 
-251.  [62] Lower symphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate, (5) paired whorl, (6) multiple families 
+### 762. Lower symphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate, (5) paired whorl, (6) multiple families 
 > Hodnett *et al*. (2021), character 62.
 > Klug *et al*. (2023), Character 251.
 
-252.  [63] Upper parasymphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate. 102 
+### 763. Upper parasymphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate. 102 
 > Hodnett *et al*. (2021), character 63.
 > Klug *et al*. (2023), Character 252.
 
-253.  [64] Crown base, (0) absent, (1) generalized, (2) lingual heel, (3) lingual, labial ridges, (4) basin and ridges. 
+### 764. Crown base, (0) absent, (1) generalized, (2) lingual heel, (3) lingual, labial ridges, (4) basin and ridges. 
 > Hodnett *et al*. (2021), character 64.
 > Klug *et al*. (2023), Character 253.
 
-254. [65] Crown ling1ual/labial buttresses, (0) absent, (1) crenellated, (2) buttressed.
+### 765. Crown ling1ual/labial buttresses, (0) absent, (1) crenellated, (2) buttressed.
 > Hodnett *et al*. (2021), character 65.
 > Klug *et al*. (2023), Character 254.
 
-255. [66] Tooth root vascular pattern, (0) absent, (1) few nutrient foramina aborally and lingually, (2) multiple nutrient foramina labiolingually and aborally, (3) few nutriend foramina labiolingually, (4) apical 
+### 766. Tooth root vascular pattern, (0) absent, (1) few nutrient foramina aborally and lingually, (2) multiple nutrient foramina labiolingually and aborally, (3) few nutriend foramina labiolingually, (4) apical 
 > Hodnett *et al*. (2021), character 66.
 > Klug *et al*. (2023), Character 255.
 
-256.  [67] Tooth root length, (0) absent, (1) short below crown, (2) long below crown, (3) extended lingual, (4) fused in family. 
+### 767. Tooth root length, (0) absent, (1) short below crown, (2) long below crown, (3) extended lingual, (4) fused in family. 
 > Hodnett *et al*. (2021), character 67.
 > Klug *et al*. (2023), Character 256.
 
-257.  [68] Root direction, (0) absent, (1) straight below and wide as crown, (2) straight below and narrow than crown, (3) aboral/ lingual s-shape, (4) lingual shelf, (5) proximodistally arched, (6) separated by neck, contorted. 
+### 768. Root direction, (0) absent, (1) straight below and wide as crown, (2) straight below and narrow than crown, (3) aboral/ lingual s-shape, (4) lingual shelf, (5) proximodistally arched, (6) separated by neck, contorted. 
 > Hodnett *et al*. (2021), character 68.
 > Klug *et al*. (2023), Character 257.
 
-258.  [69] Basolabial/orolingual root projection widths, (0) absent, (1) ridges narrower than primary cusp(s), (2) ridges wider than primary cusp(s). 
+### 769. Basolabial/orolingual root projection widths, (0) absent, (1) ridges narrower than primary cusp(s), (2) ridges wider than primary cusp(s). 
 > Hodnett *et al*. (2021), character 69.
 > Klug *et al*. (2023), Character 258.
 
-259.  [70] Basolabial root projection structure, (0) absent, (1) basolabial ridge/peg single, (2) basolabial ridge/peg divided. 
+### 770. Basolabial root projection structure, (0) absent, (1) basolabial ridge/peg single, (2) basolabial ridge/peg divided. 
 > Hodnett *et al*. (2021), character 70.
 > Klug *et al*. (2023), Character 259.
 
