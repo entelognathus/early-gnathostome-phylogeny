@@ -5124,7 +5124,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 647. Posterior dorsal fin shape: (0) base approximately as broad as tall, not broader than all of other median fins; (1) base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
-> Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Andreev *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 481. Cui *et al*. (2023), Character 652; Lu *et al*. (2026), Character 647; Zhu Y. *et al*. (2026), Character 647.
+> Giles *et al*. (2015), Character 229; Choo *et al*. (2017), Character 320; King *et al*. (2017), Character 476; Castiello (2018), Character 465; Zhu Y. *et al*. (2022), Character 653; Andreev *et al*. (2022), Character 227; Brazeau *et al*. (2023), Character 481. Cui *et al*. (2023), Character 652; Lu *et al*. (2026), Character 647; Zhu Y. *et al*. (2026), Character 647; Klug *et al*. (2023), Character 210.
 > - Giles *et al*. (2015): "This is admittedly a compound character. This owes to the problems of rendering ratio-scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon-shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub-haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie, 2005, figs.16B, 17A, C). In photographs of specimen AMF103767 (Ritchie, 2005, fig. 1A-D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal."
 > - In the taxa bearing a single dorsal fin, this character is coded inapplicable, although it is likely that the dorsal fin of antiarchs is homologous with the posterior dorsal fin if we compare them with some ptyctodonts that have two dorsal fins. The codings are changed accordingly.
  > - The coding of *Entelognathus* is changed from 1 to - (Cui *et al*., 2023).
@@ -5170,7 +5170,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 653. Anal fin: (0) absent; (1) present.
-> Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (2026), Character 653; Zhu Y. *et al*. (2026), Character 653.
+> Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659. Cui *et al*. (2023), Character 658; Lu *et al*. (2026), Character 653; Zhu Y. *et al*. (2026), Character 653; Klug *et al*. (2023), Character 211.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5184,14 +5184,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 655. Anal fin base narrow, posteriormost proximal segments radials broad: (0) absent; (1) present.
-> Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661. Cui *et al*. (2023), Character 660; Lu *et al*. (2026), Character 655; Zhu Y. *et al*. (2026), Character 655.
+> Coates *et al*. (2018), Character 245; Zhu Y. *et al*. (2022), Character 661. Cui *et al*. (2023), Character 660; Lu *et al*. (2026), Character 655; Zhu Y. *et al*. (2026), Character 655; Klug *et al*. (2023), Character 212.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is 0.
 
 ### 656. Caudal radials: (0) extend beyond level of body wall and deep into hypochordal lobe; (1) restricted to axial lobe.
-> Davis *et al*. (2012), Character 138; Choo *et al*. (2017), Character 134; King *et al*. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. *et al*. (2022), Character 662; Andreev *et al*. (2022), Character 232; Brazeau *et al*. (2023), Character 458. Cui *et al*. (2023), Character 661; Lu *et al*. (2026), Character 656; Zhu Y. *et al*. (2026), Character 656.
+> Davis *et al*. (2012), Character 138; Choo *et al*. (2017), Character 134; King *et al*. (2017), Character 453; Castiello (2018), Character 442; Zhu Y. *et al*. (2022), Character 662; Andreev *et al*. (2022), Character 232; Brazeau *et al*. (2023), Character 458. Cui *et al*. (2023), Character 661; Lu *et al*. (2026), Character 656; Zhu Y. *et al*. (2026), Character 656; Klug *et al*. (2023), Character 213.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5212,7 +5212,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 659. Caudal neural and/or supraneural spines or radials: (0) short; (1) long, expanded, and supporting high aspect-ratio (lunate) tail with notochord extending to posterodorsal extremity; (2) notochord terminates pre-caudal extremity, neural and heamal radial lengths near symmetrical and support epichordal and hypochordal lobes respectively.
-> Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665. Cui *et al*. (2023), Character 664; Lu *et al*. (2026), Character 659; Zhu Y. *et al*. (2026), Character 659.
+> Coates *et al*. (2018), Character 247; Zhu Y. *et al*. (2022), Character 665. Cui *et al*. (2023), Character 664; Lu *et al*. (2026), Character 659; Zhu Y. *et al*. (2026), Character 659; Klug *et al*. (2023), Character 214.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5255,21 +5255,21 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ## Spines: fins, cranial and elsewhere
 ### 665. Dorsal fin spine: (0) absent; (1) present.
-> Zhu *et al*. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 126; Choo *et al*. (2017), Character 122; King *et al*. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. *et al*. (2022), Character 671; Andreev *et al*. (2022), Character 211; Brazeau *et al*. (2023), Character 462. Cui *et al*. (2023), Character 670; Lu *et al*. (2026), Character 665; Zhu Y. *et al*. (2026), Character 665.
+> Zhu *et al*. (2001); Zhu & Yu (2002); Friedman (2007); Brazeau (2009); Davis *et al*. (2012), Character 126; Choo *et al*. (2017), Character 122; King *et al*. (2017), Character 457; Castiello (2018), Character 446; Zhu Y. *et al*. (2022), Character 671; Andreev *et al*. (2022), Character 211; Brazeau *et al*. (2023), Character 462. Cui *et al*. (2023), Character 670; Lu *et al*. (2026), Character 665; Zhu Y. *et al*. (2026), Character 665; Klug  *et al*. (2023), Character 215.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 666. Dorsal fin spine at anterior (pectoral level) location only: (0) absent; (1) present.
-> Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672. Cui *et al*. (2023), Character 671; Lu *et al*. (2026), Character 666; Zhu Y. *et al*. (2026), Character 666.
+> Coates *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 672. Cui *et al*. (2023), Character 671; Lu *et al*. (2026), Character 666; Zhu Y. *et al*. (2026), Character 666; Klug  *et al*. (2023), Character 216
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 667. Anal fin spine: (0) absent; (1) present.
-> Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Andreev *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 471. Cui *et al*. (2023), Character 672; Lu *et al*. (2026), Character 667; Zhu Y. *et al*. (2026), Character 667.
+> Maisey (1986); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 127; Choo *et al*. (2017), Character 123; King *et al*. (2017), Character 458; Castiello (2018), Character 447; Zhu Y. *et al*. (2022), Character 673; Brazeau *et al*. (2023), Character 463; Andreev *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 471. Cui *et al*. (2023), Character 672; Lu *et al*. (2026), Character 667; Zhu Y. *et al*. (2026), Character 667; Klug  *et al*. (2023), Character 220.
 > - The coding of *Guiyu oneiros* is changed from ? to 0 (Zhu *et al*., 2012).
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
@@ -5277,7 +5277,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 668. Pectoral fin spine: (0) absent; (1) present.
-> Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674; Andreev *et al*. (2022), Character 213. Cui *et al*. (2023), Character 673; Lu *et al*. (2026), Character 668; Zhu Y. *et al*. (2026), Character 668.
+> Davis *et al*. (2012), Character 128; Choo *et al*. (2017), Character 124; King *et al*. (2017), Character 429; Castiello (2018), Character 418; Zhu Y. *et al*. (2022), Character 674; Andreev *et al*. (2022), Character 213. Cui *et al*. (2023), Character 673; Lu *et al*. (2026), Character 668; Zhu Y. *et al*. (2026), Character 668; Klug  *et al*. (2023), Character 221.
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5292,14 +5292,14 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 670. Median fin spine insertion: (0) shallow, not greatly deeper than dermal bones / scales; (1) deep.
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Andreev *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 464. Cui *et al*. (2023), Character 675; Lu *et al*. (2026), Character 670; Zhu Y. *et al*. (2026), Character 670.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 129; Choo *et al*. (2017), Character 125; King *et al*. (2017), Character 459; Castiello (2018), Character 448; Zhu Y. *et al*. (2022), Character 676; Andreev *et al*. (2022), Character 214; Brazeau *et al*. (2023), Character 464. Cui *et al*. (2023), Character 675; Lu *et al*. (2026), Character 670; Zhu Y. *et al*. (2026), Character 670; Klug  *et al*. (2023), Character 225
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. The coding of *Quasipetalichthys haikouensis* should be revised from - to ?.
 
 ### 671. Intermediate (prepelvic) fin spines: (0) absent; (1) present.
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 130; Choo *et al*. (2017), Character 126; King *et al*. (2017), Character 460; Castiello (2018), Character 449; Zhu Y. *et al*. (2022), Character 677; Andreev *et al*. (2022), Character 215; Brazeau *et al*. (2023), Character 465. Cui *et al*. (2023), Character 676; Lu *et al*. (2026), Character 671; Zhu Y. *et al*. (2026), Character 671.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 130; Choo *et al*. (2017), Character 126; King *et al*. (2017), Character 460; Castiello (2018), Character 449; Zhu Y. *et al*. (2022), Character 677; Andreev *et al*. (2022), Character 215; Brazeau *et al*. (2023), Character 465. Cui *et al*. (2023), Character 676; Lu *et al*. (2026), Character 671; Zhu Y. *et al*. (2026), Character 671; Klug  *et al*. (2023), Character 226
 > Andreev *et al*. (2022):"We follow Burrow *et al.* (2016) and Hanke & Wilson (2010) in labelling the fin spine pairs developed between the pectoral and pelvic fin spines as 'prepelvic' instead of the 'intermediate' used by Brazeau *et al.* (2020). 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
@@ -5315,7 +5315,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 673. Prepectoral fin spines: (0) absent; (1) present.
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Andreev *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 466. Cui *et al*. (2023), Character 678; Lu *et al*. (2026), Character 673; Zhu Y. *et al*. (2026), Character 673.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 131; Choo *et al*. (2017), Character 127; King *et al*. (2017), Character 461; Castiello (2018), Character 450; Zhu Y. *et al*. (2022), Character 679; Andreev *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 466. Cui *et al*. (2023), Character 678; Lu *et al*. (2026), Character 673; Zhu Y. *et al*. (2026), Character 673; Klug  *et al*. (2023), Character 223.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5330,28 +5330,28 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 675. Cephalic spines: (0) absent; (1) present.
-> Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681. Cui *et al*. (2023), Character 680; Lu *et al*. (2026), Character 675; Zhu Y. *et al*. (2026), Character 675.
+> Choo *et al*. (2017), Character 268; Coates *et al*. (2018), Character 262; King *et al*. (2017), Character 206; Castiello (2018), Character 205; Zhu Y. *et al*. (2022), Character 681. Cui *et al*. (2023), Character 680; Lu *et al*. (2026), Character 675; Zhu Y. *et al*. (2026), Character 675; Klug  *et al*. (2023), Character 230
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
 > - The coding of *Yipetalichthys* is 0.
 
 ### 676. Pectoral fin spine with denticles along posterior surface: (0) absent; (1) present.
-> Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682. Cui *et al*. (2023), Character 681; Lu *et al*. (2026), Character 676; Zhu Y. *et al*. (2026), Character 676.
+> Coates *et al*. (2018), Character 254; Zhu Y. *et al*. (2022), Character 682. Cui *et al*. (2023), Character 681; Lu *et al*. (2026), Character 676; Zhu Y. *et al*. (2026), Character 676; Klug  *et al*. (2023), Character 222.
 > - The coding of *Eosteus* is 0, as in *Guiyu*. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 677. Fin spines with ridges: (0) absent; (1) present.
-> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Andreev *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 467. Cui *et al*. (2023), Character 682; Lu *et al*. (2026), Character 677; Zhu Y. *et al*. (2026), Character 677.
+> Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 132; Choo *et al*. (2017), Character 128; King *et al*. (2017), Character 462; Castiello (2018), Character 451; Zhu Y. *et al*. (2022), Character 683; Andreev *et al*. (2022), Character 219; Brazeau *et al*. (2023), Character 467. Cui *et al*. (2023), Character 682; Lu *et al*. (2026), Character 677; Zhu Y. *et al*. (2026), Character 677; Klug  *et al*. (2023), Character 227
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
 ### 678. Fin spines with nodes: (0) absent; (1) present.
-> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Andreev *et al*. (2022), Character 220; Brazeau *et al*. (2023), Character 468. Cui *et al*. (2023), Character 683; Lu *et al*. (2026), Character 678; Zhu Y. *et al*. (2026), Character 678.
+> Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 133; Choo *et al*. (2017), Character 129; King *et al*. (2017), Character 463; Castiello (2018), Character 452; Zhu Y. *et al*. (2022), Character 684; Andreev *et al*. (2022), Character 220; Brazeau *et al*. (2023), Character 468. Cui *et al*. (2023), Character 683; Lu *et al*. (2026), Character 678; Zhu Y. *et al*. (2026), Character 678; Klug  *et al*. (2023), Character 228
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5365,7 +5365,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 680. Fin spines (dorsal) with rows of large denticles: (0) absent; (1) on posterior surface; (2) on lateral surface.
-> Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686. Cui *et al*. (2023), Character 685; Lu *et al*. (2026), Character 680; Zhu Y. *et al*. (2026), Character 680.
+> Coates *et al*. (2018), Character 261; Zhu Y. *et al*. (2022), Character 686. Cui *et al*. (2023), Character 685; Lu *et al*. (2026), Character 680; Zhu Y. *et al*. (2026), Character 680; Klug  *et al*. (2023), Character 229.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5402,7 +5402,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?.
 
 ### 685. Anterior dorsal fin spine leading edge concave in lateral view: (0) absent; (1) present.
-> Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691. Cui *et al*. (2023), Character 690; Lu *et al*. (2026), Character 685; Zhu Y. *et al*. (2026), Character 685.
+> Coates *et al*. (2018), Character 251; Zhu Y. *et al*. (2022), Character 691. Cui *et al*. (2023), Character 690; Lu *et al*. (2026), Character 685; Zhu Y. *et al*. (2026), Character 685; Klug  *et al*. (2023), Character 219.
 > - The coding of *Eosteus* is -. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -5662,6 +5662,18 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 725. Orbitonasal lamina expanded: (0) absent; (1) present.
 > Klug *et al*. (2023), Character 105. (Patterson 1965) fig.39<img width="138.3" height="108.5" alt="Klug, 2023 fig 39" src="https://github.com/user-attachments/assets/f4d30741-508e-4490-af13-37bf20a1f15a" />
 
+
+217. Anterior dorsal fin spine cross section: horseshoe shaped (0); flat sided with rectangular profile (1); subcircular (2)
+(Brazeau and de Winter 2015; Hampe 2002) 
+> Klug *et al*. (2023), Character 217.
+
+218. Anterior dorsal fin spine curved posteriorly near the apex mainly: absent (0); present (1). 
+Present in Maghriboselache, Ferromirum and Cladoselache. In Dracopristis, the entire fin spine is curved. 
+> Klug *et al*. (2023), Character 218.
+
+224. Admedian pectoral spines absent (0); present (1).
+ (Burrow et al. 2016)
+> Klug *et al*. (2023), Character 224.
 
 ## Newly added characters (ysy)
 231. Body scale shape:  (0) polygonal with similar length and width；(1) at least 50% broader than long。
