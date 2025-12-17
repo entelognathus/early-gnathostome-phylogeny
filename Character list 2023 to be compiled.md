@@ -2594,6 +2594,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 305. Lingual torus: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 81; Zhu Y. *et al*. (2022), Character 309. Cui *et al*. (2023), Character 309; Lu *et al*. (2026), Character 305; Zhu Y. *et al*. (2026), Character 305.
+> Klug *et al*. (2023), Character 71. Ginter et al. 2010
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2601,6 +2602,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 306. Basolabial shelf: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 82; Zhu Y. *et al*. (2022), Character 310. Cui *et al*. (2023), Character 310; Lu *et al*. (2026), Character 306; Zhu Y. *et al*. (2026), Character 306.
+> Klug *et al*. (2023), Character 72.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2667,6 +2669,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 314. Toothplates consolidated into one to three large posterior plates, and one to three smaller anterior tooth plates, occupying each quadrant of the jaw: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 86; Zhu Y. *et al*. (2022), Character 318. Cui *et al*. (2023), Character 318; Lu *et al*. (2026), Character 314; Zhu Y. *et al*. (2026), Character 314.
+> Klug *et al*. (2023), Character 75. Stahl 1999
 > - Score changed from 0 (Coates *et al*., 2018) to - for *Austroptyctodus*, *Campbellodus* and *Rhamphodopsis*.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
@@ -2675,6 +2678,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 315. Toothplate complement restricted to two pairs in the upper jaw and a single pair in the lower jaw: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 87; Zhu Y. *et al*. (2022), Character 319. Cui *et al*. (2023), Character 315; Lu *et al*. (2026), Character 310; Zhu Y. *et al*. (2026), Character 315.
+> Klug *et al*. (2023), Character 76. Patterson 1965
 > Score changed from 0 (Coates *et al*., 2018) to - for *Austroptyctodus*, *Campbellodus* and *Rhamphodopsis*.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is -.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
@@ -5374,7 +5378,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?.
 
-## Newly-added characters
+## Included in Cui *et al*. (2023)
 ### 686. Shape of trunk scales: (0) rhombic; (1) small/round; (2) cycloid.
 > Cui *et al*. (2023), Character 691; Lu *et al*. (2026), Character 686; Zhu Y. *et al*. (2026), Character 686. 
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
@@ -5573,8 +5577,42 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Eosteus* is 1. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 
-**Arguablly useful characters**
+## Included in Klug *et al*. (2023)
+> -  The matrix in Klug *et al*. (2023) is based on Frey *et al*. (2020), which is based on Coates *et  al*., (2017, 2018), Dearden *et  al*. (2019). Klug et al. (2023) additionally coded *Dracopristis hoffmanorum* Hodnett *et al*., 2021. Further, we added eigh tcharacters describing body proportions etc. For details see the character list, characters 231 to 238. Klug et al. (2023) further added characters 239 to 261 from Hodnett *et al*. (30), which are predominantly dental characters. The latter caused a bias towards dental characters.
+> -  Hodnett, J.-P. M., Grogan, E., Lund, R., Lucas, S. G., Suazo, T., Elliott, D. K., & Pruitt, J. (2021). Ctenacanthiform sharks from the Late Pennsylvanian (Missourian) Tinajas member of the Atrasado Formation, Central New Mexico. In Kinney Brick Quarry Lagerstätte (pp. 391–424). New Mexico Museum of Natural History and Science.
 
+### 711. Tubular dentine: absent (0); present (1).
+> Klug *et al*. (2023), Character 5.
+> - Klug *et al*. (2023): "Stahl (1999), see also Patterson (1965): present in chimaeroids, edestids, Helodus, and petalodonts, but absent in symmoriids and iniopterygians (Zangerl and Case 1976)." 
+
+### 712. Cranial cap denticles, single-crowned, non-growing: absent (0); present (1). 
+> Klug *et al*. (2023), Character 21.
+> - Klug *et al*. (2023): "Scored absent in Maghriboselache and Ferromirum; if present, it appears likely that they would have been preserved."
+
+### 713. Anterior or mesial edge of nasal notched for anterior nostril: absent (0); present (1).
+> Klug *et al*. (2023), Character 27.
+
+### Ceratohyal with broad posteroventral flange or shelf, projecting laterally into recess in Meckel's cartilage: absent (0); present (1). 
+> Klug *et al*. (2023), Character 54.
+> - Klug *et al*. (2023): "Present in Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39), this flange is likely also present in Cladoselache, identified as a 'ventral process' ( Maisey 1989). In Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020), the flange fits snugly into a smooth recess within the posteroventral extremity of the medial surface of Meckel's cartilage. Such a flange is also present in Cobelodus aculeatus PF 7351 (listed in Zangerl & Case (Zangerl and Case 1976)), and is likely present in many symmoriids."
+
+### 714. Ceratohyal spatulate or bladed anteriorly: absent (0); present (1).
+> Klug *et al*. (2023), Character 55.
+
+### 715. Elongate posterior copula projects posteriorly, beyond rearmost branchial arch: absent (0); present (1). 
+> Klug *et al*. (2023), Character 64.
+> - Klug *et al*. (2023): "Present in many early chondrichthyans, including Maghriboselache (Supplementary Fig. 2), Ferromirum (Frey, Coates, et al. 2020), Gutturensis, Debeerius, and Gladbachus; possibly an autapomorphy at some level of the chondrichthyan clade."
+
+### 716. Teeth with three slim main cusps almost equal to each other, strongly recurved: absent (0); present (1). 
+> Klug *et al*. (2023), Character 73. (Ginter et al. 2010).
+
+### 717. Toothplates absent (0); present (1). 
+> Klug *et al*. (2023), Character 74. (Patterson 1965; Stahl 1999)
+
+### 718. Mandibular teeth fused to dermal plates on biting surfaces of jaw cartilages: absent (0); present (1). 
+> Klug *et al*. (2023), Character 77. (Brazeau 2009; S. P. Davis et al. 2012; Hanke and Wilson 2004; Zhu et al. 2013)
+
+**Arguablly useful characters**
 P1 (711). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
 > - The coding of *Eosteus* is 1. *Ligulalepis*, *Guiyu* and *Sparalepis* are also coded as 1. The coding of *Megamastax* is 0.
 > - The coding of *Yipetalichthys* is ?. 
@@ -5595,31 +5633,6 @@ P4. Boundary between the parietals and postparietals: (0) roughly straight acros
 P5. Para-articular process extension angle: (0) nearly parallel to the midline of the head shield ; (1) anterolaterally extending.
 > - A synapomorphy defining Quasipetalichthyidae.
 >
-> -  The matrix in Klug *et al*. (2023) is based on Frey *et al*. (2020), which is based on Coates *et  al*., (2017, 2018), Dearden *et  al*. (2019). Klug et al. (2023) additionally coded *Dracopristis hoffmanorum* Hodnett *et al*., 2021. Further, we added eigh tcharacters describing body proportions etc. For details see the character list, characters 231 to 238. Klug et al. (2023) further added characters 239 to 261 from Hodnett *et al*. (30), which are predominantly dental characters. The latter caused a bias towards dental characters.
-> -  Hodnett, J.-P. M., Grogan, E., Lund, R., Lucas, S. G., Suazo, T., Elliott, D. K., & Pruitt, J. (2021). Ctenacanthiform sharks from the Late Pennsylvanian (Missourian) Tinajas member of the Atrasado Formation, Central New Mexico. In Kinney Brick Quarry Lagerstätte (pp. 391–424). New Mexico Museum of Natural History and Science.
-
-### Tubular dentine: absent (0); present (1).
-> Klug *et al*. (2023), Character 5.
-> - Klug *et al*. (2023): "Stahl (1999), see also Patterson (1965): present in chimaeroids, edestids, Helodus, and petalodonts, but absent in symmoriids and iniopterygians (Zangerl and Case 1976)." 
-
-### Cranial cap denticles, single-crowned, non-growing: absent (0); present (1). 
-> Klug *et al*. (2023), Character 21.
-> - Klug *et al*. (2023): "Scored absent in Maghriboselache and Ferromirum; if present, it appears likely that they would have been preserved."
-
-### Anterior or mesial edge of nasal notched for anterior nostril: absent (0); present (1).
-> Klug *et al*. (2023), Character 27.
-
-### Ceratohyal with broad posteroventral flange or shelf, projecting laterally into recess in Meckel's cartilage: absent (0); present (1). 
-> Klug *et al*. (2023), Character 54.
-> - Klug *et al*. (2023): "Present in Ferromirum (Frey, Coates, et al. 2020) and Maghriboselache (Supplementary Fig. 39), this flange is likely also present in Cladoselache, identified as a 'ventral process' ( Maisey 1989). In Maghriboselache (Supplementary Fig. 39) and Ferromirum (Frey, Coates, et al. 2020), the flange fits snugly into a smooth recess within the posteroventral extremity of the medial surface of Meckel's cartilage. Such a flange is also present in Cobelodus aculeatus PF 7351 (listed in Zangerl & Case (Zangerl and Case 1976)), and is likely present in many symmoriids."
-
-### Ceratohyal spatulate or bladed anteriorly: absent (0); present (1).
-> Klug *et al*. (2023), Character 55.
-
-### Elongate posterior copula projects posteriorly, beyond rearmost branchial arch: absent (0); present (1). 
-> Klug *et al*. (2023), Character 64.
-> - Klug *et al*. (2023): "Present in many early chondrichthyans, including Maghriboselache (Supplementary Fig. 2), Ferromirum (Frey, Coates, et al. 2020), Gutturensis, Debeerius, and Gladbachus; possibly an autapomorphy at some level of the chondrichthyan clade."
-
 
 **Deleted characters**
 
