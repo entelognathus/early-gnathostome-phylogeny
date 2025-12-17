@@ -3190,6 +3190,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 380. Precerebral fontanelle: (0) absent; (1) present.
 > Schaeffer (1981); Coates & Sequeira (1998, 2001a, b); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 54; Choo *et al*. (2017), Character 53. King *et al*. (2017), Character 19; Castiello (2018), Character 19; Zhu Y. *et al*. (2022), Character 384; Andreev *et al*. (2022), Character 108; Brazeau *et al*. (2023), Character 22. Cui *et al*. (2023), Character 384; Lu *et al*. (2026), Character 380; Zhu Y. *et al*. (2026), Character 380.
+> Klug *et al*. (2023), Character 101. (Lund & Grogan 1997; Michael I. Coates & Sequeira 2001; Pradel et al. 2011; Brazeau & Friedman 2014; Zhu et al. 2013)
+> Klug *et al*. (2023): the character states are **(0) absent or minimal; (1) present and large.**
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
@@ -3237,6 +3239,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 386. Internasal vacuities or pits: (0) absent; (1) present.
 > Lu *et al*. (2016), Character 49; Coates *et al*. (2018), Character 116; Zhu Y. *et al*. (2022), Character 390; Andreev *et al*. (2022), Character 119. Cui *et al*. (2023), Character 390; Lu *et al*. (2026), Character 386; Zhu Y. *et al*. (2026), Character 386.
+> Klug *et al*. (2023), Character 100.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 1.
@@ -3272,6 +3275,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 391. Space for forebrain and (at least) proximal portion of olfactory tracts narrow and elongate, extending between orbits: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 118. Zhu Y. *et al*. (2021), Character 347; Zhu Y. *et al*. (2022), Character 395. Cui *et al*. (2023), Character 395; Lu *et al*. (2026), Character 391; Zhu Y. *et al*. (2026), Character 391.
+> Klug *et al*. (2023), Character 102.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -3279,6 +3283,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 392. Rostral bar: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 120; Zhu Y. *et al*. (2022), Character 396. Cui *et al*. (2023), Character 396; Lu *et al*. (2026), Character 392; Zhu Y. *et al*. (2026), Character 392.
+> Klug *et al*. (2023), Character 103.
+> Klug *et al*. (2023): Scored absent in _Maghriboselache_.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is 0.
@@ -5643,6 +5649,12 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 723. Dental trough divided, scalloped tooth-bearing margin on Meckel’s cartilage and palatoquadrate: absent (0); present (1).
 > Klug *et al*. (2023), Character 98.
+
+### 724. Internasal groove: (0) absent; (1) present.
+> Klug *et al*. (2023), Character 104.
+
+### 725. Orbitonasal lamina expanded: (0) absent; (1) present.
+> Klug *et al*. (2023), Character 105. (Patterson 1965) fig.39<img width="138.3" height="108.5" alt="Klug, 2023 fig 39" src="https://github.com/user-attachments/assets/f4d30741-508e-4490-af13-37bf20a1f15a" />
 
 
 239. [50] Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
