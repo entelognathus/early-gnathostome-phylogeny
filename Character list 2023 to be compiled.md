@@ -2752,6 +2752,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 324. Articulation surface of the palatoquadrate with the postorbital (suprapteryoid) process: (0) directed anteriorly; (1) laterally; (2) dorsally.
 > Coates *et al*. (2018), Character 107; Zhu Y. *et al*. (2022), Character 328. Cui *et al*. (2023), Character 328; Lu *et al*. (2026), Character 324; Zhu Y. *et al*. (2026), Character 324.
+> Klug *et al*. (2023), Character 91.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 2.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2759,6 +2760,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 325. Large otic process of the palatoquadrate: (0) absent; (1) present.
 > Coates & Sequeira (2001a, b); Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 46; Choo *et al*. (2017), Character 45; King *et al*. (2017), Character 334; Castiello (2018), Character 326; Zhu Y. *et al*. (2022), Character 329; Andreev *et al*. (2022), Character 98; Brazeau *et al*. (2023), Character 339. Cui *et al*. (2023), Character 329; Lu *et al*. (2026), Character 325; Zhu Y. *et al*. (2026), Character 325.
+> Klug *et al*. (2023), Character 87. Zhu et al. 2009, 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2780,12 +2782,15 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 328. Oblique ridge or groove along medial face of palatoquadrate: (0) absent; (1) present.
 > Brazeau (2009); Davis *et al*. (2012), Character 48; Choo *et al*. (2017), Character 47; King *et al*. (2017), Character 336; Castiello (2018), Character 328; Zhu Y. *et al*. (2022), Character 332; Andreev *et al*. (2022), Character 101; Brazeau *et al*. (2023), Character 341. Cui *et al*. (2023), Character 332; Lu *et al*. (2026), Character 328; Zhu Y. *et al*. (2026), Character 328.
+> Klug *et al*. (2023), Character 88. Lu et al. 2016; Zhu et al. 2013
+> - Klug *et al*. (2023): "Likely more widespread than previously thought: in Maghriboselache and Ferromirum the ridge matches the position of that in Acanthodes, although the cross-sectional profile is more rounded."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 1.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 329. Fenestration of palatoquadrate at basipterygoid articulation: (0) absent; (1) present.
 > Brazeau (2009); Davis *et al*. (2012), Character 49; Choo *et al*. (2017), Character 48; King *et al*. (2017), Character 337; Castiello (2018), Character 329; Zhu Y. *et al*. (2022), Character 333; Andreev *et al*. (2022), Character 102; Brazeau *et al*. (2023), Character 342. Cui *et al*. (2023), Character 333; Lu *et al*. (2026), Character 329; Zhu Y. *et al*. (2026), Character 329.
+> Klug *et al*. (2023), Character 89. Lu et al. 2016; Zhu et al. 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2793,6 +2798,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 330. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: (0) absent; (1) present.
 > Davis (2002); Brazeau (2009); Davis *et al*. (2012), Character 50; Choo *et al*. (2017), Character 49; King *et al*. (2017), Character 338; Castiello (2018), Character 330; Zhu Y. *et al*. (2022), Character 334; Andreev *et al*. (2022), Character 103; Brazeau *et al*. (2023), Character 343. Cui *et al*. (2023), Character 334; Lu *et al*. (2026), Character 330; Zhu Y. *et al*. (2026), Character 330.
+> Klug *et al*. (2023), Character 90. Davis et al. 2012; Zhu et al. 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2814,6 +2820,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 333. Palatoquadrate fused with neurocranium: (0) absent; (1) present.
 > Giles *et al*. (2015), Character 101; Choo *et al*. (2017), Character 291; King *et al*. (2017), Character 371; Castiello (2018), Character 360; Zhu Y. *et al*. (2022), Character 337; Andreev *et al*. (2022), Character 100; Brazeau *et al*. (2023), Character 376. Cui *et al*. (2023), Character 337; Lu *et al*. (2026), Character 333; Zhu Y. *et al*. (2026), Character 333.
+> Klug *et al*. (2023), Character 92.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2843,6 +2850,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 337. Mandibular symphysis fused: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 114; Zhu Y. *et al*. (2022), Character 341. Cui *et al*. (2023), Character 341; Lu *et al*. (2026), Character 337; Zhu Y. *et al*. (2026), Character 337.
+> Klug *et al*. (2023), Character 99.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2850,6 +2858,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 338. Pronounced dorsal process on Meckelian bone or cartilage: (0) absent; (1) present.
 > Davis (2002); Hanke & Wilson (2004); Brazeau (2009); Davis *et al*. (2012), Character 51; Choo *et al*. (2017), Character 50; King *et al*. (2017), Character 339; Castiello (2018), Character 331; Zhu Y. *et al*. (2022), Character 342; Andreev *et al*. (2022), Character 104; Brazeau *et al*. (2023), Character 344. Cui *et al*. (2023), Character 342; Lu *et al*. (2026), Character 338; Zhu Y. *et al*. (2026), Character 338.
+> Klug *et al*. (2023), Character 93. Burrow et al. 2016; Zhu et al. 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2878,6 +2887,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 342. Jaw articulation located on rearmost extremity of mandible: (0) absent; (1) present.
 > Davis *et al*. (2012), Character 53; Choo *et al*. (2017), Character 52; King *et al*. (2017), Character 341; Castiello (2018), Character 333; Zhu Y. *et al*. (2022), Character 346; Andreev *et al*. (2022), Character 107; Brazeau *et al*. (2023), Character 346. Cui *et al*. (2023), Character 346; Lu *et al*. (2026), Character 342; Zhu Y. *et al*. (2026), Character 342.
+> Klug *et al*. (2023), Character 95. Zhu et al. 2013
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -4439,7 +4449,6 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > - The coding of *Yipetalichthys* is ?. The coding of *Pauropetalichthys magnoculus* should be revised from ? to 1.
 
 ## Axial and appendicular skeleton
-
 ### 553. Macromeric dermal shoulder girdle: (0) present; (1) absent.
 > Brazeau (2009); Davis *et al*. (2012), Character 104; Choo *et al*. (2017), Character 100; King *et al*. (2017), Character 421; Castiello (2018), Character 410; Zhu Y. *et al*. (2022), Character 559; Andreev *et al*. (2022), Character 179; Brazeau *et al*. (2023), Character 426. Cui *et al*. (2023), Character 558; Lu *et al*. (2026), Character 553; Zhu Y. *et al*. (2026), Character 553.
 > - The coding of *Eosteus* is 0. The coding of *Megamastax* is 0.
@@ -5622,6 +5631,18 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 719. Mandibular teeth fused to dermal plates on biting surfaces of jaw cartilages: absent (0); present (1). 
 > Klug *et al*. (2023), Character 77. (Brazeau 2009; S. P. Davis et al. 2012; Hanke and Wilson 2004; Zhu et al. 2013)
 
+### 720. Mandibular knob or mesial process: absent (0); present (1). 
+> Klug *et al*. (2023), Character 94. (Brazeau 2009; C. Burrow et al. 2016; S. P. Davis et al. 2012; Zhu et al. 2013)
+
+### 721. Meckel's cartilage with flange or shelf projecting posteriorly from the lateral cotylus (glenoid): absent (0); present (1). 
+> Klug *et al*. (2023), Character 96.
+> - Klug *et al*. (2023): "Tristychius ( Coates et al. 2019)) and Gogoselachus (Long et al. 2015), figs 1C and 2A, G) exhibit the same derived condition in which this retroarticular flange is an uninterrupted, smooth extension of the lateral wall of the mandible. Also present in Maghriboselache, but shorter (Supplementary Fig. 39)."
+
+### 722. Dental trough adjacent to oral rim on Meckel’s cartilage and palatoquadrate: absent (0); present (1). 
+> Klug *et al*. (2023), Character 97.
+
+### 723. Dental trough divided, scalloped tooth-bearing margin on Meckel’s cartilage and palatoquadrate: absent (0); present (1).
+> Klug *et al*. (2023), Character 98.
 
 
 
