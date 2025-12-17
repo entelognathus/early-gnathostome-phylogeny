@@ -5645,6 +5645,91 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > Klug *et al*. (2023), Character 98.
 
 
+239. [50] Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
+> Hodnett *et al*. (2021), character 50.
+> Klug *et al*. (2023), Character 239.
+
+240. [51] Tooth/ jaw association, (0) absent, (1) individual tooth wells per family, both jaws, (2) all tooth families in single sulcus along jaws, (3) individual tooth wells per family, upper jaw only, (4) teeth follow jaw margin. 
+> Hodnett *et al*. (2021), character 51.
+> Klug *et al*. (2023), Character 240.
+
+241. [52] In line cusp relationship, (0) absent, (1) unicuspid, (2) parallel, (3) highly divergent from base, (4) divergent twisted. 
+> Hodnett *et al*. (2021), character 52.
+> Klug *et al*. (2023), Character 241.
+
+242. [53] Relative cusp sizes, (0) absent, (1) unicuspid, (2) all cusps equal, (3) laterals largest/central small or absent, (4) central largest/others lower. 
+> Hodnett *et al*. (2021), character 53.
+> Klug *et al*. (2023), Character 242.
+
+243. [54] Cusp alignment relative to jaw axis, (0) absent, (1) parallel, (2) lingual concave, (3) twisted contorted alignment, (4) other. 
+> Hodnett *et al*. (2021), character 54.
+> Klug *et al*. (2023), Character 243.
+
+244.  [55] Cusp condition, (0) absent, (1) unicuspid, (2) multiple in-line, (3) descending from central, (4) cusps reduced/suppressed, (5) ridge descending from central. 
+> Hodnett *et al*. (2021), character 55.
+> Klug *et al*. (2023), Character 244.
+
+245.  [56] Cusp cross section, (0) absent, (1) rounded, (2) reduced/ suppressed, (3) compressed blade-like. 
+> Hodnett *et al*. (2021), character 56.
+> Klug *et al*. (2023), Character 245.
+
+246.  [57] Cusp numbers, (0) absent, (1) unicuspid, (2) bicuspid, (3) tricuspid, (4) >3, (5) variable. 
+> Hodnett *et al*. (2021), character 57.
+> Klug *et al*. (2023), Character 246.
+
+247.  [58] Crown/root height, (0) absent, (1) equal/subequal, (2) very high crowned, (3) brachydont, (4) variable.  
+> Hodnett *et al*. (2021), character 58.
+> Klug *et al*. (2023), Character 247.
+
+248.  [59] Enamel cusp separation, (0) absent, (1) distinctly separate on base, (2) cusps confluent, (3) cusps reduced/suppressed. 
+> Hodnett *et al*. (2021), character 59.
+> Klug *et al*. (2023), Character 248.
+
+249  [60] Functional jaw tooth families, (0) absent, (1) 1-2 per family, (2) pavement occlusion, (3) teeth & tooth plates, (4) tooth plates only. 
+> Hodnett *et al*. (2021), character 60.
+> Klug *et al*. (2023), Character 249.
+
+250.  [61] Tooth shapes on jaw, (0) absent, (1) homodont, (2) monognathic heterodonty, (3) dignathic heterodonty, (4) teeth and tooth plates, (5) plates alone. 
+> Hodnett *et al*. (2021), character 61.
+> Klug *et al*. (2023), Character 250.
+
+251.  [62] Lower symphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate, (5) paired whorl, (6) multiple families 
+> Hodnett *et al*. (2021), character 62.
+> Klug *et al*. (2023), Character 251.
+
+252.  [63] Upper parasymphysial family, (0) absent, (1) generalized, (2) prominent, (3) whorl, (4) fused plate. 102 
+> Hodnett *et al*. (2021), character 63.
+> Klug *et al*. (2023), Character 252.
+
+253.  [64] Crown base, (0) absent, (1) generalized, (2) lingual heel, (3) lingual, labial ridges, (4) basin and ridges. 
+> Hodnett *et al*. (2021), character 64.
+> Klug *et al*. (2023), Character 253.
+
+254. [65] Crown ling1ual/labial buttresses, (0) absent, (1) crenellated, (2) buttressed.
+> Hodnett *et al*. (2021), character 65.
+> Klug *et al*. (2023), Character 254.
+
+255. [66] Tooth root vascular pattern, (0) absent, (1) few nutrient foramina aborally and lingually, (2) multiple nutrient foramina labiolingually and aborally, (3) few nutriend foramina labiolingually, (4) apical 
+> Hodnett *et al*. (2021), character 66.
+> Klug *et al*. (2023), Character 255.
+
+256.  [67] Tooth root length, (0) absent, (1) short below crown, (2) long below crown, (3) extended lingual, (4) fused in family. 
+> Hodnett *et al*. (2021), character 67.
+> Klug *et al*. (2023), Character 256.
+
+257.  [68] Root direction, (0) absent, (1) straight below and wide as crown, (2) straight below and narrow than crown, (3) aboral/ lingual s-shape, (4) lingual shelf, (5) proximodistally arched, (6) separated by neck, contorted. 
+> Hodnett *et al*. (2021), character 68.
+> Klug *et al*. (2023), Character 257.
+
+258.  [69] Basolabial/orolingual root projection widths, (0) absent, (1) ridges narrower than primary cusp(s), (2) ridges wider than primary cusp(s). 
+> Hodnett *et al*. (2021), character 69.
+> Klug *et al*. (2023), Character 258.
+
+259.  [70] Basolabial root projection structure, (0) absent, (1) basolabial ridge/peg single, (2) basolabial ridge/peg divided. 
+> Hodnett *et al*. (2021), character 70.
+> Klug *et al*. (2023), Character 259.
+
+
 
 ## Arguablly useful characters
 P1 (711). Rhombic flank scales plank-like, with a height/width ratio over 4.0: (0) absent; (1) present.
@@ -5835,6 +5920,8 @@ A30 (741). Size of the postorbital plate relative to the paranuchal plate: (0) p
 
 A31 (742). Sensory lines of the nuchal plate: (0) extend to the posterior margin; (1) do not extend.
 > Trinajstic *et al*. (2019), character 32.
+
+
 
 
 ## References
