@@ -3167,7 +3167,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 > The codings of *Powichthys thorsteinssoni* and *Glyptolepis groenlandica* are 1, which means the size of profundus canal in postnasal wall is large.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is ?.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
-> - The coding of *Lingyu* is ?. WMJ: not sure the size, for further consideration.<img width="463" height="365" alt="屏幕截图 2025-12-09 172938" src="https://github.com/user-attachments/assets/f28e48b5-0757-46bb-95df-260c7a246949" />
+> - The coding of *Lingyu* is ?. WMJ: not sure the size, for further consideration.<img width="46.3" height="36.5" alt="Lingyu ethmoid region" src="https://github.com/user-attachments/assets/f28e48b5-0757-46bb-95df-260c7a246949" />
 > - The coding of *Yipetalichthys* is ?. 
 
 ### 377. Three large pores (in addition to nostrils) associated with each side of ethmoid: (0) absent; (1) present.
