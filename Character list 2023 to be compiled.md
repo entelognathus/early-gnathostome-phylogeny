@@ -5750,11 +5750,11 @@ Friedman and Brazeau 2010; Zhu et al. 2013).
 > Klug *et al*. (2023), Character 104.
 
 ### 725. Orbitonasal lamina expanded: (0) absent; (1) present.
-> Klug *et al*. (2023), Character 105. (Patterson 1965) fig.39<img width="138.3" height="108.5" alt="Klug, 2023 fig 39" src="https://github.com/user-attachments/assets/f4d30741-508e-4490-af13-37bf20a1f15a" />
+> Patterson (1965); Klug *et al*. (2023), Character 105.
 
 ### 726. Elongate, tooth-bearing, pre-nasal ethmo-rostral region: (0) absent; (1) present.
 > Klug *et al*. (2023), Character 106.
-> Klug *et al*. (2023): Scored absent in *Maghriboselache*.
+> - Klug *et al*. (2023):"Scored absent in *Maghriboselache*."
 
 ### 727. Interorbital space: (0) broad; (1) narrow.
 > Klug *et al*. (2023), Character 110. (Brazeau, 2009; Davis et al., 2012; Zhu et al., 2013; Coates et al., 2017)
