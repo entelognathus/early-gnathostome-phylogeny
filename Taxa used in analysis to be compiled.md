@@ -16,6 +16,13 @@
 
 Acanthodes: (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
 
+[*Acanthostega gunnari*](https://deepbone.org/public/#/explor?s_id=4526&functionId=Deepbone_header_searchResultOpen) Jarvik, 1952
+> upper Famennian, 363.3, 358.9
+
+> -  Aina Dal, Wimans Bjerg and Britta Dal Formations of Wimans Bjerg on Gauss Halvø (Gauss Peninsula) and Celsius Bjerg on Ymer Ø (Ymer Island), East Greenland.
+> -  the top of the Britta Dal Formation at Stensiö Bjerg (Gauss Halvø), Greenland.
+> -  Jarvik, 1952; [Esin *et al*., 2000](https://www.researchgate.net/publication/279546437_Vertebrate_correlation_of_the_Upper_Devonian_and_Lower_Carboniferous_on_the_East_European_Platform); [Bendix-Almgreen, Clack et Olsen, 1988](https://www.researchgate.net/publication/352042708_Upper_Devonian_and_Upper_Permian_vertebrates_collected_in_1987_around_Kejser_Franz_Joseph_Fjord_central_East_Greenland); [Clark, 1988](https://www.semanticscholar.org/paper/New-material-of-the-early-tetrapod-Acanthostega-the-Clack/0a45c90fd6076be6738297e3bd862cec1cda9ec4); Clack [1994a](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/devonian-tetrapod-acanthostega-gunnari-jarvik-postcranial-anatomy-basal-tetrapod-interrelationships-and-patterns-of-skeletal-evolution/B2CAA3144A5E5F60C398170B998112BA), [1994b](https://www.nature.com/articles/369392a0), [1998](https://academic.oup.com/zoolinnean/article/122/1-2/61/2684425?login=true), [2002](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/revised-reconstruction-of-the-dermal-skull-roof-of-acanthostega-gunnari-an-early-tetrapod-from-the-late-devonian/88C7646B28CD6EB0E6F7DF9DA1B3990E); [Clack *et al*., 2003](https://www.nature.com/articles/nature01904); [Robinson, 2006](https://discovery.ucl.ac.uk/id/eprint/1445909/); [Blom *et al*., 2005](https://tidsskrift.dk/meddrgroenland_geosci/article/view/140286); Ahlberg *et al*., 2025](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/new-light-on-the-braincases-of-ventastega-curonica-and-acanthostega-gunnari/27C8B253E94CAB466B109C0D737E1DE6)
+
 [*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
 > Gorstian, 427.4, 425.6
 
@@ -1885,5 +1892,6 @@ Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, 
 Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
 
 Zong, R.-W., Liu, Q., Wei, F. and Gong, Y.-M., 2017. Fentou Biota: a Llandovery (Silurian) shallow-water exceptionally preserved biota from Wuhan, Central China. *J. Geol.* **125**: 469–478.
+
 
 
