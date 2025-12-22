@@ -1,0 +1,207 @@
+# **Taxa used in Klug, 2023 and corresponding sources**
+
+### Most are chondrithyan taxa, some of them include many species. This list is recorded here for further searching of species-level information. After all the searching and coding works, this file will be combined into the "Taxa used in analysis to be compiled" file.
+
+## Taxa and sources
+
+***Acanthodes*** 
+> (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. 
+Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 
+1968; Watson 1937)
+
+***Acronemus*** 
+> (Maisey 2011; Rieppel 1982)
+
+***Akmonistion*** 
+> ( Coates 1998; Coates and Sequeira 1998, 2001; Coates et al. 2017)
+
+***Brachyacanthus*** 
+> (Denison 1979; Miles 1973a; Watson 1937)
+
+***Brochoadmones*** 
+> (Bernacsek and Dineley 1977; Gagnier and Wilson 1996a; Hanke and Wilson 2006)
+
+***Callorhinchus/Hydrolagus*** 
+> (Cole 1897; De Beer and Moy-Thomas 1935; DeBeer 1937; Didier 1995; Didier et al. 1994, 2012; Howard et al. 2013; Kesteven 1933; Patterson 1965; Pradel et al. 2013; Stahl 1999)
+
+***Cheiracanthus*** 
+> (Denison 1979; Miles 1973a; Watson 1937)
+
+***Cheirolepis*** 
+> (Arratia and Cloutier 1996; Giles, Friedman, et al. 2015; Pearson and Westoll 1979)
+
+***Chondrenchelys*** 
+> (Finarelli and Coates 2012, 2014; Lund 1982; Moy-Thomas 1935)
+
+***Cladodoides*** 
+> (Gross 1937, 1938; Maisey 2005)
+
+***Cladoselache*** 
+> (Bendix-Almgreen 1975; Harris 1938a, 1938b; Maisey 1989, 2007; Schaeffer 1975; Williams 2001; Woodward and White 1938)
+
+***Climatius*** 
+> (Miles 1973a, 1973b; Watson 1937)
+
+***Cobelodus*** 
+> (Zangerl and Case 1976; Zidek 1992)
+
+***Culmacanthus*** 
+> (Long 1983)
+
+***Damocles*** 
+> (Lund 1986)
+
+***Debeerius*** 
+> (Grogan and Lund 2000)
+
+***Diplacanthus*** 
+> (Gagnier 1996; Miles 1973a; Watson 1937)
+
+***Diplodoselache*** 
+> (Dick 1981)
+
+***Doliodus*** 
+> (Long et al. 2015; Maisey et al. 2009; Maisey et al. 2013, 2017; Miller et al. 2003)
+
+***Dracopristis*** 
+> (Hodnett et al. 2021)
+
+***Dwykaselachus*** 
+> (Coates et al. 2017; Oelofsen 1986)
+
+***Egertonodus*** 
+> (Lane 2010; Maisey 1982, 1983)
+
+***Entelognathus*** 
+> (Zhu et al. 2013)
+
+***Ferromirum*** 
+> (Frey, Coates, et al. 2020)
+
+***Gladbachus*** 
+> (Burrow and Turner 2013; Coates 2005; Coates and Tietjen 2018; Heidtke 2009; Heidtke and Krätschmer 2001)
+
+***Gogoselachus*** 
+> (Long et al. 2015)
+
+***Guiyu*** 
+> (Zhu et al. 2009)
+
+***Gutturensis*** 
+> (Sequeira and Coates 2000)
+
+***Gydoselache*** 
+> (Maisey et al. 2019)
+
+***Gyracanthides*** 
+> (Miles 1973b; Turner et al. 2005; Warren et al. 2000)
+
+***Halimacanthodes*** 
+> ( Burrow et al. 2012)
+
+***Hamiltonichthys*** 
+> (John G. Maisey 1989)
+
+***Helodus*** 
+> (Coates et al. 2021; Johanson et al. 2021; Patterson 1965; Stahl 1999)
+
+***Homalacanthus*** 
+> (Gagnier 1996; Watson 1937)
+
+***Homalodontus*** 
+> (Mutter et al. 2007, 2008)
+
+***Iniopera*** 
+> (Pradel et al. 2009, 2010, 2010; Zangerl and Case 1976)
+
+***Ischnacanthus*** 
+> (Miles 1973a, 1973b)
+
+***Kawichthys*** 
+> (Pradel et al. 2011)
+
+***Kathemacanthus*** 
+> (Gagnier and Wilson 1996b; Hanke and Wilson 2004)
+
+***Latviacanthus*** 
+> (Schultze and Zidek 1982) Schultze & Zidek 1982.
+
+***Lupopsyrus*** 
+> (Bernacsek and Dineley 1977; Hanke and Davis 2012)
+*Maghriboselache* this paper
+
+***Mesacanthus*** 
+> (Miles 1973a; Watson 1937)
+
+***Mimipiscis*** 
+> (Choo 2012; Gardiner 1984; Gardiner and Bartram 1977; Giles and Friedman 2014)
+
+***Moythomasia*** 
+> (Coates et al. 2017; Gardiner 1984; Gardiner and Bartram 1977) specimen MV P222915.
+
+***Obtusacanthus*** 
+> (Hanke and Wilson 2004) specimen UALVP 41488.
+
+***Onychoselache*** 
+> (Coates and Gess 2007; Dick and Maisey 1980)
+
+***Orthacanthus*** 
+> (Hampe 2002; Heidtke 1982, 1999; Hotton 1952; Lane and Maisey 2009; John Graham Maisey 1983; Schaeffer 1981)
+
+***Ozarcus*** and FMNH PF 13242 
+> ( Coates et al. 2017; John G. Maisey 2007; Pradel et al. 2014)
+
+***Parexus*** 
+> (Miles 1973a; Watson 1937)
+
+***Phoebodus*** 
+> (Frey et al. 2019)
+
+***Psarolepis*** 
+> (Qu et al. 2013; Yu 1998; Zhu et al. 1999; Zhu and Schultze 1997)
+
+***Ptomacanthus*** 
+> (Brazeau 2009, 2012; Dearden et al. 2019; Denison 1979; Miles 1973b)
+
+***Pucapampella*** 
+> (Janvier and Maisey 2010; Maisey 2001; Maisey et al. 2019; Maisey and Anderson 2001; Maisey and Lane 2010)
+
+***Raynerius*** 
+> (Giles, Friedman, et al. 2015)
+
+***Rhadinacanthus*** 
+> (C. Burrow et al. 2016)
+
+***Squalus*** 
+> (Gans and Parsons 1981; Marinelli and Strenger 1959; Schaeffer 1981)
+
+***Synechodus*** 
+> (Maisey 1985)
+
+***Tamiobatis*** 
+> (Schaeffer 1981)
+
+***Tetanopsyrus*** 
+> (Gagnier et al. 1999; Gagnier and Wilson 1995; Hanke et al. 2001)
+
+***Thrinacodus*** 
+> (Grogan and Lund 2008)
+
+***Tribodus*** 
+> (Lane 2010; Lane and Maisey 2009, 2012; Maisey and de Carvalho 1997)
+
+***Triodus*** 
+> (Hampe 2002; Heidtke et al. 2004; Soler-Gijón and Hampe 1998)
+
+***Tristychius*** 
+> (Coates et al. 2019; Coates and Gess 2007; Coates and Tietjen 2018; Dick 1978)
+
+***Uraniacanthus*** 
+> (Bernacsek and Dineley 1977; Burrow et al. 2016; Hanke and Davis 2008; Newman et al. 2012)
+
+***Youngolepis*** 
+> (Chang 1982, 1991, 2004; Chang and Yu 1981)
+
+
+## References
+1. Klug, C. et al. Broad snouted cladoselachian with sensory specialization at the base of modern chondrichthyans. Swiss J Palaeontol 142, 2 (2023).

@@ -2604,6 +2604,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 305. Lingual torus: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 81; Zhu Y. *et al*. (2022), Character 309. Cui *et al*. (2023), Character 309; Lu *et al*. (2026), Character 305; Zhu Y. *et al*. (2026), Character 305.
 > Klug *et al*. (2023), Character 71. Ginter et al. 2010
+> - Klug *et al*. (2023): "Present in *Maghriboselache* and *Cladoselache*."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2611,7 +2612,8 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 
 ### 306. Basolabial shelf: (0) absent; (1) present.
 > Coates *et al*. (2018), Character 82; Zhu Y. *et al*. (2022), Character 310. Cui *et al*. (2023), Character 310; Lu *et al*. (2026), Character 306; Zhu Y. *et al*. (2026), Character 306.
-> Klug *et al*. (2023), Character 72.
+> Klug *et al*. (2023), Character 72. (Ginter et al. 2010)
+> - Klug *et al*. (2023): "Present in *Maghriboselache* and *Cladoselache*."
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
@@ -2661,7 +2663,7 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 312. Number of tooth families/whorls per jaw ramus: (0) 15 or fewer; (1) 20 or more.
 > Coates *et al*. (2018), Character 84; Zhu Y. *et al*. (2022), Character 316. Cui *et al*. (2023), Character 316; Lu *et al*. (2026), Character 312; Zhu Y. *et al*. (2026), Character 312.
 > Klug *et al*. (2023), Character 69.
-> - Klug *et al*. (2023):"Number of generative tooth sets per jaw ramus."
+> - Klug *et al*. (2023):"Number of generative tooth sets per jaw ramus." About 11 in *Maghriboselache*.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
