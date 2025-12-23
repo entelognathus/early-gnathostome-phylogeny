@@ -4,6 +4,10 @@
 
 ## Taxa and sources
 
+***Taxa name from Klug 2023***
+> refs from Klug 2023
+> - *species names* and namer and time (from deepbone)
+
 ***Acanthodes*** 
 > (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. 
 Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
@@ -56,15 +60,21 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 
 ***Cobelodus*** 
 > (Zangerl and Case 1976; Zidek 1992)
+> - *Cobelodus knightiana*
+> - *Cobelodus aculeata/aculeatus*
 
 
 ***Culmacanthus*** 
 > (Long 1983)
+> - *Culmacanthus stewarti* Long, 1983
+> - *Culmacanthus antarctica* Young, 1989
+> - *Culmacanthus pambulensis* Young, 1989
 
 
 ***Damocles*** 
 > (Lund 1986)
-
+> - *Damocles serratus*
+> - *Damocles attenuatus*
 
 ***Debeerius*** 
 > (Grogan and Lund 2000)
@@ -76,44 +86,61 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 
 ***Diplodoselache*** 
 > (Dick 1981)
+> - *Diplodoselache woodi* Dick, 1981
+> - *Diplodoselache parvulus* Traquair, 1881
+> - *Diplodoselache antiqua* Lebedev, 1996
 
 ***Doliodus*** 
 > (Long et al. 2015; Maisey et al. 2009; Maisey et al. 2013, 2017; Miller et al. 2003)
-> - *Doliodus latispinosus*
+> - *Doliodus latispinosus* Whiteaves, 1881
 
 ***Dracopristis*** 
 > (Hodnett et al. 2021)
-> - *Dracopristis hoffmanorum*
+> - *Dracopristis hoffmanorum* Hodnett et al. 2021
 
 ***Dwykaselachus*** 
 > (Coates et al. 2017; Oelofsen 1986)
+> - *Dwykaselachus oosthuiseni* Oelofsen, 1986
 
 ***Egertonodus*** 
 > (Lane 2010; Maisey 1982, 1983)
+> - *Egertonodus basanus* Egerton, 1844
+> - *Egertonodus duffini* Rees, 2008
 
 ***Entelognathus*** 
 > (Zhu et al. 2013)
+> - *Entelognathus primordialis* Zhu et al., 2013
 
 ***Ferromirum*** 
 > (Frey, Coates, et al. 2020)
+> - *Ferromirum oukherbouchi* Frey et al., 2020
 
 ***Gladbachus*** 
 > (Burrow and Turner 2013; Coates 2005; Coates and Tietjen 2018; Heidtke 2009; Heidtke and Krätschmer 2001)
+> - *Gladbachus adentatus* Heidtke and Krätschmer, 2001
 
 ***Gogoselachus*** 
 > (Long et al. 2015)
+> - *Gogoselachus lynnbeazleyae* Long et al., 2015
 
 ***Guiyu*** 
 > (Zhu et al. 2009)
+> - *Guiyu oneiros* Zhu et al., 2009
 
 ***Gutturensis*** 
 > (Sequeira and Coates 2000)
+> - *Gutturensis neilsoni* Traquair, 1898
 
 ***Gydoselache*** 
 > (Maisey et al. 2019)
+> - *Gydoselache oosthuizeni* Maisey et al., 2019
 
 ***Gyracanthides*** 
 > (Miles 1973b; Turner et al. 2005; Warren et al. 2000)
+> - *Gyracanthides hawkinsi* Turner et al., 2005
+> - *Gyracanthides murrayi* Woodward, 1906
+> - *Gyracanthides riniensis* Gess and Burrow, 2023
+> - *Gyracanthides warreni* White, 1968
 
 ***Halimacanthodes*** 
 > ( Burrow et al. 2012)
