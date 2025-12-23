@@ -6,65 +6,84 @@
 
 ***Acanthodes*** 
 > (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. 
-Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 
-1968; Watson 1937)
+Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
+> - more than 20 species, for further check in each essay of exact species.
 
 ***Acronemus*** 
 > (Maisey 2011; Rieppel 1982)
+> - *Acronemus simplex*
+> - *Acronemus tuberculatus*
 
 ***Akmonistion*** 
 > ( Coates 1998; Coates and Sequeira 1998, 2001; Coates et al. 2017)
+> - *Akmonistion angerli*
 
 ***Brachyacanthus*** 
 > (Denison 1979; Miles 1973a; Watson 1937)
+> - *Brachyacanthus scutiger*
 
 ***Brochoadmones*** 
 > (Bernacsek and Dineley 1977; Gagnier and Wilson 1996a; Hanke and Wilson 2006)
+> - *Brochoadmones milesi*
 
 ***Callorhinchus/Hydrolagus*** 
 > (Cole 1897; De Beer and Moy-Thomas 1935; DeBeer 1937; Didier 1995; Didier et al. 1994, 2012; Howard et al. 2013; Kesteven 1933; Patterson 1965; Pradel et al. 2013; Stahl 1999)
+> - For further consideration.
 
 ***Cheiracanthus*** 
 > (Denison 1979; Miles 1973a; Watson 1937)
+> - more than 15 species, for further check.
 
 ***Cheirolepis*** 
 > (Arratia and Cloutier 1996; Giles, Friedman, et al. 2015; Pearson and Westoll 1979)
+> - for further check.
 
 ***Chondrenchelys*** 
 > (Finarelli and Coates 2012, 2014; Lund 1982; Moy-Thomas 1935)
+> - *Chondrenchelys problematica*
 
 ***Cladodoides*** 
 > (Gross 1937, 1938; Maisey 2005)
+> - *Cladodoides wildungensis*
 
 ***Cladoselache*** 
 > (Bendix-Almgreen 1975; Harris 1938a, 1938b; Maisey 1989, 2007; Schaeffer 1975; Williams 2001; Woodward and White 1938)
+> - about 9 species.
 
 ***Climatius*** 
 > (Miles 1973a, 1973b; Watson 1937)
+> - 4 species.
 
 ***Cobelodus*** 
 > (Zangerl and Case 1976; Zidek 1992)
 
+
 ***Culmacanthus*** 
 > (Long 1983)
+
 
 ***Damocles*** 
 > (Lund 1986)
 
+
 ***Debeerius*** 
 > (Grogan and Lund 2000)
+> - *Debeerius ellefseni*
 
 ***Diplacanthus*** 
 > (Gagnier 1996; Miles 1973a; Watson 1937)
+> - about 19 species.
 
 ***Diplodoselache*** 
 > (Dick 1981)
 
 ***Doliodus*** 
 > (Long et al. 2015; Maisey et al. 2009; Maisey et al. 2013, 2017; Miller et al. 2003)
+> - *Doliodus latispinosus*
 
 ***Dracopristis*** 
 > (Hodnett et al. 2021)
+> - *Dracopristis hoffmanorum*
 
 ***Dwykaselachus*** 
 > (Coates et al. 2017; Oelofsen 1986)
