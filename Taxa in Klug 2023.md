@@ -88,7 +88,7 @@
 > - *Diplodoselache antiqua* Lebedev, 1996
 
 ***Doliodus*** 
-> (Long et al. 2015; Maisey et al. 2009; Maisey et al. 2013, 2017; Miller et al. 2003)
+> (Miller et al. 2003; Maisey et al. 2009; Long et al. 2015; Maisey et al. 2013, 2017)
 > - *Doliodus latispinosus* Whiteaves, 1881
 
 ***Dracopristis*** 
@@ -96,11 +96,11 @@
 > - *Dracopristis hoffmanorum* Hodnett et al. 2021
 
 ***Dwykaselachus*** 
-> (Coates et al. 2017; Oelofsen 1986)
+> (Oelofsen 1986; Coates et al. 2017)
 > - *Dwykaselachus oosthuiseni* Oelofsen, 1986
 
 ***Egertonodus*** 
-> (Lane 2010; Maisey 1982, 1983)
+> (Maisey 1982, 1983; Lane 2010)
 > - *Egertonodus basanus* Egerton, 1844
 > - *Egertonodus duffini* Rees, 2008
 
@@ -113,7 +113,7 @@
 > - *Ferromirum oukherbouchi* Frey et al., 2020
 
 ***Gladbachus*** 
-> (Burrow and Turner 2013; Coates 2005; Coates and Tietjen 2018; Heidtke 2009; Heidtke and Krätschmer 2001)
+> (Heidtke and Krätschmer 2001; Coates 2005; Heidtke 2009; Burrow and Turner 2013; Coates and Tietjen 2018)
 > - *Gladbachus adentatus* Heidtke and Krätschmer, 2001
 
 ***Gogoselachus*** 
@@ -133,7 +133,7 @@
 > - *Gydoselache oosthuizeni* Maisey et al., 2019
 
 ***Gyracanthides*** 
-> (Miles 1973b; Turner et al. 2005; Warren et al. 2000)
+> (Miles 1973b; Warren et al. 2000; Turner et al. 2005)
 > - *Gyracanthides hawkinsi* Turner et al., 2005
 > - *Gyracanthides murrayi* Woodward, 1906
 > - *Gyracanthides riniensis* Gess and Burrow, 2023
@@ -148,13 +148,10 @@
 > - *Hamiltonichthys mapesi* Maisey, 1989
 
 ***Helodus*** 
-> (Coates et al. 2021; Johanson et al. 2021; Patterson 1965; Stahl 1999)
-> - a lot species.
+> (Patterson 1965; Stahl 1999; Coates et al. 2021; Johanson et al. 2021)
 
 ***Homalacanthus*** 
-> (Gagnier 1996; Watson 1937)
-> - *Homalacanthus concinnus* Whiteaves, 1887
-> - *Homalacanthus bergi* Obruchev, 1962
+> (Watson 1937; Gagnier 1996)
 
 ***Homalodontus*** 
 > (Mutter et al. 2007, 2008)
@@ -163,7 +160,6 @@
 
 ***Iniopera*** 
 > (Zangerl and Case 1976; Pradel et al. 2009, 2010, 2010)
-> - *Iniopera richardsoni* Zangerl and Case, 1976
 
 ***Ischnacanthus*** 
 > (Miles 1973a, 1973b)
