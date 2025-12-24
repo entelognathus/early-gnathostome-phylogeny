@@ -6,40 +6,39 @@
 
 ***Taxa name from Klug 2023***
 > refs from Klug 2023
-> - *species names* and namer and time (from deepbone)
+> - *species names* and corresponding namer(s) and time (from deepbone)
 
 ***Acanthodes*** 
-> (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. 
-Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
+> (Watson 1937; Nelson 1968; Miles 1971, 1973a, 1973b; Jarvik 1977, 1980; U. Heidtke 1993; Coates 1994; Beznosov 2009; Heidtke 2011a, 2011b; Davis et al. 2012; Brazeau and de Winter 2015)
 > - more than 20 species, for further check in each essay of exact species.
 
 ***Acronemus*** 
-> (Maisey 2011; Rieppel 1982)
-> - *Acronemus simplex*
-> - *Acronemus tuberculatus*
+> (Rieppel 1982; Maisey 2011)
+> - *Acronemus simplex* Meyer, 1851
+> - *Acronemus tuberculatus* Bassani, 1886
 
 ***Akmonistion*** 
 > ( Coates 1998; Coates and Sequeira 1998, 2001; Coates et al. 2017)
-> - *Akmonistion angerli*
+> - *Akmonistion zangerli* Coates and Sequeira, 2001
 
 ***Brachyacanthus*** 
-> (Denison 1979; Miles 1973a; Watson 1937)
-> - *Brachyacanthus scutiger*
+> (Watson 1937; Miles 1973a; Denison 1979)
+> - *Brachyacanthus scutiger* Egerton, 1860
 
 ***Brochoadmones*** 
 > (Bernacsek and Dineley 1977; Gagnier and Wilson 1996a; Hanke and Wilson 2006)
-> - *Brochoadmones milesi*
+> - *Brochoadmones milesi* Bernacsek and Dineley, 1977
 
 ***Callorhinchus/Hydrolagus*** 
-> (Cole 1897; De Beer and Moy-Thomas 1935; DeBeer 1937; Didier 1995; Didier et al. 1994, 2012; Howard et al. 2013; Kesteven 1933; Patterson 1965; Pradel et al. 2013; Stahl 1999)
+> (Cole 1897; Kesteven 1933; De Beer and Moy-Thomas 1935; DeBeer 1937; Patterson 1965; Didier 1995; Stahl 1999; Didier et al. 1994, 2012; Howard et al. 2013; Pradel et al. 2013)
 > - For further consideration.
 
 ***Cheiracanthus*** 
-> (Denison 1979; Miles 1973a; Watson 1937)
+> (Watson 1937; Miles 1973a; Denison 1979)
 > - more than 15 species, for further check.
 
 ***Cheirolepis*** 
-> (Arratia and Cloutier 1996; Giles, Friedman, et al. 2015; Pearson and Westoll 1979)
+> (Pearson and Westoll 1979; Arratia and Cloutier 1996; Giles, Friedman, et al. 2015)
 > - for further check.
 
 ***Chondrenchelys*** 
@@ -48,21 +47,20 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 
 ***Cladodoides*** 
 > (Gross 1937, 1938; Maisey 2005)
-> - *Cladodoides wildungensis*
+> - *Cladodoides wildungensis* Traquair, 1888
 
 ***Cladoselache*** 
-> (Bendix-Almgreen 1975; Harris 1938a, 1938b; Maisey 1989, 2007; Schaeffer 1975; Williams 2001; Woodward and White 1938)
+> (Harris 1938a, 1938b; Woodward and White 1938; Bendix-Almgreen 1975; Schaeffer 1975; Williams 2001; Maisey 1989, 2007)
 > - about 9 species.
 
 ***Climatius*** 
-> (Miles 1973a, 1973b; Watson 1937)
+> (Watson 1937; Miles 1973a, 1973b)
 > - 4 species.
 
 ***Cobelodus*** 
 > (Zangerl and Case 1976; Zidek 1992)
-> - *Cobelodus knightiana*
-> - *Cobelodus aculeata/aculeatus*
-
+> - *Cobelodus knightiana* Cope, 1891
+> - *Cobelodus aculeata/aculeatus* Cope, 1894
 
 ***Culmacanthus*** 
 > (Long 1983)
@@ -70,18 +68,17 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > - *Culmacanthus antarctica* Young, 1989
 > - *Culmacanthus pambulensis* Young, 1989
 
-
 ***Damocles*** 
 > (Lund 1986)
-> - *Damocles serratus*
-> - *Damocles attenuatus*
+> - *Damocles serratus* Lund, 1986
+> - *Damocles attenuatus* Davis, 1883
 
 ***Debeerius*** 
 > (Grogan and Lund 2000)
-> - *Debeerius ellefseni*
+> - *Debeerius ellefseni* Grogan and Lund, 2000
 
 ***Diplacanthus*** 
-> (Gagnier 1996; Miles 1973a; Watson 1937)
+> (Watson 1937; Miles 1973a; Gagnier 1996)
 > - about 19 species.
 
 ***Diplodoselache*** 
@@ -144,109 +141,180 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 
 ***Halimacanthodes*** 
 > ( Burrow et al. 2012)
+> - *Halimacanthodes ahlbergi* Burrow et al., 2012
 
 ***Hamiltonichthys*** 
 > (John G. Maisey 1989)
+> - *Hamiltonichthys mapesi* Maisey, 1989
 
 ***Helodus*** 
 > (Coates et al. 2021; Johanson et al. 2021; Patterson 1965; Stahl 1999)
+> - a lot species.
 
 ***Homalacanthus*** 
 > (Gagnier 1996; Watson 1937)
+> - *Homalacanthus concinnus* Whiteaves, 1887
+> - *Homalacanthus bergi* Obruchev, 1962
 
 ***Homalodontus*** 
 > (Mutter et al. 2007, 2008)
+> - *Homalodontus homalorhizo* Mutter et al., 2007
+> - *Homalodontus aplopagus* Mutter et al., 2007
 
 ***Iniopera*** 
-> (Pradel et al. 2009, 2010, 2010; Zangerl and Case 1976)
+> (Zangerl and Case 1976; Pradel et al. 2009, 2010, 2010)
+> - *Iniopera richardsoni* Zangerl and Case, 1976
 
 ***Ischnacanthus*** 
 > (Miles 1973a, 1973b)
+> - *Ischnacanthus wickhami* White, 1961
+> - *Ischnacanthus kingi* White, 1961
+> - *Ischnacanthus gracilis* Egerton, 1861
+> - *Ischnacanthus anglicus* White, 1961
 
 ***Kawichthys*** 
 > (Pradel et al. 2011)
+> - *Kawichthys moodiei* Pradel et al., 2011
 
 ***Kathemacanthus*** 
 > (Gagnier and Wilson 1996b; Hanke and Wilson 2004)
+> - *Kathemacanthus rosulentus* Gagnier and Wilson, 1996
 
 ***Latviacanthus*** 
-> (Schultze and Zidek 1982) Schultze & Zidek 1982.
+> (Schultze and Zidek 1982)
+> - *Latviacanthus ventspilsensis* Schultze & Zidek, 1982
 
 ***Lupopsyrus*** 
 > (Bernacsek and Dineley 1977; Hanke and Davis 2012)
 *Maghriboselache* this paper
+> - *Lupopsyrus pygmaeus* Bernacsek and Dineley, 1977
 
 ***Mesacanthus*** 
 > (Miles 1973a; Watson 1937)
+> - *Mesacanthus semistriatus* Woodward, 1892
+> - *Mesacanthus pusillus* Agassiz, 1844
+> - *Mesacanthus mitchelli* Eastman, 1861
+> - *Mesacanthus grandis* Gagnier and Goujet, 1997
 
 ***Mimipiscis*** 
-> (Choo 2012; Gardiner 1984; Gardiner and Bartram 1977; Giles and Friedman 2014)
+> (Gardiner and Bartram 1977; Gardiner 1984; Choo 2012; Giles and Friedman 2014)
+> - *Mimipiscis toombsi* Gardiner and Bartram, 1977
+> - *Mimipiscis bartrami* Choo, 2012
 
 ***Moythomasia*** 
-> (Coates et al. 2017; Gardiner 1984; Gardiner and Bartram 1977) specimen MV P222915.
+> (Gardiner and Bartram 1977; Gardiner 1984; Coates et al. 2017) specimen MV P222915.
+> - *Moythomasia striatus / striata* Gross, 1953
+> - *Moythomasia perforata* Gross, 1942
+> - *Moythomasia nitida* Gross, 1953
+> - *Moythomasia lineata* Choo, 2015
+> - *Moythomasia laevigata* Gross, 1953
+> - *Moythomasia durgaringa* Gardiner and Bartram, 1977
+> - *Moythomasia devonica* Clarke, 1885
+> - *Moythomasia antiqua* Williams, 1886
 
 ***Obtusacanthus*** 
 > (Hanke and Wilson 2004) specimen UALVP 41488.
+> - *Obtusacanthus corroconis* Hanke and Wilson， 2004
 
 ***Onychoselache*** 
-> (Coates and Gess 2007; Dick and Maisey 1980)
+> (Dick and Maisey 1980; Coates and Gess 2007)
+>  - *Onychoselache traquairi* Dick, 1978
 
 ***Orthacanthus*** 
-> (Hampe 2002; Heidtke 1982, 1999; Hotton 1952; Lane and Maisey 2009; John Graham Maisey 1983; Schaeffer 1981)
+> (Hotton 1952; Schaeffer 1981; Heidtke 1982, 1999; John Graham Maisey 1983; Hampe 2002; Lane and Maisey 2009)
+> - a lot of species. for complementing afterwards.
 
 ***Ozarcus*** and FMNH PF 13242 
-> ( Coates et al. 2017; John G. Maisey 2007; Pradel et al. 2014)
+> (John G. Maisey 2007; Pradel et al. 2014; Coates et al. 2017)
+> - *Ozarcus mapesae* Pradel et al., 2014
 
 ***Parexus*** 
-> (Miles 1973a; Watson 1937)
+> (Watson 1937; Miles 1973a)
+> - *Parexus recurvus* Agassiz, 1844
+> - *Parexus incurvus* Powrie, 1870
+> - *Parexus falcatus* Powrie, 1870
 
 ***Phoebodus*** 
 > (Frey et al. 2019)
+> - a lot of species. for complementing afterwards.
 
 ***Psarolepis*** 
-> (Qu et al. 2013; Yu 1998; Zhu et al. 1999; Zhu and Schultze 1997)
+> (Zhu and Schultze 1997; Yu 1998; Zhu et al. 1999; Qu et al. 2013)
+> - *Psarolepis romeri* Yu, 1998
 
 ***Ptomacanthus*** 
-> (Brazeau 2009, 2012; Dearden et al. 2019; Denison 1979; Miles 1973b)
+> (Miles 1973b; Denison 1979; Brazeau 2009, 2012; Dearden et al. 2019)
+> - *Ptomacanthus anglicus* Miles, 1973
 
 ***Pucapampella*** 
-> (Janvier and Maisey 2010; Maisey 2001; Maisey et al. 2019; Maisey and Anderson 2001; Maisey and Lane 2010)
+> (Maisey and Anderson 2001; Maisey 2001; Maisey and Lane 2010; Janvier and Maisey 2010; Maisey et al. 2019)
+> - *Pucapampella rodrigae* Janvier and Suárez-Riglos, 1986
 
 ***Raynerius*** 
 > (Giles, Friedman, et al. 2015)
+> - *Raynerius splendens* Giles et al., 2015
 
 ***Rhadinacanthus*** 
 > (C. Burrow et al. 2016)
+> - It is a synoym of *Diplacanthus*.
 
 ***Squalus*** 
-> (Gans and Parsons 1981; Marinelli and Strenger 1959; Schaeffer 1981)
+> (Marinelli and Strenger 1959; Schaeffer 1981; Gans and Parsons 1981)
+> - a lot of species. for complementing afterwards.
 
 ***Synechodus*** 
 > (Maisey 1985)
+> - a lot of species. for complementing afterwards.
 
 ***Tamiobatis*** 
 > (Schaeffer 1981)
+> - *Tamiobatis wachsmuthi* St. John and Worthen, 1875
+> - *Tamiobatis vetustus* Eastman, 1897
+> - *Tamiobatis succinctus* St. John and Worthen, 1875
+> - *Tamiobatis springeri* St. John and Worthen, 1875
+> - *Tamiobatis elgae* Ivanov and Plax, 2018
 
 ***Tetanopsyrus*** 
-> (Gagnier et al. 1999; Gagnier and Wilson 1995; Hanke et al. 2001)
+> (Gagnier and Wilson 1995; Gagnier et al. 1999; Hanke et al. 2001)
+> - *Tetanopsyrus lindoei* Gagnier et al.1999
+> - *Tetanopsyrus breviacanthias* Hanke et al., 2001
 
 ***Thrinacodus*** 
 > (Grogan and Lund 2008)
+> - *Thrinacodus tranquillus* Ginter, 2000
+> - *Thrinacodus nanus* St. John and Worthen, 1875
+> - *Thrinacodus incurvus* Newberry and Worthen, 1866
+> - *Thrinacodus ferox* Turner, 1982
+> - *Thrinacodus dziki* Ginter et al., 2015
+> - *Thrinacodus duplicatus* Newberry and Worthen, 1866
+> - *Thrinacodus bicuspidatus* Ginter and Sun, 2007
+> - *Thrinacodus bicornis* Newberry, 1879
 
 ***Tribodus*** 
-> (Lane 2010; Lane and Maisey 2009, 2012; Maisey and de Carvalho 1997)
+> (Maisey and de Carvalho 1997; Lane and Maisey 2009, 2012; Lane 2010)
+> - *Tribodus tunisiensis* Cuny et al., 2004
+> - *Tribodus morlati* Landemaine, 1991
+> - *Tribodus limae* Brito and Ferreira, 1989
 
 ***Triodus*** 
-> (Hampe 2002; Heidtke et al. 2004; Soler-Gijón and Hampe 1998)
+> (Soler-Gijón and Hampe 1998; Hampe 2002; Heidtke et al. 2004)
+> - 15 species.
 
 ***Tristychius*** 
-> (Coates et al. 2019; Coates and Gess 2007; Coates and Tietjen 2018; Dick 1978)
+> (Dick 1978; Coates and Gess 2007; Coates and Tietjen 2018; Coates et al. 2019)
+> - *Tristychius semistriatus* Traquair, 1894
+> - *Tristychius minor* Portlock, 1843
+> - *Tristychius arcuatus* Agassiz, 1837
 
 ***Uraniacanthus*** 
 > (Bernacsek and Dineley 1977; Burrow et al. 2016; Hanke and Davis 2008; Newman et al. 2012)
+> - *Uraniacanthus spinosus* Miles, 1973
+> - *Uraniacanthus probaton* Bernacsek and Dineley, 1977
+> - *Uraniacanthus curtus* Powrie, 1870
 
 ***Youngolepis*** 
 > (Chang 1982, 1991, 2004; Chang and Yu 1981)
+> - *Youngolepis praecursor* Chang and Yu, 1981
 
 
 ## References
