@@ -1,4 +1,4 @@
-<img width="407" height="1070" alt="image" src="https://github.com/user-attachments/assets/c67addb0-11da-4c6a-a6ec-f37b81b011f3" /># Character List of Early Gnathostomes
+# Character List of Early Gnathostomes
 ## Characters 1-685 from Zhu Y. *et al*. (2022), 686-689 from Cui *et al*. (2023); 690-696, 710 from Lu *et al*. (2026) and Zhu Y. *et al*. (2026); 697-709 from Brazeau *et al*. (2023).
 > - Character 34 of Zhu Y. *et al*. (2022), i.e. "macromeric vs. micromeric scales", also Character 496 of King *et al*. (2017), Character 485 of Castiello (2018), and Character 501 of Brazeau *et al*. (2023), is deleted because of vague definition of the character. Character 54, Character 145, Character 160, Character 406 and Character 450 of Zhu Y. *et al*. (2022) are deleted due to the overlooked repetition with their Characters 27, 100, 405 and 448. Character 263 of Zhu Y. *et al*. (2022) is separated into two characters, Character 259 and Character 690.
 > - 大家可以将图片直接拖到需要解释结构的位置。
@@ -5802,43 +5802,45 @@ Zhu et al. 2013).
 > Klug *et al*. (2023), Character 231.
 
 ### 743. Differentiation of pectoral fin scales: (0) Scale size reduced slightly towards distal tip; (1) Scale size reduced significantly towards distal tip.
-> New character: In Maghriboselache and Cladoselache, the fin scale diameter becomes larger by about 50% from the tip (0.05 mm) to the base of the pectoral fin (0.1 mm). In Phoebodus, the pectoral fin scales range from a width of 0.11 mm at the tip to about 0.45 at the proximal anterior edge of the fin (own, unpublished observation).
 > Klug *et al*. (2023), Character 232.
+> New character: In Maghriboselache and Cladoselache, the fin scale diameter becomes larger by about 50% from the tip (0.05 mm) to the base of the pectoral fin (0.1 mm). In Phoebodus, the pectoral fin scales range from a width of 0.11 mm at the tip to about 0.45 at the proximal anterior edge of the fin (own, unpublished observation).
+
 
 ### 744. Cartilaginous plate dorsal of the neural arches:  (0) absent; (1) present.
-> New character, see Supplementary Fig. 51. Also present in Cladoselache (B. Dean 1909), Akmonistion (Coates and Sequeira 2001).
 > Klug *et al*. (2023), Character 233.
+> New character, see Supplementary Fig. 51. Also present in Cladoselache (B. Dean 1909), Akmonistion (Coates and Sequeira 2001).
+
 
 ### 745. Body form: (2) short and stout , (1)intermediate  or (0) long and slender
->Based on the ratio height of the head to length of the body from snout to tip of caudal fin (Supplementary Fig. 51). Is the ratio below 0.1, it is coded as 0, equal to or above 1.5 as 2, and in between as 1.
 > Klug *et al*. (2023), Character 234.
-><img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/5bbcb7be-1561-494c-b2c6-f5cdc41db75a" />
-<img width="30" height="10" alt="image" src="https://github.com/user-attachments/assets/1d3e5cc1-314e-4afa-9518-92b2b8d3456a" />
+> Based on the ratio height of the head to length of the body from snout to tip of caudal fin (Supplementary Fig. 51). Is the ratio below 0.1, it is coded as 0, equal to or above 1.5 as 2, and in between as 1.
+> <img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/5bbcb7be-1561-494c-b2c6-f5cdc41db75a" />
+> <img width="30" height="10" alt="image" src="https://github.com/user-attachments/assets/1d3e5cc1-314e-4afa-9518-92b2b8d3456a" />
 
 
 
 ### 746. Relative dimensions of pectoral fins:(0) short or (1) long
->Based on the ratio length of the pectoral fins from their base at the scapulocoracoid to the distal tip to the length of the body from snout to tip of caudal fin (Supplementary Fig. 52). Is the ratio below 0.15, it is coded as 0, equal to or above 1.5 it is coded as 1.
 > Klug *et al*. (2023), Character 235.
-><img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/965876ed-0c38-470e-b874-6a23fc5fa9b5" />
+> Based on the ratio length of the pectoral fins from their base at the scapulocoracoid to the distal tip to the length of the body from snout to tip of caudal fin (Supplementary Fig. 52). Is the ratio below 0.15, it is coded as 0, equal to or above 1.5 it is coded as 1.
+> <img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/965876ed-0c38-470e-b874-6a23fc5fa9b5" />
 
 
 ### 747. Orbit length relative to neurocranium length: (0) small  or (1)large 
->Based on the ratio sagittal length of the orbit to the length of the neurocranium (Supplementary Fig. 53). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. As shown by Coates et al. (2017), holocephalans and many of their stem group representatives have comparatively large orbits.
 > Klug *et al*. (2023), Character 236.
-><img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/b8573ef0-5c14-41a5-8f0b-6f648ac69cd6" />
+> Based on the ratio sagittal length of the orbit to the length of the neurocranium (Supplementary Fig. 53). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. As shown by Coates et al. (2017), holocephalans and many of their stem group representatives have comparatively large orbits.
+> <img width="10" height="30" alt="image" src="https://github.com/user-attachments/assets/b8573ef0-5c14-41a5-8f0b-6f648ac69cd6" />
 
 
 ### 748. Width of olfactory capsule relative to neurocranium length: narrow (0) or wide (1)
->Based on the ratio between the width of the nasal capsules to the length of the neurocranium (Supplementary Fig. 54). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. Unfortunately, the frontal part including the olfactory capsules is often incompletely preserved and the character state remains uncertain in many taxa.
 > Klug *et al*. (2023), Character 237.
-><img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/74a5c556-b7cb-4556-9d14-c184ecb969f2" />
+> Based on the ratio between the width of the nasal capsules to the length of the neurocranium (Supplementary Fig. 54). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1. Unfortunately, the frontal part including the olfactory capsules is often incompletely preserved and the character state remains uncertain in many taxa.
+> <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/74a5c556-b7cb-4556-9d14-c184ecb969f2" />
 
 
 ### 749. Postorbital/ preorbital length or position of the orbit within the neurocranium: long ethmoid/ nasal with short otic/ occipital region (0) or short ethmoid/ nasal with long otic/ occipital region (1)
->Based on the ratio between the lengths of the preorbital part (front of orbit to front of neurocranium/ olfactory capsules) and the postorpbital part (back of orbit to posterior end of neurocranium; Supplementary Fig. 55). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1.
 > Klug *et al*. (2023), Character 238.
-><img width="10" height="20" alt="image" src="https://github.com/user-attachments/assets/caf238a1-4a11-4157-93ee-e8a6fa6a49d5" />
+> Based on the ratio between the lengths of the preorbital part (front of orbit to front of neurocranium/ olfactory capsules) and the postorpbital part (back of orbit to posterior end of neurocranium; Supplementary Fig. 55). Is the ratio below 0.3, it is coded as 0, equal to or above 0.3 it is coded as 1.
+> <img width="10" height="20" alt="image" src="https://github.com/user-attachments/assets/caf238a1-4a11-4157-93ee-e8a6fa6a49d5" />
 
 
 ### 750. Anterior extragnathic dentition, (0) absent, (1) ethmoid/ between palatoquadrates, (2) rostral, (3) bony premaxilla. 
