@@ -47,6 +47,9 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > (Bernacsek and Dineley 1977; Gagnier and Wilson 1996a; Hanke and Wilson 2006)
 > - *Brochoadmones milesi* Bernacsek and Dineley, 1977
 > - *Brochoadmones milesi* already present.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ***Callorhinchus/Hydrolagus*** 
@@ -77,6 +80,9 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 =======
 > - *Cladodoides wildungensis* Traquair, 1888
 > - *Cladodoides wildungensis* present.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ***Cladoselache*** 
@@ -129,6 +135,9 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > (Grogan and Lund 2000)
 > - *Debeerius ellefseni* Grogan and Lund, 2000
 > - *Debeerius ellefseni* present.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ***Diplacanthus*** 
@@ -311,11 +320,15 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 ***Latviacanthus*** 
 > (Schultze and Zidek 1982)
 > - *Latviacanthus ventspilsensis* Schultze & Zidek, 1982 present
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ***Lupopsyrus*** 
 > (Bernacsek and Dineley 1977; Hanke and Davis 2012)
 *Maghriboselache* this paper
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 
 ***Mesacanthus*** 
@@ -390,6 +403,8 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 ***Youngolepis*** 
 > (Chang 1982, 1991, 2004; Chang and Yu 1981)
 =======
+=======
+>>>>>>> Stashed changes
 > - *Lupopsyrus pygmaeus* Bernacsek and Dineley, 1977 present
 
 ***Mesacanthus*** 
@@ -526,6 +541,9 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 ***Youngolepis*** 
 > (Chang 1982, 1991, 2004; Chang and Yu 1981)
 > - *Youngolepis praecursor* Chang and Yu, 1981 present
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
