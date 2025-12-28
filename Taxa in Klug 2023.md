@@ -4,9 +4,12 @@
 
 ## Taxa and sources
 
+***Taxa name from Klug 2023***
+> refs from Klug 2023
+> - *species names* and corresponding namer(s) and time (from deepbone)
+
 ***Acanthodes*** 
-> (Beznosov 2009; Brazeau and de Winter 2015; Coates 1994; Davis et al. 2012; U. 
-Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b; Nelson 1968; Watson 1937)
+> (Watson 1937; Nelson 1968; Miles 1971, 1973a, 1973b; Jarvik 1977, 1980; U. Heidtke 1993; Coates 1994; Beznosov 2009; Heidtke 2011a, 2011b; Davis et al. 2012; Brazeau and de Winter 2015)
 > - more than 20 species, for further check in each essay of exact species.
 > - *Acanthodes bronni* already present.
 
@@ -32,17 +35,17 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > - *Brochoadmones milesi* already present.
 
 ***Callorhinchus/Hydrolagus*** 
-> (Cole 1897; De Beer and Moy-Thomas 1935; DeBeer 1937; Didier 1995; Didier et al. 1994, 2012; Howard et al. 2013; Kesteven 1933; Patterson 1965; Pradel et al. 2013; Stahl 1999)
+> (Cole 1897; Kesteven 1933; De Beer and Moy-Thomas 1935; DeBeer 1937; Patterson 1965; Didier 1995; Stahl 1999; Didier et al. 1994, 2012; Howard et al. 2013; Pradel et al. 2013)
 > - For further consideration.
 > - new taxon.
 
 ***Cheiracanthus*** 
-> (Denison 1979; Miles 1973a; Watson 1937)
+> (Watson 1937; Miles 1973a; Denison 1979)
 > - more than 15 species, for further check.
 > - *Cheiracanthus* spp. present.
 
 ***Cheirolepis*** 
-> (Arratia and Cloutier 1996; Giles, Friedman, et al. 2015; Pearson and Westoll 1979)
+> (Pearson and Westoll 1979; Arratia and Cloutier 1996; Giles, Friedman, et al. 2015)
 > - for further check.
 > - *Cheirolepis trailli* present.
 > - *Cheirolepis canadensis* present.
@@ -58,13 +61,13 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > - *Cladodoides wildungensis* present.
 
 ***Cladoselache*** 
-> (Bendix-Almgreen 1975; Harris 1938a, 1938b; Maisey 1989, 2007; Schaeffer 1975; Williams 2001; Woodward and White 1938)
+> (Harris 1938a, 1938b; Woodward and White 1938; Bendix-Almgreen 1975; Schaeffer 1975; Williams 2001; Maisey 1989, 2007)
 > - about 9 species.
 > - *Cladoselache kepleri* Newberry, 1889
 > - *Cladoselache kepleri* present.
 
 ***Climatius*** 
-> (Miles 1973a, 1973b; Watson 1937)
+> (Watson 1937; Miles 1973a, 1973b)
 > - 4 species.
 > - *Climatius reticulatus* Agassiz, 1844
 > - *Climatius reticulatus* present.
@@ -94,7 +97,7 @@ Heidtke 1993; Heidtke 2011a, 2011b; Jarvik 1977, 1980; Miles 1971, 1973a, 1973b;
 > - *Debeerius ellefseni* present.
 
 ***Diplacanthus*** 
-> (Gagnier 1996; Miles 1973a; Watson 1937)
+> (Watson 1937; Miles 1973a; Gagnier 1996)
 > - about 19 species.
 > - *Diplacanthus crassisimus* Duff, 1842 present.
 
