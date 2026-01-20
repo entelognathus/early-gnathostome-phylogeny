@@ -1563,6 +1563,9 @@ a layer or layers of calcified cartilage blocks) of certain extinct “acanthodi
 ### 181. Jugal portion of infraorbital canal joins supramaxillary canal: (0) present; (1) absent.
 > Davis *et al*. (2012), Character 17; Choo *et al*. (2017), Character 16; King *et al*. (2017), Character 284; Castiello (2018), Character 277; Zhu Y. *et al*. (2022), Character 185; Andreev *et al*. (2022), Character 32; Brazeau *et al*. (2023), Character 289. Cui *et al*. (2023), Character 185; Lu *et al*. (2026), Character 180; Zhu Y. *et al*. (2026), Character 181.
 > Klug *et al*. (2023), Character 37. (Brazeau 2009), redefinition in Davis et al. (S. P. Davis et al. 2012; Zhu et al. 2013); Zhu et al. (2013).
+> - Davis *et al*. (2012): Definition changed from Brazeau (2009) to match that of Rosen et al. (1981). The condition in *Guiyu* (Zhu et al. 2009) remains uncertain: a canal runs through the preopercular plate, directed towards the infraorbital canal within the jugal, but the union of these two canals is unspecified.
+> - Brazeau (2009), Character 18. Jugal canal: (0) present; (1) absent. Based on Rosen *et al*., 1981.
+> - Rosen *et al*., 1981: *Acanthodes* shares with other gnathostomes: 4. A cephalic lateral-line system that includes the following canal sections: a supraorbital, infraorbital, supratemporal, mandibular, supramaxillary (jugal) that joins the infraorbital (absent in cladistians and actinopterygians), and preopercular that rises toward the supratemporal canal (connection absent in sarcopterygians).
 > - The coding of *Ruiyu* is ?. The coding of *Chiyu chongqingensis* is ?. The coding of *Chiyu yunnanensis* is ?.
 > - The coding of *Lingyu* is ?.
 > - The coding of *Eosteus* is ?. The coding of *Megamastax* is 0.
